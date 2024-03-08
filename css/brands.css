@@ -1,0 +1,326 @@
+.brand-banner-scroll {
+  height: 1200px;
+}
+#content-trigger {
+  height: 400px;
+}
+
+.brand-card {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  max-height: 80vh;
+  margin: 100px 0;
+  overflow: hidden;
+}
+
+.brand-card .first-card,
+.brand-card .second-card {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  padding: 0;
+  /* border-radius: var(--border-rad); */
+}
+.brand-card .first-card{
+  display: flex;
+  
+}
+
+.brand-card .second-card {
+  background: linear-gradient(125deg, var(--theme-blue), var(--theme-sblue));
+  border-radius: var(--border-rad);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.brand-card .first-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.brand-card .first-card .first-img{
+  padding: 20px;
+  width: 50%;
+  background-color: #ffffff;
+}
+
+.brand-card .first-card .first-img img{
+  border-radius: var(--border-rad);
+}
+
+.brand-card .first-card .second-img{
+  background-color: #ffffff;
+  padding: 60px;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  position: relative;
+
+}
+.brand-card .first-card .second-img .heading{
+  position: relative;
+
+}
+.brand-card .first-card .second-img .heading svg{
+  position: absolute;
+  bottom: 20px;
+}
+
+.brand-card .first-card .second-img .heading h1{
+  font-size: 50px;
+  color: var(--theme-blue);
+  font-weight: 400;
+  position: relative;
+  z-index: 9;
+}
+.brand-card .first-card .second-img h1 span{
+  color: transparent;
+  font-weight: 800;
+  background: linear-gradient(-100deg, var(--theme-blue),var(--theme-blue));
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+.brand-card .first-card .second-img p{
+  margin: 0;
+  width: 80%;
+}
+
+.brand-card .first-card .content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate3d(-50%, -50%, 0);
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+}
+
+.brand-card .second-card .content {
+  width: 50vw;
+  text-align: center;
+}
+
+.brand-card .first-card .content h1 {
+  font-size: 90px;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.brand-card .second-card .content p {
+  font-size: 30px;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+/* --------------------------------------------------cta-product------------------------------------------ */
+.cta-product {
+  /* background: url(../assets/home/education.jpg); */
+  /* height: 400px; */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: top;
+  position: relative;
+  padding: 80px 150px;
+}
+
+/* .cta-product::before {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: #001730b6;
+    top: 0;
+    left: 0;
+  } */
+
+.cta-product-text-1 {
+  font-size: 30px;
+  font-weight: 200;
+  color: var(--theme-blue);
+  position: relative;
+}
+
+.cta-product-text-1::before {
+  content: "";
+  position: absolute;
+  left: -162px;
+  top: 50%;
+  width: 130px;
+  height: 2px;
+  background-color: var(--theme-blue);
+}
+
+.cta-product-text-2 {
+  font-size: 60px;
+  font-weight: 600;
+  color: var(--theme-blue);
+  position: relative;
+}
+
+.cta-product-text-2::after {
+  content: "";
+  position: absolute;
+  right: -162px;
+  bottom: -45%;
+  width: 43vw;
+  height: 2px;
+  background-color: var(--theme-blue);
+}
+
+.cta-product-btn {
+  text-align: center;
+}
+
+.cta-product-btn button {
+  border: 0;
+  outline: 0;
+  height: 130px;
+  width: 130px;
+  border-radius: 50%;
+  background: var(--theme-blue);
+  color: #ffffff;
+}
+
+/* --------------------------------------devices------------------------------------- */
+#devices {
+  background: #f3f3f3;
+}
+.device-gallery {
+  display: flex;
+}
+
+.device-left {
+  width: 50%;
+}
+
+.device-details-wrapper {
+  margin: auto;
+  width: 80%;
+}
+
+.device-details {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+.device-details .device-num {
+  font-family: "Sora", sans-serif;
+  font-size: 50px;
+  color: var(--theme-blue);
+  font-weight: 800;
+  transform: translate(25px, 25px);
+}
+.device-details .content {
+  padding: 25px;
+  border-radius: var(--border-rad);
+  background: #ffffff;
+}
+
+.device-details .content img {
+  width: 200px;
+}
+
+.device-details .content a {
+  margin-top: 25px;
+  display: block;
+  width: 100%;
+  color: var(--theme-blue);
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.device-right {
+  width: 50%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.device-photos {
+  width: 100%;
+  height: 45vw;
+  position: relative;
+  border-radius: 10px;
+  /* box-shadow: -5px 5px 30px rgba(0, 0, 0, 0.3); */
+}
+
+.device-photo {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  bottom: 0;
+  background: #f3f3f3;
+  /* border: 5px solid #fff; */
+  border-radius: 10px;
+}
+
+.device-photo img {
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+  object-fit: cover;
+  mix-blend-mode: darken;
+}
+
+#devices .section-title {
+  transform: translateY(50px);
+}
+
+#brand-features {
+  background: linear-gradient(120deg, var(--theme-blue), var(--theme-sblue));
+  color: #ffffff;
+}
+
+#brand-features .feature-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#brand-features .feature-title h2 {
+  font-size: 70px;
+  font-weight: 800;
+}
+#brand-features .feature-title h2:first-child {
+  margin-right: 200px;
+}
+#brand-features .feature-title h2:last-child {
+  margin-left: 200px;
+}
+
+#brand-features .brand-feature-card {
+  border: 1px solid #ffffff57;
+  border-top: 0;
+  border-left: 0;
+  padding: 40px;
+}
+
+#brand-features .brand-feature-card p{
+  margin: 0;
+}
+
+#brand-features .brand-feature-card h3{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+#brand-features .brand-feature-card:nth-last-child(1),
+#brand-features .brand-feature-card:nth-last-child(2),
+#brand-features .brand-feature-card:nth-last-child(3) {
+  border-bottom: 0;
+}
+
+#brand-features .brand-feature-card:nth-last-child(1),
+#brand-features .brand-feature-card:nth-last-child(4) {
+  border-right: 0;
+}

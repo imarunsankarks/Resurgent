@@ -1,0 +1,66 @@
+form{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+form input{
+    border: 1px solid var(--theme-blue);
+    padding: 10px 30px;
+    border-radius: 50px;
+    width: 300px;
+}
+
+form button{
+    padding: 10px 40px;
+    border-radius: 50px;
+    background: var(--theme-blue);
+    color: #ffffff;
+    outline: 0;
+    border: 0;
+}
+
+.filter-btn{
+    display: flex;
+    gap: 20px;
+}
+
+.blogs-card{
+    position: relative;
+}
+
+.blogs-card .date{
+    background: var(--theme-blue);
+    padding: 5px 20px;
+    border-radius: 0 20px 20px 0;
+    position: absolute;
+    top: 5%;
+    left: 0;
+    font-size: 12px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.blogs-card img{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.blogs-card .content{
+    background: #f3f3f3;
+    padding: 30px;
+}
+
+.blogs-card .content h3{
+    font-size: 20px;
+    color: var(--theme-blue);
+    font-weight: 600;
+}
+
+.blogs-card .content a{
+    font-size: 16px;
+    color: var(--theme-blue);
+    font-weight: 600;
+}

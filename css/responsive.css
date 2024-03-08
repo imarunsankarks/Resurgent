@@ -1,0 +1,487 @@
+@media screen and (max-width: 1400px) and (min-width: 1200px) {
+  .why-details .section-sub-heading::before {
+    left: -41px;
+  }
+  .all-locations .each-location .location-icon {
+    width: 70px;
+    height: 70px;
+    transform: translateX(10px);
+  }
+  .all-locations .each-location {
+    width: 90px;
+  }
+  .wrapper_1 .circle {
+    width: 190px;
+    height: 190px;
+  }
+  .banner-shape .circle-1 {
+    left: 10%;
+    bottom: 0;
+  }
+  .banner-shape .circle-2 {
+    right: 14%;
+    top: 5%;
+  }
+  .product-banner-content .product-name {
+    font-size: 85px;
+}
+}
+@media screen and (min-width: 1200px) {
+  .contact-form-content {
+    padding-right: 80px;
+  }
+}
+
+@media screen and (max-width: 1199px) and (min-width: 991px) {
+  .why-details .section-sub-heading::before {
+    left: -37px;
+  }
+  .affiliation-card {
+    padding: 20px;
+  }
+  .affiliation-card img {
+    width: 190px;
+  }
+  .affiliation-card.avixa img {
+    width: 140px;
+  }
+  .why-details1 .section-title br {
+    display: none;
+  }
+  form {
+    gap: 15px;
+  }
+  .all-locations .each-location .location-icon {
+    width: 50px;
+    height: 50px;
+    transform: translateX(10px);
+    padding: 5px;
+  }
+  .all-locations .each-location {
+    width: 70px;
+  }
+  .wrapper_1 .circle {
+    width: 190px;
+    height: 190px;
+  }
+  .banner-shape .circle-1 {
+    left: 6%;
+    bottom: 0;
+  }
+  .banner-shape .circle-2 {
+    right: 10%;
+    top: 5%;
+  }
+  .common-banner-title {
+    font-size: 140px;
+    letter-spacing: 32px;
+  }
+  .common-banner-sub {
+    bottom: -5vh;
+    font-size: 18px;
+  }
+  .product-banner-content .product-name {
+    font-size: 70px;
+}
+}
+
+@media screen and (max-width: 990px) {
+  .br-1 {
+    border: 0;
+  }
+  br {
+    display: none;
+  }
+  .arrow-sector {
+    display: none;
+  }
+  .process-layer .text-center {
+    text-align: unset !important;
+  }
+  .linkedin-container {
+    padding-left: 0px;
+  }
+  .owl-linkedin .owl-nav {
+    margin-top: 10px;
+    position: relative;
+    z-index: 10;
+    right: unset;
+  }
+  footer {
+    padding: 50px 12px;
+  }
+  .why-right {
+    width: 100%;
+    height: 300px;
+  }
+  .why-left {
+    width: 100%;
+  }
+  .why-gallery {
+    flex-direction: column;
+    margin-bottom: 50px;
+  }
+  .why-details1 {
+    height: auto !important;
+    justify-content: flex-end !important;
+  }
+  .why-details {
+    margin-left: 20px;
+    padding: 0;
+  }
+  #about::before {
+    height: 100%;
+    width: 2px;
+    left: 11%;
+  }
+  .why-details .section-sub-heading::before {
+    left: -31px;
+  }
+  .why-photos {
+    height: 100%;
+  }
+  .vision-mission-card .vm-head {
+    font-size: 75px;
+  }
+  .affiliation-card {
+    padding: 20px 10px;
+  }
+  .affiliation-card img {
+    width: 150px;
+  }
+  .affiliation-card.avixa img {
+    width: 110px;
+  }
+  .all-locations .each-location.active {
+    width: 100%;
+    height: auto;
+    gap: 30px;
+    padding: 10px;
+    flex-direction: column;
+  }
+  .all-locations {
+    display: flex;
+    flex-direction: column;
+  }
+  .all-locations .each-location {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 20px;
+    border-radius: 100px;
+    align-items: center;
+  }
+  .all-locations .each-location h3 {
+    transform: unset;
+  }
+  .main_wrapper {
+    position: relative;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    padding: 0 12px;
+  }
+  .wrapper_1 {
+    position: unset;
+    gap: 10px;
+  }
+  .wrapper_1:last-child {
+    display: none;
+  }
+  .wrapper_1 .circle {
+    position: unset;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #core-values .first-card h2 {
+    font-size: 35px;
+  }
+  .common-banner-title {
+    font-size: 100px;
+    letter-spacing: 28px;
+  }
+  .common-banner-sub {
+    position: unset;
+    font-size: 24px;
+    text-align: center;
+  }
+  .banner-shape {
+    margin-top: 20px;
+  }
+  .banner-shape img {
+    width: 450px;
+    height: 450px;
+    transform: unset;
+    outline: 15px solid #ffffff;
+  }
+  .banner-shape .circle-1 {
+    width: 350px;
+    height: 350px;
+    left: -3%;
+    bottom: -20%;
+  }
+  .banner-shape .circle-2 {
+    width: 200px;
+    height: 200px;
+    right: 5%;
+    top: 5%;
+  }
+  .common-banner .scroll {
+    right: 0;
+    bottom: 0;
+  }
+}
+
+@media screen and (max-width: 990px) and (min-width: 767px) {
+  .cta {
+    padding: 80px 100px;
+  }
+  .cta-text-2 {
+    font-size: 42px;
+  }
+  .vision-mission-card .content {
+    padding: 20px;
+    height: 210px;
+  }
+}
+
+@media screen and (max-width: 766px) {
+  .main-title {
+    font-size: 50px;
+  }
+  .section-title {
+    font-size: 24px;
+  }
+  .banner .top-head {
+    font-size: 30px;
+  }
+
+  .banner .sub-head {
+    font-size: 24px;
+  }
+  .sound-wave {
+    display: none;
+  }
+  #video-container {
+    display: none;
+  }
+  .counter-t1 {
+    font-size: 50px;
+    transform: unset;
+    margin-bottom: 20px;
+  }
+  .counter-t2 {
+    display: none;
+  }
+  .number-box {
+    height: 130px;
+  }
+  .number-box .d-flex .counter {
+    font-size: 50px;
+  }
+  .owl-process {
+    padding: unset;
+  }
+  .process-card {
+    padding: 10px;
+  }
+  .process-card .number {
+    width: 50px;
+    height: 50px;
+    top: 3%;
+    left: 3%;
+    font-size: 32px;
+  }
+  .cta-text-1 {
+    font-size: 24px;
+  }
+  .cta-text-2 {
+    font-size: 34px;
+  }
+  .port_sec_title {
+    font-size: 20px;
+  }
+  .justify-footer-mob {
+    justify-content: space-between !important;
+  }
+  .t-c p {
+    text-align: center;
+  }
+  .section-sub-heading {
+    font-size: 20px;
+  }
+  .vision-mission-card .content {
+    padding: 20px;
+    height: 210px;
+  }
+  .vision-mission-card:last-child {
+    margin-top: 50px;
+  }
+  .affiliation-card {
+    padding: 20px 10px;
+    height: auto;
+  }
+  .affiliation-card img {
+    width: 150px;
+  }
+  .affiliation-card.avixa img {
+    width: 110px;
+  }
+  .why-card {
+    padding: 15px 0;
+  }
+  #core-values .first-card h2 {
+    font-size: 24px;
+  }
+  .common-banner-title {
+    font-size: 80px;
+    letter-spacing: 15px;
+  }
+  .banner-shape .circle-2 {
+    width: 170px;
+    height: 170px;
+    right: -1%;
+    top: 5%;
+  }
+  .banner-shape .circle-1 {
+    width: 300px;
+    height: 300px;
+    left: -3%;
+    bottom: -15%;
+  }
+}
+
+@media screen and (max-width: 766px) and (min-width: 567px) {
+  .cta-text-1::before {
+    left: -151px;
+  }
+  .cta-text-2::after {
+    right: -162px;
+    bottom: -61%;
+    width: 81vw;
+  }
+  .cta {
+    padding: 55px 48px;
+  }
+}
+@media screen and (min-width: 566px) {
+  .container {
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 566px) {
+  .viewport {
+    inset: 0px;
+    width: 100%;
+    height: 100%;
+    position: unset !important;
+    overflow: hidden !important;
+  }
+  .port-photo a h6 {
+    bottom: 5px;
+    left: 8px;
+    font-size: 14px;
+  }
+
+  .port-photo {
+    gap: 20px;
+  }
+  .process-layer {
+    padding: 50px 12px;
+  }
+  .process-card {
+    padding: 0px;
+  }
+  .cta {
+    padding: 55px 48px;
+  }
+  .cta-text-2::after {
+    right: -133px;
+    bottom: -59%;
+  }
+  .cta-text-1::before {
+    left: -145px;
+  }
+  .cta-text-2 {
+    font-size: 24px;
+  }
+  .cta-text-1 {
+    font-size: 16px;
+  }
+  .owl-linkedin::before {
+    width: 0%;
+  }
+  footer .lets-talk .text p {
+    font-size: 60px;
+  }
+  .why-details .section-sub-heading::before {
+    left: -34px;
+  }
+  .box-content {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  form .form-field {
+    width: 100%;
+  }
+  .wrapper_1 .circle {
+    width: 120px;
+    height: 120px;
+  }
+  .pmob-12 {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .banner-shape img {
+    width: 320px;
+    height: 320px;
+    transform: translateY(20%);
+    outline: 10px solid #ffffff;
+}
+.banner-shape .circle-1 {
+  width: 270px;
+  height: 270px;
+  left: 8%;
+  bottom: -60%;
+}
+.banner-shape .circle-2 {
+  width: 170px;
+  height: 170px;
+  right: 11%;
+  top: 0%;
+}
+.common-banner-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.common-banner-sub {
+  width: 70%;
+}
+.common-banner {
+  height: 80vh;
+  overflow: hidden;
+}
+.common-banner-title {
+  font-size: 60px;
+  letter-spacing: 10px;
+}
+.common-banner-sub {
+  font-size: 20px;
+}
+.common-banner .scroll {
+  display: none;
+}
+}
