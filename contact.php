@@ -88,7 +88,7 @@
                             </div>
                         </div>
                         <div class="col-lg-6 pt-lg-5">
-                            <h4 class="form-heading">Let's Talk About Your Business</h4>
+                            <h4 class="form-heading">Let's talk about your business</h4>
                             <form action="/submit" method="post">
                                 <input type="text" id="name" name="name" placeholder="Name" required class="form-field">
                                 <input type="email" id="email" name="email" placeholder="Email" required
@@ -142,14 +142,15 @@
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <p>#326, 3rd Floor, Hoysala Nagar, Binnamangala 1st Stage, Indiranagar, Bengaluru –
+                                <p>#326, 3rd Floor, Hoysala Nagar, Binnamangala 1st Stage, Indiranagar, Bengaluru -
                                     560038, Karnataka, India</p>
                                 <h3><i class="fas fa-phone"></i></h3>
-                                <p>080-2513 9300</p>
+                                <a href="tel:080-2513 9300" class="text-dark">080-2513 9300</a>
+                                <!-- <p>080-2513 9300</p> -->
                                 <h3><i class="fas fa-fax"></i></h3>
                                 <p>080-2513 9331</p>
                                 <h3><i class="far fa-envelope"></i></h3>
-                                <p>info@resurgent.co.in</p>
+                                <a href="mailto:info@resurgent.co.in" class="text-dark">info@resurgent.co.in</a>
                             </div>
                         </div>
                         <div class="each-location">
@@ -159,14 +160,13 @@
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <p>#326, 3rd Floor, Hoysala Nagar, Binnamangala 1st Stage, Indiranagar, Bengaluru –
-                                    560038, Karnataka, India</p>
+                                <p>3rd Floor, Old No.: 73, New No.: 108, Rajalakshmi Mahal, Sir Theyagaraya Road, Pondy Bazaar, T. Nagar, Chennai - 600017, Tamil Nadu, India</p>
                                 <h3><i class="fas fa-phone"></i></h3>
-                                <p>080-2513 9300</p>
+                                <p>044-2815 1828</p>
                                 <h3><i class="fas fa-fax"></i></h3>
                                 <p>080-2513 9331</p>
                                 <h3><i class="far fa-envelope"></i></h3>
-                                <p>info@resurgent.co.in</p>
+                                <a href="mailto:info@resurgent.co.in" class="text-dark">info@resurgent.co.in</a>
                             </div>
                         </div>
                         <div class="each-location">
@@ -176,14 +176,13 @@
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <p>#326, 3rd Floor, Hoysala Nagar, Binnamangala 1st Stage, Indiranagar, Bengaluru –
-                                    560038, Karnataka, India</p>
+                                <p>Office No. 409, Meadows building, Sahar Plaza, Near Kohinoor Continental Hotel, J. B. Nagar, Andheri-East, Mumbai: 400 059</p>
                                 <h3><i class="fas fa-phone"></i></h3>
-                                <p>080-2513 9300</p>
-                                <h3><i class="fas fa-fax"></i></h3>
-                                <p>080-2513 9331</p>
+                                <p>+91 8025139300</p>
+                                <!-- <h3><i class="fas fa-fax"></i></h3>
+                                <p>080-2513 9331</p> -->
                                 <h3><i class="far fa-envelope"></i></h3>
-                                <p>info@resurgent.co.in</p>
+                                <a href="mailto:info@resurgent.co.in" class="text-dark">info@resurgent.co.in</a>
                             </div>
                         </div>
                         <div class="each-location">
@@ -193,14 +192,13 @@
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <p>#326, 3rd Floor, Hoysala Nagar, Binnamangala 1st Stage, Indiranagar, Bengaluru –
-                                    560038, Karnataka, India</p>
+                                <p>Level 2, Bund Garden, Connaught Place, Pune - 411001, Maharashtra, India</p>
                                 <h3><i class="fas fa-phone"></i></h3>
-                                <p>080-2513 9300</p>
+                                <p>020-4014 7535</p>
                                 <h3><i class="fas fa-fax"></i></h3>
                                 <p>080-2513 9331</p>
                                 <h3><i class="far fa-envelope"></i></h3>
-                                <p>info@resurgent.co.in</p>
+                                <a href="mailto:info@resurgent.co.in" class="text-dark">info@resurgent.co.in</a>
                             </div>
                         </div>
                         <div class="each-location">
@@ -210,31 +208,29 @@
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <p>#326, 3rd Floor, Hoysala Nagar, Binnamangala 1st Stage, Indiranagar, Bengaluru –
-                                    560038, Karnataka, India</p>
+                                <p>11-103, GCP Business Centre, Vijay Char Rasta, Memnagar, Ahmedabad - 380014, Gujarat, India</p>
                                 <h3><i class="fas fa-phone"></i></h3>
-                                <p>080-2513 9300</p>
+                                <p>079-6134 4678</p>
                                 <h3><i class="fas fa-fax"></i></h3>
                                 <p>080-2513 9331</p>
                                 <h3><i class="far fa-envelope"></i></h3>
-                                <p>info@resurgent.co.in</p>
+                                <a href="mailto:info@resurgent.co.in" class="text-dark">info@resurgent.co.in</a>
                             </div>
                         </div>
                         <div class="each-location">
-                            <h3>Kolkata</h3>
+                            <h3>Delhi</h3>
                             <div class="location-icon">
                                 <img src="./assets/logos/bangalore.svg" alt="">
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <p>#326, 3rd Floor, Hoysala Nagar, Binnamangala 1st Stage, Indiranagar, Bengaluru –
-                                    560038, Karnataka, India</p>
+                                <p>Regus Elegance Level-2, Elegance Tower, Jasola New Delhi - 110025, India</p>
                                 <h3><i class="fas fa-phone"></i></h3>
-                                <p>080-2513 9300</p>
+                                <p>011-6635 1567</p>
                                 <h3><i class="fas fa-fax"></i></h3>
                                 <p>080-2513 9331</p>
                                 <h3><i class="far fa-envelope"></i></h3>
-                                <p>info@resurgent.co.in</p>
+                                <a href="mailto:info@resurgent.co.in" class="text-dark">info@resurgent.co.in</a>
                             </div>
                         </div>
                         <div class="each-location">
@@ -244,14 +240,29 @@
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <p>#326, 3rd Floor, Hoysala Nagar, Binnamangala 1st Stage, Indiranagar, Bengaluru –
-                                    560038, Karnataka, India</p>
+                                <p>4th ﬂoor, Gumidelli Commercial Complex, 1-10-39 to 44, Old Airport Road, Begumpet, Hyderabad - 500016, Telangana, India</p>
                                 <h3><i class="fas fa-phone"></i></h3>
-                                <p>080-2513 9300</p>
+                                <p>91-40-67843907</p>
                                 <h3><i class="fas fa-fax"></i></h3>
                                 <p>080-2513 9331</p>
                                 <h3><i class="far fa-envelope"></i></h3>
-                                <p>info@resurgent.co.in</p>
+                                <a href="mailto:info@resurgent.co.in" class="text-dark">info@resurgent.co.in</a>
+                            </div>
+                        </div>
+                        <div class="each-location">
+                            <h3>Kolkata</h3>
+                            <div class="location-icon">
+                                <img src="./assets/logos/bangalore.svg" alt="">
+                            </div>
+                            <div class="complete-details">
+                                <h3><i class="fas fa-map-marker-alt"></i></h3>
+                                <p>4th ﬂoor, Gumidelli Commercial Complex, 1-10-39 to 44, Old Airport Road, Begumpet, Hyderabad - 500016, Telangana, India</p>
+                                <h3><i class="fas fa-phone"></i></h3>
+                                <p>91-40-67843907</p>
+                                <h3><i class="fas fa-fax"></i></h3>
+                                <p>080-2513 9331</p>
+                                <h3><i class="far fa-envelope"></i></h3>
+                                <a href="mailto:info@resurgent.co.in" class="text-dark">info@resurgent.co.in</a>
                             </div>
                         </div>
 

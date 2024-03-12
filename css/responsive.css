@@ -3,12 +3,13 @@
     left: -41px;
   }
   .all-locations .each-location .location-icon {
-    width: 70px;
-    height: 70px;
+    width: 60px;
+    height: 60px;
     transform: translateX(10px);
+    padding: 5px;
   }
   .all-locations .each-location {
-    width: 90px;
+    width: 80px;
   }
   .wrapper_1 .circle {
     width: 190px;

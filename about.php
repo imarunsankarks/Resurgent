@@ -43,7 +43,7 @@
                         <div class="col-md-5">
                             <div class="common-banner-text p-0">
                                 <h1 class="common-banner-title">about us</h1>
-                                <h2 class="common-banner-sub">We Aren't Just A Company, <br>We're A Community</h2>
+                                <h2 class="common-banner-sub">Pioneering the future<br> in integrated audiovisual<br> communication</h2>
                             </div>
 
                         </div>
@@ -98,41 +98,48 @@
                                         <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
                                             Established in 2008</h3>
                                         <p class=" animate__animated animate__fadeInUp wow">
-                                            Oasis WebTech, with over a decade of experience in web design and serving
-                                            multiple countries, has built a stable reputation for providing outstanding
-                                            outcomes for our clients. We are proud of our ability to deliver projects
-                                            punctually while maintaining high standards of quality.
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde! Exercitationem, sunt.
                                         </p>
                                     </div>
 
                                     <div class="why-details">
-                                        <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">Latest
-                                            tech stacks</h3>
-                                        <p class="animate__animated animate__fadeInUp wow">
-                                            We create modern and user-friendly websites using the latest tech stacks
-                                            that work well on all devices. Our team focuses on making sure your website
-                                            is easy to use and looks elegant as per industrial standards. We also
-                                            implement SEO strategies to help your website show up higher in search
-                                            results and bring more visitors to your site.
+                                        <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
+                                            Established in 2008</h3>
+                                        <p class=" animate__animated animate__fadeInUp wow">
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde! Exercitationem, sunt.
                                         </p>
-
-
-
                                     </div>
 
                                     <div class="why-details">
-                                        <h3 class=" section-sub-heading animate__animated animate__fadeInUp wow">
-                                            Customized solution</h3>
-                                        <p class="animate__animated animate__fadeInUp wow">
-                                            We believe that your input is crucial in creating a customized design that
-                                            fits your specific needs and preferences. That's why we prioritize your
-                                            involvement in every step of the design process, including brainstorming,
-                                            prototyping, and improvement. This guarantees that the final product not
-                                            only meets your expectations.
+                                        <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
+                                            Established in 2008</h3>
+                                        <p class=" animate__animated animate__fadeInUp wow">
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde! Exercitationem, sunt.
                                         </p>
+                                    </div>
 
+                                    <div class="why-details">
+                                        <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
+                                            Established in 2008</h3>
+                                        <p class=" animate__animated animate__fadeInUp wow">
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde! Exercitationem, sunt.
+                                        </p>
+                                    </div>
 
+                                    <div class="why-details">
+                                        <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
+                                            Established in 2008</h3>
+                                        <p class=" animate__animated animate__fadeInUp wow">
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde! Exercitationem, sunt.
+                                        </p>
+                                    </div>
 
+                                    <div class="why-details">
+                                        <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
+                                            Established in 2008</h3>
+                                        <p class=" animate__animated animate__fadeInUp wow">
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde! Exercitationem, sunt.
+                                        </p>
                                     </div>
 
                                 </div>
@@ -191,7 +198,7 @@
                                     <div class="owl-carousel owl-theme owl-team">
                                         <div class="item">
                                             <div class="team-card">
-                                                <img src="./assets/home/banner.jpg" alt="">
+                                                <img src="https://resurgent.co.in/wp-content/uploads/2021/12/George-6@2x.png" alt="">
                                                 <h3>Pulla Reddy</h3>
                                                 <span>Lead - Financial Analyst</span>
                                             </div>
@@ -207,14 +214,64 @@
                                             <div class="team-card">
                                                 <img src="./assets/home/banner.jpg" alt="">
                                                 <h3>Sanjeev S</h3>
-                                                <span> Co-founder & Chairman</span>
+                                                <span>Co-founder & Chairman</span>
                                             </div>
                                         </div>
                                         <div class="item">
                                             <div class="team-card">
                                                 <img src="./assets/home/banner.jpg" alt="">
-                                                <h3>Pulla Reddy</h3>
-                                                <span>Lead - Financial Analyst</span>
+                                                <h3>Bopanna P. N</h3>
+                                                <span>Co-founder & President</span>
+                                            </div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="team-card">
+                                                <img src="./assets/home/banner.jpg" alt="">
+                                                <h3>Natesan S</h3>
+                                                <span>VP - Finance & Operations</span>
+                                            </div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="team-card">
+                                                <img src="./assets/home/banner.jpg" alt="">
+                                                <h3>Anil George Punnoose</h3>
+                                                <span>Director-Sales</span>
+                                            </div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="team-card">
+                                                <img src="./assets/home/banner.jpg" alt="">
+                                                <h3>Madhusudhan V. C</h3>
+                                                <span>AVP - Customer Achievement</span>
+                                            </div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="team-card">
+                                                <img src="./assets/home/banner.jpg" alt="">
+                                                <h3> Santosh N</h3>
+                                                <span>AVP - Project Controller</span>
+                                            </div>
+                                        </div>
+                                       
+                                        <div class="item">
+                                            <div class="team-card">
+                                                <img src="./assets/home/banner.jpg" alt="">
+                                                <h3>Pandian P</h3>
+                                                <span>Support Controller-Projects</span>
+                                            </div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="team-card">
+                                                <img src="./assets/home/banner.jpg" alt="">
+                                                <h3>Sachin Aathreya</h3>
+                                                <span>Lead- Online Community</span>
+                                            </div>
+                                        </div>
+                                        <div class="item">
+                                            <div class="team-card">
+                                                <img src="./assets/home/banner.jpg" alt="">
+                                                <h3>Sandhya G</h3>
+                                                <span>Specialist- Vendor Partner Development</span>
                                             </div>
                                         </div>
                                     </div>
@@ -231,7 +288,7 @@
                     <div class="row justify-content-center mb-3">
                         <div class="col-md-10 text-md-center">
                             <h2 class="section-title">Our Affiliations</h2>
-                            <p>RMemberships in the world's leading alliances and trade associations aren't just a
+                            <p>Memberships in the world's leading alliances and trade associations aren't just a
                                 recognition of the commitment and expertise that we bring to every project; they also
                                 help us augment our skills and network to offer greater value to our clients.</p>
 
@@ -265,9 +322,7 @@
                     <div class="row justify-content-around text-md-center">
                         <div class="col-md-10">
                             <h2 class="section-title">Our Partners</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. In similique nobis,
-                                necessitatibus reprehenderit maiores dolorem. Aperiam fuga harum sint, sequi
-                                perspiciatis cum totam sit ipsam error atque.</p>
+                            <p>Our long-standing partnerships with the world's leading original equipment manufacturers (OEMs) enable us to integrate the latest technology into our offerings and consistently level up our expertise.</p>
 
                         </div>
                         <div class="col-11 mt-4">
@@ -308,16 +363,14 @@
                     <div class="row align-items-center justify-content-center g-4 g-md-5">
                         <div class="col-md-6">
                             <h2 class="section-title">Certifications</h2>
-                            <p>From businesses to schools and retail outlets to hospitals, our audiovisual solutions can
-                                be customised
-                                to meet the specific requirements of different industries.</p>
+                            <p>Our technical team regularly trains with leading audiovisual experts and associations to stay at the forefront of innovation and maintain international service standards.</p>
                         </div>
                         <div class="col-md-6">
                             <div class="all-certifications-logo">
-                                <img src="./assets/logos/kpmg.png" alt="">
-                                <img src="./assets/logos/kpmg.png" alt="">
-                                <img src="./assets/logos/kpmg.png" alt="">
-                                <img src="./assets/logos/kpmg.png" alt="">
+                                <img src="./assets/logos/cts-d.webp" alt="">
+                                <img src="./assets/logos/psni-global-development-certified.webp" alt="">
+                                <img src="./assets/logos/osha.webp" alt="">
+                                <img src="./assets/logos/pmi.webp" alt="">
 
                             </div>
                         </div>

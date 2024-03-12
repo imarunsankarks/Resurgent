@@ -122,6 +122,8 @@
   left: 0%;
   bottom: 0%;
   width: auto;
+  animation: updown 1.5s linear infinite;
+
 }
 
 .common-banner .scroll img {

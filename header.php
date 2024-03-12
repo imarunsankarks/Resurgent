@@ -460,7 +460,7 @@
 
 
                             <li>
-                                <a href="about.html" aria-label="Know about the company">
+                                <a href="contact.php" aria-label="Know about the company">
                                     <div class="banner-button button-hover1 m-0">
                                         <!-- <div class="circle-large"></div> -->
                                         <button>Contact Us</button>

@@ -10,7 +10,7 @@ owl1.owlCarousel({
   autoplayTimeout: 5000,
   mouseDrag: false,
   autoplayHoverPause: false,
-  animateOut: 'fadeOut',
+  animateOut: "fadeOut",
   // animateIn: "fadeInUp",
   responsive: {
     0: {
@@ -27,24 +27,23 @@ owl1.owlCarousel({
 
 // ----------------------------------------banner-animation------------------------------
 
-if(window.innerWidth > 0) {
+if (window.innerWidth > 0) {
   gsap.set(".photo:not(:first-child)", {
     x: "0%",
     opacity: 0,
   });
-  
-  gsap.set(".photo:first-child", {
-    x: "0%",
-    scale: 1,
-  });
-  
+
+  // gsap.set(".photo:first-child", {
+  //   x: "0%",
+  //   scale: 1,
+  // });
+
   const animation = gsap.to(".photo:not(:first-child)", {
     x: "0%",
     opacity: 1,
     duration: 0.1,
     stagger: 1,
     paused: false,
-  
   });
   const scaleDownAnimation = gsap.to(".photo:nth-child(1)", {
     scale: 1,
@@ -52,7 +51,7 @@ if(window.innerWidth > 0) {
     duration: 1,
     paused: false,
   });
-  
+
   ScrollTrigger.create({
     trigger: ".detailsWrapper",
     start: "top top",
@@ -61,7 +60,7 @@ if(window.innerWidth > 0) {
     animation: animation,
     scrub: true,
     // markers: true,
-    threshold: 0,
+    threshold: 1,
     onToggle: () => {
       scaleDownAnimation.play();
     },
@@ -69,7 +68,7 @@ if(window.innerWidth > 0) {
       scaleDownAnimation.reverse();
     },
   });
-  
+
   window.addEventListener("scroll", function () {
     let hideCarousel = document.querySelector(".fourth-carousel");
     if (window.scrollY > 0) {
@@ -79,9 +78,9 @@ if(window.innerWidth > 0) {
       hideCarousel.classList.remove("op-0");
     }
   });
+}
 
-} 
-
+// -----------------------------------solutions-----------------------------------------------
 
 document.addEventListener("DOMContentLoaded", function () {
   $(function () {
@@ -136,7 +135,6 @@ document.addEventListener("DOMContentLoaded", function () {
       });
     });
 
-
     gsap.timeline({
       scrollTrigger: {
         trigger: ".sectors-head",
@@ -148,18 +146,20 @@ document.addEventListener("DOMContentLoaded", function () {
         // markers: true
       },
     });
-    
-
-
-
   });
 });
 
+// --------------------------------------------------process-------------------------------
 
 var owlProcess = $(".owl-process").owlCarousel({
   loop: false,
-  autoplay: false, 
-  stagePadding:  window.innerWidth > 1201 ? 260 : 0,
+  items: 1,
+  autoplay: false,
+  stagePadding: () => {
+    if (window.innerWidth > 1401) return 260;
+    else if (window.innerWidth > 1201 && window.innerWidth < 1400) return 180;
+    else return 0;
+  },
   margin: 10,
   nav: true,
   dots: false,
@@ -170,32 +170,21 @@ var owlProcess = $(".owl-process").owlCarousel({
     "<i class='fal fa-arrow-left'></i>",
     "<i class='fal fa-arrow-right'></i>",
   ],
-  responsive: {
-    0: {
-      items: 1,
-    },
-    600: {
-      items: 1,
-    },
-    1000: {
-      items: 1,
-    },
-  },
 });
 
 ScrollTrigger.create({
   trigger: ".owl-process",
-  start: "top bottom-=300px", 
+  start: "top bottom-=300px",
   end: "bottom+=400 bottom",
   onToggle: function () {
-    owlProcess.trigger("to.owl.carousel", [0]).trigger("play.owl.autoplay", [6000]); 
+    owlProcess
+      .trigger("to.owl.carousel", [0])
+      .trigger("play.owl.autoplay", [6000]);
   },
   onToggleBack: function () {
-    owlProcess.trigger("to.owl.carousel", [0]).trigger("stop.owl.autoplay"); 
+    owlProcess.trigger("to.owl.carousel", [0]).trigger("stop.owl.autoplay");
   },
 });
-
-
 
 var owlClient = $(".owl-client");
 owlClient.owlCarousel({
@@ -218,7 +207,7 @@ owlClient.owlCarousel({
     1000: {
       items: 4,
     },
-  }
+  },
 });
 
 var owlLinkedin = $(".owl-linkedin");
@@ -247,7 +236,7 @@ owlLinkedin.owlCarousel({
     1200: {
       items: 3,
     },
-  }
+  },
 });
 
 // <!-- ------------------------------------------------------------products----------------------------------------------------- -->
@@ -355,54 +344,49 @@ $(window).scroll(function () {
   }
 });
 
+function startLoader() {
+  let counterElement = document.querySelector(".preloader-counter");
+  let currentValue = 0;
 
+  function updateCounter() {
+    if (currentValue === 100) {
+      return;
+    }
 
+    currentValue += Math.floor(Math.random() * 10) + 1;
 
-function startLoader(){
-	let counterElement = document.querySelector('.preloader-counter');
-	let currentValue = 0;
+    if (currentValue > 100) {
+      currentValue = 100;
+    }
 
-	function updateCounter(){
-		if (currentValue === 100){
-			return;
-		}
+    counterElement.textContent = currentValue;
 
-		currentValue +=  Math.floor(Math.random()* 10) + 1; 
+    let delay = Math.floor(Math.random() * 100);
 
-		if (currentValue > 100){
-			currentValue = 100;
-		}
+    setTimeout(updateCounter, delay);
+  }
+  updateCounter();
 
-		counterElement.textContent = currentValue;
+  gsap.to(".preloader-counter", 0.25, {
+    delay: 1,
+    opacity: 0,
+  });
 
-		let delay =  Math.floor(Math.random()* 100); 
+  gsap.to(".preloader-overlay .bar", 1.5, {
+    delay: 1,
+    height: 0,
+    stagger: {
+      amount: 0.5,
+    },
+    ease: "power4.inOut",
+  });
+  setTimeout(() => {
+    let counterElement = document.querySelector(".preloader-counter");
+    let counterOverlay = document.querySelector(".preloader-overlay");
 
-		setTimeout(updateCounter, delay);
-
-	}
-	updateCounter();
-
-	gsap.to(".preloader-counter", .25,{
-		delay: 1,
-		opacity: 0
-	})
-	
-	gsap.to(".preloader-overlay .bar", 1.5,{
-		delay: 1,
-		height: 0,
-		stagger:{
-			amount: 0.5,
-		},
-		ease: "power4.inOut"
-	})
-	setTimeout(() => {
-		let counterElement = document.querySelector('.preloader-counter');
-		let counterOverlay = document.querySelector('.preloader-overlay');
-	
-		counterElement.style.zIndex = -1;
-		counterOverlay.style.zIndex = -1;
-	},3000)
+    counterElement.style.zIndex = -1;
+    counterOverlay.style.zIndex = -1;
+  }, 3000);
 }
 
 startLoader();
-

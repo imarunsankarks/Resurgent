@@ -222,7 +222,7 @@
 
             <!-- ------------------------------------------------sectors--------------------------------------- -->
 
-            <section class="pt-5">
+            <section class="pt-5 z-9">
 
 
                 <div class="container-fluid">
@@ -255,13 +255,7 @@
                                             connect people across multiple locations and devices, empowering
                                             teams as they work towards a common goal.
                                         </p>
-                                        <a href="corporate.html" aria-label="Know about the company">
-                                            <div class="banner-button1 button-hover1">
-                                                <div class="circle-large"></div>
-                                                <button>learn more</button>
-                                                <div class="btn-bg-black"></div>
-                                            </div>
-                                        </a>
+                                    
                                     </div>
 
                                     <div class="services_content">
@@ -272,13 +266,7 @@
                                             enrich the learning and teaching experience in both traditional and digital
                                             classrooms.
                                         </p>
-                                        <a href="education.html" aria-label="Know about the company">
-                                            <div class="banner-button1 button-hover1">
-                                                <div class="circle-large"></div>
-                                                <button>learn more</button>
-                                                <div class="btn-bg-black"></div>
-                                            </div>
-                                        </a>
+                                      
                                     </div>
 
                                     <div class="services_content">
@@ -289,13 +277,7 @@
                                             and speed through advanced software and audiovisual equipment with a wide
                                             range of applications.
                                         </p>
-                                        <a href="health.html" aria-label="Know about the company">
-                                            <div class="banner-button1 button-hover1">
-                                                <div class="circle-large"></div>
-                                                <button>learn more</button>
-                                                <div class="btn-bg-black"></div>
-                                            </div>
-                                        </a>
+                                    
 
                                     </div>
 
@@ -307,13 +289,7 @@
                                             requirements and applications, using the latest technology to aid faster
                                             decision-making.
                                         </p>
-                                        <a href="public.html" aria-label="Know about the company">
-                                            <div class="banner-button1 button-hover1">
-                                                <div class="circle-large"></div>
-                                                <button>learn more</button>
-                                                <div class="btn-bg-black"></div>
-                                            </div>
-                                        </a>
+                                      
 
                                     </div>
 
@@ -341,7 +317,7 @@
                                 </div>
                                 <div class="col-lg-6 col-md-10 mx-auto">
                                     <div class="services_images">
-                                        <a href="intex.html">
+                                        <a href="sector.php">
                                             <div class="sticky-image one">
                                                 <picture>
                                                     <source srcset="./assets/home/corporate.jpg" width="526"
@@ -355,6 +331,7 @@
                                                         alt="Custom Web Development company in bangalore"
                                                         class="img-fluid">
                                                 </picture>
+                                                <a href="sector.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
 
 
 
@@ -371,8 +348,7 @@
                                                     width="526" height="370" alt="Custom Web Development"
                                                     class="img-fluid">
                                             </picture>
-
-
+                                            <a href="sector.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="sticky-image three">
                                             <picture>
@@ -384,8 +360,7 @@
                                                     width="526" height="370" alt="Custom Web Development"
                                                     class="img-fluid">
                                             </picture>
-
-
+                                            <a href="sector.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="sticky-image four">
                                             <picture>
@@ -400,6 +375,7 @@
                                                     alt="Cloud-based website development company bangalore"
                                                     class="img-fluid">
                                             </picture>
+                                            <a href="sector.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
 
                                         </div>
                                         <div class="sticky-image five">
@@ -412,6 +388,7 @@
                                                     width="526" height="370" alt="Custom Web Development"
                                                     class="img-fluid">
                                             </picture>
+                                            <a href="sector.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
 
                                         </div>
                                         <div class="sticky-image six" style=" transition: .4s all;">
@@ -424,6 +401,7 @@
                                                     loading="lazy" width="526" height="370" alt="Custom Web Development"
                                                     class="img-fluid">
                                             </picture>
+                                            <a href="sector.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
 
                                         </div>
 
@@ -467,7 +445,7 @@
                             <div class="port-right">
                                 <div class="port-photos">
                                     <div class="port-photo">
-                                        <a href="our-work-wordpress.html" aria-label="Explore our portfolio">
+                                        <a href="products.php" aria-label="Explore our portfolio">
                                             <picture class="">
                                                 <source srcset="./assets/home/Microsoft-Surface-Hub-2S.webp"
                                                     type="image/webp" alt="portfolio" width="1242px" height="549px"
@@ -483,9 +461,10 @@
                                                     devices and the Microsoft Teams platform.</p>
 
                                             </picture>
+                                            <div class="nav-arrow-products"><i class="far fa-arrow-right"></i></div>
                                         </a>
 
-                                        <a href="our-work-wordpress.html" aria-label="Explore our portfolio">
+                                        <a href="products.php" aria-label="Explore our portfolio">
                                             <picture class="">
                                                 <source srcset="./assets/home/samsung.webp" type="image/webp"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
@@ -501,9 +480,11 @@
                                                     through writing and presentation facilities as well as compatibility
                                                     with multiple platforms.</p>
                                             </picture>
+                                            <div class="nav-arrow-products"><i class="far fa-arrow-right"></i></div>
+
                                         </a>
 
-                                        <a href="our-work-wordpress.html" aria-label="Explore our portfolio">
+                                        <a href="products.php" aria-label="Explore our portfolio">
                                             <picture class="">
                                                 <source srcset="./assets/home/teams.webp" type="image/webp"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
@@ -519,9 +500,11 @@
                                                     Teams integrates Microsoft Office along with features for chatting,
                                                     calling and presenting.</p>
                                             </picture>
+                                            <div class="nav-arrow-products"><i class="far fa-arrow-right"></i></div>
+
                                         </a>
 
-                                        <a href="our-work-wordpress.html" aria-label="Explore our portfolio">
+                                        <a href="products.php" aria-label="Explore our portfolio">
                                             <picture class="">
                                                 <source srcset="./assets/home/zoom.webp" type="image/webp"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
@@ -537,9 +520,11 @@
                                                     simple interface, excellent audio-video quality, and wireless
                                                     sharing options.</p>
                                             </picture>
+                                            <div class="nav-arrow-products"><i class="far fa-arrow-right"></i></div>
+
                                         </a>
 
-                                        <a href="our-work-wordpress.html" aria-label="Explore our portfolio"
+                                        <a href="" aria-label="Explore our portfolio"
                                             class="d-flex align-items-center">
                                             <div class="mx-auto text-center">
                                                 <h2 class="section-title port_sec_title">Explore platforms <br>and
@@ -548,7 +533,7 @@
                                             </div>
                                         </a>
 
-                                        <a href="our-work-wordpress.html" aria-label="Explore our portfolio">
+                                        <a href="products.php" aria-label="Explore our portfolio">
                                             <picture class="">
                                                 <source srcset="./assets/home/pads4.webp" type="image/webp"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
@@ -563,9 +548,11 @@
                                                 <p>PADS4's diverse applications range from advertising and digital menu
                                                     boards to wayfinding solutions.</p>
                                             </picture>
+                                            <div class="nav-arrow-products"><i class="far fa-arrow-right"></i></div>
+
                                         </a>
 
-                                        <a href="our-work-wordpress.html" aria-label="Explore our portfolio">
+                                        <a href="products.php" aria-label="Explore our portfolio">
                                             <picture class="">
                                                 <source srcset="./assets/home/creston.webp" type="image/webp"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
@@ -581,9 +568,11 @@
                                                     and smart room control, Crestron Flex is compatible with a range of
                                                     devices and can be customised for any space.</p>
                                             </picture>
+                                            <div class="nav-arrow-products"><i class="far fa-arrow-right"></i></div>
+
                                         </a>
 
-                                        <a href="our-work-wordpress.html" aria-label="Explore our portfolio">
+                                        <a href="products.php" aria-label="Explore our portfolio">
                                             <picture class="">
                                                 <source srcset="./assets/home/surge.webp" type="image/webp"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
@@ -598,9 +587,11 @@
                                                 <p>Physical presence meets digital connectivity through Surge+, a live,
                                                     cloud-based video communications platform.</p>
                                             </picture>
+                                            <div class="nav-arrow-products"><i class="far fa-arrow-right"></i></div>
+
                                         </a>
 
-                                        <a href="our-work-wordpress.html" aria-label="Explore our portfolio">
+                                        <a href="products.php" aria-label="Explore our portfolio">
                                             <picture class="">
                                                 <source srcset="./assets/home/air.webp" type="image/webp"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
@@ -615,6 +606,8 @@
                                                     simultaneously connected with AirPlay, Google Cast and Miracast,
                                                     enabling effortless collaboration.</p>
                                             </picture>
+                                            <div class="nav-arrow-products"><i class="far fa-arrow-right"></i></div>
+
                                         </a>
                                     </div>
                                 </div>
@@ -845,10 +838,10 @@
                             <p class="cta-text-1">Changing to a hybrid work culture?</p>
                             <p class="cta-text-2">Make an effortless transition<br>
                                 with our AV solutions.</p>
-                            <a href="about.html" aria-label="Know about the company">
+                            <a href="contact.php" aria-label="Know about the company">
                                 <div class="banner-button1 button-hover1 cta-btn">
                                     <div class="circle-large"></div>
-                                    <button>learn more</button>
+                                    <button>Connect with us</button>
                                     <div class="btn-bg-black"></div>
                                 </div>
                             </a>
@@ -916,7 +909,7 @@
                                 <a href="about.html" aria-label="Know about the company" class="d-lg-block d-none">
                                     <div class="banner-button1 button-hover1 cta-btn">
                                         <div class="circle-large"></div>
-                                        <button>learn more</button>
+                                        <button>view all posts</button>
                                         <div class="btn-bg-black"></div>
                                     </div>
                                 </a>
