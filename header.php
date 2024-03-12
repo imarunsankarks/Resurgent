@@ -1,10 +1,10 @@
 <section>
     <div id="header">
-        <div class="container menu_bar p-0">
+        <div class="container menu_bar">
             <nav>
                 <div class="col-12">
                     <div class="d-flex navigation">
-                        <a href="index.html" class="navigation-brand pull-right">
+                        <a href="index.php" class="navigation-brand pull-right">
                             <div class="header-logo">
                                 <img src="./assets/common/resurgent.webp" alt="">
                             </div>

@@ -42,7 +42,7 @@
                         <div class="row justify-content-center">
                             <div class="product-banner-content">
                                 <h1 class="product-name">Microsoft Surface Hub 2S</h1>
-                                <p class="text-end">Meet, ideate and collaborate with Microsoft's interactive<br>
+                                <p class="text-md-end">Meet, ideate and collaborate with Microsoft's interactive<br>
                                     whiteboard and meeting platform</p>
                             </div>
                         </div>
@@ -64,9 +64,10 @@
                                     </div>
                                 </div>
                                 <div class="product-det">
+                                        <h1 class="product-name-mob d-md-none">Microsoft<br> Surface Hub 2S</h1>
                                     <div class="content">
                                         <div class="row align-items-center justify-content-center">
-                                            <div class="col-7 text-center">
+                                            <div class="col-md-7 col-10 text-center">
                                                 <p>
                                                     Microsoft Surface Hub 2S is a versatile tool designed for teamwork
                                                     that transcends boundaries. The interactive whiteboard doubles up as
@@ -87,7 +88,7 @@
 
             <section class="sec-padding">
                 <div class="container">
-                    <div class="row align-items-center">
+                    <div class="row align-items-center g-4 g-md-0">
                         <div class="col-md-6 br-1">
                             <h2 class="section-title m-0">Experience the<br>
                                 Microsoft Surface Hub 2S </h2>
@@ -133,10 +134,33 @@
                 </div>
             </section>
 
+              <!-- --------------------------------------------------CTA---------------------------------------- -->
+              <section class="cta">
+                <div class="container">
+                    <div class="row z-9">
+                        <div class="col-12">
+                            <p class="cta-text-1">Changing to a hybrid work culture?</p>
+                            <p class="cta-text-2">Make an effortless transition<br>
+                                with our AV solutions.</p>
+                            <a href="about.html" aria-label="Know about the company">
+                                <div class="banner-button1 button-hover1 cta-btn">
+                                    <div class="circle-large"></div>
+                                    <button>learn more</button>
+                                    <div class="btn-bg-black"></div>
+                                </div>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+
             <!-- ------------------------------------------features----------------------------------- -->
-            <section>
-                <div class="container-fluid p-0">
+            <section id="product-feature-imgs">
+                <div class="container">
                     <div class="row">
+                        <h2 class="section-title">Know the product features</h2>
                         <div class="gallery">
                             <div class="left">
                                 <div class="features-scroll">
@@ -144,15 +168,15 @@
                             </div>
                             <div class="right">
                                 <div class="photos">
-                                    <div class="each-feature-card">
+                                    <!-- <div class="each-feature-card d-none">
                                         <div class="container h-100">
-                                            <div class="row align-items-center justify-content-center h-100">
+                                            <div class="row align-items-center justify-content-md-center h-100">
                                                 <div class="intro-card">
-                                                    <h2>Know the product<br>features</h2>
+                                                    <h2>Know the product<br> features</h2>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <div class="each-feature-card">
                                         <div class="container h-100">
                                             <div class="row h-100">
@@ -185,6 +209,22 @@
                                             </div>
                                         </div>
                                     </div>
+                                    <div class="each-feature-card">
+                                        <div class="container h-100">
+                                            <div class="row h-100">
+                                                <div class="other-cards">
+                                                    <img src="./assets/home/banner.jpg" alt="">
+                                                    <div class="content">
+                                                        <img src="./assets/logos/ouline.svg" alt="">
+                                                        <h3>Microsoft Whiteboard-enabled</h3>
+                                                        <p>Microsoft Whiteboard, a collaborative digital canvas with a
+                                                            best-in-class pen inking experience, helps teams visualise
+                                                            ideas and collaborate.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
 
                                 </div>
                             </div>
@@ -193,25 +233,6 @@
                 </div>
             </section>
 
-            <!-- --------------------------------------------------cta-product---------------------------------------- -->
-            <section class="cta-product">
-                <div class="container">
-                    <div class="row z-9">
-                        <div class="col-12">
-                            <p class="cta-product-text-1">Changing to a hybrid work culture?</p>
-                            <p class="cta-product-text-2">Make an effortless transition<br>
-                                with our AV solutions.</p>
-                            <a href="about.html" aria-label="Know about the company">
-                                <div class="cta-product-btn">
-                                    <button>Contact Us</button>
-                                </div>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-
-            </section>
 
             <!-- ---------------------------------------footer------------------------------- -->
             <?php include 'footer.php' ?>
@@ -279,13 +300,21 @@
     // <!-- --------------for banner image and content------------------------------------------- -->
 
     document.addEventListener("DOMContentLoaded", function() {
+        if(window.innerWidth > 767){
         gsap.set(".product-img img", {
-            x: "25vw",
+            x: () => {
+                const imageWidth = window.innerWidth > 750? 700: window.innerWidth * 0.9; 
+                const viewportWidth = window.innerWidth;
+                const xValue = (viewportWidth - imageWidth) / 2;
+                console.log(xValue);
+
+                return xValue;
+            },
             y: "-=25%",
             scale: 1,
-            width: 700,
-            height: 700,
-            borderRadius: '50%'
+            width: window.innerWidth > 750? 700: '90vw',
+            height: window.innerWidth > 750? 700: '50vh',
+            borderRadius: window.innerWidth > 750? '50%': '25px'
         });
         const animation = gsap.to(".product-img img", {
             x: 0,
@@ -339,46 +368,36 @@
         });
 
 
+    }
     })
     </script>
 
     <script>
-    gsap.set(".each-feature-card:not(:first-child)", {
-        x: "0%",
-        // scaleX: 0,
-        opacity: 0,
-    });
-
-    // gsap.set(".each-feature-card:first-child", {
-    //     x: "0%",
-    //     scale: 1,
-    // });
-
-    const animation = gsap.to(".each-feature-card:not(:first-child)", {
-        x: "0%",
-        // scaleX: 1,
-        opacity: 1,
-        duration: 0.5,
-        stagger: 1,
-        paused: true,
-    });
-
-    ScrollTrigger.create({
-        trigger: ".features-scroll",
-        start: "top top",
-        end: "bottom bottom",
-        pin: ".right",
-        animation: animation,
-        scrub: true,
-        // markers: true,
-        threshold: 0,
-        onToggle: () => {
-            scaleDownAnimation.play();
-        },
-        onToggleBack: () => {
-            scaleDownAnimation.reverse();
-        },
-    });
+        if(window.innerWidth > 767){
+            gsap.set(".each-feature-card:not(:first-child)", {
+                x: "0%",
+                opacity: 0,
+            });
+        
+            const animation = gsap.to(".each-feature-card:not(:first-child)", {
+                x: "0%",
+                opacity: 1,
+                duration: 0.5,
+                stagger: 1,
+                paused: true,
+            });
+        
+            ScrollTrigger.create({
+                trigger: ".features-scroll",
+                start: "top top",
+                end: "bottom bottom",
+                pin: ".right",
+                animation: animation,
+                scrub: true,
+                // markers: true,
+                threshold: 0,
+            });
+        }
     </script>
 
 </body>

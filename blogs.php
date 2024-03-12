@@ -36,19 +36,26 @@
 
     <div class="viewport">
         <main id="main">
+            <!-- --------------------------------banner---------------------------------- -->
             <section class="common-banner sec-padding">
                 <div class="container">
-                    <div class="row position-relative justify-content-center">
-                        <div class="common-banner-text p-0">
-                            <h1 class="common-banner-title">our blog</h1>
-                            <h2 class="common-banner-sub">We Aren't Just A Company, <br>We're A Community</h2>
-                        </div>
-                        <div class="banner-shape">
-                            <img src="./assets/home/micro.webp" alt="">
-                            <div class="circle-1"></div>
-                            <div class="circle-text position-relative">
+                    <div class="row position-relative justify-content-center align-items-center">
+                        <div class="col-md-5">
+                            <div class="common-banner-text p-0">
+                                <h1 class="common-banner-title">our blogs</h1>
+                                <h2 class="common-banner-sub">We Aren't Just A Company, <br>We're A Community</h2>
                             </div>
-                            <div class="circle-2"></div>
+
+                        </div>
+                        <div class="col-md-7">
+
+                            <div class="banner-shape">
+                                <img src="./assets/home/micro.webp" alt="">
+                                <div class="circle-1"></div>
+                                <div class="circle-text position-relative">
+                                </div>
+                                <div class="circle-2"></div>
+                            </div>
                         </div>
 
 

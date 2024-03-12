@@ -36,28 +36,29 @@
 
     <div class="viewport">
         <main id="main">
-            <section class="common-banner sec-padding">
-                <div class="container h-100">
-                    <div class="row h-100 align-items-end position-relative">
-                        <div class="banner-shape">
-                            <div class="banner-shape-element"></div>
-                            <div class="banner-shape-element"></div>
-                            <div class="banner-shape-element"></div>
-                            <div class="banner-shape-element"></div>
-                            <div class="banner-shape-element"></div>
-                            <div class="banner-shape-element"></div>
-                            <div class="banner-shape-element"></div>
+           <!-- --------------------------------banner---------------------------------- -->
+           <section class="common-banner sec-padding">
+                <div class="container">
+                    <div class="row position-relative justify-content-center align-items-center">
+                        <div class="col-md-5">
+                            <div class="common-banner-text p-0">
+                                <h1 class="common-banner-title">careers</h1>
+                                <h2 class="common-banner-sub">We Aren't Just A Company, <br>We're A Community</h2>
+                            </div>
+
                         </div>
-                        <div class="banner-title">
-                            <p>C</p>
-                            <p>A</p>
-                            <p>R</p>
-                            <p>E</p>
-                            <p>E</p>
-                            <p>R</p>
-                            <p>S</p>
+                        <div class="col-md-7">
+
+                            <div class="banner-shape">
+                                <img src="./assets/home/micro.webp" alt="">
+                                <div class="circle-1"></div>
+                                <div class="circle-text position-relative">
+                                </div>
+                                <div class="circle-2"></div>
+                            </div>
                         </div>
-                        <h2 class="common-banner-sub">We Aren't Just A Company, <br>We're A Community</h2>
+
+
                         <div class="scroll">
                             <img src="./assets/common/banner-arrow.svg" alt="">
                             <p>scroll</p>

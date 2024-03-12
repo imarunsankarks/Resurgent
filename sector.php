@@ -73,7 +73,7 @@
                                 <div class="process_wrap d-flex">
                                     <div class="card">
                                         <div class="card-intro">
-                                            <div class="d-flex">
+                                            <div class="d-flex align-items-center flex-md-row flex-column-reverse">
                                                 <h3>Solutions for</h3>
                                                 <img src="./assets/common/sector-intro.png" alt="">
                                             </div>
@@ -595,10 +595,12 @@
         xPercent: 100,
         scrollTrigger: {
             trigger: '.horizontal',
-            start: 'center center',
+            start: 'center-=30px center',
             end: '+=3000px',
             pin: '#horizontal-scoll',
             scrub: true,
+            ease: 'linear',
+            // markers:true,
             invalidateOnRefresh: true,
         }
     });

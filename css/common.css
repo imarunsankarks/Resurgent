@@ -18,6 +18,10 @@
   height: 100vh;
   overflow: hidden;
   max-height: 750px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
 }
 
 .banner-shape {
@@ -26,11 +30,10 @@
 }
 
 .banner-shape img {
-  width: 500px;
-  height: 500px;
+  width: 530px;
+  height: 530px;
   border-radius: 50%;
   object-fit: cover;
-  transform: translateY(-15%);
   z-index: 9;
   position: relative;
   outline: 15px solid #ffffff;
@@ -58,45 +61,16 @@
   }
 }
 
-@keyframes move-1 {
-  0% {
-    left: 15%;
-    bottom: 10%;
-  }
-  20% {
-    left: 35%;
-    bottom: 0%;
-  }
-  40% {
-    left: 50%;
-    bottom: 30%;
-  }
-  60% {
-    left: 40%;
-    bottom: 50%;
-  }
-  80% {
-    left: 20%;
-    bottom: 30%;
-  }
-  100% {
-    left: 15%;
-    bottom: 10%;
-  }
-}
 
 .banner-shape .circle-1 {
   position: absolute;
-  width: 400px;
-  height: 400px;
-  background: #2f4d6f url(../assets/common/rw.png);
-  background: linear-gradient(120deg, var(--theme-blue), var(--theme-sblue));
+  width: 450px;
+  height: 450px;
+  background: #2f4d6f;
   background-size: cover;
   border-radius: 50%;
-  left: 15%;
-  bottom: 0;
-  /* -webkit-animation: move-1 5s linear infinite;
-  animation: move-1 5s linear infinite; */
+  left: -15%;
+  bottom: -22%;
 }
 
 .circle-text svg{
@@ -107,17 +81,15 @@
 
 .banner-shape .circle-2 {
   position: absolute;
-  width: 250px;
-  height: 250px;
-  background: #58abd3;
-  background: #58abd3 url(../assets/logos/ptrn2.png);
-  /* background: #2f4d6f; */
+  width: 550px;
+  height: 550px;
+  background: #7399C2;
   background-size: cover;
   -webkit-animation: move 10s ease infinite alternate;
   animation: move 10s ease infinite alternate;
   border-radius: 50%;
-  right: 18%;
-  top: 5%;
+  right: -20%;
+  top: -28%;
 }
 
 .common-banner-text {
@@ -126,53 +98,35 @@
 }
 
 .common-banner-title {
-  text-transform: uppercase;
-  font-weight: 800;
-  font-size: 140px;
+  text-transform: capitalize;
+  font-weight: 900;
+  font-size: 90px;
   display: flex;
   gap: 19px;
-  margin-top: 20px;
   z-index: 9;
   color: var(--theme-blue);
-  color: transparent;
-  background: linear-gradient(120deg, var(--theme-blue), var(--theme-sblue));
-  background-clip: text;
-  justify-content: center;
-  letter-spacing: 55px;
 }
 
 .common-banner-sub {
-  position: absolute;
-  bottom: -8vh;
-  left: 0;
-  font-size: 24px;
+  font-size: 28px;
   width: auto;
 }
 
-/* .common-banner-sub::before{
-    position: absolute;
-    top: -25%;
-    width: 500px;
-    right: 0px;
-    height: 2px;
-    content: '';
-    background: var(--theme-blue);
-} */
 
 .common-banner .scroll {
   display: flex;
   flex-direction: column;
   position: absolute;
-  align-items: center;
+  /* align-items: center; */
   gap: 10px;
-  right: 10%;
-  bottom: 10%;
+  left: 0%;
+  bottom: 0%;
   width: auto;
 }
 
 .common-banner .scroll img {
-  width: 70px;
-  height: 70px;
+  width: 50px;
+  height: 50px;
 }
 
 .common-banner .scroll p {

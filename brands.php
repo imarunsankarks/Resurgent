@@ -25,7 +25,7 @@
 
 
 
-    <!-- <link href="css/service.css" rel="stylesheet"> -->
+    <link href="css/responsive.css" rel="stylesheet">
 
 
 </head>
@@ -45,7 +45,7 @@
 
                             <div class="brand-card">
                                 <div class="container h-100">
-                                    <div class="row h-100">
+                                    <div class="row h-100 w-mob-100">
                                         <div class="second-card">
                                             <div class="content">
                                                 <p>Microsoft Surface Hub 2S is a versatile tool designed for
@@ -61,7 +61,7 @@
                             </div>
                             <div class="brand-card">
                                 <div class="container h-100">
-                                    <div class="row h-100">
+                                    <div class="row h-100 w-mob-100">
                                         <div class="first-card">
                                             <div class="first-img">
                                                 <img src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/hero-still.jpg"
@@ -69,7 +69,8 @@
                                             </div>
                                             <div class="second-img">
                                                 <div class="heading">
-                                                    <h1>Elevate your <span>Microsoft Teams Rooms</span> with Cisco devices.
+                                                    <h1>Elevate your <span>Microsoft Teams Rooms</span> with Cisco
+                                                        devices.
                                                     </h1>
                                                     <svg width="266" height="12" viewBox="0 0 266 12" fill="none"
                                                         xmlns="http://www.w3.org/2000/svg">
@@ -82,7 +83,7 @@
                                                 <a href="about.html" aria-label="Know about the company">
                                                     <div class="banner-button1 button-hover1">
                                                         <div class="circle-large"></div>
-                                                        <button>learn more</button>
+                                                        <button>Contact Us</button>
                                                         <div class="btn-bg-black"></div>
                                                     </div>
                                                 </a>
@@ -114,10 +115,14 @@
                                     <div class="device-details">
                                         <div class="device-num">01</div>
                                         <div class="content z-9">
+                                            <div class="device-img-mob d-md-none">
+                                                <img src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-room-bar.jpg"
+                                                    class="img-fluid" alt="">
+                                            </div>
                                             <h3 class="section-sub-heading">Room Bar</h3>
                                             <p>Flexible, codec-powered video bar appliance for high-quality video
                                                 conferencing and content sharing in small rooms and huddle spaces.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid">
+                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -125,11 +130,15 @@
                                     <div class="device-details">
                                         <div class="device-num">02</div>
                                         <div class="content z-9">
+                                            <div class="device-img-mob d-md-none">
+                                                <img src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-room-bar.jpg"
+                                                    class="img-fluid" alt="">
+                                            </div>
                                             <h3 class="section-sub-heading">Room Bar Pro</h3>
                                             <p>AI-boosted, all-in-one video bar solution for equitable video meetings,
                                                 advanced interoperability, flexible connectivity and unified admin for
                                                 medium spaces.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid">
+                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -137,10 +146,14 @@
                                     <div class="device-details">
                                         <div class="device-num">03</div>
                                         <div class="content z-9">
+                                            <div class="device-img-mob d-md-none">
+                                                <img src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-room-bar.jpg"
+                                                    class="img-fluid" alt="">
+                                            </div>
                                             <h3 class="section-sub-heading">Room Kit EQ</h3>
                                             <p>The ultimate, AI-powered collaboration bundle to power equitable video
                                                 meetings and enhanced connectivity for large meeting spaces.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid">
+                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -148,10 +161,14 @@
                                     <div class="device-details">
                                         <div class="device-num">04</div>
                                         <div class="content z-9">
+                                            <div class="device-img-mob d-md-none">
+                                                <img src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-room-bar.jpg"
+                                                    class="img-fluid" alt="">
+                                            </div>
                                             <h3 class="section-sub-heading">Board Pro 55/75</h3>
                                             <p>All-in-one, hybrid room device for video conferencing and digital
                                                 whiteboarding for small-to-medium-sized spaces.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid">
+                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -185,6 +202,28 @@
                         </div>
                     </div>
                 </div>
+            </section>
+
+            <!-- --------------------------------------------------CTA---------------------------------------- -->
+            <section class="cta">
+                <div class="container">
+                    <div class="row z-9">
+                        <div class="col-12">
+                            <p class="cta-text-1">Changing to a hybrid work culture?</p>
+                            <p class="cta-text-2">Make an effortless transition<br>
+                                with our AV solutions.</p>
+                            <a href="about.html" aria-label="Know about the company">
+                                <div class="banner-button1 button-hover1 cta-btn">
+                                    <div class="circle-large"></div>
+                                    <button>learn more</button>
+                                    <div class="btn-bg-black"></div>
+                                </div>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+
             </section>
 
             <section class="sec-padding" id="brand-features">
@@ -229,19 +268,19 @@
 
             </section>
 
-            <!-- ---------------------------------------cta-product----------------------------------- -->
-            <section class="cta-product">
+            <section class="sec-padding d-none">
                 <div class="container">
-                    <div class="row z-9">
-                        <div class="col-12">
-                            <p class="cta-product-text-1">Changing to a hybrid work culture?</p>
-                            <p class="cta-product-text-2">Make an effortless transition<br>
-                                with our AV solutions.</p>
-                            <a href="about.html" aria-label="Know about the company">
-                                <div class="cta-product-btn">
-                                    <button>Contact Us</button>
+                    <div class="brand-cta">
+                        <div class="row align-items-center">
+                            <div class="col-6">
+                                <div class="brand-btn z-9">
+                                    <button>Connect Us</button>
                                 </div>
-                            </a>
+                            </div>
+                            <div class="col-6">
+                                <h2 class="brand-cta-title z-9">Lorem ipsum</h2>
+                                <p>Pioneering The Future In Integrated Audiovisual Communication</p>
+                            </div>
 
                         </div>
                     </div>
@@ -301,18 +340,35 @@
         },
     });
 
-    bannerTimeline.to(
-        ".first-img", {
-            x: () => -1000,
-        },
-        "<"
-    );
-    bannerTimeline.to(
-        ".second-img", {
-            x: () => 1000,
-        },
-        "<"
-    );
+    if (window.innerWidth > 767) {
+        bannerTimeline.to(
+            ".first-img", {
+                x: () => -1000,
+            },
+            "<"
+        );
+        bannerTimeline.to(
+            ".second-img", {
+                x: () => 1000,
+            },
+            "<"
+        );
+
+    } else {
+        bannerTimeline.to(
+            ".first-img", {
+                y: () => -1000,
+            },
+            "<"
+        );
+        bannerTimeline.to(
+            ".second-img", {
+                y: () => 1000,
+            },
+            "<"
+        );
+    }
+
 
     let bannerSection = document.querySelector('.brand-card');
 
@@ -336,67 +392,71 @@
 
 
     // ------------------------------------devices--------------------------------
-    gsap.set(".device-photo:not(:first-child)", {
-        x: "0%",
-        height: 0
-    });
-
-
-    const deviceAnimation = gsap.to(".device-photo:not(:first-child)", {
-        x: 0,
-        height: '100%',
-        duration: 1,
-        stagger: 1,
-    });
-
-    ScrollTrigger.create({
-        trigger: ".device-details-wrapper",
-        start: "top top",
-        end: "bottom bottom",
-        pin: ".device-right",
-        animation: deviceAnimation,
-        scrub: true,
-        markers: false,
-        threshold: 1,
-    });
-    </script>
-
-
-    <script>
-    const images = document.querySelectorAll('.device-details');
-
-    images.forEach((img, index) => {
-        gsap.set(img, {
+    if (window.innerWidth > 768) {
+        gsap.set(".device-photo:not(:first-child)", {
             x: "0%",
-            opacity: 0,
+            height: 0
         });
 
-        const simulatedAfter = gsap.to(img, {
+
+        const deviceAnimation = gsap.to(".device-photo:not(:first-child)", {
             x: 0,
-            opacity: 1,
-            duration: 0.2,
+            height: '100%',
+            duration: 1,
             stagger: 1,
-            scrollTrigger: {
-                trigger: img,
-                start: 'top center',
-                end: 'bottom center',
-                //   markers: true,
-            }
         });
 
         ScrollTrigger.create({
-            trigger: img,
-            start: 'top center',
-            end: 'center center',
-            onEnter: () => {
-                simulatedAfter.play();
-            },
-            onLeaveBack: () => {
-                simulatedAfter.reverse();
-            },
+            trigger: ".device-details-wrapper",
+            start: "top top",
+            end: "bottom bottom",
+            pin: ".device-right",
+            animation: deviceAnimation,
+            scrub: true,
+            markers: false,
+            threshold: 1,
         });
-    });
+
+
+
+        const images = document.querySelectorAll('.device-details');
+
+        images.forEach((img, index) => {
+            gsap.set(img, {
+                x: "0%",
+                opacity: 0,
+            });
+
+            const simulatedAfter = gsap.to(img, {
+                x: 0,
+                opacity: 1,
+                duration: 0.2,
+                stagger: 1,
+                scrollTrigger: {
+                    trigger: img,
+                    start: 'top center',
+                    end: 'bottom center',
+                    //   markers: true,
+                }
+            });
+
+            ScrollTrigger.create({
+                trigger: img,
+                start: 'top center',
+                end: 'center center',
+                onEnter: () => {
+                    simulatedAfter.play();
+                },
+                onLeaveBack: () => {
+                    simulatedAfter.reverse();
+                },
+            });
+        });
+    }
     </script>
+
+
+
 
 </body>
 

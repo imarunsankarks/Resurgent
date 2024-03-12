@@ -629,8 +629,8 @@
                 <div class="process-layer">
                     <div class="container p-lg-0 ">
                         <h2 class="section-title text-center">End-to-end AV Integration Services</h2>
-                        <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto
-                            perferendis fugit quod amet enim sequi nesciunt odio sapiente dolore labore.</p>
+                        <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto
+                            perferendis fugit quod amet enim sequi nesciunt odio sapiente dolore labore.</p> -->
                         <div class="row justify-content-center">
                             <div class="process-num d-none">
                                 <!-- <h6>Step</h6> -->
@@ -908,7 +908,7 @@
             <section class="linkedin">
                 <div class="linkedin-container">
                     <div class="container-fluid p-lg-0">
-                        <div class="row">
+                        <div class="row align-items-center">
                             <div class="col-lg-4">
                                 <h2 class="section-title">
                                     See the latest news and feeds
