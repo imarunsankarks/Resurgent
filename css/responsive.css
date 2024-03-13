@@ -33,6 +33,9 @@
     height: 110px;
     font-size: 50px;
   }
+  .sector-banner-content h1 {
+    font-size: 55px;
+  }
 }
 @media screen and (min-width: 1200px) {
   .contact-form-content {
@@ -109,6 +112,12 @@
   }
   .brand-card .first-card .second-img .heading h1 {
     font-size: 40px;
+  }
+  .sector-banner-content h1 {
+    font-size: 50px;
+  }
+  .horizontal .p_box .content .text-content {
+    width: unset;
   }
 }
 
@@ -234,7 +243,7 @@
   #core-values .first-card h2 {
     font-size: 35px;
   }
-  .common-banner{
+  .common-banner {
     margin-top: 0;
   }
   .common-banner-title {
@@ -273,14 +282,27 @@
   .horizontal .card {
     align-items: center;
     justify-content: center;
-    width: 95vw;
+    width: 100%;
     height: 100%;
     border: none;
-    padding: 20px 30px;
+    padding: 20px 20px;
     background: #ebebeb;
-    border-radius: 40px;
-    margin: 0px 20px 0;
+    border-radius: 20px;
+    margin: 20px 0;
     position: relative;
+    min-width: unset;
+  }
+  .horizontal .p_box .content .text-content {
+    width: 100%;
+    padding: 15px;
+    /* transform: unset; */
+  }
+  .horizontal .card .nav-pills .nav-link {
+    font-size: 12px;
+  }
+  .horizontal .card .nav-pills .nav-link.active {
+    transform: scale(1.2);
+    margin: 0 20px;
   }
   .horizontal .card:first-child {
     align-items: center;
@@ -289,13 +311,13 @@
     height: 100%;
     border: none;
     padding: 20px 30px;
-    background: var(--theme-blue) url(../assets/common/bg.png);
+    /* background: var(--theme-blue) url(../assets/common/bg.png); */
     border-radius: 40px;
     margin: 0px 20px 0;
     position: relative;
   }
   .horizontal .p_box img {
-    height: 40vh;
+    height: 80vh;
     object-fit: cover;
     border-radius: var(--border-rad);
     margin: 0px 0 40px;
@@ -306,20 +328,20 @@
     transform: translateX(0px);
   }
   .horizontal .card .number {
-    left: -86px;
-    top: calc(50% - 55px);
-    width: 110px;
-    height: 110px;
-    font-size: 50px;
+    display: none;
   }
 
   .horizontal .card:first-child h3 {
     font-size: 65px;
-    color: #ffffff !important;
+    /* color: #ffffff !important; */
   }
   .horizontal .card:first-child h2 {
     font-size: 80px;
-    color: #ffffff !important;
+    /* color: #ffffff !important; */
+  }
+  .horizontal .process_wrap {
+    flex-direction: column;
+    width: 100%;
   }
   #header nav .navigation-list {
     height: 100vh;
@@ -656,6 +678,21 @@
   .horizontal .card .card-intro {
     align-items: flex-start;
   }
+  .horizontal .p_box .content .text-content {
+    transform: unset;
+}
+.horizontal .p_box img {
+  height: 250px;
+  object-fit: cover;
+  border-radius: var(--border-rad);
+  margin: 50px 0 40px;
+}
+.horizontal .card .nav-pills {
+  position: absolute;
+  top: 7%;
+  left: 0px;
+  z-index: 9;
+}
   .sector-banner {
     height: auto;
     overflow: hidden;
@@ -735,9 +772,28 @@
     transform: translateY(0px);
     text-align: start;
   }
-  .common-banner-sub{
+  .common-banner-sub {
     text-align: center;
   }
+  .horizontal .card:first-child {
+    justify-content: flex-start;
+    width: 100%;
+    padding: 0;
+}
+.horizontal .card .card-intro {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  flex-direction: row;
+  gap: 14px;
+}
+.horizontal .card .card-intro img{display: none;}
+.horizontal .card:first-child h2 {
+  font-size: 64px;
+}
+.horizontal .card:first-child h3 {
+  font-size: 40px;
+}
 }
 
 @media screen and (max-width: 766px) and (min-width: 567px) {
@@ -881,4 +937,15 @@
   .device-details .content .ms-logo {
     width: 130px;
   }
+  .horizontal .p_box .content .text-content{
+    padding: 0;
+    background: transparent;
+  }
+  .horizontal .p_box img {
+    height: 250px;
+    margin: 100px 0 40px;
+}
+.horizontal .card .nav-pills {
+  justify-content: center;
+}
 }

@@ -40,18 +40,42 @@
                 <div class="container">
                     <div class="banner-product-first">
                         <img src="./assets/products/samsung-flip/banner.webp" alt="product image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="product-banner z-9">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="product-banner-content">
-                                <h1 class="product-name">Samsung Flip</h1>
-                                <p class="text-md-end">Bring ideas to life with an interactive display<br> and
-                                    collaboration tools.</p>
+                        <div class="product-banner z-9">
+                            <div class="container">
+                                <div class="row justify-content-center">
+                                    <div class="product-banner-content">
+                                        <h1 class="product-name">Samsung Flip</h1>
+
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
+                </div>
+                <div class="py-4">
+                    <div class="container">
+                        <!-- <h2 class="section-sub-heading">Bring ideas to life with an interactive display<br> and
+                            collaboration tools.</h2> -->
+                        <div class="row justify-content-center py-3">
+                            <div class="col-md-3">
+                                <div class="line"></div>
+                            </div>
+                            <div class="col-md-9">
+                            <h2 class="section-title">Bring ideas to life with an interactive display<br> and
+                            collaboration tools.</h2>
+                                <p>
+                                    Samsung Flip makes teamwork more creative and collaborative. Its
+                                    writing, drawing and editing tools help express ideas better while
+                                    making presentations more engaging. Features that improve security,
+                                    content sharing, display, and multi-user experiences ensure that
+                                    working or learning together feels inclusive and productive.
+
+                                </p>
+                                
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
 
                 <div class="d-sm-block z-9">
@@ -72,17 +96,11 @@
                                 <div class="product-det">
                                     <h1 class="product-name-mob d-md-none">Samsung<br> Flip</h1>
                                     <div class="content">
-                                        <div class="row align-items-center justify-content-center">
-                                            <div class="col-md-7 col-10 text-center">
-                                                <p>
-                                                    Samsung Flip makes teamwork more creative and collaborative. Its
-                                                    writing, drawing and editing tools help express ideas better while
-                                                    making presentations more engaging. Features that improve security,
-                                                    content sharing, display, and multi-user experiences ensure that
-                                                    working or learning together feels inclusive and productive.
-
-                                                </p>
-                                            </div>
+                                        <h2>To know more</h2>
+                                        <div class="zoomIn-button">
+                                            <button>
+                                                Connect with us
+                                            </button>
                                         </div>
                                     </div>
                                 </div>
@@ -492,6 +510,28 @@
             threshold: 0,
         });
     }
+    </script>
+
+    <script>
+    // <!-- -------------------------------------------------------for mouse positioning--------------------------------------------- -->
+
+    const parallaxSection = document.querySelector('.product-det');
+    const parallaxImages = document.querySelectorAll('.zoomIn-button');
+
+
+
+    parallaxSection.addEventListener('mousemove', (e) => {
+        const centerX = parallaxSection.offsetWidth / 2;
+        const centerY = parallaxSection.offsetHeight / 2;
+        const mouseX = e.clientX - parallaxSection.getBoundingClientRect().left;
+        const mouseY = e.clientY - parallaxSection.getBoundingClientRect().top;
+
+        parallaxImages.forEach((image, index) => {
+            const x = (mouseX - centerX) * (index + 1) * 0.08;
+            const y = (mouseY - centerY) * (index + 1) * 0.08;
+            image.style.transform = `translate(${x}px, ${y}px)`;
+        });
+    });
     </script>
 
 </body>
