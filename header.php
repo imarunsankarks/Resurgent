@@ -1,5 +1,4 @@
-<section>
-    <div id="header">
+    <header id="header">
         <div class="container menu_bar">
             <nav>
                 <div class="col-12">
@@ -480,5 +479,4 @@
                 </div>
             </nav>
         </div>
-    </div>
-</section>
+    </header>

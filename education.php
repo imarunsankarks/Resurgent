@@ -37,19 +37,16 @@
     <div class="viewport">
         <main id="main">
             <section class="sector-banner sec-padding">
+                <div class="sector-circle-1"></div>
                 <div class="container h-100 d-flex align-items-center">
                     <div class="row h-100 align-items-center position-relative g-5">
-                        <div class="col-md-7">
-                            <div class="banner-shape">
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
+                        <div class="col-md-6">
+                            <div class="sector-banner-left">
+                                <img src="./assets/home/banner.jpg" alt="" class="sector-banner-img">
+                                <div class="sector-circle-2"></div>
                             </div>
                         </div>
-                        <div class="col-md-5">
+                        <div class="col-md-6">
                             <div class="sector-banner-content">
                                 <span>Integrated AV Solutions for</span>
                                 <h1>Education</h1>
@@ -83,7 +80,7 @@
                                     </div>
                                     <div class="card">
                                         <div class="number">01</div>
-                                        <div class="p_box">
+                                        <div class="p_box wo-sub">
                                             <div class="row">
                                                 <h3 class="section-sub-heading">Digital Classrooms</h3>
 
@@ -100,13 +97,22 @@
                                                 </div>
                                                 <div class="col-md-8">
                                                     <div class="content">
-                                                        <div class="text-content z-9">By integrating a physical classroom with digital extensions such as apps and websites, schools and colleges can amplify the learning experience through multimedia. By using interactive touch screens, electronic smart boards, video conferencing equipment and software, as well as recording and streaming systems, educational institutions can bring together the richness of an interaction in a classroom environment and the ever-expanding resources and possibilities of the digital sphere.
+                                                        <div class="text-content z-9">By integrating a physical
+                                                            classroom with digital extensions such as apps and websites,
+                                                            schools and colleges can amplify the learning experience
+                                                            through multimedia. By using interactive touch screens,
+                                                            electronic smart boards, video conferencing equipment and
+                                                            software, as well as recording and streaming systems,
+                                                            educational institutions can bring together the richness of
+                                                            an interaction in a classroom environment and the
+                                                            ever-expanding resources and possibilities of the digital
+                                                            sphere.
                                                             <ul>
                                                                 <li>Interactive displays or projectors</li>
                                                                 <li>Software-based video conferencing</li>
                                                                 <li>Recording and streaming systems</li>
                                                                 <li>Speakers and microphones</li>
-                                                                </ul>
+                                                            </ul>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -115,7 +121,7 @@
                                     </div>
                                     <div class="card">
                                         <div class="number">02</div>
-                                        <div class="p_box">
+                                        <div class="p_box wo-sub">
                                             <div class="row">
                                                 <h3 class="section-sub-heading">Studio Rooms</h3>
 
@@ -142,13 +148,19 @@
                                                 </div>
                                                 <div class="col-md-8">
                                                     <div class="content">
-                                                        <div class="text-content z-9">A studio room is a digital replica of a traditional classroom, and is becoming increasingly relevant in the age of virtual classes and online education. Using internet-enabled technology devices, teachers and students can interact in real time or record and live stream the lecture, thereby making classrooms available across geographies and time zones.
+                                                        <div class="text-content z-9">A studio room is a digital replica
+                                                            of a traditional classroom, and is becoming increasingly
+                                                            relevant in the age of virtual classes and online education.
+                                                            Using internet-enabled technology devices, teachers and
+                                                            students can interact in real time or record and live stream
+                                                            the lecture, thereby making classrooms available across
+                                                            geographies and time zones.
                                                             <ul>
                                                                 <li>Interactive displays or projectors</li>
                                                                 <li>Software-based video conferencing</li>
                                                                 <li>Recording and streaming systems</li>
                                                                 <li>Speakers and microphones</li>
-                                                                </ul>
+                                                            </ul>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -157,7 +169,7 @@
                                     </div>
                                     <div class="card">
                                         <div class="number">03</div>
-                                        <div class="p_box">
+                                        <div class="p_box wo-sub">
                                             <div class="row">
                                                 <h3 class="section-sub-heading">Seminar Halls</h3>
 
@@ -178,16 +190,26 @@
                                                 </div>
                                                 <div class="col-md-8">
                                                     <div class="content">
-                                                        <div class="text-content z-9">As large teaching and collaboration spaces, seminar halls require audiovisual solutions that can promote participation and engagement among a large audience. Our offerings include high-quality audio systems for wide coverage and clarity, high lumens projectors, video walls, Active LED displays and content duplication displays that ensure visibility at every touch point, and a range of software systems for seamless transmission, streaming and conferencing.
+                                                        <div class="text-content z-9">As large teaching and
+                                                            collaboration spaces, seminar halls require audiovisual
+                                                            solutions that can promote participation and engagement
+                                                            among a large audience. Our offerings include high-quality
+                                                            audio systems for wide coverage and clarity, high lumens
+                                                            projectors, video walls, Active LED displays and content
+                                                            duplication displays that ensure visibility at every touch
+                                                            point, and a range of software systems for seamless
+                                                            transmission, streaming and conferencing.
                                                             <ul>
-                                                                <li>24/7 standard Active LED displays or video wall displays or high lumens projectors</li>
+                                                                <li>24/7 standard Active LED displays or video wall
+                                                                    displays or high lumens projectors</li>
                                                                 <li>Video wall controllers</li>
                                                                 <li>Line array speakers and microphone systems</li>
-                                                                <li>Transmitters and receivers for signal transmission</li>
+                                                                <li>Transmitters and receivers for signal transmission
+                                                                </li>
                                                                 <li>Video conferencing systems</li>
                                                                 <li>Recording and streaming systems</li>
                                                                 <li>Room control with touch-based interface</li>
-                                                                </ul>
+                                                            </ul>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -196,7 +218,7 @@
                                     </div>
                                     <div class="card">
                                         <div class="number">04</div>
-                                        <div class="p_box">
+                                        <div class="p_box wo-sub">
                                             <div class="row">
                                                 <h3 class="section-sub-heading">Auditoriums</h3>
 
@@ -237,17 +259,26 @@
                                                 </div>
                                                 <div class="col-md-8">
                                                     <div class="content">
-                                                        <div class="text-content z-9">Campus auditoriums aren't just for an educational institution's internal audience of staff and students; they are also venues where the institution holds key events and hosts dignitaries. Our auditorium audiovisual solutions help create a high-impact, immersive experience for the entire audience, using specialised auditorium AV equipment and cloud-based software.
+                                                        <div class="text-content z-9">Campus auditoriums aren't just for
+                                                            an educational institution's internal audience of staff and
+                                                            students; they are also venues where the institution holds
+                                                            key events and hosts dignitaries. Our auditorium audiovisual
+                                                            solutions help create a high-impact, immersive experience
+                                                            for the entire audience, using specialised auditorium AV
+                                                            equipment and cloud-based software.
                                                             <ul>
-                                                                <li>24/7 standard Active LED displays or video wall displays or high lumens projectors</li>
+                                                                <li>24/7 standard Active LED displays or video wall
+                                                                    displays or high lumens projectors</li>
                                                                 <li>Video wall controllers</li>
                                                                 <li>Line array speakers and microphone systems</li>
-                                                                <li>Transmitters and receivers for signal transmission</li>
+                                                                <li>Transmitters and receivers for signal transmission
+                                                                </li>
                                                                 <li>Video conferencing systems</li>
                                                                 <li>Recording and streaming systems</li>
                                                                 <li>Room control with touch-based interface</li>
-                                                                <li>Catchbox,&nbsp;Wireless lapel and handheld microphones</li>
-                                                                </ul>
+                                                                <li>Catchbox,&nbsp;Wireless lapel and handheld
+                                                                    microphones</li>
+                                                            </ul>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -275,7 +306,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">Interactions</h3>
                                 </div>
-                                <p>Audiovisual solutions improve clarity and visibility, making students more involved and teachers more effective.</p>
+                                <p>Audiovisual solutions improve clarity and visibility, making students more involved
+                                    and teachers more effective.</p>
                             </div>
                         </div>
 
@@ -286,7 +318,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">Online</h3>
                                 </div>
-                                <p>Expand learning beyond physical spaces with specialised technology for virtual classrooms and studio rooms.</p>
+                                <p>Expand learning beyond physical spaces with specialised technology for virtual
+                                    classrooms and studio rooms.</p>
                             </div>
                         </div>
 
@@ -297,7 +330,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">Technology</h3>
                                 </div>
-                                <p>Digital classrooms, interactive whiteboards and enhanced audiovisual facilities make learning more experiential and memorable.</p>
+                                <p>Digital classrooms, interactive whiteboards and enhanced audiovisual facilities make
+                                    learning more experiential and memorable.</p>
                             </div>
                         </div>
                     </div>
@@ -340,8 +374,7 @@
                             <div class="row g-5">
                                 <div class="col-lg-4 col-md-6">
                                     <div class="related-product-card">
-                                        <img src="./assets/products/zoom-rooms/zoom-room.webp" alt=""
-                                            class="w-100">
+                                        <img src="./assets/products/zoom-rooms/zoom-room.webp" alt="" class="w-100">
                                         <p>Zoom Rooms</p>
                                         <a href="microsoft-surface-hub-2s.php"><i class="fas fa-arrow-right"></i></a>
                                     </div>
@@ -399,55 +432,54 @@
 
 
     <script>
-        new WOW().init();
+    new WOW().init();
     </script>
 
 
 
     <script>
-        $('.owl-sector-img').owlCarousel({
-            loop: true,
-            margin: 20,
-            nav: false,
-            dots: true,
-            autoplay: true,
-            autoplayTimeout: 3000,
-            autoplayHoverPause: true,
-            smartSpeed: 1000,
+    $('.owl-sector-img').owlCarousel({
+        loop: true,
+        margin: 20,
+        nav: false,
+        dots: true,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+        smartSpeed: 1000,
 
-            responsive: {
-                0: {
-                    items: 1
-                },
-                600: {
-                    items: 1
-                }
-
+        responsive: {
+            0: {
+                items: 1
+            },
+            600: {
+                items: 1
             }
-        })
-    </script>
-
-    <script>
-        if (window.innerWidth > 768) {
-            let horizontalSection = document.querySelector('.horizontal');
-
-            gsap.to('.horizontal', {
-                x: () => horizontalSection.scrollWidth * -1,
-                xPercent: 100,
-                scrollTrigger: {
-                    trigger: '.horizontal',
-                    start: 'center-=30px center',
-                    end: '+=5000px',
-                    pin: '#horizontal-scoll',
-                    scrub: true,
-                    ease: 'none',
-                    // markers:true,
-                    invalidateOnRefresh: true,
-                }
-            });
 
         }
+    })
+    </script>
 
+    <script>
+    if (window.innerWidth > 768) {
+        let horizontalSection = document.querySelector('.horizontal');
+
+        gsap.to('.horizontal', {
+            x: () => horizontalSection.scrollWidth * -1,
+            xPercent: 100,
+            scrollTrigger: {
+                trigger: '.horizontal',
+                start: 'center-=30px center',
+                end: '+=5000px',
+                pin: '#horizontal-scoll',
+                scrub: true,
+                ease: 'none',
+                // markers:true,
+                invalidateOnRefresh: true,
+            }
+        });
+
+    }
     </script>
 
 </body>

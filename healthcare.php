@@ -37,19 +37,16 @@
     <div class="viewport">
         <main id="main">
             <section class="sector-banner sec-padding">
+            <div class="sector-circle-1"></div>
                 <div class="container h-100 d-flex align-items-center">
                     <div class="row h-100 align-items-center position-relative g-5">
-                        <div class="col-md-7">
-                            <div class="banner-shape">
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                            </div>
+                    <div class="col-md-6">
+                           <div class="sector-banner-left">
+                            <img src="./assets/home/banner.jpg" alt="" class="sector-banner-img">
+                            <div class="sector-circle-2"></div>
+                           </div>
                         </div>
-                        <div class="col-md-5">
+                        <div class="col-md-6">
                             <div class="sector-banner-content">
                                 <span>Integrated AV Solutions for</span>
                                 <h1>Healthcare</h1>
@@ -82,7 +79,7 @@
                                     </div>
                                     <div class="card">
                                         <div class="number">01</div>
-                                        <div class="p_box">
+                                        <div class="p_box wo-sub">
                                             <div class="row">
                                                 <h3 class="section-sub-heading">Operation Theatres</h3>
 
@@ -120,7 +117,7 @@
                                     </div>
                                     <div class="card">
                                         <div class="number">02</div>
-                                        <div class="p_box">
+                                        <div class="p_box wo-sub">
                                             <div class="row">
                                                 <h3 class="section-sub-heading">Medical Imaging & Diagnostics</h3>
 
@@ -164,7 +161,7 @@
                                     </div>
                                     <div class="card">
                                         <div class="number">03</div>
-                                        <div class="p_box">
+                                        <div class="p_box wo-sub">
                                             <div class="row">
                                                 <h3 class="section-sub-heading">Remote Specialist Support</h3>
 
@@ -201,7 +198,7 @@
                                     </div>
                                     <div class="card">
                                         <div class="number">04</div>
-                                        <div class="p_box">
+                                        <div class="p_box wo-sub">
                                             <div class="row">
                                                 <h3 class="section-sub-heading">Patient Information Systems & Wayfinding
                                                 </h3>

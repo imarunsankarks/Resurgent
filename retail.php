@@ -37,23 +37,24 @@
     <div class="viewport">
         <main id="main">
             <section class="sector-banner sec-padding">
+                <div class="sector-circle-1"></div>
                 <div class="container h-100 d-flex align-items-center">
                     <div class="row h-100 align-items-center position-relative g-5">
-                        <div class="col-md-7">
-                            <div class="banner-shape">
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
+                        <div class="col-md-6">
+                            <div class="sector-banner-left">
+                                <img src="./assets/home/banner.jpg" alt="" class="sector-banner-img">
+                                <div class="sector-circle-2"></div>
                             </div>
                         </div>
-                        <div class="col-md-5">
+                        <div class="col-md-6">
                             <div class="sector-banner-content">
                                 <span>Integrated AV Solutions for</span>
                                 <h1>Retail</h1>
-                                <p>Retail is becoming increasingly experiential, immersive and personalised, and audiovisual technology is driving this transformation. From interactive audio-video platforms that enhance the shopping experience for customers to specialised offerings that make retail spaces more brand-specific, our integrated AV solutions help businesses stay dynamic and distinctive.</p>
+                                <p>Retail is becoming increasingly experiential, immersive and personalised, and
+                                    audiovisual technology is driving this transformation. From interactive audio-video
+                                    platforms that enhance the shopping experience for customers to specialised
+                                    offerings that make retail spaces more brand-specific, our integrated AV solutions
+                                    help businesses stay dynamic and distinctive.</p>
                             </div>
                         </div>
 
@@ -79,7 +80,7 @@
                                     </div>
                                     <div class="card">
                                         <div class="number">01</div>
-                                        <div class="p_box">
+                                        <div class="p_box wo-sub">
                                             <div class="row">
                                                 <h3 class="section-sub-heading">Digital Signage</h3>
 
@@ -116,13 +117,18 @@
                                                 </div>
                                                 <div class="col-md-8">
                                                     <div class="content">
-                                                        <div class="text-content z-9">Sound and visual displays amplify the quality of your retail space. Right from the digital signage at the entrance to video walls that showcase premium content, web pages and marketing messages, our integrated AV solutions can improve the customer's interaction with your brand.
+                                                        <div class="text-content z-9">Sound and visual displays amplify
+                                                            the quality of your retail space. Right from the digital
+                                                            signage at the entrance to video walls that showcase premium
+                                                            content, web pages and marketing messages, our integrated AV
+                                                            solutions can improve the customer's interaction with your
+                                                            brand.
                                                             <ul>
                                                                 <li>4K resolution LED displays</li>
                                                                 <li>Digital signage player</li>
                                                                 <li>Digital signage software</li>
                                                                 <li>Centralised scheduling</li>
-                                                                </ul>
+                                                            </ul>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -131,7 +137,7 @@
                                     </div>
                                     <div class="card">
                                         <div class="number">02</div>
-                                        <div class="p_box">
+                                        <div class="p_box wo-sub">
                                             <div class="row">
                                                 <h3 class="section-sub-heading">Digital Wayfinding Solution</h3>
 
@@ -152,12 +158,18 @@
                                                 </div>
                                                 <div class="col-md-8">
                                                     <div class="content">
-                                                        <div class="text-content z-9">Wayfinding applications can streamline the customer journey, ensuring that users of your service or product find what they're looking for. Digital kiosks enable customers to identify their location in relation to your store, while the app allows them to transfer directional information onto their phone for quick and effortless navigation.
+                                                        <div class="text-content z-9">Wayfinding applications can
+                                                            streamline the customer journey, ensuring that users of your
+                                                            service or product find what they're looking for. Digital
+                                                            kiosks enable customers to identify their location in
+                                                            relation to your store, while the app allows them to
+                                                            transfer directional information onto their phone for quick
+                                                            and effortless navigation.
                                                             <ul>
                                                                 <li>Digital kiosk</li>
                                                                 <li>Wayfinding software</li>
                                                                 <li>Thin client PC to load content</li>
-                                                                </ul>
+                                                            </ul>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -166,7 +178,7 @@
                                     </div>
                                     <div class="card">
                                         <div class="number">03</div>
-                                        <div class="p_box">
+                                        <div class="p_box wo-sub">
                                             <div class="row">
                                                 <h3 class="section-sub-heading">Public Address System</h3>
 
@@ -181,13 +193,18 @@
                                                 </div>
                                                 <div class="col-md-8">
                                                     <div class="content">
-                                                        <div class="text-content z-9">Whether it's through music that creates an atmosphere or marketing messages that convey relevant information, sound can boost customer engagement. Our audio solutions can be customised for any kind of retail space, with a comprehensive system of the latest microphones, amplifiers and loudspeakers.
+                                                        <div class="text-content z-9">Whether it's through music that
+                                                            creates an atmosphere or marketing messages that convey
+                                                            relevant information, sound can boost customer engagement.
+                                                            Our audio solutions can be customised for any kind of retail
+                                                            space, with a comprehensive system of the latest
+                                                            microphones, amplifiers and loudspeakers.
                                                             <ul>
                                                                 <li>PA amplifiers</li>
                                                                 <li>PA speakers</li>
                                                                 <li>Gooseneck microphone</li>
                                                                 <li>Zone controllers</li>
-                                                                </ul>
+                                                            </ul>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -215,7 +232,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">Customer interactions</h3>
                                 </div>
-                                <p>Increase your presence at key touchpoints and offer one-to-one virtual assistance to customers when and where they need it.</p>
+                                <p>Increase your presence at key touchpoints and offer one-to-one virtual assistance to
+                                    customers when and where they need it.</p>
                             </div>
                         </div>
 
@@ -226,7 +244,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">more unique</h3>
                                 </div>
-                                <p>With engaging multimedia content and dynamic displays that highlight the latest offers, audiovisual solutions can draw and retain your customer's attention.</p>
+                                <p>With engaging multimedia content and dynamic displays that highlight the latest
+                                    offers, audiovisual solutions can draw and retain your customer's attention.</p>
                             </div>
                         </div>
 
@@ -237,7 +256,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">customer journey</h3>
                                 </div>
-                                <p>Interactive wayfinding solutions can help customers locate your store and easily find the product or service they're looking for.</p>
+                                <p>Interactive wayfinding solutions can help customers locate your store and easily find
+                                    the product or service they're looking for.</p>
                             </div>
                         </div>
                     </div>
@@ -287,8 +307,7 @@
                                 </div>
                                 <div class="col-lg-4 col-md-6">
                                     <div class="related-product-card">
-                                        <img src="./assets/products/surge+/surge.webp" alt=""
-                                            class="w-100">
+                                        <img src="./assets/products/surge+/surge.webp" alt="" class="w-100">
                                         <p>Surge+</p>
                                         <a href="microsoft-surface-hub-2s.php"><i class="fas fa-arrow-right"></i></a>
                                     </div>
@@ -338,54 +357,54 @@
 
 
     <script>
-        new WOW().init();
+    new WOW().init();
     </script>
 
 
 
     <script>
-        $('.owl-sector-img').owlCarousel({
-            loop: true,
-            margin: 20,
-            nav: false,
-            dots: true,
-            autoplay: true,
-            autoplayTimeout: 3000,
-            autoplayHoverPause: true,
-            smartSpeed: 1000,
+    $('.owl-sector-img').owlCarousel({
+        loop: true,
+        margin: 20,
+        nav: false,
+        dots: true,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+        smartSpeed: 1000,
 
-            responsive: {
-                0: {
-                    items: 1
-                },
-                600: {
-                    items: 1
-                }
-
+        responsive: {
+            0: {
+                items: 1
+            },
+            600: {
+                items: 1
             }
-        })
-    </script>
-
-    <script>
-        if (window.innerWidth > 768) {
-            let horizontalSection = document.querySelector('.horizontal');
-
-            gsap.to('.horizontal', {
-                x: () => horizontalSection.scrollWidth * -1,
-                xPercent: 100,
-                scrollTrigger: {
-                    trigger: '.horizontal',
-                    start: 'center-=30px center',
-                    end: '+=4000px',
-                    pin: '#horizontal-scoll',
-                    scrub: true,
-                    ease: 'none',
-                    // markers:true,
-                    invalidateOnRefresh: true,
-                }
-            });
 
         }
+    })
+    </script>
+
+    <script>
+    if (window.innerWidth > 768) {
+        let horizontalSection = document.querySelector('.horizontal');
+
+        gsap.to('.horizontal', {
+            x: () => horizontalSection.scrollWidth * -1,
+            xPercent: 100,
+            scrollTrigger: {
+                trigger: '.horizontal',
+                start: 'center-=30px center',
+                end: '+=4000px',
+                pin: '#horizontal-scoll',
+                scrub: true,
+                ease: 'none',
+                // markers:true,
+                invalidateOnRefresh: true,
+            }
+        });
+
+    }
     </script>
 
 </body>

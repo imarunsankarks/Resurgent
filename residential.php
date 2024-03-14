@@ -37,23 +37,23 @@
     <div class="viewport">
         <main id="main">
             <section class="sector-banner sec-padding">
+                <div class="sector-circle-1"></div>
                 <div class="container h-100 d-flex align-items-center">
                     <div class="row h-100 align-items-center position-relative g-5">
-                        <div class="col-md-7">
-                            <div class="banner-shape">
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
+                        <div class="col-md-6">
+                            <div class="sector-banner-left">
+                                <img src="./assets/home/banner.jpg" alt="" class="sector-banner-img">
+                                <div class="sector-circle-2"></div>
                             </div>
                         </div>
-                        <div class="col-md-5">
+                        <div class="col-md-6">
                             <div class="sector-banner-content">
                                 <span>Integrated AV Solutions for</span>
                                 <h1>Residences</h1>
-                                <p>With homes becoming more multifunctional and AV technology becoming more versatile, you can now customise audiovisual solutions to meet your specific needs. Our integrated AV solutions range from technology that better reflects your lifestyle to lighting systems that can be personalised for every member of your family.</p>
+                                <p>With homes becoming more multifunctional and AV technology becoming more versatile,
+                                    you can now customise audiovisual solutions to meet your specific needs. Our
+                                    integrated AV solutions range from technology that better reflects your lifestyle to
+                                    lighting systems that can be personalised for every member of your family.</p>
                             </div>
                         </div>
 
@@ -79,7 +79,7 @@
                                     </div>
                                     <div class="card">
                                         <div class="number">01</div>
-                                        <div class="p_box">
+                                        <div class="p_box wo-sub">
                                             <div class="row">
                                                 <h3 class="section-sub-heading">Home Theatre</h3>
                                                 <div class="col-md-4">
@@ -94,12 +94,16 @@
                                                 </div>
                                                 <div class="col-md-8">
                                                     <div class="content">
-                                                        <div class="text-content z-9">Transform your backyard or a large family room into a home cinema or theatre. Using electronics-grade video and audio equipment, we can recreate the immersive experience of a movie theatre, right in the comfort of your home.
+                                                        <div class="text-content z-9">Transform your backyard or a large
+                                                            family room into a home cinema or theatre. Using
+                                                            electronics-grade video and audio equipment, we can recreate
+                                                            the immersive experience of a movie theatre, right in the
+                                                            comfort of your home.
                                                             <ul>
                                                                 <li>Surround sound speakers</li>
                                                                 <li>AV receivers with Dolby audio</li>
                                                                 <li>Projector screen or LED display</li>
-                                                                </ul>
+                                                            </ul>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -108,7 +112,7 @@
                                     </div>
                                     <div class="card">
                                         <div class="number">02</div>
-                                        <div class="p_box">
+                                        <div class="p_box wo-sub">
                                             <div class="row">
                                                 <h3 class="section-sub-heading">Home Lighting</h3>
 
@@ -124,13 +128,18 @@
                                                 </div>
                                                 <div class="col-md-8">
                                                     <div class="content">
-                                                        <div class="text-content z-9">Personalise the lighting of each room according to its function and the preferences of individual users. Using lighting controllers, we can create lighting scenes ranging from dimming to 'on' and 'off' modes. These preferences and modes can also be fully automated.
+                                                        <div class="text-content z-9">Personalise the lighting of each
+                                                            room according to its function and the preferences of
+                                                            individual users. Using lighting controllers, we can create
+                                                            lighting scenes ranging from dimming to 'on' and 'off'
+                                                            modes. These preferences and modes can also be fully
+                                                            automated.
                                                             <ul>
                                                                 <li>Lighting controllers</li>
                                                                 <li>Sensor-based lighting system</li>
                                                                 <li>Keypads for lighting control</li>
                                                                 <li>Touch panels for lighting control</li>
-                                                                </ul>
+                                                            </ul>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -158,7 +167,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">Multifunctional</h3>
                                 </div>
-                                <p>Transform spaces for work or play with automated lighting solutions that can be adjusted to suit different requirements.</p>
+                                <p>Transform spaces for work or play with automated lighting solutions that can be
+                                    adjusted to suit different requirements.</p>
                             </div>
                         </div>
 
@@ -169,7 +179,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">Every space</h3>
                                 </div>
-                                <p>Lighting solutions can be customised for every member of the household, depending on their preferences and the room's purpose.</p>
+                                <p>Lighting solutions can be customised for every member of the household, depending on
+                                    their preferences and the room's purpose.</p>
                             </div>
                         </div>
 
@@ -180,7 +191,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">Home</h3>
                                 </div>
-                                <p>With surround sound speakers and advanced projection technology, our audiovisual systems can recreate a movie theatre in your home.</p>
+                                <p>With surround sound speakers and advanced projection technology, our audiovisual
+                                    systems can recreate a movie theatre in your home.</p>
                             </div>
                         </div>
                     </div>
@@ -230,15 +242,15 @@
                                 </div>
                                 <div class="col-lg-4 col-md-6">
                                     <div class="related-product-card">
-                                        <img src="./assets/products/zoom-rooms/zoom-room.webp" alt=""
-                                            class="w-100">
+                                        <img src="./assets/products/zoom-rooms/zoom-room.webp" alt="" class="w-100">
                                         <p>Zoom Rooms</p>
                                         <a href="microsoft-surface-hub-2s.php"><i class="fas fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6">
                                     <div class="related-product-card">
-                                        <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp" alt="" class="w-100">
+                                        <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp" alt=""
+                                            class="w-100">
                                         <p>Microsoft Surface Hub 2S</p>
                                         <a href="microsoft-surface-hub-2s.php"><i class="fas fa-arrow-right"></i></a>
                                     </div>
@@ -281,54 +293,54 @@
 
 
     <script>
-        new WOW().init();
+    new WOW().init();
     </script>
 
 
 
     <script>
-        $('.owl-sector-img').owlCarousel({
-            loop: true,
-            margin: 20,
-            nav: false,
-            dots: true,
-            autoplay: true,
-            autoplayTimeout: 3000,
-            autoplayHoverPause: true,
-            smartSpeed: 1000,
+    $('.owl-sector-img').owlCarousel({
+        loop: true,
+        margin: 20,
+        nav: false,
+        dots: true,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+        smartSpeed: 1000,
 
-            responsive: {
-                0: {
-                    items: 1
-                },
-                600: {
-                    items: 1
-                }
-
+        responsive: {
+            0: {
+                items: 1
+            },
+            600: {
+                items: 1
             }
-        })
-    </script>
-
-    <script>
-        if (window.innerWidth > 768) {
-            let horizontalSection = document.querySelector('.horizontal');
-
-            gsap.to('.horizontal', {
-                x: () => horizontalSection.scrollWidth * -1,
-                xPercent: 100,
-                scrollTrigger: {
-                    trigger: '.horizontal',
-                    start: 'center-=30px center',
-                    end: '+=3000px',
-                    pin: '#horizontal-scoll',
-                    scrub: true,
-                    ease: 'none',
-                    // markers:true,
-                    invalidateOnRefresh: true,
-                }
-            });
 
         }
+    })
+    </script>
+
+    <script>
+    if (window.innerWidth > 768) {
+        let horizontalSection = document.querySelector('.horizontal');
+
+        gsap.to('.horizontal', {
+            x: () => horizontalSection.scrollWidth * -1,
+            xPercent: 100,
+            scrollTrigger: {
+                trigger: '.horizontal',
+                start: 'center-=30px center',
+                end: '+=3000px',
+                pin: '#horizontal-scoll',
+                scrub: true,
+                ease: 'none',
+                // markers:true,
+                invalidateOnRefresh: true,
+            }
+        });
+
+    }
     </script>
 
 </body>

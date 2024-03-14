@@ -37,26 +37,20 @@
     <div class="viewport">
         <main id="main">
             <section class="sector-banner sec-padding">
+                <div class="sector-circle-1"></div>
                 <div class="container h-100 d-flex align-items-center">
                     <div class="row h-100 align-items-center position-relative g-5">
-                        <div class="col-md-7">
-                            <div class="banner-shape">
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                                <div class="banner-shape-element"></div>
-                            </div>
+                        <div class="col-md-6">
+                           <div class="sector-banner-left">
+                            <img src="./assets/home/banner.jpg" alt="" class="sector-banner-img">
+                            <div class="sector-circle-2"></div>
+                           </div>
                         </div>
-                        <div class="col-md-5">
+                        <div class="col-md-6">
                             <div class="sector-banner-content">
                                 <span>Integrated AV Solutions for</span>
                                 <h1>Business</h1>
-                                <p>Our corporate AV solutions help organizations stay ahead and agile, even as they
-                                    expand globally and work cultures become increasingly hybrid. Audio-video
-                                    integration no longer applies only to communication capabilities within a single
-                                    space; instead, our</p>
+                                <p>Our corporate AV solutions help organisations stay ahead and agile, even as they expand globally and work cultures become increasingly hybrid. Audio-video integration no longer applies only to communication capabilities within a single space; instead, our AV solutions are designed to transcend spaces and connect people across multiple locations and devices, empowering teams as they work towards a common goal.</p>
                             </div>
                         </div>
 
@@ -82,7 +76,7 @@
                                     </div>
                                     <div class="card">
                                         <div class="number">01</div>
-                                        <div class="p_box">
+                                        <div class="p_box wo-sub">
                                                 <div class="row">
                                                     <h3 class="section-sub-heading">Unified Communication Systems</h3>
     
@@ -847,7 +841,7 @@
                                     </div>
                                     <div class="card">
                                         <div class="number">04</div>
-                                        <div class="p_box">
+                                        <div class="p_box wo-sub">
                                             <div class="row">
                                                 <h3 class="section-sub-heading">NOC-SOC Rooms</h3>
 
@@ -892,7 +886,7 @@
                                     </div>
                                     <div class="card">
                                         <div class="number">05</div>
-                                        <div class="p_box">
+                                        <div class="p_box wo-sub">
                                             <div class="row">
                                                 <h3 class="section-sub-heading">Digital Signage</h3>
 
@@ -1025,7 +1019,7 @@
                                     </div>
                                     <div class="card">
                                         <div class="number">07</div>
-                                        <div class="p_box">
+                                        <div class="p_box wo-sub">
                                             <div class="row">
                                                 <h3 class="section-sub-heading">Experience Centres</h3>
 

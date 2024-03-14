@@ -61,8 +61,8 @@
                                 <div class="line"></div>
                             </div>
                             <div class="col-md-9">
-                            <h2 class="section-title">Bring ideas to life with an interactive display<br> and
-                            collaboration tools.</h2>
+                                <h2 class="section-title">Bring ideas to life with an interactive display<br> and
+                                    collaboration tools.</h2>
                                 <p>
                                     Samsung Flip makes teamwork more creative and collaborative. Its
                                     writing, drawing and editing tools help express ideas better while
@@ -71,46 +71,17 @@
                                     working or learning together feels inclusive and productive.
 
                                 </p>
-                                
+
                             </div>
                         </div>
                     </div>
 
                 </div>
 
-                <div class="d-sm-block z-9">
-                    <div class="continer p-0">
-                        <div class="product-banner-img position-relative">
-                            <div class="img-scroll-ht">
-                                <div class="initial-ht"></div>
-                                <div id="button-trigger">
-                                </div>
-                            </div>
-                            <div class="product-img-container">
-                                <div class="product-imgs">
-                                    <div class="product-img">
-                                        <img src="./assets/products/samsung-flip/banner.webp" alt="product image"
-                                            class="img-fluid">
-                                    </div>
-                                </div>
-                                <div class="product-det">
-                                    <h1 class="product-name-mob d-md-none">Samsung<br> Flip</h1>
-                                    <div class="content">
-                                        <h2>To know more</h2>
-                                        <div class="zoomIn-button">
-                                            <button>
-                                                Connect with us
-                                            </button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
             </section>
 
-            <section class="sec-padding">
+            <section class="sec-padding" id="experience">
                 <div class="container">
                     <div class="row align-items-center g-4 g-md-0">
                         <div class="col-md-6 br-1">
@@ -151,6 +122,39 @@
                                     <h3>Second feature</h3>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, itaque! Harum,
                                         molestias.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="sec-padding">
+                <div class="d-sm-block z-9">
+                    <div class="continer p-0">
+                        <div class="product-banner-img position-relative">
+                            <div class="img-scroll-ht">
+                                <div class="initial-ht"></div>
+                                <div id="button-trigger">
+                                </div>
+                            </div>
+                            <div class="product-img-container">
+                                <div class="product-imgs">
+                                    <div class="product-img">
+                                        <img src="./assets/products/samsung-flip/banner.webp" alt="product image"
+                                            class="img-fluid">
+                                    </div>
+                                </div>
+                                <div class="product-det">
+                                    <h1 class="product-name-mob d-md-none">Samsung<br> Flip</h1>
+                                    <div class="content">
+                                        <h2>To know more</h2>
+                                        <div class="zoomIn-button">
+                                            <button>
+                                                Connect with us
+                                            </button>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>

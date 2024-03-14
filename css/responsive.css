@@ -119,6 +119,10 @@
   .horizontal .p_box .content .text-content {
     width: unset;
   }
+  .sector-banner .sector-circle-1 {
+    left: -25%;
+    top: 0;
+}
 }
 
 @media screen and (max-width: 990px) {
@@ -391,6 +395,12 @@
     margin-bottom: 5px;
     transition: all 0.5s ease;
   }
+  .sector-banner-content h1 {
+    font-size: 40px;
+}
+.sector-banner .sector-circle-1 {
+  left: -35%;
+}
 }
 
 @media screen and (max-width: 990px) and (min-width: 767px) {
@@ -419,6 +429,12 @@
   .section-title {
     font-size: 24px;
   }
+  .horizontal .card:first-child h2 {
+    font-size: 24px !important;
+}
+.horizontal .card:first-child h3 {
+  font-size: 24px !important;
+}
   .banner .top-head {
     font-size: 30px;
   }
@@ -687,6 +703,9 @@
   border-radius: var(--border-rad);
   margin: 50px 0 40px;
 }
+.horizontal .p_box.wo-sub img{
+  margin-top: 10px;
+}
 .horizontal .card .nav-pills {
   position: absolute;
   top: 7%;
@@ -793,6 +812,24 @@
 }
 .horizontal .card:first-child h3 {
   font-size: 40px;
+}
+.sector-banner{
+  margin-top: 80px;
+}
+.sector-banner .sector-circle-1 {
+  top: -3%;
+  left: -30%;
+}
+.sector-banner-left .sector-banner-img {
+  width: 100%;
+  height: 40vh;
+}
+.horizontal .card:first-child {
+  justify-content: flex-start;
+  width: 100%;
+  padding: 0;
+  align-items: flex-start;
+  margin: 0;
 }
 }
 
@@ -948,4 +985,20 @@
 .horizontal .card .nav-pills {
   justify-content: center;
 }
+.sector-banner-content h1 {
+  font-size: 50px;
+}
+.sector-banner-left .sector-banner-img {
+  height: 50vh;
+  border: 8px solid #ffffff;
+  outline: 0px solid #ffffff;
+}
+.sector-banner .sector-circle-1 {
+  top: -21%;
+  left: -30%;
+}
+.sector-banner-left .sector-circle-2 {
+  right: 10%;
+}
+
 }
