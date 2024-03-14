@@ -1,60 +1,116 @@
-.product-banner {
-  margin-top: 0px;
-  padding: 20px 0;
+#header{
+  background: transparent;
+}
+#product-banner{
+  height: 100vh;
+  margin-top: 80px;
+  /* background: #F2F2F2; */
+  /* max-height: 700px; */
+}
+#product-banner .banner-product-img{
+  position: relative;
+}
+#product-banner .banner-product-img lottie-player{
   position: absolute;
-  left: 3%;
-  bottom: 0%;
-  /* margin-bottom: 20px; */
-  /* height: 30vh; */
+  display: none;
+  height: 700px !important;
+  width: 700px !important;
+  opacity: .5;
+  z-index: 2;
+  left: -6%;
+  top: -25%;
+}
+@keyframes translate {
+  0% {
+    transform: translate(0, 0) scale(1.5);
+  }
+  50% {
+    transform: translate(25vw, 20%);
+  }
+  100% {
+    transform: translate(0, 0) scale(1.5);
+  }
+}
+#product-banner .banner-product-img::before{
+  content: '';
+  position: absolute;
+  height: 500px !important;
+  width: 500px !important;
+  background: linear-gradient(120deg, var(--theme-blue), var(--theme-sblue));
+  border-radius: 50%;
+  opacity: .5;
+  z-index: 2;
+  left: -0%;
+  top: -2%;
+  filter: blur(80px);
+  animation: translate 7s linear infinite;
+}
+
+#product-banner .banner-product-img img{
+  width: 100%;
+  height: 680px;
+  object-fit: contain;
+  position: relative;
+  z-index: 9;
+  filter: drop-shadow(2px 4px 50px #ffffff);
+  transition: all .1s linear;
+}
+.banner-product-content span{
+  display: none;
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  color: var(--theme-blue);
+}
+.product-banner-title{
+  font-size: 60px;
+  font-weight: 900;
+  color: var(--theme-blue);
+}
+.product-banner-sub-title{
+  font-size: 22px;
+  width: 75%;
+}
+.product-banner-btn{
+  margin-top: 30px;
+}
+.product-banner-btn button{
+  background: var(--theme-blue);
+  border: 0px solid var(--theme-blue);
+  color: #ffffff;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
-  /* background: linear-gradient(180deg, var(--theme-blue), var(--theme-sblue)); */
+  font-size: 14px;
 }
-
-.banner-product-first{
-  margin-top: 80px;
-  position: relative;
-  /* height: 400px; */
-}
-
-.banner-product-first::before{
-  content: '';
-  position: absolute;
-  height: 40%;
-  width: 100%;
-  background: linear-gradient(to top, var(--theme-blue), transparent);
-  left: 0;
-  bottom: 0;
-  border-radius: var(--border-rad);
-  opacity: .6;
-
-}
-.banner-product-first img{
-  border-radius: var(--border-rad);
-  height: 65vh;
-  width: 100%;
-  object-fit: cover;
-}
-.product-banner-content {
+.banner-product-content .scroll {
   display: flex;
   flex-direction: column;
-  align-items: flex-end;
+  position: absolute;
+  gap: 10px;
+  right: 0%;
+  bottom: 0%;
   width: auto;
+  animation: updown 1.5s linear infinite;
 }
-
-.product-banner-content p {
-  font-size: 24px;
-  /* color: #ffffff; */
+.banner-product-content .scroll img {
+  width: 50px;
+  height: 50px;
 }
-
-.product-banner-content .product-name {
-  font-size: 70px;
-  /* color: var(--theme-blue); */
-  color: #ffffff;
-  font-weight: 800;
+.banner-product-content .scroll p {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 12px;
 }
-
+.banner-product-content{
+  position: relative;
+  padding-bottom: 100px;
+  z-index: 9;
+}
 /* ------------------------------------------------------------------------------------------------ */
 
 .product-banner-img {
@@ -328,6 +384,7 @@
   object-fit: cover;
   position: relative;
   z-index: -2;
+  object-position: center 20%;
 }
 
 .each-feature-card .other-cards .content {

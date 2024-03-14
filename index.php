@@ -230,7 +230,7 @@
                         <div class="container">
                             <div class="row py-4 g-lg-0 g-4 align-items-center sectors-head">
                                 <div class="col-lg-6 br-1">
-                                    <h2 class="mb-0 section-title">Explore Audio Visual
+                                    <h2 class="mb-0 section-title">Audio Visual
                                         Solutions<br> for diverse sectors </h2>
                                 </div>
                                 <div class="col-lg-6">

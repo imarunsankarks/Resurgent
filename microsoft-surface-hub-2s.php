@@ -36,25 +36,132 @@
 
     <div class="viewport">
         <main>
-            <section>
+            <!-- <section class="position-relative">
                 <div class="container">
                     <div class="banner-product-first">
                         <img src="./assets/products/samsung-flip/banner.webp" alt="product image" class="img-fluid">
-                    </div>
-                </div>
-                <div class="product-banner">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="product-banner-content">
-                                <h1 class="product-name">Microsoft Surface Hub 2S</h1>
-                                <p class="text-md-end">Meet, ideate and collaborate with Microsoft's interactive<br>
-                                    whiteboard and meeting platform</p>
+                        <div class="product-banner z-9">
+                            <div class="container">
+                                <div class="row justify-content-center">
+                                    <div class="product-banner-content">
+                                        <h1 class="product-name">Samsung Flip</h1>
+
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
+                <div class="py-4">
+                    <div class="container">
+                       
+                        <div class="row justify-content-center py-3">
+                            <div class="col-md-3">
+                                <div class="line"></div>
+                            </div>
+                            <div class="col-md-9">
+                                <h2 class="section-title">Bring ideas to life with an interactive display<br> and
+                                    collaboration tools.</h2>
+                                <p>
+                                    Samsung Flip makes teamwork more creative and collaborative. Its
+                                    writing, drawing and editing tools help express ideas better while
+                                    making presentations more engaging. Features that improve security,
+                                    content sharing, display, and multi-user experiences ensure that
+                                    working or learning together feels inclusive and productive.
 
-                <div class="d-sm-block">
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </section> -->
+            <div id="banner-trigger">
+                <section id="product-banner">
+                    <div class="container">
+                        <div class="row g-5 align-items-center justify-content-center">
+                            <div class="col-lg-7">
+                                <div class="banner-product-img">
+                                    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js">
+                                    </script>
+                                    <lottie-player
+                                        src="https://lottie.host/c5f6e05a-6bd2-4cc3-85f1-c05d46335ab4/ou05BsxTeg.json"
+                                        background="##ffffff" speed="1" style="width: 300px; height: 300px" loop autoplay
+                                        direction="1" mode="normal"></lottie-player>
+                                    <img src="./assets/products/ms-surface-hub/hub-2s.webp" alt="">
+                                </div>
+                            </div>
+                            <div class="col-lg-5">
+                                <div class="banner-product-content">
+                                    <h1 class="product-banner-title">Microsoft Surface Hub 2S</h1>
+                                    <p class="product-banner-sub-title">Meet, ideate and collaborate with Microsoft's
+                                        interactive whiteboard and meeting platform</p>
+                                    <!-- <div class="product-banner-btn">
+                                        <button>Learn more</button>
+                                    </div> -->
+                                    <div class="scroll">
+                                        <img src="./assets/common/banner-arrow.svg" alt="">
+                                        <p>scroll</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+    
+                <section class="sec-padding z-9" id="experience">
+                    <div class="container">
+                        <div class="row align-items-center g-4 g-md-0">
+                            <div class="col-md-6 br-1">
+                                <h2 class="section-title m-0">Experience the<br>
+                                Microsoft Surface Hub 2s</h2>
+                            </div>
+                            <div class="col-md-6 ps-lg-5">
+                                <p class="m-0">From businesses to schools and retail outlets to hospitals, our audiovisual
+                                    solutions can be customised</p>
+                            </div>
+                            <div class="product-feature-img">
+                                <img src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp" alt="">
+                                <div class="feature-marker-1 active" onmouseover="showFeature(1)">
+                                    <span>1</span>
+                                    <div class="ripple"></div>
+                                </div>
+                                <div class="feature-marker-2" onmouseover="showFeature(2)">
+                                    <span>2</span>
+                                    <div class="ripple"></div>
+                                </div>
+                                <div class="feature-marker-3" onmouseover="showFeature(3)"><span>3</span>
+                                    <div class="ripple"></div>
+                                </div>
+                                <div class="feature-marker-4" onmouseover="showFeature(4)"><span>4</span>
+                                    <div class="ripple"></div>
+                                </div>
+                                <div class="each-feature-det f-1">
+                                    <span>01</span>
+                                    <div class="content">
+                                        <h3>Surface Hub Smart Camera</h3>
+                                        <p>The AI-enabled camera's aperture and ultra-wide field of view of 136 degrees,
+                                            renders everything in focus, near and far.</p>
+                                    </div>
+                                </div>
+                                <div class="each-feature-det f-2">
+                                    <span>02</span>
+                                    <div class="content">
+                                        <h3>Second feature</h3>
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, itaque! Harum,
+                                            molestias.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+            </div>
+
+            <section class="sec-padding bg-white z-9">
+                <div class="d-sm-block z-9">
                     <div class="continer p-0">
                         <div class="product-banner-img position-relative">
                             <div class="img-scroll-ht">
@@ -65,74 +172,20 @@
                             <div class="product-img-container">
                                 <div class="product-imgs">
                                     <div class="product-img">
-                                        <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-banner.webp"
-                                            alt="product image" class="img-fluid">
+                                        <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-contact.jpg" alt="product image"
+                                            class="img-fluid">
                                     </div>
                                 </div>
                                 <div class="product-det">
-                                    <h1 class="product-name-mob d-md-none">Microsoft<br> Surface Hub 2S</h1>
+                                    <h1 class="product-name-mob d-md-none">Samsung<br> Flip</h1>
                                     <div class="content">
-                                        <div class="row align-items-center justify-content-center">
-                                            <div class="col-md-7 col-10 text-center">
-                                                <p>
-                                                    Microsoft Surface Hub 2S is a versatile tool designed for teamwork
-                                                    that transcends boundaries. The interactive whiteboard doubles up as
-                                                    a screen for instant meetings, enables collaboration across devices
-                                                    and creation via Microsoft 365, and applies the latest technology to
-                                                    optimize sound and display.
-
-                                                </p>
-                                            </div>
+                                        <h2>To know more</h2>
+                                        <div class="zoomIn-button">
+                                            <button>
+                                                Connect with us
+                                            </button>
                                         </div>
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <section class="sec-padding">
-                <div class="container">
-                    <div class="row align-items-center g-4 g-md-0">
-                        <div class="col-md-6 br-1">
-                            <h2 class="section-title m-0">Experience the<br>
-                                Microsoft Surface Hub 2S </h2>
-                        </div>
-                        <div class="col-md-6 ps-lg-5">
-                            <p class="m-0">From businesses to schools and retail outlets to hospitals, our audiovisual
-                                solutions can be customised</p>
-                        </div>
-                        <div class="product-feature-img">
-                            <img src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp" alt="">
-                            <div class="feature-marker-1 active" onmouseover="showFeature(1)">
-                                <span>1</span>
-                                <div class="ripple"></div>
-                            </div>
-                            <div class="feature-marker-2" onmouseover="showFeature(2)">
-                                <span>2</span>
-                                <div class="ripple"></div>
-                            </div>
-                            <div class="feature-marker-3" onmouseover="showFeature(3)"><span>3</span>
-                                <div class="ripple"></div>
-                            </div>
-                            <div class="feature-marker-4" onmouseover="showFeature(4)"><span>4</span>
-                                <div class="ripple"></div>
-                            </div>
-                            <div class="each-feature-det f-1">
-                                <span>01</span>
-                                <div class="content">
-                                    <h3>Surface Hub Smart Camera</h3>
-                                    <p>The AI-enabled camera's aperture and ultra-wide field of view of 136 degrees,
-                                        renders everything in focus, near and far.</p>
-                                </div>
-                            </div>
-                            <div class="each-feature-det f-2">
-                                <span>02</span>
-                                <div class="content">
-                                    <h3>Second feature</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, itaque! Harum,
-                                        molestias.</p>
                                 </div>
                             </div>
                         </div>
@@ -147,73 +200,78 @@
                     <div class="row mt-md-5">
                         <div class="col-md-4">
                             <div class="why-card">
-                                <h3>Microsoft Whiteboard</h3>
+                                <h3>InGlass</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Enabled</h3>
+                                    <h3 class="why-second-head mb-0">Technology</h3>
                                 </div>
-                                <p>Microsoft Whiteboard, a collaborative digital canvas with a best-in-class pen inking
-                                    experience, helps teams visualise ideas and collaborate.</p>
+                                <p>Smooth inking experience with a wide palette of colours, strokes of varying
+                                    thickness, brush-mode with oil and water colours, and a multi-writing functionality
+                                    for up to 20 users.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4">
                             <div class="why-card">
-                                <h3>Instant meetings on</h3>
+                                <h3>Image editing and</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Microsoft Teams</h3>
+                                    <h3 class="why-second-head mb-0">Annotation</h3>
                                 </div>
-                                <p>Purpose-built Microsoft Teams loads automatically, allowing approved participants to
-                                    sign in without waiting for authentication.</p>
+                                <p>With an assortment of editing options, you can crop, merge and correct images. A
+                                    special note layer enables users to write comments on a document without affecting
+                                    its original content.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4">
                             <div class="why-card">
-                                <h3>Pre-loaded with</h3>
+                                <h3>Screen</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Microsoft 365</h3>
+                                    <h3 class="why-second-head mb-0">Mirroring</h3>
                                 </div>
-                                <p>Use Microsoft's universally-applied software and tools to enhance creativity and
-                                    teamwork, and add apps certified for Surface Hub.</p>
+                                <p>Samsung Flip can be synced with multiple devices. You could work on laptop files
+                                    directly using Flip, and the content on Flip can also be projected on larger
+                                    displays.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4">
                             <div class="why-card">
-                                <h3>Collaborate across</h3>
+                                <h3>Easy access</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">devices</h3>
+                                    <h3 class="why-second-head mb-0">to files</h3>
                                 </div>
-                                <p>Participants can join meetings using their own devices via Proximity Join. In larger
-                                    spaces, multiple Surface Hubs can be connected to present diverse content.</p>
+                                <p>With Samsung Workspace, you can open and work on files on the cloud, while the
+                                    document viewer can directly open Word, PowerPoint and PDF files. You can also
+                                    access files via USB and browse the web.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4">
                             <div class="why-card">
-                                <h3>Portable and</h3>
+                                <h3>Enhanced safety</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">battery-powered</h3>
+                                    <h3 class="why-second-head mb-0">and security</h3>
                                 </div>
-                                <p>The Steelcase Roam wall mount can be easily installed, while the mobile stand and APC
-                                    Charge mobile battery allow the device to be moved between rooms.</p>
+                                <p>Maintain confidentiality or lock WIP content with a six-digit password. Samsung Flip
+                                    also has antimicrobial coating and shatterproof film for easy handling and safety.
+                                </p>
                             </div>
                         </div>
 
                         <div class="col-md-4">
                             <div class="why-card">
-                                <h3>Excellent audiovisual</h3>
+                                <h3>Wide industry</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Clarity</h3>
+                                    <h3 class="why-second-head mb-0">Applications</h3>
                                 </div>
-                                <p>Equipped with a modular camera, two-way stereo speakers, pixel sense display and a
-                                    native 4K resolution with anti-glare.</p>
+                                <p>Make classrooms more interactive, improve the impact of business presentations, and
+                                    engage customers with dynamic content in retail spaces with Samsung Flip.</p>
                             </div>
                         </div>
 
@@ -440,7 +498,7 @@
             const buttonTimeline = gsap.timeline({
                 scrollTrigger: {
                     trigger: "#button-trigger",
-                    start: "top 75%",
+                    start: "top 50%",
                     end: "bottom 40%",
                     // markers: true,
                     // scrub: true,
@@ -488,6 +546,29 @@
         });
     }
     </script>
+
+    <script>
+    // <!-- -------------------------------------------------------for mouse positioning--------------------------------------------- -->
+
+    const parallaxSection = document.querySelector('.product-det');
+    const parallaxImages = document.querySelectorAll('.zoomIn-button');
+
+
+
+    parallaxSection.addEventListener('mousemove', (e) => {
+        const centerX = parallaxSection.offsetWidth / 2;
+        const centerY = parallaxSection.offsetHeight / 2;
+        const mouseX = e.clientX - parallaxSection.getBoundingClientRect().left;
+        const mouseY = e.clientY - parallaxSection.getBoundingClientRect().top;
+
+        parallaxImages.forEach((image, index) => {
+            const x = (mouseX - centerX) * (index + 1) * 0.08;
+            const y = (mouseY - centerY) * (index + 1) * 0.08;
+            image.style.transform = `translate(${x}px, ${y}px)`;
+        });
+    });
+    </script>
+    <!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script> -->
 
 </body>
 

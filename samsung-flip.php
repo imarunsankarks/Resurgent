@@ -36,100 +36,85 @@
 
     <div class="viewport">
         <main>
-            <section class="position-relative">
-                <div class="container">
-                    <div class="banner-product-first">
-                        <img src="./assets/products/samsung-flip/banner.webp" alt="product image" class="img-fluid">
-                        <div class="product-banner z-9">
-                            <div class="container">
-                                <div class="row justify-content-center">
-                                    <div class="product-banner-content">
-                                        <h1 class="product-name">Samsung Flip</h1>
-
+          
+            <div id="banner-trigger">
+                <section id="product-banner">
+                    <div class="container">
+                        <div class="row g-5 align-items-center justify-content-center">
+                            <div class="col-lg-7">
+                                <div class="banner-product-img">
+                                    <img src="./assets/products/ms-surface-hub/hub-2s.webp" alt="">
+                                </div>
+                            </div>
+                            <div class="col-lg-5">
+                                <div class="banner-product-content">
+                                    <span>Introducing</span>
+                                    <h1 class="product-banner-title">Samsung Flip</h1>
+                                    <p class="product-banner-sub-title">Bring ideas to life with an interactive display and collaboration tools</p>
+                                    <div class="product-banner-btn">
+                                        <button>Explore</button>
+                                    </div>
+                                    <div class="scroll">
+                                        <img src="./assets/common/banner-arrow.svg" alt="">
+                                        <p>scroll</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="py-4">
+                </section>
+    
+                <section class="sec-padding z-9" id="experience">
                     <div class="container">
-                        <!-- <h2 class="section-sub-heading">Bring ideas to life with an interactive display<br> and
-                            collaboration tools.</h2> -->
-                        <div class="row justify-content-center py-3">
-                            <div class="col-md-3">
-                                <div class="line"></div>
+                        <div class="row align-items-center g-4 g-md-0">
+                            <div class="col-md-6 br-1">
+                                <h2 class="section-title m-0">Experience the<br>
+                                Samsung Flip</h2>
                             </div>
-                            <div class="col-md-9">
-                                <h2 class="section-title">Bring ideas to life with an interactive display<br> and
-                                    collaboration tools.</h2>
-                                <p>
-                                    Samsung Flip makes teamwork more creative and collaborative. Its
-                                    writing, drawing and editing tools help express ideas better while
-                                    making presentations more engaging. Features that improve security,
-                                    content sharing, display, and multi-user experiences ensure that
-                                    working or learning together feels inclusive and productive.
-
-                                </p>
-
+                            <div class="col-md-6 ps-lg-5">
+                                <p class="m-0">From businesses to schools and retail outlets to hospitals, our audiovisual
+                                    solutions can be customised</p>
                             </div>
-                        </div>
-                    </div>
-
-                </div>
-
-
-            </section>
-
-            <section class="sec-padding" id="experience">
-                <div class="container">
-                    <div class="row align-items-center g-4 g-md-0">
-                        <div class="col-md-6 br-1">
-                            <h2 class="section-title m-0">Experience the<br>
-                                Samsung Flip </h2>
-                        </div>
-                        <div class="col-md-6 ps-lg-5">
-                            <p class="m-0">From businesses to schools and retail outlets to hospitals, our audiovisual
-                                solutions can be customised</p>
-                        </div>
-                        <div class="product-feature-img">
-                            <img src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp" alt="">
-                            <div class="feature-marker-1 active" onmouseover="showFeature(1)">
-                                <span>1</span>
-                                <div class="ripple"></div>
-                            </div>
-                            <div class="feature-marker-2" onmouseover="showFeature(2)">
-                                <span>2</span>
-                                <div class="ripple"></div>
-                            </div>
-                            <div class="feature-marker-3" onmouseover="showFeature(3)"><span>3</span>
-                                <div class="ripple"></div>
-                            </div>
-                            <div class="feature-marker-4" onmouseover="showFeature(4)"><span>4</span>
-                                <div class="ripple"></div>
-                            </div>
-                            <div class="each-feature-det f-1">
-                                <span>01</span>
-                                <div class="content">
-                                    <h3>Surface Hub Smart Camera</h3>
-                                    <p>The AI-enabled camera's aperture and ultra-wide field of view of 136 degrees,
-                                        renders everything in focus, near and far.</p>
+                            <div class="product-feature-img">
+                                <img src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp" alt="">
+                                <div class="feature-marker-1 active" onmouseover="showFeature(1)">
+                                    <span>1</span>
+                                    <div class="ripple"></div>
                                 </div>
-                            </div>
-                            <div class="each-feature-det f-2">
-                                <span>02</span>
-                                <div class="content">
-                                    <h3>Second feature</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, itaque! Harum,
-                                        molestias.</p>
+                                <div class="feature-marker-2" onmouseover="showFeature(2)">
+                                    <span>2</span>
+                                    <div class="ripple"></div>
+                                </div>
+                                <div class="feature-marker-3" onmouseover="showFeature(3)"><span>3</span>
+                                    <div class="ripple"></div>
+                                </div>
+                                <div class="feature-marker-4" onmouseover="showFeature(4)"><span>4</span>
+                                    <div class="ripple"></div>
+                                </div>
+                                <div class="each-feature-det f-1">
+                                    <span>01</span>
+                                    <div class="content">
+                                        <h3>Surface Hub Smart Camera</h3>
+                                        <p>The AI-enabled camera's aperture and ultra-wide field of view of 136 degrees,
+                                            renders everything in focus, near and far.</p>
+                                    </div>
+                                </div>
+                                <div class="each-feature-det f-2">
+                                    <span>02</span>
+                                    <div class="content">
+                                        <h3>Second feature</h3>
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, itaque! Harum,
+                                            molestias.</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            </section>
+                </section>
 
-            <section class="sec-padding">
+            </div>
+
+            <section class="sec-padding bg-white z-9">
                 <div class="d-sm-block z-9">
                     <div class="continer p-0">
                         <div class="product-banner-img position-relative">
@@ -141,7 +126,7 @@
                             <div class="product-img-container">
                                 <div class="product-imgs">
                                     <div class="product-img">
-                                        <img src="./assets/products/samsung-flip/banner.webp" alt="product image"
+                                        <img src="./assets/products/samsung-flip/samsung-flip-contact.webp" alt="product image"
                                             class="img-fluid">
                                     </div>
                                 </div>
@@ -282,20 +267,12 @@
                             </div>
                             <div class="right">
                                 <div class="photos">
-                                    <!-- <div class="each-feature-card d-none">
-                                        <div class="container h-100">
-                                            <div class="row align-items-center justify-content-md-center h-100">
-                                                <div class="intro-card">
-                                                    <h2>Know the product<br> features</h2>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div> -->
+                                    
                                     <div class="each-feature-card">
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp"
+                                                    <img src="./assets/products/samsung-flip/samsung-flip-f-1.jpg"
                                                         alt="">
                                                     <div class="content">
                                                         <!-- <img src="./assets/logos/ouline.svg" alt=""> -->
@@ -311,14 +288,12 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-4.webp"
+                                                    <img src="./assets/products/samsung-flip/samsung-flip-f-2.jpg"
                                                         alt="">
                                                     <div class="content">
                                                         <!-- <img src="./assets/logos/ouline.svg" alt="">
                                                         <h3>Instant meetings on Microsoft Teams</h3> -->
-                                                        <p>Purpose-built Microsoft Teams loads automatically, allowing
-                                                            approved participants to sign in without waiting for
-                                                            authentication.</p>
+                                                        <p>Samsung Flip provides users with a smooth and familiar pen to paper writing experience in a variety of available colors, styles and widths. Up to 4 people can write simultaneously, using any object as a writing tool.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -328,14 +303,12 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-3.webp"
+                                                    <img src="./assets/products/samsung-flip/samsung-flip-f-3.avif"
                                                         alt="">
                                                     <div class="content">
 
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>Microsoft Whiteboard, a collaborative digital canvas with a
-                                                            best-in-class pen inking experience, helps teams visualise
-                                                            ideas and collaborate.</p>
+                                                        <p>Samsung Flip can be used for a wide range of business applications, providing embedded versatile templates. You can use the Flip as a calendar, scheduler, note or checklist board.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -467,7 +440,7 @@
             const buttonTimeline = gsap.timeline({
                 scrollTrigger: {
                     trigger: "#button-trigger",
-                    start: "top 75%",
+                    start: "top 50%",
                     end: "bottom 40%",
                     // markers: true,
                     // scrub: true,
@@ -517,7 +490,7 @@
     </script>
 
     <script>
-    // <!-- -------------------------------------------------------for mouse positioning--------------------------------------------- -->
+    // <!-- ------------------------------for mouse positioning--------------------------------------------- -->
 
     const parallaxSection = document.querySelector('.product-det');
     const parallaxImages = document.querySelectorAll('.zoomIn-button');
