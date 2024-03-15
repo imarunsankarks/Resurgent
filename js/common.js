@@ -1,34 +1,3 @@
-const bannerTimeline = gsap.timeline({
-  scrollTrigger: {
-    trigger: "#banner-trigger",
-    start: "top top",
-    end: "center center",
-    // pin: '#horizontal-scoll',
-    scrub: true,
-    markers: false,
-    invalidateOnRefresh: true,
-  },
-});
-// bannerTimeline.to(".banner-title", {
-//   scale: 1.1,
-//   x: () => 420,
-// });
-bannerTimeline.to(
-  ".banner-product-img img",
-  {
-    y: () => 300,
-    scale: 2,
-  },
-  "<"
-);
-bannerTimeline.to(
-  ".banner-shape-element:nth-child(2)",
-  {
-    y: () => 500,
-  },
-  "<"
-);
-
 
 if (window.innerWidth > 768) {
   let horizontalSection = document.querySelector('#product-banner');
@@ -65,8 +34,8 @@ if (window.innerWidth > 768) {
         const mouseY = e.clientY - parallaxBanner.getBoundingClientRect().top;
 
         parallaxBannerImgs.forEach((image, index) => {
-            const x = (mouseX - centerX) * (index + 1) * 0.05;
-            const y = (mouseY - centerY) * (index + 1) * 0.05;
+            const x = (mouseX - centerX) * (index + 1) * 0.02;
+            const y = (mouseY - centerY) * (index + 1) * 0.02;
             image.style.transform = `translate(${x}px, ${y}px)`;
         });
     });

@@ -611,7 +611,7 @@
     justify-content: center;
   }
   .product-det .content {
-    background: #f3f3f3;
+    background: #ffffff;
     backdrop-filter: blur(0px);
     height: 100%;
     width: 90%;
@@ -624,7 +624,11 @@
     border-radius: 15px;
     z-index: 9;
     margin: 0 20px;
+    flex-direction: column;
   }
+  .product-det .content h2 {
+    font-size: 30px;
+}
   .product-banner-content {
     display: flex;
     flex-direction: column;

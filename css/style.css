@@ -12,6 +12,7 @@
   --theme-blue: #0d335d;
   --theme-sblue: #18bcf3;
   --border-rad:15px;
+  --animate-delay: 0.1s;
 }
 
 body {
@@ -34,6 +35,17 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+.animate__one{
+  --animate-duration: .5s;
+}
+
+.animate__two{
+  --animate-duration: 1s;
+}
+
+.animate__three{
+  --animate-duration: 1.5s;
+}
 
 
 ::-webkit-scrollbar {
@@ -63,6 +75,7 @@ h6 {
   position: relative;
   z-index: 1;
   color: var(--theme-blue);
+  text-transform: capitalize;
 }
 
 .section-sub-heading {
@@ -989,6 +1002,7 @@ h6 {
   font-size: 20px;
   color: var(--theme-blue);
   font-weight: 600;
+  text-transform: capitalize;
 }
 
 .why-card .why-second-head {
@@ -1011,7 +1025,7 @@ h6 {
 
 /* --------------------------------------------------cta------------------------------------------ */
 .cta {
-  background: url(../assets/home/education.jpg);
+  background: url(../assets/common/cta.jpg);
   /* height: 400px; */
   background-repeat: no-repeat;
   background-attachment: fixed;

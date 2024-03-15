@@ -36,7 +36,7 @@
 
     <div class="viewport">
         <main>
-          
+
             <div id="banner-trigger">
                 <section id="product-banner">
                     <div class="container">
@@ -48,11 +48,16 @@
                             </div>
                             <div class="col-lg-5">
                                 <div class="banner-product-content">
-                                    <span>Introducing</span>
+                                    <!-- <span>Introducing</span> -->
+                                    <!-- <p class="product-banner-sub-title">Bring ideas to life with an interactive display
+                                        and collaboration tools</p> -->
                                     <h1 class="product-banner-title">Samsung Flip</h1>
-                                    <p class="product-banner-sub-title">Bring ideas to life with an interactive display and collaboration tools</p>
-                                    <div class="product-banner-btn">
-                                        <button>Explore</button>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, magni laborum? Sed
+                                        corrupti blanditiis sapiente commodi rerum obcaecati libero perferendis.</p>
+                                    <div class="banner-button1 button-hover1 cta-btn">
+                                        <div class="circle-large"></div>
+                                        <button>learn more</button>
+                                        <div class="btn-bg-black"></div>
                                     </div>
                                     <div class="scroll">
                                         <img src="./assets/common/banner-arrow.svg" alt="">
@@ -63,16 +68,17 @@
                         </div>
                     </div>
                 </section>
-    
+
                 <section class="sec-padding z-9" id="experience">
                     <div class="container">
                         <div class="row align-items-center g-4 g-md-0">
                             <div class="col-md-6 br-1">
                                 <h2 class="section-title m-0">Experience the<br>
-                                Samsung Flip</h2>
+                                    Samsung Flip</h2>
                             </div>
                             <div class="col-md-6 ps-lg-5">
-                                <p class="m-0">From businesses to schools and retail outlets to hospitals, our audiovisual
+                                <p class="m-0">From businesses to schools and retail outlets to hospitals, our
+                                    audiovisual
                                     solutions can be customised</p>
                             </div>
                             <div class="product-feature-img">
@@ -126,12 +132,11 @@
                             <div class="product-img-container">
                                 <div class="product-imgs">
                                     <div class="product-img">
-                                        <img src="./assets/products/samsung-flip/samsung-flip-contact.webp" alt="product image"
-                                            class="img-fluid">
+                                        <img src="./assets/products/samsung-flip/samsung-flip-contact.webp"
+                                            alt="product image" class="img-fluid">
                                     </div>
                                 </div>
                                 <div class="product-det">
-                                    <h1 class="product-name-mob d-md-none">Samsung<br> Flip</h1>
                                     <div class="content">
                                         <h2>To know more</h2>
                                         <div class="zoomIn-button">
@@ -267,7 +272,7 @@
                             </div>
                             <div class="right">
                                 <div class="photos">
-                                    
+
                                     <div class="each-feature-card">
                                         <div class="container h-100">
                                             <div class="row h-100">
@@ -293,7 +298,10 @@
                                                     <div class="content">
                                                         <!-- <img src="./assets/logos/ouline.svg" alt="">
                                                         <h3>Instant meetings on Microsoft Teams</h3> -->
-                                                        <p>Samsung Flip provides users with a smooth and familiar pen to paper writing experience in a variety of available colors, styles and widths. Up to 4 people can write simultaneously, using any object as a writing tool.</p>
+                                                        <p>Samsung Flip provides users with a smooth and familiar pen to
+                                                            paper writing experience in a variety of available colors,
+                                                            styles and widths. Up to 4 people can write simultaneously,
+                                                            using any object as a writing tool.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -308,7 +316,10 @@
                                                     <div class="content">
 
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>Samsung Flip can be used for a wide range of business applications, providing embedded versatile templates. You can use the Flip as a calendar, scheduler, note or checklist board.</p>
+                                                        <p>Samsung Flip can be used for a wide range of business
+                                                            applications, providing embedded versatile templates. You
+                                                            can use the Flip as a calendar, scheduler, note or checklist
+                                                            board.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -509,6 +520,27 @@
             image.style.transform = `translate(${x}px, ${y}px)`;
         });
     });
+    </script>
+
+    <script>
+    const bannerTimeline = gsap.timeline({
+        scrollTrigger: {
+            trigger: "#banner-trigger",
+            start: "top top",
+            end: "center center",
+            scrub: true,
+            markers: false,
+            invalidateOnRefresh: true,
+        },
+    });
+
+    bannerTimeline.to(
+        ".banner-product-img img", {
+            y: () => 300,
+            scale: 2,
+        },
+        "<"
+    );
     </script>
 
 </body>

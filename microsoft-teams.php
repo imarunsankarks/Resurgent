@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.2/css/bootstrap.min.css" rel="stylesheet"
         crossorigin>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/2.1.1/animate.min.css" />
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
     <link rel="stylesheet"
@@ -36,59 +36,19 @@
 
     <div class="viewport">
         <main>
-            <!-- <section class="position-relative">
-                <div class="container">
-                    <div class="banner-product-first">
-                        <img src="./assets/products/samsung-flip/banner.webp" alt="product image" class="img-fluid">
-                        <div class="product-banner z-9">
-                            <div class="container">
-                                <div class="row justify-content-center">
-                                    <div class="product-banner-content">
-                                        <h1 class="product-name">Samsung Flip</h1>
 
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="py-4">
-                    <div class="container">
-                       
-                        <div class="row justify-content-center py-3">
-                            <div class="col-md-3">
-                                <div class="line"></div>
-                            </div>
-                            <div class="col-md-9">
-                                <h2 class="section-title">Bring ideas to life with an interactive display<br> and
-                                    collaboration tools.</h2>
-                                <p>
-                                    Samsung Flip makes teamwork more creative and collaborative. Its
-                                    writing, drawing and editing tools help express ideas better while
-                                    making presentations more engaging. Features that improve security,
-                                    content sharing, display, and multi-user experiences ensure that
-                                    working or learning together feels inclusive and productive.
-
-                                </p>
-
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </section> -->
             <div id="banner-trigger">
                 <section id="product-banner">
                     <div class="container">
                         <div class="row g-5 align-items-center justify-content-center">
                             <div class="col-lg-7">
                                 <div class="banner-product-img">
-                                    <img src="./assets/products/ms-surface-hub/hub-2s.webp" alt="" class="wow animate__animated animate__zoomIn">
+                                    <img src="./assets/products/ms-teams/ms-teams-banner.avif" alt="">
                                 </div>
                             </div>
                             <div class="col-lg-5">
                                 <div class="banner-product-content">
-                                    <h1 class="product-banner-title">Microsoft Surface Hub 2S</h1>
+                                    <h1 class="product-banner-title">Microsoft Teams</h1>
                                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, magni laborum? Sed
                                         corrupti blanditiis sapiente commodi rerum obcaecati libero perferendis.</p>
                                     <div class="banner-button1 button-hover1 cta-btn">
@@ -111,7 +71,7 @@
                         <div class="row align-items-center g-4 g-md-0">
                             <div class="col-md-6 br-1">
                                 <h2 class="section-title m-0">Experience the<br>
-                                    Microsoft Surface Hub 2s</h2>
+                                    Samsung Flip</h2>
                             </div>
                             <div class="col-md-6 ps-lg-5">
                                 <p class="m-0">From businesses to schools and retail outlets to hospitals, our
@@ -169,7 +129,7 @@
                             <div class="product-img-container">
                                 <div class="product-imgs">
                                     <div class="product-img">
-                                        <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-contact.jpg"
+                                        <img src="./assets/products/ms-teams/ms-teams-contact.avif"
                                             alt="product image" class="img-fluid">
                                     </div>
                                 </div>
@@ -196,80 +156,49 @@
                     <div class="row mt-md-5">
                         <div class="col-md-4">
                             <div class="why-card">
-                                <h3>InGlass</h3>
+                                <h3>Chat</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Technology</h3>
+                                    <h3 class="why-second-head mb-0">Seamlessly</h3>
                                 </div>
-                                <p>Smooth inking experience with a wide palette of colours, strokes of varying
-                                    thickness, brush-mode with oil and water colours, and a multi-writing functionality
-                                    for up to 20 users.</p>
+                                <p>Users can create multiple chat groups, form channels for specific topics, contact one another through direct messaging, audio and video calls, write notes using rich text, GIFs and emoticons, and make announcements.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4">
                             <div class="why-card">
-                                <h3>Image editing and</h3>
+                                <h3>schedule</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Annotation</h3>
+                                    <h3 class="why-second-head mb-0">Meetings</h3>
                                 </div>
-                                <p>With an assortment of editing options, you can crop, merge and correct images. A
-                                    special note layer enables users to write comments on a document without affecting
-                                    its original content.</p>
+                                <p>Users can schedule meetings in advance and add participants, choose backgrounds, simultaneously view the primary Teams dashboard during presentations, highlight important participants, and use the Together mode to bring all the participants into the same virtual space.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4">
                             <div class="why-card">
-                                <h3>Screen</h3>
+                                <h3>Call</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Mirroring</h3>
+                                    <h3 class="why-second-head mb-0">Quality</h3>
                                 </div>
-                                <p>Samsung Flip can be synced with multiple devices. You could work on laptop files
-                                    directly using Flip, and the content on Flip can also be projected on larger
-                                    displays.</p>
+                                <p>Audio calls deliver excellent clarity using the Background Noise Compression feature. Voice calls can be made to internal and external contacts, while Microsoft 365 enables PSTN calls as well. Users can also route and queue calls with a cloud-based phone system.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4">
                             <div class="why-card">
-                                <h3>Easy access</h3>
+                                <h3>Effective</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">to files</h3>
+                                    <h3 class="why-second-head mb-0">Collaboration</h3>
                                 </div>
-                                <p>With Samsung Workspace, you can open and work on files on the cloud, while the
-                                    document viewer can directly open Word, PowerPoint and PDF files. You can also
-                                    access files via USB and browse the web.</p>
+                                <p>Microsoft Teams makes collaboration effortless by offering project management tools. Users can share even heavy files over cloud, access meeting transcripts, add Microsoft partner services and tools, and edit Microsoft Office files directly on the platform.</p>
                             </div>
                         </div>
 
-                        <div class="col-md-4">
-                            <div class="why-card">
-                                <h3>Enhanced safety</h3>
-                                <div class="d-flex align-items-center mb-2">
-                                    <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">and security</h3>
-                                </div>
-                                <p>Maintain confidentiality or lock WIP content with a six-digit password. Samsung Flip
-                                    also has antimicrobial coating and shatterproof film for easy handling and safety.
-                                </p>
-                            </div>
-                        </div>
-
-                        <div class="col-md-4">
-                            <div class="why-card">
-                                <h3>Wide industry</h3>
-                                <div class="d-flex align-items-center mb-2">
-                                    <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Applications</h3>
-                                </div>
-                                <p>Make classrooms more interactive, improve the impact of business presentations, and
-                                    engage customers with dynamic content in retail spaces with Samsung Flip.</p>
-                            </div>
-                        </div>
+                      
 
                     </div>
                 </div>
@@ -309,20 +238,12 @@
                             </div>
                             <div class="right">
                                 <div class="photos">
-                                    <!-- <div class="each-feature-card d-none">
-                                        <div class="container h-100">
-                                            <div class="row align-items-center justify-content-md-center h-100">
-                                                <div class="intro-card">
-                                                    <h2>Know the product<br> features</h2>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div> -->
+
                                     <div class="each-feature-card">
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp"
+                                                    <img src="./assets/products/samsung-flip/samsung-flip-f-1.jpg"
                                                         alt="">
                                                     <div class="content">
                                                         <!-- <img src="./assets/logos/ouline.svg" alt=""> -->
@@ -338,14 +259,15 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-4.webp"
+                                                    <img src="./assets/products/samsung-flip/samsung-flip-f-2.jpg"
                                                         alt="">
                                                     <div class="content">
                                                         <!-- <img src="./assets/logos/ouline.svg" alt="">
                                                         <h3>Instant meetings on Microsoft Teams</h3> -->
-                                                        <p>Purpose-built Microsoft Teams loads automatically, allowing
-                                                            approved participants to sign in without waiting for
-                                                            authentication.</p>
+                                                        <p>Samsung Flip provides users with a smooth and familiar pen to
+                                                            paper writing experience in a variety of available colors,
+                                                            styles and widths. Up to 4 people can write simultaneously,
+                                                            using any object as a writing tool.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -355,14 +277,15 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-3.webp"
+                                                    <img src="./assets/products/samsung-flip/samsung-flip-f-3.avif"
                                                         alt="">
                                                     <div class="content">
 
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>Microsoft Whiteboard, a collaborative digital canvas with a
-                                                            best-in-class pen inking experience, helps teams visualise
-                                                            ideas and collaborate.</p>
+                                                        <p>Samsung Flip can be used for a wide range of business
+                                                            applications, providing embedded versatile templates. You
+                                                            can use the Flip as a calendar, scheduler, note or checklist
+                                                            board.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -409,181 +332,181 @@
 
 
     <script>
-    new WOW().init();
+        new WOW().init();
     </script>
 
     <script>
-    function showFeature(arg) {
-        const testimonialClass = `.f-${arg}`;
-        const testimonial = document.querySelector(testimonialClass);
-        const featureMarkers = document.querySelectorAll('[class^="feature-marker-"]');
+        function showFeature(arg) {
+            const testimonialClass = `.f-${arg}`;
+            const testimonial = document.querySelector(testimonialClass);
+            const featureMarkers = document.querySelectorAll('[class^="feature-marker-"]');
 
-        featureMarkers.forEach(marker => {
-            marker.classList.remove("active");
-        });
-        const activeMarker = document.querySelector(`.feature-marker-${arg}`);
-        if (activeMarker) {
-            activeMarker.classList.add("active");
-        }
-
-        if (testimonial) {
-            const allTestimonials = document.querySelectorAll('.each-feature-det');
-            allTestimonials.forEach((t) => {
-                if (t !== testimonial) {
-                    t.style.opacity = 0;
-                }
+            featureMarkers.forEach(marker => {
+                marker.classList.remove("active");
             });
+            const activeMarker = document.querySelector(`.feature-marker-${arg}`);
+            if (activeMarker) {
+                activeMarker.classList.add("active");
+            }
 
-            testimonial.style.opacity = 1;
+            if (testimonial) {
+                const allTestimonials = document.querySelectorAll('.each-feature-det');
+                allTestimonials.forEach((t) => {
+                    if (t !== testimonial) {
+                        t.style.opacity = 0;
+                    }
+                });
+
+                testimonial.style.opacity = 1;
+            }
         }
-    }
     </script>
 
     <script>
-    // <!-- --------------for banner image and content------------------------------------------- -->
+        // <!-- --------------for banner image and content------------------------------------------- -->
 
-    document.addEventListener("DOMContentLoaded", function() {
+        document.addEventListener("DOMContentLoaded", function () {
+            if (window.innerWidth > 767) {
+                gsap.set(".product-img img", {
+                    x: () => {
+                        const imageWidth = window.innerWidth > 750 ? 700 : window.innerWidth * 0.9;
+                        const viewportWidth = window.innerWidth;
+                        const xValue = (viewportWidth - imageWidth) / 2;
+                        console.log(xValue);
+
+                        return xValue;
+                    },
+                    y: "-=25%",
+                    scale: 1,
+                    width: window.innerWidth > 750 ? 700 : '90vw',
+                    height: window.innerWidth > 750 ? 700 : '50vh',
+                    borderRadius: window.innerWidth > 750 ? '50%' : '25px'
+                });
+                const animation = gsap.to(".product-img img", {
+                    x: 0,
+                    y: "+=10%",
+                    scale: 1.2,
+                    duration: 1,
+                    width: '100%',
+                    height: '80vh',
+                    borderRadius: '0px',
+                    ease: "power1.inOut",
+                    stagger: 1,
+                });
+
+                ScrollTrigger.create({
+                    trigger: ".product-banner-img",
+                    start: "top top",
+                    end: "bottom bottom",
+                    pin: ".product-img-container",
+                    animation: animation,
+                    scrub: true,
+                    markers: false,
+                    threshold: 1,
+                });
+
+
+
+                gsap.set(".product-det", {
+                    opacity: 0,
+                    scale: 1,
+                    x: 0
+                });
+
+
+                const buttonTimeline = gsap.timeline({
+                    scrollTrigger: {
+                        trigger: "#button-trigger",
+                        start: "top 50%",
+                        end: "bottom 40%",
+                        // markers: true,
+                        // scrub: true,
+                        toggleActions: "play reverse play reverse",
+                    },
+                });
+
+                buttonTimeline.to(".product-det", {
+                    opacity: 1,
+                    scale: 1.2,
+                    x: "0%",
+                    duration: .3,
+                    ease: "power1.out"
+                });
+
+
+            }
+        })
+    </script>
+
+    <script>
         if (window.innerWidth > 767) {
-            gsap.set(".product-img img", {
-                x: () => {
-                    const imageWidth = window.innerWidth > 750 ? 700 : window.innerWidth * 0.9;
-                    const viewportWidth = window.innerWidth;
-                    const xValue = (viewportWidth - imageWidth) / 2;
-                    console.log(xValue);
-
-                    return xValue;
-                },
-                y: "-=25%",
-                scale: 1,
-                width: window.innerWidth > 750 ? 700 : '90vw',
-                height: window.innerWidth > 750 ? 700 : '50vh',
-                borderRadius: window.innerWidth > 750 ? '50%' : '25px'
+            gsap.set(".each-feature-card:not(:first-child)", {
+                x: "0%",
+                opacity: 0,
             });
-            const animation = gsap.to(".product-img img", {
-                x: 0,
-                y: "+=10%",
-                scale: 1.2,
-                duration: 1,
-                width: '100%',
-                height: '80vh',
-                borderRadius: '0px',
-                ease: "power1.inOut",
+
+            const animation = gsap.to(".each-feature-card:not(:first-child)", {
+                x: "0%",
+                opacity: 1,
+                duration: 0.5,
                 stagger: 1,
+                paused: true,
             });
 
             ScrollTrigger.create({
-                trigger: ".product-banner-img",
+                trigger: ".features-scroll",
                 start: "top top",
                 end: "bottom bottom",
-                pin: ".product-img-container",
+                pin: ".right",
                 animation: animation,
                 scrub: true,
-                markers: false,
-                threshold: 1,
+                // markers: true,
+                threshold: 0,
             });
-
-
-
-            gsap.set(".product-det", {
-                opacity: 0,
-                scale: 1,
-                x: 0
-            });
-
-
-            const buttonTimeline = gsap.timeline({
-                scrollTrigger: {
-                    trigger: "#button-trigger",
-                    start: "top 50%",
-                    end: "bottom 40%",
-                    // markers: true,
-                    // scrub: true,
-                    toggleActions: "play reverse play reverse",
-                },
-            });
-
-            buttonTimeline.to(".product-det", {
-                opacity: 1,
-                scale: 1.2,
-                x: "0%",
-                duration: .3,
-                ease: "power1.out"
-            });
-
-
         }
-    })
     </script>
 
     <script>
-    if (window.innerWidth > 767) {
-        gsap.set(".each-feature-card:not(:first-child)", {
-            x: "0%",
-            opacity: 0,
-        });
+        // <!-- ------------------------------for mouse positioning--------------------------------------------- -->
 
-        const animation = gsap.to(".each-feature-card:not(:first-child)", {
-            x: "0%",
-            opacity: 1,
-            duration: 0.5,
-            stagger: 1,
-            paused: true,
-        });
+        const parallaxSection = document.querySelector('.product-det');
+        const parallaxImages = document.querySelectorAll('.zoomIn-button');
 
-        ScrollTrigger.create({
-            trigger: ".features-scroll",
-            start: "top top",
-            end: "bottom bottom",
-            pin: ".right",
-            animation: animation,
-            scrub: true,
-            // markers: true,
-            threshold: 0,
+
+
+        parallaxSection.addEventListener('mousemove', (e) => {
+            const centerX = parallaxSection.offsetWidth / 2;
+            const centerY = parallaxSection.offsetHeight / 2;
+            const mouseX = e.clientX - parallaxSection.getBoundingClientRect().left;
+            const mouseY = e.clientY - parallaxSection.getBoundingClientRect().top;
+
+            parallaxImages.forEach((image, index) => {
+                const x = (mouseX - centerX) * (index + 1) * 0.08;
+                const y = (mouseY - centerY) * (index + 1) * 0.08;
+                image.style.transform = `translate(${x}px, ${y}px)`;
+            });
         });
-    }
     </script>
-
+<!-- --------------------------banner-animation------------------------- -->
     <script>
-    // <!-- -------------------------------------------------------for mouse positioning--------------------------------------------- -->
-
-    const parallaxSection = document.querySelector('.product-det');
-    const parallaxImages = document.querySelectorAll('.zoomIn-button');
-
-
-
-    parallaxSection.addEventListener('mousemove', (e) => {
-        const centerX = parallaxSection.offsetWidth / 2;
-        const centerY = parallaxSection.offsetHeight / 2;
-        const mouseX = e.clientX - parallaxSection.getBoundingClientRect().left;
-        const mouseY = e.clientY - parallaxSection.getBoundingClientRect().top;
-
-        parallaxImages.forEach((image, index) => {
-            const x = (mouseX - centerX) * (index + 1) * 0.08;
-            const y = (mouseY - centerY) * (index + 1) * 0.08;
-            image.style.transform = `translate(${x}px, ${y}px)`;
+        const bannerTimeline = gsap.timeline({
+            scrollTrigger: {
+                trigger: "#banner-trigger",
+                start: "top top",
+                end: "center center",
+                scrub: true,
+                markers: false,
+                invalidateOnRefresh: true,
+            },
         });
-    });
-    </script>
-    <!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script> -->
-    <script>
-    const bannerTimeline = gsap.timeline({
-        scrollTrigger: {
-            trigger: "#banner-trigger",
-            start: "top top",
-            end: "center center",
-            scrub: true,
-            markers: false,
-            invalidateOnRefresh: true,
-        },
-    });
-
-    bannerTimeline.to(
-        ".banner-product-img img", {
-            y: () => 300,
-            scale: 2,
-        },
-        "<"
-    );
+        bannerTimeline.to(
+            ".banner-product-img img",
+            {
+                y: () => 20,
+                scale: 1.3,
+            },
+            "<"
+        );
     </script>
 
 </body>

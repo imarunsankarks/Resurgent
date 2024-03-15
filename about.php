@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.2/css/bootstrap.min.css" rel="stylesheet"
         crossorigin>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/2.1.1/animate.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
     <link rel="stylesheet"
@@ -42,8 +42,9 @@
                     <div class="row position-relative justify-content-center align-items-center">
                         <div class="col-md-5">
                             <div class="common-banner-text p-0">
-                                <h1 class="common-banner-title">about us</h1>
-                                <h2 class="common-banner-sub">Pioneering the future<br> in integrated audiovisual<br> communication</h2>
+                                <h1 class="common-banner-title wow animate__animated animate__flipInX animate__delay-1s">about us</h1>
+                                <h2 class="common-banner-sub wow animate__animated animate__fadeInUp animate__delay-3s">Pioneering the future<br> in integrated audiovisual<br>
+                                    communication</h2>
                             </div>
 
                         </div>
@@ -51,10 +52,9 @@
 
                             <div class="banner-shape">
                                 <img src="./assets/home/micro.webp" alt="">
-                                <div class="circle-1"></div>
-                                <div class="circle-text position-relative">
-                                </div>
-                                <div class="circle-2"></div>
+                                <div class="circle-1 wow animate__animated animate__zoomIn animate__delay-3s"></div>
+                               
+                                <div class="circle-2 wow animate__animated animate__zoomIn animate__delay-3s"></div>
                             </div>
                         </div>
 
@@ -89,56 +89,62 @@
                             <div class="why-left">
                                 <div class="why-detailsWrapper">
                                     <div class="why-details why-details1">
-                                        <h2 class="section-title animate__animated animate__fadeInUp wow">Pioneering The
+                                        <h2 class="section-title">Pioneering The
                                             Future In <br>Integrated Audiovisual<br> Communication</h2>
 
                                     </div>
 
-                                    <div class="why-details">
+                                    <div class="why-details wow animate__animated animate__fadeInUp animate__delay-3s">
                                         <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
                                             Established in 2008</h3>
                                         <p class=" animate__animated animate__fadeInUp wow">
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde! Exercitationem, sunt.
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde!
+                                            Exercitationem, sunt.
                                         </p>
                                     </div>
 
-                                    <div class="why-details">
+                                    <div class="why-details wow animate__animated animate__fadeInUp animate__delay-3s">
                                         <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
                                             Established in 2008</h3>
                                         <p class=" animate__animated animate__fadeInUp wow">
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde! Exercitationem, sunt.
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde!
+                                            Exercitationem, sunt.
                                         </p>
                                     </div>
 
-                                    <div class="why-details">
+                                    <div class="why-details wow animate__animated animate__fadeInUp animate__delay-3s">
                                         <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
                                             Established in 2008</h3>
                                         <p class=" animate__animated animate__fadeInUp wow">
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde! Exercitationem, sunt.
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde!
+                                            Exercitationem, sunt.
                                         </p>
                                     </div>
 
-                                    <div class="why-details">
+                                    <div class="why-details wow animate__animated animate__fadeInUp animate__delay-3s">
                                         <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
                                             Established in 2008</h3>
                                         <p class=" animate__animated animate__fadeInUp wow">
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde! Exercitationem, sunt.
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde!
+                                            Exercitationem, sunt.
                                         </p>
                                     </div>
 
-                                    <div class="why-details">
+                                    <div class="why-details wow animate__animated animate__fadeInUp animate__delay-3s">
                                         <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
                                             Established in 2008</h3>
                                         <p class=" animate__animated animate__fadeInUp wow">
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde! Exercitationem, sunt.
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde!
+                                            Exercitationem, sunt.
                                         </p>
                                     </div>
 
-                                    <div class="why-details">
+                                    <div class="why-details wow animate__animated animate__fadeInUp animate__delay-3s">
                                         <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
                                             Established in 2008</h3>
                                         <p class=" animate__animated animate__fadeInUp wow">
-                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde! Exercitationem, sunt.
+                                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, unde!
+                                            Exercitationem, sunt.
                                         </p>
                                     </div>
 
@@ -156,7 +162,7 @@
                 <div class="container">
                     <div class="row g-5">
                         <div class="col-md-6">
-                            <div class="vision-mission-card">
+                            <div class="vision-mission-card wow animate__animated animate__fadeInUp animate__delay-3s">
                                 <h3 class="vm-head">Vision</h3>
                                 <div class="content z-9">
                                     <p>To equip our domestic and global customers with best-in-class technology
@@ -167,7 +173,7 @@
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <div class="vision-mission-card">
+                            <div class="vision-mission-card wow animate__animated animate__fadeInUp animate__delay-5s">
                                 <h3 class="vm-head">Mission</h3>
                                 <div class="content z-9">
                                     <p>Leverage decades of expertise and market leadership in the audiovisual,
@@ -187,8 +193,8 @@
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-md-10 text-md-center">
-                                    <h2 class="section-title">The Resurgent Team</h2>
-                                    <p>Resurgent was founded with the belief that better audiovisual solutions create
+                                    <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-3s">The Resurgent Team</h2>
+                                    <p class=" wow animate__animated animate__fadeInUp animate__delay-5s">Resurgent was founded with the belief that better audiovisual solutions create
                                         better human connections and business outcomes. As our team and technological
                                         capabilities continue to grow, our focus remains single-minded - elevating the
                                         communication experience through the finer details and exceptional service.</p>
@@ -198,7 +204,8 @@
                                     <div class="owl-carousel owl-theme owl-team">
                                         <div class="item">
                                             <div class="team-card">
-                                                <img src="https://resurgent.co.in/wp-content/uploads/2021/12/George-6@2x.png" alt="">
+                                                <img src="https://resurgent.co.in/wp-content/uploads/2021/12/George-6@2x.png"
+                                                    alt="">
                                                 <h3>Pulla Reddy</h3>
                                                 <span>Lead - Financial Analyst</span>
                                             </div>
@@ -252,7 +259,7 @@
                                                 <span>AVP - Project Controller</span>
                                             </div>
                                         </div>
-                                       
+
                                         <div class="item">
                                             <div class="team-card">
                                                 <img src="./assets/home/banner.jpg" alt="">
@@ -287,8 +294,8 @@
                 <div class="container">
                     <div class="row justify-content-center mb-3">
                         <div class="col-md-10 text-md-center">
-                            <h2 class="section-title">Our Affiliations</h2>
-                            <p>Memberships in the world's leading alliances and trade associations aren't just a
+                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-3s">Our Affiliations</h2>
+                            <p class=" wow animate__animated animate__fadeInUp animate__delay-5s">Memberships in the world's leading alliances and trade associations aren't just a
                                 recognition of the commitment and expertise that we bring to every project; they also
                                 help us augment our skills and network to offer greater value to our clients.</p>
 
@@ -296,22 +303,26 @@
                     </div>
                     <div class="row justify-content-center g-5">
                         <div class="col-md-6">
-                            <div class="affiliation-card">
-                                <img src="./assets/logos/psni.webp" alt="">
-                                <p>PSNI is the first and foremost worldwide alliance of audiovisual and UCC experts. The
-                                    elite partnership offers customers global best practices alongside local deployment
-                                    and support, and serves as an assurance of the best quality and processes.</p>
-                            </div>
+                            <a href="https://psni.org/">
+                                <div class="affiliation-card wow animate__animated animate__fadeInUp animate__delay-3s">
+                                    <img src="./assets/logos/psni.webp" alt="">
+                                    <p>PSNI is the first and foremost worldwide alliance of audiovisual and UCC experts. The
+                                        elite partnership offers customers global best practices alongside local deployment
+                                        and support, and serves as an assurance of the best quality and processes.</p>
+                                </div>
+                            </a>
                         </div>
                         <div class="col-md-6">
-                            <div class="affiliation-card avixa">
-                                <img src="./assets/logos/avixa.webp" alt="">
-                                <p>The Audiovisual and Integrated Experience Association (AVIXA) is the international
-                                    trade alliance that offers market intelligence, training and certifications in the
-                                    latest technological developments to its members. Our team regularly trains with
-                                    AVIXA in order to bring the latest know-how and highest standards to every project.
-                                </p>
-                            </div>
+                            <a href="https://www.avixa.org/">
+                                <div class="affiliation-card avixa wow animate__animated animate__fadeInUp animate__delay-5s">
+                                    <img src="./assets/logos/avixa.webp" alt="">
+                                    <p>The Audiovisual and Integrated Experience Association (AVIXA) is the international
+                                        trade alliance that offers market intelligence, training and certifications in the
+                                        latest technological developments to its members. Our team regularly trains with
+                                        AVIXA in order to bring the latest know-how and highest standards to every project.
+                                    </p>
+                                </div>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -321,8 +332,10 @@
                 <div class="container">
                     <div class="row justify-content-around text-md-center">
                         <div class="col-md-10">
-                            <h2 class="section-title">Our Partners</h2>
-                            <p>Our long-standing partnerships with the world's leading original equipment manufacturers (OEMs) enable us to integrate the latest technology into our offerings and consistently level up our expertise.</p>
+                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-3s">Our Partners</h2>
+                            <p class=" wow animate__animated animate__fadeInUp animate__delay-5s">Our long-standing partnerships with the world's leading original equipment manufacturers
+                                (OEMs) enable us to integrate the latest technology into our offerings and consistently
+                                level up our expertise.</p>
 
                         </div>
                         <div class="col-11 mt-4">
@@ -362,8 +375,9 @@
                 <div class="container">
                     <div class="row align-items-center justify-content-center g-4 g-md-5">
                         <div class="col-md-6">
-                            <h2 class="section-title">Certifications</h2>
-                            <p>Our technical team regularly trains with leading audiovisual experts and associations to stay at the forefront of innovation and maintain international service standards.</p>
+                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-3s">Certifications</h2>
+                            <p class=" wow animate__animated animate__fadeInUp animate__delay-5s">Our technical team regularly trains with leading audiovisual experts and associations to
+                                stay at the forefront of innovation and maintain international service standards.</p>
                         </div>
                         <div class="col-md-6">
                             <div class="all-certifications-logo">
@@ -403,7 +417,7 @@
 
     <script src="js/main.js"></script>
     <!-- <script src="js/home.js"></script> -->
-    <script src="js/common.js"></script>
+    <!-- <script src="js/common.js"></script> -->
 
 
 
@@ -499,6 +513,35 @@
         }
         // animateIn: 'fadeIn'
     });
+    </script>
+    <script>
+    const fetchPageContent = async (url) => {
+        try {
+            const response = await fetch(url);
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            const text = await response.text();
+            return text;
+        } catch (error) {
+            console.error('Error fetching page content:', error);
+            return null;
+        }
+    };
+    // searchWord = searchWord.toLowerCase()
+
+    const tester = async () => {
+        var pageContent = await fetchPageContent('about.php');
+        if (pageContent && pageContent.toLowerCase().includes('soltzns')) {
+            console.log('true');
+        } else {
+            console.log('no result');
+        }
+    };
+
+    
+
+    tester();
     </script>
 
 </body>

@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.2/css/bootstrap.min.css" rel="stylesheet"
         crossorigin>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/2.1.1/animate.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
     <link rel="stylesheet"
@@ -37,20 +37,20 @@
     <div class="viewport">
         <main id="main">
             <section class="sector-banner sec-padding">
-                <div class="sector-circle-1"></div>
+                <div class="sector-circle-1  wow animate__animated animate__zoomIn animate__delay-1s"></div>
                 <div class="container h-100 d-flex align-items-center">
                     <div class="row h-100 align-items-center position-relative g-5">
                         <div class="col-md-6">
                            <div class="sector-banner-left">
                             <img src="./assets/home/banner.jpg" alt="" class="sector-banner-img">
-                            <div class="sector-circle-2"></div>
+                            <div class="sector-circle-2 wow animate__animated animate__zoomIn animate__delay-3s"></div>
                            </div>
                         </div>
                         <div class="col-md-6">
                             <div class="sector-banner-content">
                                 <span>Integrated AV Solutions for</span>
-                                <h1>Business</h1>
-                                <p>Our corporate AV solutions help organisations stay ahead and agile, even as they expand globally and work cultures become increasingly hybrid. Audio-video integration no longer applies only to communication capabilities within a single space; instead, our AV solutions are designed to transcend spaces and connect people across multiple locations and devices, empowering teams as they work towards a common goal.</p>
+                                <h1 class="wow animate__animated animate__flipInX animate__delay-1s">Business</h1>
+                                <p class="wow animate__animated animate__fadeInUp animate__one">Our corporate AV solutions help organisations stay ahead and agile, even as they expand globally and work cultures become increasingly hybrid. Audio-video integration no longer applies only to communication capabilities within a single space; instead, our AV solutions are designed to transcend spaces and connect people across multiple locations and devices, empowering teams as they work towards a common goal.</p>
                             </div>
                         </div>
 
@@ -1078,9 +1078,9 @@
             <!-- ---------------------------------------------------features---------------------------------- -->
             <section class="sec-padding">
                 <div class="container">
-                    <h2 class="section-title text-md-center">Key Features</h2>
+                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp animate__delay-3s">Key Features</h2>
                     <div class="row mt-5">
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__delay-4s">
                             <div class="why-card">
                                 <h3>Connect teams</h3>
                                 <div class="d-flex align-items-center mb-2">
@@ -1092,7 +1092,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__delay-4s">
                             <div class="why-card">
                                 <h3>Increase impact and</h3>
                                 <div class="d-flex align-items-center mb-2">
@@ -1104,7 +1104,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__delay-4s">
                             <div class="why-card">
                                 <h3>Improve customer</h3>
                                 <div class="d-flex align-items-center mb-2">
@@ -1146,28 +1146,28 @@
                 <div class="container">
                     <div class="row align-items-center justify-content-center">
                         <div class="col-md-10 text-md-center">
-                            <h2 class="section-title">Related Products</h2>
-                            <p>Our corporate AV solutions help organizations stay ahead and agile, even as they expand
+                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-3s">Related Products</h2>
+                            <p class="wow animate__animated animate__fadeInUp animate__delay-5s">Our corporate AV solutions help organizations stay ahead and agile, even as they expand
                                 globally and work cultures become increasingly hybrid. Audio-video integration no longer
                                 applies only</p>
                         </div>
                         <div class="col-12 mt-4">
                             <div class="row g-5">
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__one">
                                     <div class="related-product-card">
                                         <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp" alt="" class="w-100">
                                         <p>Microsoft Surface Hub 2S</p>
                                         <a href="microsoft-surface-hub-2s.php"><i class="fas fa-arrow-right"></i></a>
                                     </div>
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__two ">
                                     <div class="related-product-card">
                                         <img src="./assets/products/ms-teams/stay-safe-and-work-hard.webp" alt="" class="w-100">
                                         <p>Microsoft Teams</p>
                                         <a href="microsoft-surface-hub-2s.php"><i class="fas fa-arrow-right"></i></a>
                                     </div>
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__three">
                                     <div class="related-product-card">
                                         <img src="./assets/products/crestron/crestron-1.webp" alt="" class="w-100">
                                         <p>Crestron Flex</p>

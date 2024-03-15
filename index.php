@@ -230,11 +230,11 @@
                         <div class="container">
                             <div class="row py-4 g-lg-0 g-4 align-items-center sectors-head">
                                 <div class="col-lg-6 br-1">
-                                    <h2 class="mb-0 section-title">Audio Visual
+                                    <h2 class="mb-0 section-title wow animate__animated animate__fadeInUp animate__delay-5s ">Audio Visual
                                         Solutions<br> for diverse sectors </h2>
                                 </div>
                                 <div class="col-lg-6">
-                                    <p class="ps-lg-5 mb-0">From businesses to schools and retail
+                                    <p class="ps-lg-5 mb-0 wow animate__animated animate__fadeInUp animate__delay-5s">From businesses to schools and retail
                                         outlets to hospitals, our
                                         audiovisual solutions can be customised to meet the specific
                                         requirements of
@@ -248,9 +248,9 @@
                             <div class="row pt-4">
                                 <div class="col-lg-6 col-md-12 d-none d-lg-block">
                                     <div class="services_content">
-                                        <h2 class="section-sub-heading">Corporate
+                                        <h2 class="section-sub-heading wow animate__animated animate__fadeInUp animate__delay-5s">Corporate
                                         </h2>
-                                        <p>
+                                        <p class=" wow animate__animated animate__fadeInUp animate__delay-7s">
                                             Our AV solutions for businesses are designed to transcend spaces and
                                             connect people across multiple locations and devices, empowering
                                             teams as they work towards a common goal.
@@ -527,7 +527,7 @@
                                         <a href="" aria-label="Explore our portfolio"
                                             class="d-flex align-items-center">
                                             <div class="mx-auto text-center">
-                                                <h2 class="section-title port_sec_title">Explore platforms <br>and
+                                                <h2 class="section-title wow animate__animated animate__flipInX animate__delay-.8s port_sec_title">Explore platforms <br>and
                                                     products
                                                 </h2>
                                             </div>
@@ -621,7 +621,7 @@
             <section class="z-9">
                 <div class="process-layer">
                     <div class="container p-lg-0 ">
-                        <h2 class="section-title text-center">End-to-end AV Integration Services</h2>
+                        <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-5s text-center">End-to-end AV Integration Services</h2>
                         <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto
                             perferendis fugit quod amet enim sequi nesciunt odio sapiente dolore labore.</p> -->
                         <div class="row justify-content-center">
@@ -699,62 +699,14 @@
 
             </section>
 
-            <!-- -----------------------------------------------counters------------------------------------- -->
-            <section class="counter-bg d-none">
-                <div class="counter-box">
-                    <div class="container-fluid">
-                        <div class="text-center">
-                            <h2 class="counter-t1">We are <span class="gradient-text">Resurgent</span></h2>
-                            <h2 class="counter-t2">Ultimate AV integrators.</h2>
-
-                        </div>
-                        <div class="row  justify-content-center align-items-center">
-                            <div class="col-4">
-                                <div
-                                    class="number-box counter-box animate__animated animate__fadeInLeft animate__delay-0.2s  wow">
-                                    <div class="d-flex align-items-center">
-                                        <div class="counter" data-count="15">0</div>
-                                        <h6>+</h6>
-                                    </div>
-                                    <p>Years of experience</p>
-                                </div>
-                            </div>
-                            <div class="col-4">
-                                <div
-                                    class="number-box counter-box animate__animated animate__fadeInLeft animate__delay-0.2s  wow">
-                                    <div class="d-flex align-items-center">
-                                        <div class="counter" data-count="120">0</div>
-                                        <h6>+</h6>
-                                    </div>
-                                    <p>Customers worldwide</p>
-                                </div>
-                            </div>
-                            <div class="col-4">
-                                <div
-                                    class="number-box counter-box animate__animated animate__fadeInLeft animate__delay-0.2s  wow">
-                                    <div class="d-flex align-items-center">
-                                        <div class="counter" data-count="883">0</div>
-                                        <h6>+</h6>
-                                    </div>
-                                    <p>Projects completed</p>
-                                </div>
-                            </div>
-
-                        </div>
-
-
-                    </div>
-
-                </div>
-            </section>
 
             <!-- ---------------------------------------------------why-us---------------------------------- -->
             <section class="sec-padding">
                 <div class="container">
-                    <h2 class="section-title text-md-center">Why Partner With Us</h2>
+                    <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-5s text-md-center">Why Partner With Us</h2>
                     <div class="row mt-md-5">
                         <div class="col-md-4">
-                            <div class="why-card">
+                            <div class="why-card wow animate__animated animate__fadeInUp animate__delay-5s">
                                 <h3>Technical</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
@@ -766,7 +718,7 @@
                         </div>
 
                         <div class="col-md-4">
-                            <div class="why-card">
+                            <div class="why-card wow animate__animated animate__fadeInUp animate__delay-5s">
                                 <h3>Exceptional</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
@@ -779,7 +731,7 @@
                         </div>
 
                         <div class="col-md-4">
-                            <div class="why-card">
+                            <div class="why-card wow animate__animated animate__fadeInUp animate__delay-5s">
                                 <h3>Human-centric</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
@@ -791,7 +743,7 @@
                         </div>
 
                         <div class="col-md-4">
-                            <div class="why-card">
+                            <div class="why-card wow animate__animated animate__fadeInUp animate__delay-5s">
                                 <h3>Prestigious</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
@@ -803,7 +755,7 @@
                         </div>
 
                         <div class="col-md-4">
-                            <div class="why-card">
+                            <div class="why-card wow animate__animated animate__fadeInUp animate__delay-5s">
                                 <h3>Partnerships with</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
@@ -815,13 +767,13 @@
                         </div>
 
                         <div class="col-md-4">
-                            <div class="why-card">
+                            <div class="why-card wow animate__animated animate__fadeInUp animate__delay-5s">
                                 <h3>Safety & </h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">Sanitation</h3>
                                 </div>
-                                <p>Our housekeeping team adheres to WHO guidelines for sanitization, follows the Timwood
+                                <p class="wow animate__animated animate__fadeInUp animate__delay-5s">Our housekeeping team adheres to WHO guidelines for sanitization, follows the Timwood
                                     Process for waste management, and upholds top-notch safety standards.</p>
                             </div>
                         </div>
@@ -857,8 +809,8 @@
                 <div class="container">
                     <div class="row justify-content-around text-md-center">
                         <div class="col-md-9">
-                            <h2 class="section-title">Our Clients</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. In similique nobis,
+                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-5s">Our Clients</h2>
+                            <p class=" wow animate__animated animate__fadeInUp animate__delay-5s">Lorem ipsum dolor sit amet consectetur, adipisicing elit. In similique nobis,
                                 necessitatibus reprehenderit maiores dolorem. Aperiam fuga harum sint, sequi
                                 perspiciatis cum totam sit ipsam error atque.</p>
 
@@ -903,7 +855,7 @@
                     <div class="container-fluid p-lg-0">
                         <div class="row align-items-center">
                             <div class="col-lg-4">
-                                <h2 class="section-title">
+                                <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-5s">
                                     See the latest news and feeds
                                 </h2>
                                 <a href="about.html" aria-label="Know about the company" class="d-lg-block d-none">

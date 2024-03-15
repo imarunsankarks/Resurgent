@@ -194,6 +194,10 @@
   border-radius: var(--border-rad);
   padding: 30px;
   height: 350px;
+  transition: all .4s ease;
+}
+.affiliation-card:hover{
+  transform: scale(1.03);
 }
 
 .affiliation-card img{
