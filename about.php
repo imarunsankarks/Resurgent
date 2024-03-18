@@ -42,8 +42,8 @@
                     <div class="row position-relative justify-content-center align-items-center">
                         <div class="col-md-5">
                             <div class="common-banner-text p-0">
-                                <h1 class="common-banner-title wow animate__animated animate__flipInX animate__delay-1s">about us</h1>
-                                <h2 class="common-banner-sub wow animate__animated animate__fadeInUp animate__delay-3s">Pioneering the future<br> in integrated audiovisual<br>
+                                <h1 class="common-banner-title wow animate__animated animate__flipInX animate__one">about us</h1>
+                                <h2 class="common-banner-sub wow animate__animated animate__fadeInUp animate__two">Pioneering the future<br> in integrated audiovisual<br>
                                     communication</h2>
                             </div>
 
@@ -52,9 +52,9 @@
 
                             <div class="banner-shape">
                                 <img src="./assets/home/micro.webp" alt="">
-                                <div class="circle-1 wow animate__animated animate__zoomIn animate__delay-3s"></div>
+                                <div class="circle-1 wow animate__animated animate__zoomIn animate__two"></div>
                                
-                                <div class="circle-2 wow animate__animated animate__zoomIn animate__delay-3s"></div>
+                                <div class="circle-2 wow animate__animated animate__zoomIn animate__three"></div>
                             </div>
                         </div>
 

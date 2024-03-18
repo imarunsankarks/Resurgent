@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.2/css/bootstrap.min.css" rel="stylesheet"
         crossorigin>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/2.1.1/animate.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
     <link rel="stylesheet"
@@ -43,17 +43,15 @@
                         <div class="row g-5 align-items-center justify-content-center">
                             <div class="col-lg-7">
                                 <div class="banner-product-img">
-                                    <img src="./assets/products/ms-surface-hub/hub-2s.webp" alt="">
+                                    <img src="./assets/products/ms-surface-hub/hub-2s.webp" alt=""
+                                        class="wow animate__animated animate__zoomIn">
                                 </div>
                             </div>
                             <div class="col-lg-5">
                                 <div class="banner-product-content">
-                                    <!-- <span>Introducing</span> -->
-                                    <!-- <p class="product-banner-sub-title">Bring ideas to life with an interactive display
-                                        and collaboration tools</p> -->
-                                    <h1 class="product-banner-title">Samsung Flip</h1>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, magni laborum? Sed
-                                        corrupti blanditiis sapiente commodi rerum obcaecati libero perferendis.</p>
+                                    <h1 class="product-banner-title wow animate__animated animate__flipInX">Samsung Flip
+                                    </h1>
+                                    <p class="wow animate__animated animate__fadeInUp">Samsung Flip boosts teamwork creativity and collaboration. Writing, drawing, and editing tools facilitate idea expression and engaging presentations. Enhanced security, content sharing, display, and multi-user features ensure inclusive and productive collaboration.</p>
                                     <div class="banner-button1 button-hover1 cta-btn">
                                         <div class="circle-large"></div>
                                         <button>learn more</button>
@@ -73,13 +71,11 @@
                     <div class="container">
                         <div class="row align-items-center g-4 g-md-0">
                             <div class="col-md-6 br-1">
-                                <h2 class="section-title m-0">Experience the<br>
+                                <h2 class="section-title m-0 wow animate__animated animate__fadeInUp">Experience the<br>
                                     Samsung Flip</h2>
                             </div>
                             <div class="col-md-6 ps-lg-5">
-                                <p class="m-0">From businesses to schools and retail outlets to hospitals, our
-                                    audiovisual
-                                    solutions can be customised</p>
+                                <p class="m-0 wow animate__animated animate__fadeInUp">Bring ideas to life with an interactive display and collaboration tools.</p>
                             </div>
                             <div class="product-feature-img">
                                 <img src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp" alt="">
@@ -155,9 +151,9 @@
             <!-- ---------------------------------------------------why-us---------------------------------- -->
             <section class="sec-padding pt-0">
                 <div class="container">
-                    <h2 class="section-title text-md-center">Product features</h2>
+                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">Product features</h2>
                     <div class="row mt-md-5">
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp">
                             <div class="why-card">
                                 <h3>InGlass</h3>
                                 <div class="d-flex align-items-center mb-2">
@@ -170,7 +166,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__two">
                             <div class="why-card">
                                 <h3>Image editing and</h3>
                                 <div class="d-flex align-items-center mb-2">
@@ -183,7 +179,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__three">
                             <div class="why-card">
                                 <h3>Screen</h3>
                                 <div class="d-flex align-items-center mb-2">
@@ -196,7 +192,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__four">
                             <div class="why-card">
                                 <h3>Easy access</h3>
                                 <div class="d-flex align-items-center mb-2">
@@ -209,7 +205,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__five">
                             <div class="why-card">
                                 <h3>Enhanced safety</h3>
                                 <div class="d-flex align-items-center mb-2">
@@ -222,7 +218,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__six">
                             <div class="why-card">
                                 <h3>Wide industry</h3>
                                 <div class="d-flex align-items-center mb-2">
@@ -282,8 +278,7 @@
                                                     <div class="content">
                                                         <!-- <img src="./assets/logos/ouline.svg" alt=""> -->
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>Collaborate anywhere with Steelcase Roam Mobile Stands and
-                                                            the APC Charge Mobile Battery3 for Surface Hub 2S 50"</p>
+                                                        <p>By simply clicking the note layer button, users can enjoy smooth writing anytime, anywhere on any content displayed, without affecting any work behind the original layer.</p>
                                                     </div>
                                                 </div>
                                             </div>

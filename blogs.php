@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.2/css/bootstrap.min.css" rel="stylesheet"
         crossorigin>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/2.1.1/animate.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
     <link rel="stylesheet"
@@ -42,8 +42,10 @@
                     <div class="row position-relative justify-content-center align-items-center">
                         <div class="col-md-5">
                             <div class="common-banner-text p-0">
-                                <h1 class="common-banner-title">our blogs</h1>
-                                <h2 class="common-banner-sub">We Aren't Just A Company, <br>We're A Community</h2>
+                                <h1 class="common-banner-title wow animate__animated animate__flipInX animate__one">
+                                    blogs</h1>
+                                <h2 class="common-banner-sub wow animate__animated animate__fadeInUp animate__two">
+                                AV communication's impact:<br> Key events and tech<br> for your business.</h2>
                             </div>
 
                         </div>
@@ -51,10 +53,9 @@
 
                             <div class="banner-shape">
                                 <img src="./assets/home/micro.webp" alt="">
-                                <div class="circle-1"></div>
-                                <div class="circle-text position-relative">
-                                </div>
-                                <div class="circle-2"></div>
+                                <div class="circle-1 wow animate__animated animate__zoomIn animate__two"></div>
+
+                                <div class="circle-2 wow animate__animated animate__zoomIn animate__three"></div>
                             </div>
                         </div>
 

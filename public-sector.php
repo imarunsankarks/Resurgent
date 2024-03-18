@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.2/css/bootstrap.min.css" rel="stylesheet"
         crossorigin>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/2.1.1/animate.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
     <link rel="stylesheet"
@@ -37,20 +37,20 @@
     <div class="viewport">
         <main id="main">
             <section class="sector-banner sec-padding">
-            <div class="sector-circle-1"></div>
+            <div class="sector-circle-1 wow animate__animated animate__zoomIn animate__two"></div>
                 <div class="container h-100 d-flex align-items-center">
                     <div class="row h-100 align-items-center position-relative g-5">
                     <div class="col-md-6">
                            <div class="sector-banner-left">
-                            <img src="./assets/home/banner.jpg" alt="" class="sector-banner-img">
-                            <div class="sector-circle-2"></div>
+                            <img src="./assets/home/public.webp" alt="" class="sector-banner-img">
+                            <div class="sector-circle-2 wow animate__animated animate__zoomIn animate__three"></div>
                            </div>
                         </div>
                         <div class="col-md-6">
                             <div class="sector-banner-content">
                                 <span>Integrated AV Solutions for</span>
-                                <h1>Public Sector</h1>
-                                <p>Agencies that administer large areas and deliver varied services to citizens require the latest audiovisual technology that is scalable yet precise. From command center audiovisual solutions that display high-quality multimedia content with zero latency to meeting room facilities that enable discussions with multiple local and remote participants, our offerings create the audiovisual infrastructure that's essential to the effective functioning of public sector agencies.</p>
+                                <h1 class="wow animate__animated animate__flipInX animate__two">Public Sector</h1>
+                                <p class="wow animate__animated animate__fadeInUp animate__two">Agencies that administer large areas and deliver varied services to citizens require the latest audiovisual technology that is scalable yet precise. From command center audiovisual solutions that display high-quality multimedia content with zero latency to meeting room facilities that enable discussions with multiple local and remote participants, our offerings create the audiovisual infrastructure that's essential to the effective functioning of public sector agencies.</p>
                             </div>
                         </div>
 
@@ -124,16 +124,7 @@
                                                                 alt="Wireframe" class="img-fluid" loading="lazy"
                                                                 width="100%" height="100%">
                                                         </div>
-                                                        <div class="item">
-                                                            <img src="./assets/solutions/public/board-room-2.webp"
-                                                                alt="Wireframe" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
-                                                        </div>
-                                                        <div class="item">
-                                                            <img src="./assets/solutions/public/board-room-3.webp"
-                                                                alt="Wireframe" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
-                                                        </div>
+                                                       
                                                         <div class="item">
                                                             <img src="./assets/solutions/public/board-room-4.webp"
                                                                 alt="Wireframe" class="img-fluid" loading="lazy"
@@ -391,9 +382,9 @@
             <!-- ---------------------------------------------------features---------------------------------- -->
             <section class="sec-padding">
                 <div class="container">
-                    <h2 class="section-title text-md-center">Key Features</h2>
+                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp animate__two">Key Features</h2>
                     <div class="row mt-5">
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__one">
                             <div class="why-card">
                                 <h3>Improve</h3>
                                 <div class="d-flex align-items-center mb-2">
@@ -404,7 +395,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__two">
                             <div class="why-card">
                                 <h3>Connect Multiple</h3>
                                 <div class="d-flex align-items-center mb-2">
@@ -415,7 +406,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__three">
                             <div class="why-card">
                                 <h3>Enjoy a </h3>
                                 <div class="d-flex align-items-center mb-2">
@@ -456,14 +447,14 @@
                 <div class="container">
                     <div class="row align-items-center justify-content-center">
                         <div class="col-md-10 text-md-center">
-                            <h2 class="section-title">Related Products</h2>
-                            <p>Our corporate AV solutions help organizations stay ahead and agile, even as they expand
+                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Related Products</h2>
+                            <p class="wow animate__animated animate__fadeInUp animate__two">Our corporate AV solutions help organizations stay ahead and agile, even as they expand
                                 globally and work cultures become increasingly hybrid. Audio-video integration no longer
                                 applies only</p>
                         </div>
                         <div class="col-12 mt-4">
                             <div class="row g-5">
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__one">
                                     <div class="related-product-card">
                                         <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp" alt=""
                                             class="w-100">
@@ -471,7 +462,7 @@
                                         <a href="microsoft-surface-hub-2s.php"><i class="fas fa-arrow-right"></i></a>
                                     </div>
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__two">
                                     <div class="related-product-card">
                                         <img src="./assets/products/zoom-rooms/zoom-room.webp" alt=""
                                             class="w-100">
@@ -479,7 +470,7 @@
                                         <a href="microsoft-surface-hub-2s.php"><i class="fas fa-arrow-right"></i></a>
                                     </div>
                                 </div>
-                                <div class="col-lg-4 col-md-6">
+                                <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__three">
                                     <div class="related-product-card">
                                         <img src="./assets/products/pads4/pads4.webp" alt="" class="w-100">
                                         <p>PADS4 Digital Signage Solutions</p>

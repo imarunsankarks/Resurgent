@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.2/css/bootstrap.min.css" rel="stylesheet"
         crossorigin>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/2.1.1/animate.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
     <link rel="stylesheet"
@@ -36,14 +36,17 @@
 
     <div class="viewport">
         <main id="main">
-           <!-- --------------------------------banner---------------------------------- -->
-           <section class="common-banner sec-padding">
+            <!-- --------------------------------banner---------------------------------- -->
+            <section class="common-banner sec-padding">
                 <div class="container">
                     <div class="row position-relative justify-content-center align-items-center">
                         <div class="col-md-5">
                             <div class="common-banner-text p-0">
-                                <h1 class="common-banner-title">careers</h1>
-                                <h2 class="common-banner-sub">We Aren't Just A Company, <br>We're A Community</h2>
+                                <h1 class="common-banner-title wow animate__animated animate__flipInX animate__one">
+                                    careers</h1>
+                                <h2 class="common-banner-sub wow animate__animated animate__fadeInUp animate__two">
+                                    Welcome to the technology<br>
+                                    company, that's all about<br> people</h2>
                             </div>
 
                         </div>
@@ -51,10 +54,9 @@
 
                             <div class="banner-shape">
                                 <img src="./assets/home/micro.webp" alt="">
-                                <div class="circle-1"></div>
-                                <div class="circle-text position-relative">
-                                </div>
-                                <div class="circle-2"></div>
+                                <div class="circle-1 wow animate__animated animate__zoomIn animate__two"></div>
+
+                                <div class="circle-2 wow animate__animated animate__zoomIn animate__three"></div>
                             </div>
                         </div>
 
@@ -105,11 +107,11 @@
                             </div>
                         </div>
                         <div class="col-lg-6 order-1 order-lg-2">
-                            <h2 class="section-title">We are Resurgent</h2>
-                            <p>Human centricity isn't just an approach we apply to our products and processes; instead,
+                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">We are Resurgent</h2>
+                            <p class=" wow animate__animated animate__fadeInUp animate__two">Human centricity isn't just an approach we apply to our products and processes; instead,
                                 it begins with our people. Resurgent is the sum total of professionals who believe in
                                 the impact of our work and the importance of doing it well.<br>
-                            <p>
+                            <p class=" wow animate__animated animate__fadeInUp animate__two">
                                 Resurgent was founded in 2008 and has grown significantly, with offices and clients
                                 across the globe. While our expertise evolves with every change in technology and
                                 business, our values remain constant because they are rooted in a universal truth - the
@@ -128,10 +130,10 @@
                         <div class="row g-5">
                             <div class="col-lg-4">
                                 <div class="first-card">
-                                    <h2 class="section-title">Our Core<br> Values</h2>
+                                    <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Our Core<br> Values</h2>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-4  wow animate__animated animate__fadeInUp animate__two">
                                 <div class="other-card">
                                     <div class="value-head">
                                         <img src="./assets/logos/core-value-1.svg" alt="">
@@ -141,44 +143,40 @@
                                         with responsibility, they respond by giving their best.</p>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-4  wow animate__animated animate__fadeInUp animate__two">
                                 <div class="other-card">
                                     <div class="value-head">
-                                        <img src="./assets/logos/core-value-1.svg" alt="">
-                                        <h3>Respect and Fairness</h3>
+                                        <img src="./assets/logos/integrity.svg" alt="">
+                                        <h3>Integrity</h3>
                                     </div>
-                                    <p>We believe that when people are treated with respect and fairness and entrusted
-                                        with responsibility, they respond by giving their best.</p>
+                                    <p>We are committed to being ethical in our dealings and always being accountable, thereby earning trust and regard.</p>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-4  wow animate__animated animate__fadeInUp animate__two">
                                 <div class="other-card">
                                     <div class="value-head">
-                                        <img src="./assets/logos/core-value-1.svg" alt="">
-                                        <h3>Respect and Fairness</h3>
+                                        <img src="./assets/logos/excellence.svg" alt="">
+                                        <h3>Quest for Excellence</h3>
                                     </div>
-                                    <p>We believe that when people are treated with respect and fairness and entrusted
-                                        with responsibility, they respond by giving their best.</p>
+                                    <p>We strive to consistently improve quality and performance standards while creating a work culture that's joyful, fulfilling and productive.</p>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-4  wow animate__animated animate__fadeInUp animate__two">
                                 <div class="other-card">
                                     <div class="value-head">
-                                        <img src="./assets/logos/core-value-1.svg" alt="">
-                                        <h3>Respect and Fairness</h3>
+                                        <img src="./assets/logos/member.svg" alt="">
+                                        <h3>Teamwork</h3>
                                     </div>
-                                    <p>We believe that when people are treated with respect and fairness and entrusted
-                                        with responsibility, they respond by giving their best.</p>
+                                    <p>By working together towards a common goal while respecting one another's uniqueness, we believe that everyone is able to achieve more.</p>
                                 </div>
                             </div>
-                            <div class="col-lg-4">
+                            <div class="col-lg-4  wow animate__animated animate__fadeInUp animate__two">
                                 <div class="other-card">
                                     <div class="value-head">
-                                        <img src="./assets/logos/core-value-1.svg" alt="">
-                                        <h3>Respect and Fairness</h3>
+                                        <img src="./assets/logos/customer.svg" alt="">
+                                        <h3>Total Customer Satisfaction</h3>
                                     </div>
-                                    <p>We believe that when people are treated with respect and fairness and entrusted
-                                        with responsibility, they respond by giving their best.</p>
+                                    <p>Our goal is to always delight our customers and exceed their expectations, with service that is as superior as our products and solutions.</p>
                                 </div>
                             </div>
                         </div>
@@ -190,8 +188,8 @@
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-md-10 text-md-center">
-                            <h2 class="section-title">Join Our Team</h2>
-                            <p>Resurgent was founded by a team that's inspired by the possibilities of audiovisual
+                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Join Our Team</h2>
+                            <p class=" wow animate__animated animate__fadeInUp animate__two">Resurgent was founded by a team that's inspired by the possibilities of audiovisual
                                 communication, and how these continue to evolve. Each new member has amplified this
                                 passion and curiosity, matching it with a commitment to exceptional service.</p>
                         </div>
@@ -302,7 +300,7 @@
                                     <a href="">View job details &nbsp; <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
-                        
+
                         </div>
                     </div>
                 </div>

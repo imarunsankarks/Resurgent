@@ -320,13 +320,13 @@
                                         <a href="sector.php">
                                             <div class="sticky-image one">
                                                 <picture>
-                                                    <source srcset="./assets/home/corporate.jpg" width="526"
+                                                    <source srcset="./assets/home/corporate.webp" width="526"
                                                         height="370" alt="Custom Web Development company in bangalore"
                                                         class="lazyload" loading="lazy">
-                                                    <source srcset="./assets/home/corporate.jpg" width="526"
+                                                    <source srcset="./assets/home/corporate.webp" width="526"
                                                         height="370" alt="Custom Web Development company in bangalore"
                                                         class="lazyload" loading="lazy">
-                                                    <img src="./assets/home/corporate.jpg" class="lazyload"
+                                                    <img src="./assets/home/corporate.webp" class="lazyload"
                                                         loading="lazy" width="526" height="370"
                                                         alt="Custom Web Development company in bangalore"
                                                         class="img-fluid">
@@ -340,11 +340,11 @@
                                         </a>
                                         <div class="sticky-image two">
                                             <picture>
-                                                <source srcset="./assets/home/education.jpg" width="526" height="370"
+                                                <source srcset="./assets/home/education.webp" width="526" height="370"
                                                     alt="Custom Web Development" class="lazyload" loading="lazy">
-                                                <source srcset="./assets/home/education.jpg" width="526" height="370"
+                                                <source srcset="./assets/home/education.webp" width="526" height="370"
                                                     alt="Custom Web Development" class="lazyload" loading="lazy">
-                                                <img src="./assets/home/education.jpg" class="lazyload" loading="lazy"
+                                                <img src="./assets/home/education.webp" class="lazyload" loading="lazy"
                                                     width="526" height="370" alt="Custom Web Development"
                                                     class="img-fluid">
                                             </picture>

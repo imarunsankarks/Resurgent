@@ -36,61 +36,22 @@
 
     <div class="viewport">
         <main>
-            <!-- <section class="position-relative">
-                <div class="container">
-                    <div class="banner-product-first">
-                        <img src="./assets/products/samsung-flip/banner.webp" alt="product image" class="img-fluid">
-                        <div class="product-banner z-9">
-                            <div class="container">
-                                <div class="row justify-content-center">
-                                    <div class="product-banner-content">
-                                        <h1 class="product-name">Samsung Flip</h1>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="py-4">
-                    <div class="container">
-                       
-                        <div class="row justify-content-center py-3">
-                            <div class="col-md-3">
-                                <div class="line"></div>
-                            </div>
-                            <div class="col-md-9">
-                                <h2 class="section-title">Bring ideas to life with an interactive display<br> and
-                                    collaboration tools.</h2>
-                                <p>
-                                    Samsung Flip makes teamwork more creative and collaborative. Its
-                                    writing, drawing and editing tools help express ideas better while
-                                    making presentations more engaging. Features that improve security,
-                                    content sharing, display, and multi-user experiences ensure that
-                                    working or learning together feels inclusive and productive.
-
-                                </p>
-
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </section> -->
             <div id="banner-trigger">
                 <section id="product-banner">
                     <div class="container">
                         <div class="row g-5 align-items-center justify-content-center">
                             <div class="col-lg-7">
                                 <div class="banner-product-img">
-                                    <img src="./assets/products/ms-surface-hub/hub-2s.webp" alt="" class="wow animate__animated animate__zoomIn">
+                                    <img src="./assets/products/ms-surface-hub/hub-2s.webp" alt=""
+                                        class="wow animate__animated animate__zoomIn">
                                 </div>
                             </div>
                             <div class="col-lg-5">
                                 <div class="banner-product-content">
-                                    <h1 class="product-banner-title">Microsoft Surface Hub 2S</h1>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, magni laborum? Sed
-                                        corrupti blanditiis sapiente commodi rerum obcaecati libero perferendis.</p>
+                                    <h1
+                                        class="product-banner-title  wow animate__animated animate__flipInX animate__two">
+                                        Microsoft Surface Hub 2S</h1>
+                                    <p class="wow animate__animated animate__fadeInUp animate__two">A versatile teamwork tool breaking boundaries. It's an interactive whiteboard doubling as a meeting screen, promoting cross-device collaboration with Microsoft 365, and leveraging cutting-edge tech for optimal sound and display.</p>
                                     <div class="banner-button1 button-hover1 cta-btn">
                                         <div class="circle-large"></div>
                                         <button>learn more</button>
@@ -110,13 +71,12 @@
                     <div class="container">
                         <div class="row align-items-center g-4 g-md-0">
                             <div class="col-md-6 br-1">
-                                <h2 class="section-title m-0">Experience the<br>
+                                <h2 class="section-title m-0 wow animate__animated animate__fadeInUp animate__two">
+                                    Experience the<br>
                                     Microsoft Surface Hub 2s</h2>
                             </div>
                             <div class="col-md-6 ps-lg-5">
-                                <p class="m-0">From businesses to schools and retail outlets to hospitals, our
-                                    audiovisual
-                                    solutions can be customised</p>
+                                <p class="m-0 wow animate__animated animate__fadeInUp animate__two">Meet, ideate and collaborate with Microsoft's interactive whiteboard and meeting platform</p>
                             </div>
                             <div class="product-feature-img">
                                 <img src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp" alt="">
@@ -192,82 +152,72 @@
             <!-- ---------------------------------------------------why-us---------------------------------- -->
             <section class="sec-padding pt-0">
                 <div class="container">
-                    <h2 class="section-title text-md-center">Product features</h2>
+                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp animate__two">Product features</h2>
                     <div class="row mt-md-5">
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__one">
                             <div class="why-card">
-                                <h3>InGlass</h3>
+                                <h3>Microsoft Whiteboard</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Technology</h3>
+                                    <h3 class="why-second-head mb-0">Enabled</h3>
                                 </div>
-                                <p>Smooth inking experience with a wide palette of colours, strokes of varying
-                                    thickness, brush-mode with oil and water colours, and a multi-writing functionality
-                                    for up to 20 users.</p>
+                                <p>Microsoft Whiteboard, a collaborative digital canvas with a best-in-class pen inking experience, helps teams visualise ideas and collaborate.</p>
                             </div>
                         </div>
 
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__two">
                             <div class="why-card">
-                                <h3>Image editing and</h3>
+                                <h3>Instant</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Annotation</h3>
+                                    <h3 class="why-second-head mb-0">Meetings</h3>
                                 </div>
-                                <p>With an assortment of editing options, you can crop, merge and correct images. A
-                                    special note layer enables users to write comments on a document without affecting
-                                    its original content.</p>
+                                <p>Purpose-built Microsoft Teams loads automatically, allowing approved participants to sign in without waiting for authentication.</p>
                             </div>
                         </div>
 
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__three">
                             <div class="why-card">
-                                <h3>Screen</h3>
+                                <h3>Pre-loaded with</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Mirroring</h3>
+                                    <h3 class="why-second-head mb-0">Microsoft 365</h3>
                                 </div>
-                                <p>Samsung Flip can be synced with multiple devices. You could work on laptop files
-                                    directly using Flip, and the content on Flip can also be projected on larger
-                                    displays.</p>
+                                <p>Use Microsoft's universally-applied software and tools to enhance creativity and teamwork, and add apps certified for Surface Hub.</p>
                             </div>
                         </div>
 
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__four">
                             <div class="why-card">
-                                <h3>Easy access</h3>
+                                <h3>Collaborate across</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">to files</h3>
+                                    <h3 class="why-second-head mb-0">devices</h3>
                                 </div>
-                                <p>With Samsung Workspace, you can open and work on files on the cloud, while the
-                                    document viewer can directly open Word, PowerPoint and PDF files. You can also
-                                    access files via USB and browse the web.</p>
+                                <p>Participants can join meetings using their own devices via Proximity Join. In larger spaces, multiple Surface Hubs can be connected to present diverse content.</p>
                             </div>
                         </div>
 
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__five">
                             <div class="why-card">
-                                <h3>Enhanced safety</h3>
+                                <h3>Portable and </h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">and security</h3>
+                                    <h3 class="why-second-head mb-0">battery-powered</h3>
                                 </div>
-                                <p>Maintain confidentiality or lock WIP content with a six-digit password. Samsung Flip
-                                    also has antimicrobial coating and shatterproof film for easy handling and safety.
+                                <p>The Steelcase Roam wall mount can be easily installed, while the mobile stand and APC Charge mobile battery allow the device to be moved between rooms
                                 </p>
                             </div>
                         </div>
 
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__six">
                             <div class="why-card">
-                                <h3>Wide industry</h3>
+                                <h3>Excellent</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Applications</h3>
+                                    <h3 class="why-second-head mb-0">audiovisual clarity</h3>
                                 </div>
-                                <p>Make classrooms more interactive, improve the impact of business presentations, and
-                                    engage customers with dynamic content in retail spaces with Samsung Flip.</p>
+                                <p>Equipped with a modular camera, two-way stereo speakers, pixel sense display and a native 4K resolution with anti-glare.</p>
                             </div>
                         </div>
 
@@ -309,15 +259,7 @@
                             </div>
                             <div class="right">
                                 <div class="photos">
-                                    <!-- <div class="each-feature-card d-none">
-                                        <div class="container h-100">
-                                            <div class="row align-items-center justify-content-md-center h-100">
-                                                <div class="intro-card">
-                                                    <h2>Know the product<br> features</h2>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div> -->
+                                
                                     <div class="each-feature-card">
                                         <div class="container h-100">
                                             <div class="row h-100">
@@ -341,11 +283,7 @@
                                                     <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-4.webp"
                                                         alt="">
                                                     <div class="content">
-                                                        <!-- <img src="./assets/logos/ouline.svg" alt="">
-                                                        <h3>Instant meetings on Microsoft Teams</h3> -->
-                                                        <p>Purpose-built Microsoft Teams loads automatically, allowing
-                                                            approved participants to sign in without waiting for
-                                                            authentication.</p>
+                                                        <p>With microsoft surface hub 2s, you will experience excellent sound quality and connectivity.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -360,9 +298,7 @@
                                                     <div class="content">
 
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>Microsoft Whiteboard, a collaborative digital canvas with a
-                                                            best-in-class pen inking experience, helps teams visualise
-                                                            ideas and collaborate.</p>
+                                                        <p>The 4k display and the full band 8-element MEMS linear microphone array capture facial expressions, body language and audio definition for a rich hybrid meeting experience.</p>
                                                     </div>
                                                 </div>
                                             </div>

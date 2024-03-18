@@ -36,7 +36,7 @@ h6 {
 }
 
 .animate__one{
-  --animate-duration: .5s;
+  --animate-duration: .75s;
 }
 
 .animate__two{
@@ -44,7 +44,18 @@ h6 {
 }
 
 .animate__three{
+  --animate-duration: 1.25s;
+}
+
+.animate__four{
   --animate-duration: 1.5s;
+}
+.animate__five{
+  --animate-duration: 1.75s;
+}
+
+.animate__six{
+  --animate-duration: 2s;
 }
 
 

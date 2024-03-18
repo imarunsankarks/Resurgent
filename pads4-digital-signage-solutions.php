@@ -43,13 +43,13 @@
                         <div class="row g-5 align-items-center justify-content-center">
                             <div class="col-lg-7">
                                 <div class="banner-product-img">
-                                    <img src="./assets/products/jabra/jabra-banner.png" alt="" class=" wow animate__animated animate__zoomIn">
+                                    <img src="./assets/products/pads4/pads4-digital-signage.png" alt="" class=" wow animate__animated animate__zoomIn">
                                 </div>
                             </div>
                             <div class="col-lg-5">
                                 <div class="banner-product-content">
-                                    <h1 class="product-banner-title wow animate__animated animate__flipInX">Jabra Panacast</h1>
-                                    <p class=" wow animate__animated animate__fadeInUp">Amidst today's challenges, video conferencing is crucial. PanaCast Series webcams facilitate safe, productive meetings adaptable to any 'new normal,' optimized for leading UC platforms like Microsoft Teams, Zoom, and Google Meet.</p>
+                                    <h1 class="product-banner-title wow animate__animated animate__flipInX">PADS4 Digital Signage</h1>
+                                    <p class=" wow animate__animated animate__fadeInUp">PADS4 is a digital signage software solution with a wide range of applications across industries, from internal communications in offices and wayfinding in hospitals to interactive touch screens displaying updates in malls and restaurants. </p>
                                     <div class="banner-button1 button-hover1 cta-btn">
                                         <div class="circle-large"></div>
                                         <button>learn more</button>
@@ -70,10 +70,10 @@
                         <div class="row align-items-center g-4 g-md-0">
                             <div class="col-md-6 br-1">
                                 <h2 class="section-title m-0 wow animate__animated animate__fadeInUp">Experience the<br>
-                                    Jabra Panacast</h2>
+                                    PADS4 Digital Signage</h2>
                             </div>
                             <div class="col-md-6 ps-lg-5">
-                                <p class="m-0 wow animate__animated animate__fadeInUp">Engineered to be the first new-normal-ready intelligent Webcam.</p>
+                                <p class="m-0 wow animate__animated animate__fadeInUp">Maximise the reach and results of your digital signage network.</p>
                             </div>
                             <div class="product-feature-img">
                                 <img src="./assets/products/jabra/panacast-features.webp" alt="">
@@ -126,7 +126,7 @@
                             <div class="product-img-container">
                                 <div class="product-imgs">
                                     <div class="product-img">
-                                        <img src="./assets/products/jabra/jabra-contact.webp"
+                                        <img src="./assets/products/pads4/pads4-f3.png"
                                             alt="product image" class="img-fluid">
                                     </div>
                                 </div>
@@ -153,67 +153,68 @@
                     <div class="row mt-md-5">
                         <div class="col-md-4 wow animate__animated animate__fadeInUp">
                             <div class="why-card">
-                                <h3>Flexible</h3>
+                                <h3>Message</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Use</h3>
+                                    <h3 class="why-second-head mb-0">customisation</h3>
                                 </div>
-                                <p>Work seamlessly with your team, no matter where they are located, ensuring instant collaboration.</p>
+                                <p>The PADS4 Designer offers you the tools to design your message, add web pages, rich text and PowerPoint presentations, animate the content as well as add video and audio.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__two">
                             <div class="why-card">
-                                <h3>intelligent </h3>
+                                <h3>Targeted audiences & </h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">180deg</h3>
+                                    <h3 class="why-second-head mb-0">scheduling</h3>
                                 </div>
-                                <p>Seamless connectivity for your team, regardless of the equipment they utilize, with the world's first intelligent 180° Panoramic-4K Video Solution.</p>
+                                <p>With the PADS4 Scheduler, you can specify the audience, timing and duration of each message by simply dragging and dropping your message into the calendar.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__three">
                             <div class="why-card">
-                                <h3>For All </h3>
+                                <h3>Delivery & performance</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Meeting Rooms</h3>
+                                    <h3 class="why-second-head mb-0">optimisation</h3>
                                 </div>
-                                <p>From Individual use to Boardrooms, Jabra Panacast webcam gives you the edge you need visually.</p>
+                                <p>PADS4 Agent monitors the delivery and performance of your messages, while also enabling you to remotely inspect the network, memory usage and more.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__four">
                             <div class="why-card">
-                                <h3>intelligent AI-enabled</h3>
+                                <h3>Real-time data</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">video conferencing</h3>
+                                    <h3 class="why-second-head mb-0">and smart tools</h3>
                                 </div>
-                                <p>AI-powered 4K Ultra-HD video Intelligent Zoom Intelligent Lighting Optimization Intuitive Picture-in-Picture mode.</p>
+                                <p>Whether it's measuring footfall and streamlining customer support in retail spaces through data or using occupancy sensors to optimise room and desk management in offices, </p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__five">
                             <div class="why-card">
-                                <h3>Changing </h3>
+                                <h3>Wide industry</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">ways of working</h3>
+                                    <h3 class="why-second-head mb-0">applications</h3>
                                 </div>
-                                <p>On-device processing & integrated privacy cover Optimized for all leading UC platforms.</p>
+                                <p>From corporate offices, transport hubs and retail outlets to restaurants and public spaces, manufacturing units and hotels</p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__six">
                             <div class="why-card">
-                                <h3>Discover the</h3>
+                                <h3>Dynamic and</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">difference</h3>
+                                    <h3 class="why-second-head mb-0">versatile</h3>
                                 </div>
-                                <p>Microsoft Teams and Zoom certify top devices for superior audio and user experience. Jabra exceeds these standards.</p>
+                                <p>
+                                    PADS4 software adapts to various functions: internal communication, meeting room scheduling, hotel and hospital kiosks, transport updates, and mall wayfinding.</p>
                             </div>
                         </div>
 
@@ -262,12 +263,10 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/jabra/jabra-panacast-50-whiteboard.jpg"
+                                                    <img src="./assets/products/pads4/pads4-f1.png"
                                                         alt="">
                                                     <div class="content">
-                                                        <!-- <img src="./assets/logos/ouline.svg" alt=""> -->
-                                                        <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>Precision voice detection and full duplex technology use intelligent algorithms to automatically identify and remove residual echo and static noise so everyone can get in on the action without accidentally talking all over each other.</p>
+                                                        <p>Easily create, share and update information on all your screens and make use of hundreds of sources from third parties to integrate real-time data such as weather, travel information, social media or infotainment.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -277,11 +276,9 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/jabra/jabra-panacast-f-2.webp"
+                                                    <img src="./assets/products/pads4/pads4-f2.png"
                                                         alt="">
                                                     <div class="content">
-                                                        <!-- <img src="./assets/logos/ouline.svg" alt="">
-                                                        <h3>Instant meetings on Microsoft Teams</h3> -->
                                                         <p>With PanaCast 50 you don't have to be in the room to be at the heart of the meeting.</p>
                                                     </div>
                                                 </div>
@@ -292,12 +289,10 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/jabra/jabra-panacast-f-3.webp"
+                                                    <img src="./assets/products/pads4/pads4-f4.png"
                                                         alt="">
                                                     <div class="content">
-
-                                                        <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>PanaCast 50 adapts to whatever space you're in, using four powerful speakers in a zero-vibration stereo setup to flood the room with premium high-definition sound.</p>
+                                                        <p>Easily create, share and update information on all your screens and make use of hundreds of sources from third parties to integrate real-time data such as weather, travel information, social media or infotainment.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -514,7 +509,7 @@
         bannerTimeline.to(
             ".banner-product-img img",
             {
-                x: () => 200,
+                x: () => 1,
                 scale: 1.5,
             },
             "<"

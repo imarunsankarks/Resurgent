@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.2/css/bootstrap.min.css" rel="stylesheet"
         crossorigin>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/2.1.1/animate.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
     <link rel="stylesheet"
@@ -42,8 +42,10 @@
                     <div class="row position-relative justify-content-center align-items-center">
                         <div class="col-md-5">
                             <div class="common-banner-text p-0">
-                                <h1 class="common-banner-title">culture</h1>
-                                <h2 class="common-banner-sub">We Aren't Just A Company, <br>We're A Community</h2>
+                                <h1 class="common-banner-title wow animate__animated animate__flipInX animate__one">
+                                    culture</h1>
+                                <h2 class="common-banner-sub wow animate__animated animate__fadeInUp animate__two">
+                                We aren't just a company,<br> we're a community</h2>
                             </div>
 
                         </div>
@@ -51,10 +53,9 @@
 
                             <div class="banner-shape">
                                 <img src="./assets/home/micro.webp" alt="">
-                                <div class="circle-1"></div>
-                                <div class="circle-text position-relative">
-                                </div>
-                                <div class="circle-2"></div>
+                                <div class="circle-1 wow animate__animated animate__zoomIn animate__two"></div>
+
+                                <div class="circle-2 wow animate__animated animate__zoomIn animate__three"></div>
                             </div>
                         </div>
 
@@ -71,18 +72,10 @@
                 <div class="container">
                     <div class="row py-4 pt-0 pt-md-4 align-items-center sectors-head g-4 g-md-0">
                         <div class="col-md-6 br-1">
-                            <h2 class="mb-0 section-title">Know the five R's of<br> Resurgent </h2>
+                            <h2 class="mb-0 section-title wow animate__animated animate__fadeInUp animate__two">Know the five R's of<br> Resurgent </h2>
                         </div>
                         <div class="col-md-6">
-                            <p class="ps-md-5 mb-0">From businesses to schools and retail
-                                outlets to hospitals, our
-                                audiovisual solutions can be customised to meet the specific
-                                requirements of
-                                different industries.</p>
-                        </div>
-                        <div class="arrow-down z-9 text-center arrow-sector">
-                            <p>Scroll Down</p>
-                            <img src="./assets/home/arrow2.svg" alt="">
+                            <p class="ps-md-5 mb-0 wow animate__animated animate__fadeInUp animate__two">The five values form the bedrock of our culture, guiding how we engage with clients, partners and one another. Every member of our team, called a Surger, embodies this ethos as an individual, thereby shaping who we are as a company.</p>
                         </div>
                     </div>
                 </div>
@@ -141,8 +134,8 @@
                     <div class="box-content sec-padding pmob-12">
                         <div class="row justify-content-center">
                             <div class="col-md-10 text-md-center">
-                                <h2 class="section-title">Stay Connected</h2>
-                                <p>We're a technology company that celebrates the power and potential of human
+                                <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Stay Connected</h2>
+                                <p class="wow animate__animated animate__fadeInUp animate__two">We're a technology company that celebrates the power and potential of human
                                     connection. That's why we never miss an opportunity to bring Surgers together,
                                     whether through fortnightly ASK (Always Seek Knowledge) sessions, recognition
                                     ceremonies, family get-togethers, birthday parties or cultural events.</p>

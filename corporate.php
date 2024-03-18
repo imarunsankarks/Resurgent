@@ -37,20 +37,20 @@
     <div class="viewport">
         <main id="main">
             <section class="sector-banner sec-padding">
-                <div class="sector-circle-1  wow animate__animated animate__zoomIn animate__delay-1s"></div>
+                <div class="sector-circle-1 wow animate__animated animate__zoomIn animate__two"></div>
                 <div class="container h-100 d-flex align-items-center">
                     <div class="row h-100 align-items-center position-relative g-5">
                         <div class="col-md-6">
                            <div class="sector-banner-left">
-                            <img src="./assets/home/banner.jpg" alt="" class="sector-banner-img">
-                            <div class="sector-circle-2 wow animate__animated animate__zoomIn animate__delay-3s"></div>
+                            <img src="./assets/home/corporate.webp" alt="" class="sector-banner-img">
+                            <div class="sector-circle-2 wow animate__animated animate__zoomIn animate__three"></div>
                            </div>
                         </div>
                         <div class="col-md-6">
                             <div class="sector-banner-content">
                                 <span>Integrated AV Solutions for</span>
-                                <h1 class="wow animate__animated animate__flipInX animate__delay-1s">Business</h1>
-                                <p class="wow animate__animated animate__fadeInUp animate__one">Our corporate AV solutions help organisations stay ahead and agile, even as they expand globally and work cultures become increasingly hybrid. Audio-video integration no longer applies only to communication capabilities within a single space; instead, our AV solutions are designed to transcend spaces and connect people across multiple locations and devices, empowering teams as they work towards a common goal.</p>
+                                <h1 class="wow animate__animated animate__flipInX animate__two">Business</h1>
+                                <p class="wow animate__animated animate__fadeInUp animate__two">Our corporate AV solutions help organisations stay ahead and agile, even as they expand globally and work cultures become increasingly hybrid. Audio-video integration no longer applies only to communication capabilities within a single space; instead, our AV solutions are designed to transcend spaces and connect people across multiple locations and devices, empowering teams as they work towards a common goal.</p>
                             </div>
                         </div>
 
@@ -185,36 +185,6 @@
                                                                             type="image/jpg" alt="Wireframe"
                                                                             width="100%" height="100%" loading="lazy">
                                                                         <img src="./assets/solutions/corporate/board-room-1.webp"
-                                                                            alt="Wireframe" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
-                                                                    </picture>
-                                                                </div>
-                                                                <div class="item">
-                                                                    <picture>
-                                                                        <source
-                                                                            srcset="./assets/solutions/corporate/board-room-2.webp"
-                                                                            type="image/webp" alt="Wireframe"
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <source
-                                                                            srcset="./assets/solutions/corporate/board-room-2.webp"
-                                                                            type="image/jpg" alt="Wireframe"
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img src="./assets/solutions/corporate/board-room-2.webp"
-                                                                            alt="Wireframe" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
-                                                                    </picture>
-                                                                </div>
-                                                                <div class="item">
-                                                                    <picture>
-                                                                        <source
-                                                                            srcset="./assets/solutions/corporate/board-room-3.webp"
-                                                                            type="image/webp" alt="Wireframe"
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <source
-                                                                            srcset="./assets/solutions/corporate/board-room-3.webp"
-                                                                            type="image/jpg" alt="Wireframe"
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img src="./assets/solutions/corporate/board-room-3.webp"
                                                                             alt="Wireframe" class="img-fluid"
                                                                             loading="lazy" width="100%" height="100%">
                                                                     </picture>
@@ -1080,7 +1050,7 @@
                 <div class="container">
                     <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp animate__delay-3s">Key Features</h2>
                     <div class="row mt-5">
-                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__delay-4s">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__one">
                             <div class="why-card">
                                 <h3>Connect teams</h3>
                                 <div class="d-flex align-items-center mb-2">
@@ -1092,7 +1062,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__delay-4s">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__two">
                             <div class="why-card">
                                 <h3>Increase impact and</h3>
                                 <div class="d-flex align-items-center mb-2">
@@ -1104,7 +1074,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__delay-4s">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__three">
                             <div class="why-card">
                                 <h3>Improve customer</h3>
                                 <div class="d-flex align-items-center mb-2">

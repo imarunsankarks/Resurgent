@@ -41,6 +41,9 @@
   .contact-form-content {
     padding-right: 80px;
   }
+  #core-values .other-card{
+    min-height: 230px;
+ }
 }
 
 @media screen and (max-width: 1199px) and (min-width: 991px) {
@@ -122,6 +125,9 @@
   .sector-banner .sector-circle-1 {
     left: -25%;
     top: 0;
+}
+#core-values .other-card{
+  min-height: 270px;
 }
 }
 
