@@ -24,66 +24,46 @@
                                                     <ul class="sub_menu">
                                                         <li class="sub_item">
                                                             <div class="content">
-                                                                <a href="web-development-company-dubai.html"
-                                                                    aria-label="Web Development Services">
+                                                                <a href="corporate.php"
+                                                                    aria-label="Corporate solutions">
                                                                     Corporate
                                                                 </a>
-                                                                <p>
-                                                                    Keep your website secure and updated with the latest
-                                                                    technologies.
-                                                                </p>
                                                             </div>
                                                         </li>
 
                                                         <li class="sub_item">
                                                             <div class="content">
-                                                                <a href="ecommerce-development-company-dubai.html"
-                                                                    aria-label="Web Development Services">Education</a>
-                                                                <p>
-                                                                    Boost online sales with tailored e-commerce.
-                                                                </p>
+                                                                <a href="education.php"
+                                                                    aria-label="Education solutions">Education</a>
                                                             </div>
                                                         </li>
 
                                                         <li class="sub_item">
                                                             <div class="content">
-                                                                <a href="wordpress-development-company-dubai.html"
-                                                                    aria-label="WordPress Website Development">Healthcare</a>
-                                                                <p>
-                                                                    Craft dynamic websites with WordPress expertise
-                                                                </p>
+                                                                <a href="healthcare.php"
+                                                                    aria-label="healthcare solutions">Healthcare</a>
                                                             </div>
                                                         </li>
 
                                                         <li class="sub_item">
                                                             <div class="content">
-                                                                <a href="web-app-development-company-dubai.html"
-                                                                    aria-label="Web Application Development">Public
+                                                                <a href="public-sector.php"
+                                                                    aria-label="Public sector solutions">Public
                                                                     Sector</a>
-                                                                <p>
-                                                                    Drive efficiency through innovative web
-                                                                    applications.
-                                                                </p>
                                                             </div>
                                                         </li>
 
                                                         <li class="sub_item">
                                                             <div class="content">
-                                                                <a href="mobile-app-development-company-dubai.html"
-                                                                    aria-label="Mobile Application Development">Retail</a>
-                                                                <p>
-                                                                    Mobilize success with cutting-edge app development.
-                                                                </p>
+                                                                <a href="retail.php"
+                                                                    aria-label="SOlutions in retail sector">Retail</a>
                                                             </div>
                                                         </li>
 
                                                         <li class="sub_item">
                                                             <div class="content">
-                                                                <a href="seo-company-dubai.html"
-                                                                    aria-label="SEO Services">Residential</a>
-                                                                <p>
-                                                                    Boost visibility and rankings through SEO.
-                                                                </p>
+                                                                <a href="residential.php"
+                                                                    aria-label="Residential Solutions">Residential</a>
                                                             </div>
                                                         </li>
                                                     </ul>
@@ -105,8 +85,8 @@
                                         <li class="work_sub_item sub_item">
 
                                             <div class="content">
-                                                <a href="./our-work-constructions.html"
-                                                    aria-label="Web Development Services">
+                                                <a href="microsoft-surface-hub-2s.php"
+                                                    aria-label="Microsoft Surface Hub 2S">
                                                     Microsoft Surface Hub 2S
                                                 </a>
                                             </div>
@@ -114,8 +94,8 @@
                                         <li class="work_sub_item sub_item">
 
                                             <div class="content">
-                                                <a href="./our-work-engineer.html"
-                                                    aria-label="Web Development Services">
+                                                <a href="samsung-flip.php"
+                                                    aria-label="Samsung Flip">
                                                     Samsung Flip
                                                 </a>
                                             </div>
@@ -124,35 +104,18 @@
                                         <li class="work_sub_item sub_item">
 
                                             <div class="content">
-                                                <a href="./our-work-it.html" aria-label="Web Development Services">
+                                                <a href="microsoft-teams.php" aria-label="Microsoft Teams">
                                                     Microsoft Teams
                                                 </a>
                                             </div>
                                         </li>
 
-                                        <li class="work_sub_item sub_item">
-
-                                            <div class="content">
-                                                <a href="./our-work-fashion.html" aria-label="Web Development Services">
-                                                    Microsoft Teams Rooms
-                                                </a>
-                                            </div>
-                                        </li>
 
                                         <li class="work_sub_item sub_item">
 
                                             <div class="content">
-                                                <a href="./our-work-account.html" aria-label="Web Development Services">
-                                                    Zoom Rooms
-                                                </a>
-                                            </div>
-                                        </li>
-
-                                        <li class="work_sub_item sub_item">
-
-                                            <div class="content">
-                                                <a href="./our-work-healthcare.html"
-                                                    aria-label="Web Development Services">
+                                                <a href="jabra-panacast.php"
+                                                    aria-label="Jabra PanaCast">
                                                     Jabra PanaCast
                                                 </a>
                                             </div>
@@ -161,32 +124,17 @@
                                         <li class="work_sub_item sub_item">
 
                                             <div class="content">
-                                                <a href="./our-work-training.html"
-                                                    aria-label="Web Development Services">
-                                                    PADS4 Digital Signage Solutions
+                                                <a href="pads4-digital-signage-solutions.php"
+                                                    aria-label="PADS4 Digital Signage">
+                                                    PADS4 Digital Signage
                                                 </a>
                                             </div>
                                         </li>
 
-                                        <li class="work_sub_item sub_item">
-                                            <div class="content">
-                                                <a href="./our-work-ec.html" aria-label="Web Development Services">
-                                                    Crestron Flex
-                                                </a>
-                                            </div>
-                                        </li>
 
                                         <li class="work_sub_item sub_item">
                                             <div class="content">
-                                                <a href="./our-work-solar.html" aria-label="Web Development Services">
-                                                    SIMStation
-                                                </a>
-                                            </div>
-                                        </li>
-
-                                        <li class="work_sub_item sub_item">
-                                            <div class="content">
-                                                <a href="./our-work-ngo.html" aria-label="Web Development Services">
+                                                <a href="surge.php" aria-label="Surge+">
                                                     Surge+
                                                 </a>
                                             </div>
@@ -194,8 +142,8 @@
 
                                         <li class="work_sub_item sub_item">
                                             <div class="content">
-                                                <a href="./our-work-personal.html"
-                                                    aria-label="Web Development Services">
+                                                <a href="airserver.php"
+                                                    aria-label="AirServer">
                                                     AirServer
                                                 </a>
                                             </div>
@@ -216,112 +164,18 @@
                                         <li class="work_sub_item sub_item">
 
                                             <div class="content">
-                                                <a href="./our-work-constructions.html"
-                                                    aria-label="Web Development Services">
-                                                    Microsoft Surface Hub 2S
+                                                <a href="cisco.php"
+                                                    aria-label="Cisco">
+                                                    Cisco
                                                 </a>
                                             </div>
                                         </li>
-                                        <li class="work_sub_item sub_item">
-
-                                            <div class="content">
-                                                <a href="./our-work-engineer.html"
-                                                    aria-label="Web Development Services">
-                                                    Samsung Flip
-                                                </a>
-                                            </div>
-                                        </li>
-
-                                        <li class="work_sub_item sub_item">
-
-                                            <div class="content">
-                                                <a href="./our-work-it.html" aria-label="Web Development Services">
-                                                    Microsoft Teams
-                                                </a>
-                                            </div>
-                                        </li>
-
-                                        <li class="work_sub_item sub_item">
-
-                                            <div class="content">
-                                                <a href="./our-work-fashion.html" aria-label="Web Development Services">
-                                                    Microsoft Teams Rooms
-                                                </a>
-                                            </div>
-                                        </li>
-
-                                        <li class="work_sub_item sub_item">
-
-                                            <div class="content">
-                                                <a href="./our-work-account.html" aria-label="Web Development Services">
-                                                    Zoom Rooms
-                                                </a>
-                                            </div>
-                                        </li>
-
-                                        <li class="work_sub_item sub_item">
-
-                                            <div class="content">
-                                                <a href="./our-work-healthcare.html"
-                                                    aria-label="Web Development Services">
-                                                    Jabra PanaCast
-                                                </a>
-                                            </div>
-                                        </li>
-
-                                        <li class="work_sub_item sub_item">
-
-                                            <div class="content">
-                                                <a href="./our-work-training.html"
-                                                    aria-label="Web Development Services">
-                                                    PADS4 Digital Signage Solutions
-                                                </a>
-                                            </div>
-                                        </li>
-
-                                        <li class="work_sub_item sub_item">
-                                            <div class="content">
-                                                <a href="./our-work-ec.html" aria-label="Web Development Services">
-                                                    Crestron Flex
-                                                </a>
-                                            </div>
-                                        </li>
-
-                                        <li class="work_sub_item sub_item">
-                                            <div class="content">
-                                                <a href="./our-work-solar.html" aria-label="Web Development Services">
-                                                    SIMStation
-                                                </a>
-                                            </div>
-                                        </li>
-
-                                        <li class="work_sub_item sub_item">
-                                            <div class="content">
-                                                <a href="./our-work-ngo.html" aria-label="Web Development Services">
-                                                    Surge+
-                                                </a>
-                                            </div>
-                                        </li>
-
-                                        <li class="work_sub_item sub_item">
-                                            <div class="content">
-                                                <a href="./our-work-personal.html"
-                                                    aria-label="Web Development Services">
-                                                    AirServer
-                                                </a>
-                                            </div>
-                                        </li>
+                                  
                                     </ul>
                                 </div>
                             </li>
 
-                            <li>
-                                <a href="#">
-                                    <span class="">
-                                        Success Stories
-                                    </span>
-                                </a>
-                            </li>
+                    
                             <li class="d-none">
                                 <a href="contact.html" aria-label="Contact us">
                                     <span class="rolling-text">
@@ -351,9 +205,9 @@
                                         <li class="work_sub_item sub_item">
 
                                             <div class="content">
-                                                <a href="./our-work-constructions.html"
-                                                    aria-label="Web Development Services">
-                                                    Microsoft Surface Hub 2S
+                                                <a href="about.php"
+                                                    aria-label="About resurgent">
+                                                    About Us
                                                 </a>
                                             </div>
                                         </li>
@@ -361,8 +215,8 @@
 
                                             <div class="content">
                                                 <a href="./our-work-engineer.html"
-                                                    aria-label="Web Development Services">
-                                                    Samsung Flip
+                                                    aria-label="PSNI Global Alliance">
+                                                    PSNI Global Alliance
                                                 </a>
                                             </div>
                                         </li>
@@ -370,8 +224,8 @@
                                         <li class="work_sub_item sub_item">
 
                                             <div class="content">
-                                                <a href="./our-work-it.html" aria-label="Web Development Services">
-                                                    Microsoft Teams
+                                                <a href="culture.php" aria-label="Company culture">
+                                                    Our Culture
                                                 </a>
                                             </div>
                                         </li>
@@ -379,8 +233,8 @@
                                         <li class="work_sub_item sub_item">
 
                                             <div class="content">
-                                                <a href="./our-work-fashion.html" aria-label="Web Development Services">
-                                                    Microsoft Teams Rooms
+                                                <a href="careers.php" aria-label="Careers">
+                                                    Careers
                                                 </a>
                                             </div>
                                         </li>
@@ -388,82 +242,29 @@
                                         <li class="work_sub_item sub_item">
 
                                             <div class="content">
-                                                <a href="./our-work-account.html" aria-label="Web Development Services">
-                                                    Zoom Rooms
-                                                </a>
-                                            </div>
-                                        </li>
-
-                                        <li class="work_sub_item sub_item">
-
-                                            <div class="content">
-                                                <a href="./our-work-healthcare.html"
-                                                    aria-label="Web Development Services">
-                                                    Jabra PanaCast
-                                                </a>
-                                            </div>
-                                        </li>
-
-                                        <li class="work_sub_item sub_item">
-
-                                            <div class="content">
-                                                <a href="./our-work-training.html"
-                                                    aria-label="Web Development Services">
-                                                    PADS4 Digital Signage Solutions
-                                                </a>
-                                            </div>
-                                        </li>
-
-                                        <li class="work_sub_item sub_item">
-                                            <div class="content">
-                                                <a href="./our-work-ec.html" aria-label="Web Development Services">
-                                                    Crestron Flex
-                                                </a>
-                                            </div>
-                                        </li>
-
-                                        <li class="work_sub_item sub_item">
-                                            <div class="content">
-                                                <a href="./our-work-solar.html" aria-label="Web Development Services">
-                                                    SIMStation
-                                                </a>
-                                            </div>
-                                        </li>
-
-                                        <li class="work_sub_item sub_item">
-                                            <div class="content">
-                                                <a href="./our-work-ngo.html" aria-label="Web Development Services">
-                                                    Surge+
-                                                </a>
-                                            </div>
-                                        </li>
-
-                                        <li class="work_sub_item sub_item">
-                                            <div class="content">
-                                                <a href="./our-work-personal.html"
-                                                    aria-label="Web Development Services">
-                                                    AirServer
+                                                <a href="blogs.php" aria-label="Blogs">
+                                                    Blogs
                                                 </a>
                                             </div>
                                         </li>
                                     </ul>
                                 </div>
                             </li>
-                            <li class="with_dropdown">
-                                <a href="about.html" aria-label="Know about the company">
-                                    <div class="search-button m-0">
-                                        <button><i class="far fa-search"></i></button>
-                                    </div>
+
+                            <li>
+                                <a href="success.php">
+                                    <span class="">
+                                        Success Stories
+                                    </span>
                                 </a>
                             </li>
+                      
 
 
                             <li>
                                 <a href="contact.php" aria-label="Know about the company">
                                     <div class="banner-button button-hover1 m-0">
-                                        <!-- <div class="circle-large"></div> -->
                                         <button>Contact Us</button>
-                                        <!-- <div class="btn-bg-black"></div> -->
                                     </div>
                                 </a>
                             </li>

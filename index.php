@@ -7,7 +7,7 @@
     <title> Resurgent AV</title>
 
 
-    <link rel="icon" type="image/ico" href="favicon.ico">
+    <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.2/css/bootstrap.min.css" rel="stylesheet"
         crossorigin>

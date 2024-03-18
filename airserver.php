@@ -8,6 +8,7 @@
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
+
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.2/css/bootstrap.min.css" rel="stylesheet"
         crossorigin>
@@ -36,22 +37,22 @@
 
     <div class="viewport">
         <main>
+
             <div id="banner-trigger">
                 <section id="product-banner">
                     <div class="container">
                         <div class="row g-5 align-items-center justify-content-center">
                             <div class="col-lg-7">
                                 <div class="banner-product-img">
-                                    <img src="./assets/products/ms-surface-hub/hub-2s.webp" alt=""
+                                    <img src="./assets/products/airserver/airserver-connect-3.png" alt=""
                                         class="wow animate__animated animate__zoomIn">
                                 </div>
                             </div>
                             <div class="col-lg-5">
                                 <div class="banner-product-content">
-                                    <h1
-                                        class="product-banner-title  wow animate__animated animate__flipInX animate__two">
-                                        Microsoft Surface Hub 2S</h1>
-                                    <p class="wow animate__animated animate__fadeInUp animate__two">A versatile teamwork tool breaking boundaries. It's an interactive whiteboard doubling as a meeting screen, promoting cross-device collaboration with Microsoft 365, and leveraging cutting-edge tech for optimal sound and display.</p>
+                                    <h1 class="product-banner-title wow animate__animated animate__flipInX">AirServer
+                                    </h1>
+                                    <p class="wow animate__animated animate__fadeInUp">AirServer is a universal screen mirroring receiver, enabling users to display their screens from any device, whether it's a phone, tablet or laptop. With its unmatched audiovisual quality, wide compatibility and ease of use, AirServer is an essential tool for presentation and collaboration.</p>
                                     <div class="banner-button1 button-hover1 cta-btn">
                                         <div class="circle-large"></div>
                                         <button>learn more</button>
@@ -71,12 +72,11 @@
                     <div class="container">
                         <div class="row align-items-center g-4 g-md-0">
                             <div class="col-md-6 br-1">
-                                <h2 class="section-title m-0 wow animate__animated animate__fadeInUp animate__two">
-                                    Experience the<br>
-                                    Microsoft Surface Hub 2s</h2>
+                                <h2 class="section-title m-0 wow animate__animated animate__fadeInUp">Experience the<br>
+                                    AirServer</h2>
                             </div>
                             <div class="col-md-6 ps-lg-5">
-                                <p class="m-0 wow animate__animated animate__fadeInUp animate__two">Meet, ideate and collaborate with Microsoft's interactive whiteboard and meeting platform</p>
+                                <p class="m-0 wow animate__animated animate__fadeInUp">Project content wirelessly from multiple screens in 4K ultra-high definition.</p>
                             </div>
                             <div class="product-feature-img">
                                 <img src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp" alt="">
@@ -129,7 +129,7 @@
                             <div class="product-img-container">
                                 <div class="product-imgs">
                                     <div class="product-img">
-                                        <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-contact.jpg"
+                                        <img src="./assets/products/airserver/airserver-contact1.jpg"
                                             alt="product image" class="img-fluid">
                                     </div>
                                 </div>
@@ -152,75 +152,75 @@
             <!-- ---------------------------------------------------why-us---------------------------------- -->
             <section class="sec-padding pt-0">
                 <div class="container">
-                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp animate__two">Product features</h2>
-                    <div class="row mt-md-5">
-                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__one">
+                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">Product features</h2>
+                    <div class="row mt-md-5 justify-content-center">
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp">
                             <div class="why-card">
-                                <h3>Microsoft Whiteboard</h3>
+                                <h3>Widely </h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Enabled</h3>
+                                    <h3 class="why-second-head mb-0">compatible</h3>
                                 </div>
-                                <p>Microsoft Whiteboard, a collaborative digital canvas with a best-in-class pen inking experience, helps teams visualise ideas and collaborate.</p>
+                                <p>AirServer can be synced with AirPlay, Google Cast and Miracast; it also easily connects with a range of software and hardware.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__two">
                             <div class="why-card">
-                                <h3>Instant</h3>
+                                <h3>Hosts up to</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Meetings</h3>
+                                    <h3 class="why-second-head mb-0">9 screens</h3>
                                 </div>
-                                <p>Purpose-built Microsoft Teams loads automatically, allowing approved participants to sign in without waiting for authentication.</p>
+                                <p>Several users can simultaneously project content from any personal device onto a single larger screen, allowing for effortless collaboration.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__three">
                             <div class="why-card">
-                                <h3>Pre-loaded with</h3>
+                                <h3>High-quality</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Microsoft 365</h3>
+                                    <h3 class="why-second-head mb-0">video & audio</h3>
                                 </div>
-                                <p>Use Microsoft's universally-applied software and tools to enhance creativity and teamwork, and add apps certified for Surface Hub.</p>
+                                <p>With 4K UHD at 60 frames per second (fps), AirServer's display is the best in its class. It also has less lag than other screen mirroring devices.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__four">
                             <div class="why-card">
-                                <h3>Collaborate across</h3>
+                                <h3>Recording and</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">devices</h3>
+                                    <h3 class="why-second-head mb-0">live-streaming</h3>
                                 </div>
-                                <p>Participants can join meetings using their own devices via Proximity Join. In larger spaces, multiple Surface Hubs can be connected to present diverse content.</p>
+                                <p>Lessons or presentations can be recorded with the touch of a button, and AirServer's picture-in-picture webcam feature allows live-streaming for iOS.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__five">
                             <div class="why-card">
-                                <h3>Portable and </h3>
+                                <h3>Wireless and</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">battery-powered</h3>
+                                    <h3 class="why-second-head mb-0">easy to use</h3>
                                 </div>
-                                <p>The Steelcase Roam wall mount can be easily installed, while the mobile stand and APC Charge mobile battery allow the device to be moved between rooms
+                                <p>AirServer can be operated without any dongles or cables, is equipped with a wireless guest network, and can be remotely operated.
                                 </p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__six">
                             <div class="why-card">
-                                <h3>Excellent</h3>
+                                <h3>Post</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">audiovisual clarity</h3>
+                                    <h3 class="why-second-head mb-0">processing</h3>
                                 </div>
-                                <p>Equipped with a modular camera, two-way stereo speakers, pixel sense display and a native 4K resolution with anti-glare.</p>
+                                <p>Users can adjust settings such as brightness, saturation, and contrast and even flip their screens in order to improve the display.
+                                </p>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </section>
@@ -259,46 +259,41 @@
                             </div>
                             <div class="right">
                                 <div class="photos">
-                                
-                                    <div class="each-feature-card">
-                                        <div class="container h-100">
-                                            <div class="row h-100">
-                                                <div class="other-cards">
-                                                    <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp"
-                                                        alt="">
-                                                    <div class="content">
-                                                        <!-- <img src="./assets/logos/ouline.svg" alt=""> -->
-                                                        <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>Collaborate anywhere with Steelcase Roam Mobile Stands and
-                                                            the APC Charge Mobile Battery3 for Surface Hub 2S 50"</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="each-feature-card">
-                                        <div class="container h-100">
-                                            <div class="row h-100">
-                                                <div class="other-cards">
-                                                    <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-4.webp"
-                                                        alt="">
-                                                    <div class="content">
-                                                        <p>With microsoft surface hub 2s, you will experience excellent sound quality and connectivity.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="each-feature-card">
-                                        <div class="container h-100">
-                                            <div class="row h-100">
-                                                <div class="other-cards">
-                                                    <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-3.webp"
-                                                        alt="">
-                                                    <div class="content">
 
-                                                        <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>The 4k display and the full band 8-element MEMS linear microphone array capture facial expressions, body language and audio definition for a rich hybrid meeting experience.</p>
+                                    <div class="each-feature-card">
+                                        <div class="container h-100">
+                                            <div class="row h-100">
+                                                <div class="other-cards">
+                                                    <img src="./assets/products/airserver/airserver-f1.jpg"
+                                                        alt="">
+                                                    <div class="content">
+                                                        <p>AirServer provides a password-protected device management system for IT or assigned users, managing access controls like pin or password for AirPlay, Google Cast, and Miracast.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="each-feature-card">
+                                        <div class="container h-100">
+                                            <div class="row h-100">
+                                                <div class="other-cards">
+                                                    <img src="./assets/products/airserver/airserver-f2.jpg"
+                                                        alt="">
+                                                    <div class="content">
+                                                        <p>With AirServer, you can remotely control what you want to show on each individual screen throughout the building and easily share messages directed towards your employees, customers or students.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="each-feature-card">
+                                        <div class="container h-100">
+                                            <div class="row h-100">
+                                                <div class="other-cards">
+                                                    <img src="./assets/products/airserver/airserver-f3.png"
+                                                        alt="">
+                                                    <div class="content">
+                                                        <p>AirServer is an easy-to-use solution that enables wireless screen mirroring - typically from a smaller (smartphone, tablet or laptop) screen onto a larger screen</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -480,7 +475,7 @@
     </script>
 
     <script>
-    // <!-- -------------------------------------------------------for mouse positioning--------------------------------------------- -->
+    // <!-- ------------------------------for mouse positioning--------------------------------------------- -->
 
     const parallaxSection = document.querySelector('.product-det');
     const parallaxImages = document.querySelectorAll('.zoomIn-button');
@@ -500,7 +495,7 @@
         });
     });
     </script>
-    <!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script> -->
+
     <script>
     const bannerTimeline = gsap.timeline({
         scrollTrigger: {
@@ -515,8 +510,8 @@
 
     bannerTimeline.to(
         ".banner-product-img img", {
-            y: () => 300,
-            scale: 2,
+            y: () => -100,
+            scale: 1.1,
         },
         "<"
     );

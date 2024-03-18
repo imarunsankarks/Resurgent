@@ -7,7 +7,7 @@
     <title> Resurgent AV</title>
 
 
-    <link rel="icon" type="image/ico" href="favicon.ico">
+    <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.2/css/bootstrap.min.css" rel="stylesheet"
         crossorigin>
@@ -152,81 +152,60 @@
             <section class="sec-padding pt-0">
                 <div class="container">
                     <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">Product features</h2>
-                    <div class="row mt-md-5">
+                    <div class="row mt-md-5 justify-content-center">
                         <div class="col-md-4 wow animate__animated animate__fadeInUp">
                             <div class="why-card">
-                                <h3>InGlass</h3>
+                                <h3>Multifunctional </h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Technology</h3>
+                                    <h3 class="why-second-head mb-0">application</h3>
                                 </div>
-                                <p>Smooth inking experience with a wide palette of colours, strokes of varying
-                                    thickness, brush-mode with oil and water colours, and a multi-writing functionality
-                                    for up to 20 users.</p>
+                                <p>Surge+ can help automate a wide range of customer-facing services, whether it's wayfinding, customer guidance, remote assistance or visitor management.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__two">
                             <div class="why-card">
-                                <h3>Image editing and</h3>
+                                <h3>Instant access and</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Annotation</h3>
+                                    <h3 class="why-second-head mb-0">assistance</h3>
                                 </div>
-                                <p>With an assortment of editing options, you can crop, merge and correct images. A
-                                    special note layer enables users to write comments on a document without affecting
-                                    its original content.</p>
+                                <p>Using QR codes, NFC or web links for different tasks, each Surge+ device allows customers to access precise information by scanning a code.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__three">
                             <div class="why-card">
-                                <h3>Screen</h3>
+                                <h3>Jump screen</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Mirroring</h3>
+                                    <h3 class="why-second-head mb-0">technology</h3>
                                 </div>
-                                <p>Samsung Flip can be synced with multiple devices. You could work on laptop files
-                                    directly using Flip, and the content on Flip can also be projected on larger
-                                    displays.</p>
+                                <p>Screens can be placed at key touchpoints, enabling staff to accompany and assist customers throughout their visit to your store, without having to be physically present.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__four">
                             <div class="why-card">
-                                <h3>Easy access</h3>
+                                <h3>Install at </h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">to files</h3>
+                                    <h3 class="why-second-head mb-0">multiple locations</h3>
                                 </div>
-                                <p>With Samsung Workspace, you can open and work on files on the cloud, while the
-                                    document viewer can directly open Word, PowerPoint and PDF files. You can also
-                                    access files via USB and browse the web.</p>
+                                <p>From hotel lobbies and retail spaces to boardrooms and IT centres, Surge+ can be installed at various places to serve unique functions.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__five">
                             <div class="why-card">
-                                <h3>Enhanced safety</h3>
+                                <h3>Effortless</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">and security</h3>
+                                    <h3 class="why-second-head mb-0">monitoring</h3>
                                 </div>
-                                <p>Maintain confidentiality or lock WIP content with a six-digit password. Samsung Flip
-                                    also has antimicrobial coating and shatterproof film for easy handling and safety.
+                                <p>View important information on a single dashboard, and get access to updates about staff members and functions just by scanning custom codes.
                                 </p>
-                            </div>
-                        </div>
-
-                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__six">
-                            <div class="why-card">
-                                <h3>Wide industry</h3>
-                                <div class="d-flex align-items-center mb-2">
-                                    <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Applications</h3>
-                                </div>
-                                <p>Make classrooms more interactive, improve the impact of business presentations, and
-                                    engage customers with dynamic content in retail spaces with Samsung Flip.</p>
                             </div>
                         </div>
 
@@ -260,7 +239,7 @@
             <section id="product-feature-imgs">
                 <div class="container">
                     <div class="row">
-                        <h2 class="section-title">Know the product features</h2>
+                        <h2 class="section-title">Know The Product Capabilities</h2>
                         <div class="gallery">
                             <div class="left">
                                 <div class="features-scroll">
