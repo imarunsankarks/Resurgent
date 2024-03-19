@@ -17,10 +17,6 @@
                                     <i class="fas fa-chevron-down"></i>
                                 </a>
                                 <div class="megamenu">
-                                    <div class="container mx-auto">
-                                        <div class="col-12">
-                                            <div class="row">
-                                                <div class="col-md-12">
                                                     <ul class="sub_menu">
                                                         <li class="sub_item">
                                                             <div class="content">
@@ -67,10 +63,6 @@
                                                             </div>
                                                         </li>
                                                     </ul>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
                                 </div>
                             </li>
                             <li class="with_dropdown portfolio-drop-down">
@@ -214,7 +206,7 @@
                                         <li class="work_sub_item sub_item">
 
                                             <div class="content">
-                                                <a href="./our-work-engineer.html"
+                                                <a href="psni.php"
                                                     aria-label="PSNI Global Alliance">
                                                     PSNI Global Alliance
                                                 </a>

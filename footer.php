@@ -37,11 +37,12 @@
                         <div class="footer-menu">
                             <p>Company</p>
                             <ul>
-                                <li>About Us</li>
-                                <li>PSNI- Global Alliance</li>
-                                <li>Careers</li>
-                                <li>Our Culture</li>
-                                <li>Resources</li>
+                                <li><a href="about.php">About Us</a></li>
+                                <li><a href="psni.php">PSNI- Global Alliance</a></li>
+                                <li><a href="culture.php">Our Culture</a></li>
+                                <li><a href="careers.php">Careers</a></li>
+                                <li><a href="blogs.php">Blogs</a></li>
+                                <li><a href="success.php">Success Stories</a></li>
                             </ul>
                         </div>
                     </div>
@@ -50,12 +51,12 @@
                         <div class="footer-menu">
                             <p>Sectors</p>
                             <ul>
-                                <li>Corporate</li>
-                                <li>Education</li>
-                                <li>Healthcare</li>
-                                <li>Public Sector</li>
-                                <li>Retail</li>
-                                <li>Residential</li>
+                                <li><a href="corporate.php">Corporate</a></li>
+                                <li><a href="education.php">Education</a></li>
+                                <li><a href="health-care.php">Healthcare</a></li>
+                                <li><a href="public-sector.php">Public Sector</a></li>
+                                <li><a href="retail.php">Retail</a></li>
+                                <li><a href="residential.php">Residential</a></li>
                             </ul>
                         </div>
                     </div>
@@ -64,17 +65,13 @@
                         <div class="footer-menu">
                             <p>Products</p>
                             <ul>
-                                <li>Microsoft Surface Hub 2S</li>
-                                <li>Samsung Flip</li>
-                                <li>Microsoft Teams</li>
-                                <li>Microsoft Teams Rooms</li>
-                                <li>Zoom Rooms</li>
-                                <li>Jabra PanaCast</li>
-                                <li>PADS4 Digital Signage Solutions</li>
-                                <li>Crestron Flex</li>
-                                <li>SIMStation</li>
-                                <li>Surge+</li>
-                                <li>AirServer</li>
+                                <li><a href="microsoft-surface-hub-2s.php">Microsoft Surface Hub 2S</a></li>
+                                <li><a href="samsung-flip.php">Samsung Flip</a></li>
+                                <li><a href="microsoft-teams.php">Microsoft Teams</a></li>
+                                <li><a href="jabra-panacast.php">Jabra PanaCast</a></li>
+                                <li><a href="pads4-digital-signage-solutions.php">PADS4 Digital Signage</a></li>
+                                <li><a href="surge.php">Surge+</a></li>
+                                <li><a href="airserver.php">AirServer</a></li>
                             </ul>
                         </div>
                     </div>

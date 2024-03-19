@@ -321,17 +321,17 @@
                                             <div class="sticky-image one">
                                                 <picture>
                                                     <source srcset="./assets/home/corporate.webp" width="526"
-                                                        height="370" alt="Custom Web Development company in bangalore"
+                                                        height="370" alt="AV solutions in coporate sector "
                                                         class="lazyload" loading="lazy">
                                                     <source srcset="./assets/home/corporate.webp" width="526"
-                                                        height="370" alt="Custom Web Development company in bangalore"
+                                                        height="370" alt="AV solutions in coporate sector "
                                                         class="lazyload" loading="lazy">
                                                     <img src="./assets/home/corporate.webp" class="lazyload"
                                                         loading="lazy" width="526" height="370"
-                                                        alt="Custom Web Development company in bangalore"
+                                                        alt="AV solutions in coporate sector "
                                                         class="img-fluid">
                                                 </picture>
-                                                <a href="sector.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
+                                                <a href="corporate.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
 
 
 
@@ -341,67 +341,67 @@
                                         <div class="sticky-image two">
                                             <picture>
                                                 <source srcset="./assets/home/education.webp" width="526" height="370"
-                                                    alt="Custom Web Development" class="lazyload" loading="lazy">
+                                                    alt="AV solutions in education sector " class="lazyload" loading="lazy">
                                                 <source srcset="./assets/home/education.webp" width="526" height="370"
-                                                    alt="Custom Web Development" class="lazyload" loading="lazy">
+                                                    alt="AV solutions in education sector " class="lazyload" loading="lazy">
                                                 <img src="./assets/home/education.webp" class="lazyload" loading="lazy"
-                                                    width="526" height="370" alt="Custom Web Development"
+                                                    width="526" height="370" alt="AV solutions in education sector "
                                                     class="img-fluid">
                                             </picture>
-                                            <a href="sector.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
+                                            <a href="education.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="sticky-image three">
                                             <picture>
                                                 <source srcset="./assets/home/healthcare.webp" width="526" height="370"
-                                                    alt="Custom Web Development" class="lazyload" loading="lazy">
+                                                    alt="AV solutions in healthcare sector " class="lazyload" loading="lazy">
                                                 <source srcset="./assets/home/healthcare.webp" width="526" height="370"
-                                                    alt="Custom Web Development" class="lazyload" loading="lazy">
+                                                    alt="AV solutions in healthcare sector " class="lazyload" loading="lazy">
                                                 <img src="./assets/home/healthcare.webp" class="lazyload" loading="lazy"
-                                                    width="526" height="370" alt="Custom Web Development"
+                                                    width="526" height="370" alt="AV solutions in healthcare sector "
                                                     class="img-fluid">
                                             </picture>
-                                            <a href="sector.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
+                                            <a href="healthcare.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="sticky-image four">
                                             <picture>
                                                 <source srcset="./assets/home/public.webp" width="526" height="370"
-                                                    alt="Cloud-based website development company bangalore"
+                                                    alt="AV solutions in public sector "
                                                     class="lazyload" loading="lazy">
                                                 <source srcset="./assets/home/public.webp" width="526" height="370"
-                                                    alt="Cloud-based website development company bangalore"
+                                                    alt="AV solutions in public sector "
                                                     class="lazyload" loading="lazy">
                                                 <img src="./assets/home/public.webp" class="lazyload" loading="lazy"
                                                     width="526" height="370"
-                                                    alt="Cloud-based website development company bangalore"
+                                                    alt="AV solutions in public sector "
                                                     class="img-fluid">
                                             </picture>
-                                            <a href="sector.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
+                                            <a href="public-sector.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
 
                                         </div>
                                         <div class="sticky-image five">
                                             <picture>
                                                 <source srcset="./assets/home/retail.webp" width="526" height="370"
-                                                    alt="Custom Web Development" class="lazyload" loading="lazy">
+                                                    alt="AV solutions in retail sector " class="lazyload" loading="lazy">
                                                 <source srcset="./assets/home/retail.webp" width="526" height="370"
-                                                    alt="Custom Web Development" class="lazyload" loading="lazy">
+                                                    alt="AV solutions in retail sector " class="lazyload" loading="lazy">
                                                 <img src="./assets/home/retail.webp" class="lazyload" loading="lazy"
-                                                    width="526" height="370" alt="Custom Web Development"
+                                                    width="526" height="370" alt="AV solutions in retail sector "
                                                     class="img-fluid">
                                             </picture>
-                                            <a href="sector.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
+                                            <a href="retail.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
 
                                         </div>
                                         <div class="sticky-image six" style=" transition: .4s all;">
                                             <picture>
                                                 <source srcset="./assets/home/residential.webp" width="526" height="370"
-                                                    alt="Custom Web Development" class="lazyload" loading="lazy">
+                                                    alt="AV solutions in residential sector " class="lazyload" loading="lazy">
                                                 <source srcset="./assets/home/residential.webp" width="526" height="370"
-                                                    alt="Custom Web Development" class="lazyload" loading="lazy">
+                                                    alt="AV solutions in residential sector " class="lazyload" loading="lazy">
                                                 <img src="./assets/home/residential.webp" class="lazyload"
-                                                    loading="lazy" width="526" height="370" alt="Custom Web Development"
+                                                    loading="lazy" width="526" height="370" alt="AV solutions in residential sector "
                                                     class="img-fluid">
                                             </picture>
-                                            <a href="sector.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
+                                            <a href="residential.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
 
                                         </div>
 
@@ -445,7 +445,7 @@
                             <div class="port-right">
                                 <div class="port-photos">
                                     <div class="port-photo">
-                                        <a href="products.php" aria-label="Explore our portfolio">
+                                        <a href="microsoft-surface-hub-2s.php" aria-label="Explore our products">
                                             <picture class="">
                                                 <source srcset="./assets/home/Microsoft-Surface-Hub-2S.webp"
                                                     type="image/webp" alt="portfolio" width="1242px" height="549px"
@@ -464,7 +464,7 @@
                                             <div class="nav-arrow-products"><i class="far fa-arrow-right"></i></div>
                                         </a>
 
-                                        <a href="products.php" aria-label="Explore our portfolio">
+                                        <a href="samsung-flip.php" aria-label="Explore our products">
                                             <picture class="">
                                                 <source srcset="./assets/home/samsung.webp" type="image/webp"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
@@ -484,7 +484,7 @@
 
                                         </a>
 
-                                        <a href="products.php" aria-label="Explore our portfolio">
+                                        <a href="microsoft-tems.php" aria-label="Explore our products">
                                             <picture class="">
                                                 <source srcset="./assets/home/teams.webp" type="image/webp"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
@@ -504,36 +504,34 @@
 
                                         </a>
 
-                                        <a href="products.php" aria-label="Explore our portfolio">
+                                        <a href="jabra-panacast.php" aria-label="Explore our products">
                                             <picture class="">
-                                                <source srcset="./assets/home/zoom.webp" type="image/webp"
+                                                <source srcset="./assets/home/jabra.webp" type="image/webp"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
                                                     loading="lazy">
-                                                <source srcset="./assets/home/zoom.webp" type="image/jpg"
+                                                <source srcset="./assets/home/jabra.webp" type="image/jpg"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
                                                     loading="lazy">
-                                                <img src="./assets/home/zoom.webp" alt="portfolio"
+                                                <img src="./assets/home/jabra.webp" alt="portfolio"
                                                     class="img-fluid lazyload" width="1242px" height="549px"
                                                     loading="lazy">
-                                                <h6>Zoom Rooms</h6>
-                                                <p>This cloud-based platform enables effective meetings through its
-                                                    simple interface, excellent audio-video quality, and wireless
-                                                    sharing options.</p>
+                                                <h6>Jabra Panacast</h6>
+                                                <p>The intelligent video bar that gives everyone an equal meeting experience.</p>
                                             </picture>
                                             <div class="nav-arrow-products"><i class="far fa-arrow-right"></i></div>
 
                                         </a>
 
-                                        <a href="" aria-label="Explore our portfolio"
+                                        <a href="" aria-label="Explore our products"
                                             class="d-flex align-items-center">
                                             <div class="mx-auto text-center">
-                                                <h2 class="section-title wow animate__animated animate__flipInX animate__delay-.8s port_sec_title">Explore platforms <br>and
+                                                <h2 class="section-title port_sec_title">Explore platforms <br>and
                                                     products
                                                 </h2>
                                             </div>
                                         </a>
 
-                                        <a href="products.php" aria-label="Explore our portfolio">
+                                        <a href="pads4-digital-signage-solutions.php" aria-label="Explore our products">
                                             <picture class="">
                                                 <source srcset="./assets/home/pads4.webp" type="image/webp"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
@@ -552,7 +550,7 @@
 
                                         </a>
 
-                                        <a href="products.php" aria-label="Explore our portfolio">
+                                        <a href="#" aria-label="Explore our products">
                                             <picture class="">
                                                 <source srcset="./assets/home/creston.webp" type="image/webp"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
@@ -572,7 +570,7 @@
 
                                         </a>
 
-                                        <a href="products.php" aria-label="Explore our portfolio">
+                                        <a href="surge.php" aria-label="Explore our products">
                                             <picture class="">
                                                 <source srcset="./assets/home/surge.webp" type="image/webp"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
@@ -591,7 +589,7 @@
 
                                         </a>
 
-                                        <a href="products.php" aria-label="Explore our portfolio">
+                                        <a href="airserver.php" aria-label="Explore our products">
                                             <picture class="">
                                                 <source srcset="./assets/home/air.webp" type="image/webp"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
@@ -858,7 +856,7 @@
                                 <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-5s">
                                     See the latest news and feeds
                                 </h2>
-                                <a href="about.html" aria-label="Know about the company" class="d-lg-block d-none">
+                                <a href="https://www.linkedin.com/company/resurgent-av-integrators-pvt-ltd/" aria-label="Know about the company" class="d-lg-block d-none">
                                     <div class="banner-button1 button-hover1 cta-btn">
                                         <div class="circle-large"></div>
                                         <button>view all posts</button>

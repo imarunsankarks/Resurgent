@@ -53,7 +53,7 @@
                         <div class="col-md-7">
 
                             <div class="banner-shape">
-                                <img src="./assets/home/micro.webp" alt="">
+                                <img src="./assets/common/blog.webp" alt="">
                                 <div class="circle-1 wow animate__animated animate__zoomIn animate__two"></div>
 
                                 <div class="circle-2 wow animate__animated animate__zoomIn animate__three"></div>
@@ -95,7 +95,7 @@
                                     <h3>5 Budget Item Suggestions for Enterprise CIOs For 2024</h3>
                                     <p>Azim Premji University was a unique AV project for Resurgent. With 67
                                         classrooms...............</p>
-                                    <a href="">Read more &nbsp; <i class="fas fa-arrow-right"></i></a>
+                                    <a href="each-blog.php">Read more &nbsp; <i class="fas fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>

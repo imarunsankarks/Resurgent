@@ -96,6 +96,32 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 		}
 	});
+
+	const toggleBar = document.querySelector('.toggle');
+	const dropDowntoggle1 = document.querySelector('.with_dropdown a');
+	const dropDowntoggle2 = document.querySelector('.portfolio-drop-down a');
+	const pullRight = document.querySelector('ul.pull-right')
+	const bar1 = document.querySelector('.bar1')
+	const bar2 = document.querySelector('.bar2')
+	const bar3 = document.querySelector('.bar3')
+	if ($(window).width() < 991) {
+
+		toggleBar.addEventListener('click', () => {
+			pullRight.classList.toggle('open');
+			bar1.classList.toggle('cross');
+			bar2.classList.toggle('cross');
+			bar3.classList.toggle('opacity-0');
+			$("#header .overlay").toggleClass("active");
+		});
+		// dropDowntoggle1.addEventListener('click', () => {
+		// 	const megaMenu1 = document.querySelector('.with_dropdown .megamenu');
+		// 	megaMenu1.classList.toggle('h-100');
+		// });
+		// dropDowntoggle2.addEventListener('click', () => {
+		// 	const megaMenu2 = document.querySelector('.portfolio-drop-down .megamenu.portfolio');
+		// 	megaMenu2.classList.toggle('h-100');
+		// });
+	}
 })
 
 

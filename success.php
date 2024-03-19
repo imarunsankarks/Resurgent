@@ -52,7 +52,7 @@
                         <div class="col-md-7">
 
                             <div class="banner-shape">
-                                <img src="./assets/home/micro.webp" alt="">
+                                <img src="./assets/common/success-stories.webp" alt="">
                                 <div class="circle-1 wow animate__animated animate__zoomIn animate__two"></div>
 
                                 <div class="circle-2 wow animate__animated animate__zoomIn animate__three"></div>
