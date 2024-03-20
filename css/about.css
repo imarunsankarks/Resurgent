@@ -150,6 +150,14 @@
 .team-card{
     display: flex;
     flex-direction: column;
+    position: relative;
+}
+.team-card a{
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  color: var(--theme-blue);
+  font-size: 30px;
 }
 .team-card h3{
     margin-top: 10px;

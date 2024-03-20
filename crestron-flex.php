@@ -43,15 +43,15 @@
                         <div class="row g-5 align-items-center justify-content-center">
                             <div class="col-lg-7">
                                 <div class="banner-product-img">
-                                    <img src="./assets/products/ms-teams/ms-teams-banner.avif" alt=""
-                                        class=" wow animate__animated animate__zoomIn">
+                                    <img src="./assets/products/crestron-flex/crestron-flex-banner.webp" alt=""
+                                        class="wow animate__animated animate__zoomIn">
                                 </div>
                             </div>
                             <div class="col-lg-5">
                                 <div class="banner-product-content">
-                                    <h1 class="product-banner-title wow animate__animated animate__flipInX">Microsoft
-                                        Teams</h1>
-                                    <p class=" wow animate__animated animate__fadeInUp">Microsoft Teams transcends meetings, streamlining workflows, storing files in the cloud, hosting events for 1,000 people, and leveraging Microsoft 365 for effective presentations. It's indispensable for office and remote collaboration.</p>
+                                    <h1 class="product-banner-title wow animate__animated animate__flipInX">Crestron Flex
+                                    </h1>
+                                    <p class="wow animate__animated animate__fadeInUp">Crestron Flex ensures superior and consistent audiovisual quality across devices. A Crestron Flex device can be used in any room of any size, where it merges unified communication, room scheduling, wireless presentation and device management. </p>
                                     <div class="banner-button1 button-hover1 cta-btn">
                                         <div class="circle-large"></div>
                                         <button>learn more</button>
@@ -72,14 +72,13 @@
                         <div class="row align-items-center g-4 g-md-0">
                             <div class="col-md-6 br-1">
                                 <h2 class="section-title m-0 wow animate__animated animate__fadeInUp">Experience the<br>
-                                    Microsoft teams</h2>
+                                    Crestron Flex</h2>
                             </div>
                             <div class="col-md-6 ps-lg-5">
-                                <p class="m-0 wow animate__animated animate__fadeInUp">Optimise workflows, improve
-                                    meetings and make collaborations seamless.</p>
+                                <p class="m-0 wow animate__animated animate__fadeInUp">Optimise video conferencing, wireless presentations and smart room control with a single device</p>
                             </div>
                             <div class="product-feature-img">
-                                <img src="./assets/products/ms-teams/ms-teams-discover.avif" alt="">
+                                <img src="./assets/products/crestron-flex/crestron-flex-discover.webp" alt="">
                                 <div class="feature-marker-1 active" onmouseover="showFeature(1)">
                                     <span>1</span>
                                     <div class="ripple"></div>
@@ -129,8 +128,8 @@
                             <div class="product-img-container">
                                 <div class="product-imgs">
                                     <div class="product-img">
-                                        <img src="./assets/products/ms-teams/ms-teams-contact.avif" alt="product image"
-                                            class="img-fluid">
+                                        <img src="./assets/products/crestron-flex/crestron-contact.webp"
+                                            alt="product image" class="img-fluid">
                                     </div>
                                 </div>
                                 <div class="product-det">
@@ -152,65 +151,63 @@
             <!-- ---------------------------------------------------why-us---------------------------------- -->
             <section class="sec-padding pt-0">
                 <div class="container">
-                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">Product features
-                    </h2>
+                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">Product features</h2>
                     <div class="row mt-md-5 justify-content-center">
                         <div class="col-md-4 wow animate__animated animate__fadeInUp">
                             <div class="why-card">
-                                <h3>Chat</h3>
+                                <h3>Suitable for</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Seamlessly</h3>
+                                    <h3 class="why-second-head mb-0">any space</h3>
                                 </div>
-                                <p>Users can create multiple chat groups, form channels for specific topics, contact one
-                                    another through direct messaging, audio and video calls, write notes using rich
-                                    text, GIFs and emoticons, and make announcements.</p>
+                                <p>Whether users are meeting from a home office or in a large conference room, Crestron Flex delivers a consistent audiovisual experience across spaces and devices.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__two">
                             <div class="why-card">
-                                <h3>schedule</h3>
+                                <h3>Collaborate on</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Meetings</h3>
+                                    <h3 class="why-second-head mb-0">any platform</h3>
                                 </div>
-                                <p>Users can schedule meetings in advance and add participants, choose backgrounds,
-                                    simultaneously view the primary Teams dashboard during presentations, highlight
-                                    important participants, and use the Together mode to bring all the participants into
-                                    the same virtual space.</p>
+                                <p>Crestron Flex is a single interface for Microsoft Teams and Zoom Rooms. In BYOD conferencing systems, it helps users bridge their devices with the workplace’s native technology.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__three">
                             <div class="why-card">
-                                <h3>Call</h3>
+                                <h3>Consistent</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Quality</h3>
+                                    <h3 class="why-second-head mb-0">audiovisual quality</h3>
                                 </div>
-                                <p>Audio calls deliver excellent clarity using the Background Noise Compression feature.
-                                    Voice calls can be made to internal and external contacts, while Microsoft 365
-                                    enables PSTN calls as well. Users can also route and queue calls with a cloud-based
-                                    phone system.</p>
+                                <p>With its high-fidelity audio feature, high-resolution video display and an intelligent HD camera, Crestron Flex delivers excellent clarity and connectivity.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__four">
                             <div class="why-card">
-                                <h3>Effective</h3>
+                                <h3>Room management</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Collaboration</h3>
+                                    <h3 class="why-second-head mb-0">and control</h3>
                                 </div>
-                                <p>Microsoft Teams makes collaboration effortless by offering project management tools.
-                                    Users can share even heavy files over cloud, access meeting transcripts, add
-                                    Microsoft partner services and tools, and edit Microsoft Office files directly on
-                                    the platform.</p>
+                                <p>Room scheduling systems and XiO cloud workplace analytics help manage and measure how rooms are being used. Crestron Flex can also automate lighting control, making spaces more responsive.</p>
                             </div>
                         </div>
 
-
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__five">
+                            <div class="why-card">
+                                <h3>Holistic</h3>
+                                <div class="d-flex align-items-center mb-2">
+                                    <span class="why-card-line"></span>
+                                    <h3 class="why-second-head mb-0">product solutions</h3>
+                                </div>
+                                <p>The Crestron Flex range includes phones, table-top consoles, soundbars, and room scheduling software. The solutions can be customised as per each room's space and functionality.
+                                </p>
+                            </div>
+                        </div>
 
                     </div>
                 </div>
@@ -255,23 +252,10 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/ms-teams/ms-teams-phone.avif" alt="">
+                                                    <img src="./assets/products/crestron-flex/crestron-f1.jpg"
+                                                        alt="">
                                                     <div class="content">
-                                                        <p>With the help of Copilot, add generative AI capabilities to phone calls to get real-time summarization and insights.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="each-feature-card">
-                                        <div class="container h-100">
-                                            <div class="row h-100">
-                                            <div class="other-cards">
-                                                    <img src="./assets/products/ms-teams/ms-teams-call.avif" alt="">
-                                                    <div class="content">
-                                                        <p>Connect with your team, customers, and partners with voice
-                                                            and video calls from a Teams chat, the Calls app, or the
-                                                            public switched telephone network (PSTN).</p>
+                                                        <p>Crestron Flex Video Conferencing integrates smart building systems into one simple interface. Dim the lights. Lower the shades. Adjust the temperature. All without leaving your seat.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -281,12 +265,23 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/ms-teams/ms-teams-cc.avif"
+                                                    <img src="./assets/products/crestron-flex/crestron-f2.jpg"
                                                         alt="">
                                                     <div class="content">
-
-                                                        <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>Support customer interaction work streams, using Teams as the hub for internal and external customer connections.</p>
+                                                        <p>Walk up to any room, check its availability, and book your meeting. Take your seat and one touch starts your meeting. Lower the shades and change the temperature without ever leaving your chair. Crestron Flex focuses on making technology work so your focus can stay on making your meeting a success.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="each-feature-card">
+                                        <div class="container h-100">
+                                            <div class="row h-100">
+                                                <div class="other-cards">
+                                                    <img src="./assets/products/crestron-flex/crestron-f3.webp"
+                                                        alt="">
+                                                    <div class="content">
+                                                        <p>With Crestron Flex you can walk into any space, confident you'll have high performance audio/video, easy access to video conferencing, wireless conferencing, and smart room control. </p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -488,7 +483,7 @@
         });
     });
     </script>
-    <!-- --------------------------banner-animation------------------------- -->
+
     <script>
     const bannerTimeline = gsap.timeline({
         scrollTrigger: {
@@ -500,10 +495,11 @@
             invalidateOnRefresh: true,
         },
     });
+
     bannerTimeline.to(
         ".banner-product-img img", {
-            y: () => 20,
-            scale: 1.3,
+            y: () => -30,
+            scale: 1.2,
         },
         "<"
     );
