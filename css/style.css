@@ -450,7 +450,7 @@ h6 {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url(../assets/home/banner.webp);
+  background: url(../assets/home/resurgent-banner-3.webp);
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -482,7 +482,7 @@ h6 {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url(../assets/home/corporate.jpg);
+  background: url(../assets/home/image.webp);
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1094,6 +1094,8 @@ h6 {
 /* -----------------------------------------client--------------------------------- */
 .owl-client .item img {
   width: 150px;
+  height: 150px;
+  object-fit: contain;
 }
 
 /* ---------------------------------------------linkedin----------------------------------------- */

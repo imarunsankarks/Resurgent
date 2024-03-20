@@ -163,7 +163,7 @@ var owlProcess = $(".owl-process").owlCarousel({
   margin: 10,
   nav: true,
   dots: false,
-  autoplayTimeout: 10000,
+  autoplayTimeout: 4000,
   autoplayHoverPause: false,
   smartSpeed: 1000,
   navText: [
@@ -179,7 +179,7 @@ ScrollTrigger.create({
   onToggle: function () {
     owlProcess
       .trigger("to.owl.carousel", [0])
-      .trigger("play.owl.autoplay", [6000]);
+      .trigger("play.owl.autoplay", [4000]);
   },
   onToggleBack: function () {
     owlProcess.trigger("to.owl.carousel", [0]).trigger("stop.owl.autoplay");
@@ -193,7 +193,7 @@ owlClient.owlCarousel({
   margin: 10,
   autoplay: true,
   autoplayTimeout: 2500,
-  autoplayHoverPause: true,
+  autoplayHoverPause: false,
   smartSpeed: 4000,
   animateOut: "fadeOut",
   dots: false,

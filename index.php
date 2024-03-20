@@ -1,13 +1,16 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
-
-
+    <title>Home - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
+    <meta property="og:title" content="Home - Resurgent AV Integrators PVT Ltd - AV Solutions" />
+	<meta property="og:description" content="Audiovisual communication isn't just about technology; it's about people. That's why, as your AV integration partner, Resurgent applies a human-centric approach to ensure that technology feels like an enabler, not a barrier, in effective communication." />
+
+    <!-- ---------------style cdn-------------------------- -->
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.2/css/bootstrap.min.css" rel="stylesheet"
         crossorigin>
@@ -16,7 +19,7 @@
         href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" />
-
+    <!-- ----------------------------custom styles------------------------ -->
     <link href="css/header.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
@@ -808,37 +811,143 @@
                     <div class="row justify-content-around text-md-center">
                         <div class="col-md-9">
                             <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-5s">Our Clients</h2>
-                            <p class=" wow animate__animated animate__fadeInUp animate__delay-5s">Lorem ipsum dolor sit amet consectetur, adipisicing elit. In similique nobis,
-                                necessitatibus reprehenderit maiores dolorem. Aperiam fuga harum sint, sequi
-                                perspiciatis cum totam sit ipsam error atque.</p>
+                            <p class=" wow animate__animated animate__fadeInUp animate__delay-5s">Innovation drives our AV integration, enhancing client experiences through seamless technology solutions, custom-tailored to their unique needs and preferences.</p>
 
                         </div>
                         <div class="col-11 mt-4">
                             <div class="owl-carousel owl-theme owl-client">
-                                <div class="item">
-                                    <img src="./assets/home/11.webp" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="./assets/home/12.webp" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="./assets/home/13.webp" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="./assets/home/16.webp" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="./assets/home/11.webp" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="./assets/home/12.webp" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="./assets/home/13.webp" alt="">
-                                </div>
-                                <div class="item">
-                                    <img src="./assets/home/16.webp" alt="">
-                                </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/abb.webp" alt="Abb">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/accenture.webp" alt="accenture">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/air.png" alt="air products">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/amadeus.png" alt="amadeus">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/amazon.webp" alt="amazon">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/ariba.png" alt="ariba">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/aristocrat.png" alt="aristocrat">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/bdo.png" alt="bdo">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/bosh.webp" alt="bosh">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/cat.png" alt="caterpiller">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/continuant.png" alt="continuant">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/ericsson.png" alt="ericsson">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/ferring.png" alt="ferring">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/ge.webp" alt="ge">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/getgo.png" alt="getgo">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/hcl.png" alt="hcl">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/hexagon.png" alt="hexagon">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/ibm.png" alt="ibm">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/indeed.png" alt="indeed">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/ing.png" alt="ing">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/intel.webp" alt="intel">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/intellicon.png" alt="intellicon">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/kelloggs.png" alt="kelloggs">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/kpmg.png" alt="kpmg">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/lennox.png" alt="lennox">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/lowes.png" alt="lowes">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/maersk.png" alt="maersk">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/mars-wrigley.png" alt="mars wrigley">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/mast.png" alt="mast">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/merill.png" alt="merill">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/munich.png" alt="munich">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/nomura.png" alt="nomura">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/novo.png" alt="novo">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/opentext.png" alt="opentext">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/pearson.png" alt="pearson">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/q2.svg" alt="q2">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/rackspace.png" alt="rackspace">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/samsung.webp" alt="samsung">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/sap.webp" alt="sap">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/shell.webp" alt="shell">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/skf.png" alt="skf">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/thomson.png" alt="thomson">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/vs.png" alt="victoria's sectret">
+                               </div>
+                               <div class="item">
+                                <img src="./assets/logos/clients/wpp.png" alt="wpp">
+                               </div>
                             </div>
                         </div>
                     </div>

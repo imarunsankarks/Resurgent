@@ -160,7 +160,7 @@
                         <div class="each-location">
                             <h3>Chennai</h3>
                             <div class="location-icon">
-                                <img src="./assets/logos/bangalore.svg" alt="">
+                                <img src="./assets/logos/chennai.jpeg" alt="">
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
@@ -178,7 +178,7 @@
                         <div class="each-location">
                             <h3>Mumbai</h3>
                             <div class="location-icon">
-                                <img src="./assets/logos/bangalore.svg" alt="">
+                                <img src="./assets/logos/mumbai.jpeg" alt="">
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
@@ -198,7 +198,7 @@
                         <div class="each-location">
                             <h3>Pune</h3>
                             <div class="location-icon">
-                                <img src="./assets/logos/bangalore.svg" alt="">
+                                <img src="./assets/logos/pune.jpeg" alt="">
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
@@ -218,7 +218,7 @@
                         <div class="each-location">
                             <h3>Ahmedabad</h3>
                             <div class="location-icon">
-                                <img src="./assets/logos/bangalore.svg" alt="">
+                                <img src="./assets/logos/ahmedabad.jpeg" alt="">
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
@@ -238,7 +238,7 @@
                         <div class="each-location">
                             <h3>Delhi</h3>
                             <div class="location-icon">
-                                <img src="./assets/logos/bangalore.svg" alt="">
+                                <img src="./assets/logos/delhi.jpeg" alt="">
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
@@ -258,7 +258,7 @@
                         <div class="each-location">
                             <h3>Hyderabad</h3>
                             <div class="location-icon">
-                                <img src="./assets/logos/bangalore.svg" alt="">
+                                <img src="./assets/logos/hyderabad.jpeg" alt="">
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
@@ -275,24 +275,7 @@
                                 <a class="text-dark" href="https://maps.app.goo.gl/1Qp9zaoSkfyxL6nR6" target="blank">View in Map</a>
                             </div>
                         </div>
-                        <div class="each-location">
-                            <h3>Kolkata</h3>
-                            <div class="location-icon">
-                                <img src="./assets/logos/bangalore.svg" alt="">
-                            </div>
-                            <div class="complete-details">
-                                <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <p>4th ﬂoor, Gumidelli Commercial Complex, 1-10-39 to 44, Old Airport Road, Begumpet, Hyderabad - 500016, Telangana, India</p>
-                                <h3><i class="fas fa-phone"></i></h3>
-                                <p>91-40-67843907</p>
-                                <h3><i class="fas fa-fax"></i></h3>
-                                <p>080-2513 9331</p>
-                                <h3><i class="far fa-envelope"></i></h3>
-                                <a href="mailto:info@resurgent.co.in" class="text-dark">info@resurgent.co.in</a>
-                                <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <a class="text-dark" href="https://maps.app.goo.gl/j6ryXMf8gAChE8Ce6" target="blank">View in Map</a>
-                            </div>
-                        </div>
+                    
 
 
                     </div>

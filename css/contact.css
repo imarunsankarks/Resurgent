@@ -90,7 +90,7 @@ form textarea {
 .all-locations .each-location .location-icon img {
   width: 100%;
   height: 100%;
-  filter: brightness(0);
+  /* filter: brightness(0); */
   object-fit: contain;
 }
 
