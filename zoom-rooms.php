@@ -48,7 +48,7 @@
                                 <div class="container h-100">
                                     <div class="row h-100 w-mob-100">
                                         <div class="second-card ms-team-rooms">
-                                            <div class="content z-9">
+                                            <div class="content">
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique
                                                     hic itaque facere fuga dolorem est voluptas consequatur eos odio
                                                     saepe accusamus sed doloribus eum, delectus tempore quibusdam iusto
@@ -65,26 +65,18 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="first-card">
                                             <div class="first-img">
-                                                <img src="./assets/brands/ms-team-rooms/banner.png" alt="">
+                                                <img src="./assets/brands/zoom-rooms/zoom-banner.png" alt="">
                                             </div>
                                             <div class="second-img">
-                                                <div class="collab-logo">
-                                                    <img src="./assets/logos/microsoft.png" alt="">
-                                                    <span> | </span>
-                                                    <img src="./assets/common/resurgent.webp" alt="">
-                                                </div>
                                                 <div class="heading">
-                                                    <h1>Upgrade hybrid meetings with <span>Microsoft Teams Rooms</span>
+                                                    <h1>Elevate your meetings with enhanced<span> Zoom Rooms</span> features
                                                     </h1>
                                                     <svg width="266" height="12" viewBox="0 0 266 12" fill="none"
                                                         xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M0 0L266 12H0V0Z" fill="#FFDC60"></path>
                                                     </svg>
                                                 </div>
-                                                <p>Facilitate seamless collaboration between remote and in-office team
-                                                    members through a comprehensive meeting room solution, ensuring
-                                                    visibility, audibility, and full participation regardless of
-                                                    location.
+                                                <p>Zoom Rooms facilitate HD video collaboration in any space, enabling seamless interaction between in-person and remote participants. Simple meeting initiation and content sharing.
                                                 </p>
                                                 <a href="about.html" aria-label="Know about the company">
                                                     <div class="banner-button1 button-hover1">
@@ -111,7 +103,7 @@
                 <div class="container z-9">
                     <div class="row">
                         <div class="col-lg-8 mx-auto text-center">
-                            <h2 class="section-title mb-0">Deliver better hybrid meeting experiences
+                            <h2 class="section-title mb-0">Know the zoom room features
                             </h2>
                         </div>
                         <div class="device-gallery">
@@ -121,14 +113,12 @@
                                         <div class="device-num">01</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/ms-team-rooms/inclusive-and-interactive-meetings.avif"
+                                                <img src="./assets/brands/zoom-rooms/intelligent-detector.png"
                                                     class="img-fluid" alt="">
                                             </div>
-                                            <h3 class="section-sub-heading">Inclusive and interactive meetings</h3>
-                                            <p>Ensure visibility, audibility, and full participation for all, regardless
-                                                of location, ensuring everyone can contribute effectively to meetings
-                                                from anywhere.</p>
-                                            <a href="https://www.microsoft.com/en-in/microsoft-teams/microsoft-teams-rooms"
+                                            <h3 class="section-sub-heading">Intelligent Director</h3>
+                                            <p>Utilizing multiple in-room cameras and AI, Intelligent Director ensures equitable face-to-face time for all in Zoom Rooms, mirroring the remote participant experience.</p>
+                                            <a href="https://www.zoom.com/en/products/meeting-rooms"
                                                 target="blank">View details &nbsp; <i
                                                     class="far fa-arrow-right"></i></a>
                                         </div>
@@ -138,14 +128,12 @@
                                         <div class="device-num">02</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/ms-team-rooms/easy-to-use.avif"
+                                                <img src="./assets/brands/zoom-rooms/workspace-reservation.png"
                                                     class="img-fluid" alt="">
                                             </div>
-                                            <h3 class="section-sub-heading">Easy to use for all</h3>
-                                            <p>Maximize efficiency with seamless, hassle-free meeting experiences,
-                                                ensuring every interaction is consistent and productive, enabling you to
-                                                make the most of your time.</p>
-                                            <a href="https://www.microsoft.com/en-in/microsoft-teams/microsoft-teams-rooms"
+                                            <h3 class="section-sub-heading">Workspace Reservation</h3>
+                                            <p>Modernize workspaces with Workspace Reservation, an innovative solution enabling teams to reserve flexible spaces, including open desks, personalized Zoom devices, or Zoom phones.</p>
+                                            <a href="https://www.zoom.com/en/products/meeting-rooms"
                                                 target="blank">View details &nbsp; <i
                                                     class="far fa-arrow-right"></i></a>
                                         </div>
@@ -155,14 +143,12 @@
                                         <div class="device-num">03</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/ms-team-rooms/fexible.avif" class="img-fluid"
+                                                <img src="./assets/brands/zoom-rooms/smart-gallery.png" class="img-fluid"
                                                     alt="">
                                             </div>
-                                            <h3 class="section-sub-heading">Flexible</h3>
-                                            <p>Teams Rooms accommodate diverse meeting types and spaces with a broad
-                                                selection of certified devices, ensuring versatile support for various
-                                                requirements.</p>
-                                            <a href="https://www.microsoft.com/en-in/microsoft-teams/microsoft-teams-rooms"
+                                            <h3 class="section-sub-heading">Smart Gallery</h3>
+                                            <p>Smart Gallery utilizes AI to capture multiple in-room participants in Zoom Rooms, sending up to three unique video streams for enhanced interaction with remote attendees.</p>
+                                            <a href="https://www.zoom.com/en/products/meeting-rooms"
                                                 target="blank">View details &nbsp; <i
                                                     class="far fa-arrow-right"></i></a>
                                         </div>
@@ -172,14 +158,12 @@
                                         <div class="device-num">04</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/ms-team-rooms/secured.avif" class="img-fluid"
+                                                <img src="./assets/brands/zoom-rooms/v-r.png" class="img-fluid"
                                                     alt="">
                                             </div>
-                                            <h3 class="section-sub-heading">Secured and managed</h3>
-                                            <p>Enjoy strong security and efficient operations, guaranteeing that the
-                                                physical meeting room remains current and prepared for seamless
-                                                utilization.</p>
-                                            <a href="https://www.microsoft.com/en-in/microsoft-teams/microsoft-teams-rooms"
+                                            <h3 class="section-sub-heading">Kiosk Mode Virtual Receptionist</h3>
+                                            <p>Zoom Rooms Kiosk mode enables face-to-face interaction with a virtual receptionist in various locations, customizable to match branding and environment.</p>
+                                            <a href="https://www.zoom.com/en/products/meeting-rooms"
                                                 target="blank">View details &nbsp; <i
                                                     class="far fa-arrow-right"></i></a>
                                         </div>
@@ -191,18 +175,18 @@
                             <div class="device-right">
                                 <div class="device-photos">
                                     <div class="device-photo">
-                                        <img src="./assets/brands/ms-team-rooms/inclusive-and-interactive-meetings.avif"
+                                        <img src="./assets/brands/zoom-rooms/intelligent-detector.png"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/ms-team-rooms/easy-to-use.avif" class="img-fluid"
-                                            alt="easy to use">
+                                        <img src="./assets/brands/zoom-rooms/workspace-reservation.png" class="img-fluid"
+                                            alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/ms-team-rooms/fexible.avif" class="img-fluid" alt="">
+                                        <img src="./assets/brands/zoom-rooms/smart-gallery.png" class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/ms-team-rooms/secured.avif" class="img-fluid" alt="">
+                                        <img src="./assets/brands/zoom-rooms/v-r.png" class="img-fluid" alt="">
                                     </div>
 
 
@@ -242,28 +226,25 @@
                 <div class="container z-9">
                     <div class="row">
                         <div class="feature-title pb-4">
-                            <h2>Connect people across</h2>
-                            <h2>hybrid workplace</h2>
+                            <!-- <h2>Zoom</h2> -->
+                            <h2>Zoom Core Features</h2>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>Inclusive</h3>
-                            <p>Foster inclusive and interactive team meetings for everyone, regardless of where they
-                                are.</p>
+                            <h3>HD Video and Audio</h3>
+                            <p>Flawless, high-definition video across desktop, mobile, and room systems</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>Easy to use for all</h3>
-                            <p>Deliver consistent Teams experiences designed to make collaboration easy and hassle-free.
+                            <h3>One touch to join</h3>
+                            <p>Quickly join scheduled meetings with one touch on a wide range of hardware from leading vendors
                             </p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>Flexible</h3>
-                            <p>Turn any shared space into a Teams Room with a wide selection of devices and features to
-                                fit every need.</p>
+                            <h3>Wireless sharing</h3>
+                            <p>Share content from your laptop or mobile device easily with just one touch</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>Secured and managed</h3>
-                            <p>Keep devices protected and up to date with rich management capabilities and powerful
-                                analytics.</p>
+                            <h3>Interoperability</h3>
+                            <p>Support for standards based SIP/H.323 hardware endpoints</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
                             <h3>A familiar Microsoft Teams experience</h3>

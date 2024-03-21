@@ -161,12 +161,59 @@
                                 </a>
                                 <div class="megamenu portfolio">
                                     <ul class="sub_menu column-4 without-lefttext">
+                                    <li class="work_sub_item sub_item">
+                                            <div class="content">
+                                                <a href="microsoft-team-rooms.php"
+                                                    aria-label="Cisco">
+                                                    Microsoft Team Rooms
+                                                </a>
+                                            </div>
+                                        </li>
                                         <li class="work_sub_item sub_item">
-
                                             <div class="content">
                                                 <a href="cisco.php"
                                                     aria-label="Cisco">
                                                     Cisco
+                                                </a>
+                                            </div>
+                                        </li>
+                                        <li class="work_sub_item sub_item">
+                                            <div class="content">
+                                                <a href="jabra.php"
+                                                    aria-label="Cisco">
+                                                    Jabra
+                                                </a>
+                                            </div>
+                                        </li>
+                                        <li class="work_sub_item sub_item">
+                                            <div class="content">
+                                                <a href="logitech.php"
+                                                    aria-label="Cisco">
+                                                    Logitech
+                                                </a>
+                                            </div>
+                                        </li>
+                                        <li class="work_sub_item sub_item">
+                                            <div class="content">
+                                                <a href="zoom-rooms.php"
+                                                    aria-label="Cisco">
+                                                    Zoom Rooms
+                                                </a>
+                                            </div>
+                                        </li>
+                                        <li class="work_sub_item sub_item">
+                                            <div class="content">
+                                                <a href="hp.php"
+                                                    aria-label="Cisco">
+                                                    HP
+                                                </a>
+                                            </div>
+                                        </li>
+                                        <li class="work_sub_item sub_item">
+                                            <div class="content">
+                                                <a href="yealink.php"
+                                                    aria-label="Cisco">
+                                                    Yealink
                                                 </a>
                                             </div>
                                         </li>

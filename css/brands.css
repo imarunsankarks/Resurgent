@@ -29,31 +29,47 @@
 }
 
 .brand-card .second-card {
-  background: linear-gradient(125deg, var(--theme-blue), var(--theme-sblue));
+  /* background: linear-gradient(125deg, var(--theme-blue), var(--theme-sblue)); */
+  background: url(../assets/products/airserver/airserver-f1.jpg) no-repeat center / cover;
+  /* background: #d1daff; */
   border-radius: var(--border-rad);
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-
-/* .m{
-  color: #F14F21 !important;
-  font-weight:800;
-}
-.t{
-  color:#7EB900 !important;
-  font-weight:800;
-}
-.r{
-  color:#00A3EE !important;
-  font-weight:800;
+.brand-card .second-card::before{
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #0000005d;
+  border-radius: var(--border-rad);
+  backdrop-filter:  blur(10px);
 }
 
-.s{
-  color:#FEB800 !important;
-  font-weight:800;
-} */
+.brand-card .ms-team-rooms .ms-circle-1{
+  background: #F14F21;
+  position: absolute;
+  width: 700px;
+  height: 700px;
+  border-radius: 50%;
+  left: 0;
+  bottom: 0;
+  filter: blur(80px);
+  opacity: .3;
+}
+.brand-card .ms-team-rooms .ms-circle-2{
+  background:  #00A3EE;
+  position: absolute;
+  width: 700px;
+  height: 700px;
+  border-radius: 50%;
+  right: 0;
+  bottom: 0;
+  filter: blur(80px);
+  opacity: .3;
+}
 
 
 .brand-card .first-card img {
@@ -83,6 +99,21 @@
   position: relative;
 
 }
+.brand-card .first-card .second-img .collab-logo {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+  align-items: center;
+  font-size: 30px;
+  color: var(--theme-blue);
+  font-weight: 600;
+}
+
+.brand-card .first-card .second-img .collab-logo img{
+  width: 150px;
+  object-fit: contain;
+}
+
 .brand-card .first-card .second-img .heading{
   position: relative;
 
@@ -93,7 +124,7 @@
 }
 
 .brand-card .first-card .second-img .heading h1{
-  font-size: 50px;
+  font-size: 45px;
   color: var(--theme-blue);
   font-weight: 400;
   position: relative;
@@ -132,87 +163,72 @@
   color: #ffffff;
 }
 
+.brand-card .second-card .content img{
+  width: 500px;
+  height: 200px;
+  object-fit: contain;
+}
+
 .brand-card .second-card .content p {
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 400;
+  /* color: var(--theme-blue); */
   color: #ffffff;
 }
 
-/* --------------------------------------------------cta-product------------------------------------------ */
-.cta-product {
-  /* background: url(../assets/home/education.jpg); */
-  /* height: 400px; */
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: top;
-  position: relative;
-  padding: 80px 150px;
-}
 
-/* .cta-product::before {
-    content: "";
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    background-color: #001730b6;
-    top: 0;
-    left: 0;
-  } */
-
-.cta-product-text-1 {
-  font-size: 30px;
-  font-weight: 200;
-  color: var(--theme-blue);
-  position: relative;
-}
-
-.cta-product-text-1::before {
-  content: "";
-  position: absolute;
-  left: -162px;
-  top: 50%;
-  width: 130px;
-  height: 2px;
-  background-color: var(--theme-blue);
-}
-
-.cta-product-text-2 {
-  font-size: 60px;
-  font-weight: 600;
-  color: var(--theme-blue);
-  position: relative;
-}
-
-.cta-product-text-2::after {
-  content: "";
-  position: absolute;
-  right: -162px;
-  bottom: -45%;
-  width: 43vw;
-  height: 2px;
-  background-color: var(--theme-blue);
-}
-
-.cta-product-btn {
-  text-align: center;
-}
-
-.cta-product-btn button {
-  border: 0;
-  outline: 0;
-  height: 130px;
-  width: 130px;
-  border-radius: 50%;
-  background: var(--theme-blue);
-  color: #ffffff;
-}
 
 /* --------------------------------------devices------------------------------------- */
 #devices {
-  background: #f3f3f3;
+  /* background: #f3f3f3; */
   background: linear-gradient(180deg, #f3f3f3, #ffffff);
+  position: relative;
 
+}
+#devices .device-circle-1{
+  background:  #fee500 ;
+  position: absolute;
+  width: 900px;
+  height: 900px;
+  border-radius: 50%;
+  left: -20%;
+  top: 10%;
+  filter: blur(80px);
+  opacity: .3;
+}
+#devices .device-circle-2{
+  background:  #00A3EE ;
+  position: absolute;
+  width: 900px;
+  height: 900px;
+  border-radius: 50%;
+  right: -20%;
+  bottom: 10%;
+  filter: blur(80px);
+  opacity: .3;
+}
+
+#brand-features .device-circle-1{
+  background:  #fee500 ;
+  position: absolute;
+  width: 900px;
+  height: 900px;
+  border-radius: 50%;
+  left: -20%;
+  top: 10%;
+  filter: blur(80px);
+  opacity: .3;
+}
+#brand-features .device-circle-2{
+  background:  #11c019 ;
+  position: absolute;
+  width: 900px;
+  height: 900px;
+  border-radius: 50%;
+  right: -20%;
+  bottom: 10%;
+  filter: blur(80px);
+  opacity: .3;
 }
 .device-gallery {
   display: flex;
@@ -311,9 +327,10 @@
 }
 
 #brand-features {
-  background: linear-gradient(120deg, #c5dcff, #bcd3f1);
+  /* background: linear-gradient(120deg, #c5dcff, #bcd3f1); */
   /* color: #ffffff; */
   background: #f3f3f3;
+  position: relative;
 }
 
 #brand-features .feature-title {
@@ -414,4 +431,62 @@
   font-size: 70px;
   font-weight: 800;
   /* bottom: -35px; */
+}
+
+#brand-solutions .each-brand-solutions{
+  padding: 20px;
+  border-radius: var(--border-rad);
+  position: relative;
+  height: 450px;
+  display: flex;
+  transition: all .4s ease;
+}
+#brand-solutions .each-brand-solutions:hover{
+  transform: scale(1.02);
+}
+#brand-solutions .each-brand-solutions .content{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: flex-end;
+}
+#brand-solutions .each-brand-solutions::before{
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: linear-gradient(to top, #f8f8f8 60%, transparent);
+  border-radius: var(--border-rad);
+  width: 100%;
+  height: 70%;
+}
+
+#brand-solutions .each-brand-solutions.cisco{
+  background: url(../assets/brands/ms-team-rooms/banner.png) no-repeat center / cover;
+}
+
+#brand-solutions .each-brand-solutions.jabra{
+  background: url(../assets/products/airserver/airserver-f1.jpg) no-repeat center / cover;
+
+}
+
+
+#brand-solutions .each-brand-solutions a{
+  font-weight: 600;
+  color: var(--theme-blue);
+  text-align: center;
+}
+
+#brand-solutions .each-brand-solutions p{
+  font-weight: 400;
+  color: #000000;
+  text-align: center;
+}
+
+#brand-solutions .each-brand-solutions img{
+  width: 100%;
+  height: 80px;
+  object-fit: contain;
+  margin-bottom: 15px;
+  padding: 0 35px;
 }
