@@ -69,6 +69,13 @@
                                                     alt="">
                                             </div>
                                             <div class="second-img">
+                                            <div class="collab-logo">
+                                                    <img src="./assets/logos/microsoft.png" alt="">
+                                                    <span> | </span>
+                                                    <img src="./assets/logos/partners/cisco.webp" alt="">
+                                                    <span> | </span>
+                                                    <img src="./assets/common/resurgent.webp" alt="">
+                                                </div>
                                                 <div class="heading">
                                                     <h1>Elevate your <span>Microsoft Teams Rooms</span> with Cisco
                                                         devices.
