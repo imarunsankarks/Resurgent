@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Zoom Rooms - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -65,18 +66,22 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="first-card">
                                             <div class="first-img">
-                                                <img loading="lazy" src="./assets/brands/zoom-rooms/zoom-banner.png" alt="">
+                                                <img loading="lazy" src="./assets/brands/zoom-rooms/zoom-banner.png"
+                                                    alt="">
                                             </div>
                                             <div class="second-img">
                                                 <div class="heading">
-                                                    <h1>Elevate your meetings with enhanced<span> Zoom Rooms</span> features
+                                                    <h1>Elevate your meetings with enhanced<span> Zoom Rooms</span>
+                                                        features
                                                     </h1>
                                                     <svg width="266" height="12" viewBox="0 0 266 12" fill="none"
                                                         xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M0 0L266 12H0V0Z" fill="#FFDC60"></path>
                                                     </svg>
                                                 </div>
-                                                <p>Zoom Rooms facilitate HD video collaboration in any space, enabling seamless interaction between in-person and remote participants. Simple meeting initiation and content sharing.
+                                                <p>Zoom Rooms facilitate HD video collaboration in any space, enabling
+                                                    seamless interaction between in-person and remote participants.
+                                                    Simple meeting initiation and content sharing.
                                                 </p>
                                                 <a href="about.html" aria-label="Know about the company">
                                                     <div class="banner-button1 button-hover1">
@@ -113,14 +118,16 @@
                                         <div class="device-num">01</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img loading="lazy" src="./assets/brands/zoom-rooms/intelligent-detector.png"
+                                                <img loading="lazy"
+                                                    src="./assets/brands/zoom-rooms/intelligent-detector.png"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Intelligent Director</h3>
-                                            <p>Utilizing multiple in-room cameras and AI, Intelligent Director ensures equitable face-to-face time for all in Zoom Rooms, mirroring the remote participant experience.</p>
-                                            <a href="https://www.zoom.com/en/products/meeting-rooms"
-                                                target="blank">View details &nbsp; <i
-                                                    class="far fa-arrow-right"></i></a>
+                                            <p>Utilizing multiple in-room cameras and AI, Intelligent Director ensures
+                                                equitable face-to-face time for all in Zoom Rooms, mirroring the remote
+                                                participant experience.</p>
+                                            <a href="https://www.zoom.com/en/products/meeting-rooms" target="blank">View
+                                                details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -128,14 +135,16 @@
                                         <div class="device-num">02</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img loading="lazy" src="./assets/brands/zoom-rooms/workspace-reservation.png"
+                                                <img loading="lazy"
+                                                    src="./assets/brands/zoom-rooms/workspace-reservation.png"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Workspace Reservation</h3>
-                                            <p>Modernize workspaces with Workspace Reservation, an innovative solution enabling teams to reserve flexible spaces, including open desks, personalized Zoom devices, or Zoom phones.</p>
-                                            <a href="https://www.zoom.com/en/products/meeting-rooms"
-                                                target="blank">View details &nbsp; <i
-                                                    class="far fa-arrow-right"></i></a>
+                                            <p>Modernize workspaces with Workspace Reservation, an innovative solution
+                                                enabling teams to reserve flexible spaces, including open desks,
+                                                personalized Zoom devices, or Zoom phones.</p>
+                                            <a href="https://www.zoom.com/en/products/meeting-rooms" target="blank">View
+                                                details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -143,14 +152,15 @@
                                         <div class="device-num">03</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img loading="lazy" src="./assets/brands/zoom-rooms/smart-gallery.png" class="img-fluid"
-                                                    alt="">
+                                                <img loading="lazy" src="./assets/brands/zoom-rooms/smart-gallery.png"
+                                                    class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Smart Gallery</h3>
-                                            <p>Smart Gallery utilizes AI to capture multiple in-room participants in Zoom Rooms, sending up to three unique video streams for enhanced interaction with remote attendees.</p>
-                                            <a href="https://www.zoom.com/en/products/meeting-rooms"
-                                                target="blank">View details &nbsp; <i
-                                                    class="far fa-arrow-right"></i></a>
+                                            <p>Smart Gallery utilizes AI to capture multiple in-room participants in
+                                                Zoom Rooms, sending up to three unique video streams for enhanced
+                                                interaction with remote attendees.</p>
+                                            <a href="https://www.zoom.com/en/products/meeting-rooms" target="blank">View
+                                                details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -158,14 +168,15 @@
                                         <div class="device-num">04</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img loading="lazy" src="./assets/brands/zoom-rooms/v-r.png" class="img-fluid"
-                                                    alt="">
+                                                <img loading="lazy" src="./assets/brands/zoom-rooms/v-r.png"
+                                                    class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Kiosk Mode Virtual Receptionist</h3>
-                                            <p>Zoom Rooms Kiosk mode enables face-to-face interaction with a virtual receptionist in various locations, customizable to match branding and environment.</p>
-                                            <a href="https://www.zoom.com/en/products/meeting-rooms"
-                                                target="blank">View details &nbsp; <i
-                                                    class="far fa-arrow-right"></i></a>
+                                            <p>Zoom Rooms Kiosk mode enables face-to-face interaction with a virtual
+                                                receptionist in various locations, customizable to match branding and
+                                                environment.</p>
+                                            <a href="https://www.zoom.com/en/products/meeting-rooms" target="blank">View
+                                                details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -179,14 +190,16 @@
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img loading="lazy" src="./assets/brands/zoom-rooms/workspace-reservation.png" class="img-fluid"
+                                        <img loading="lazy" src="./assets/brands/zoom-rooms/workspace-reservation.png"
+                                            class="img-fluid" alt="">
+                                    </div>
+                                    <div class="device-photo">
+                                        <img loading="lazy" src="./assets/brands/zoom-rooms/smart-gallery.png"
+                                            class="img-fluid" alt="">
+                                    </div>
+                                    <div class="device-photo">
+                                        <img loading="lazy" src="./assets/brands/zoom-rooms/v-r.png" class="img-fluid"
                                             alt="">
-                                    </div>
-                                    <div class="device-photo">
-                                        <img loading="lazy" src="./assets/brands/zoom-rooms/smart-gallery.png" class="img-fluid" alt="">
-                                    </div>
-                                    <div class="device-photo">
-                                        <img loading="lazy" src="./assets/brands/zoom-rooms/v-r.png" class="img-fluid" alt="">
                                     </div>
 
 
@@ -235,7 +248,8 @@
                         </div>
                         <div class="col-md-4 brand-feature-card">
                             <h3>One touch to join</h3>
-                            <p>Quickly join scheduled meetings with one touch on a wide range of hardware from leading vendors
+                            <p>Quickly join scheduled meetings with one touch on a wide range of hardware from leading
+                                vendors
                             </p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
@@ -271,7 +285,8 @@
                                 <div class="each-brand-solutions cisco">
                                     <div class="content z-9">
                                         <img loading="lazy" src="./assets/logos/partners/cisco.webp" alt="">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus expedita
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus
+                                            expedita
                                             ipsam?</p>
                                         <a href="">Know more</a>
                                     </div>
@@ -283,7 +298,8 @@
                                 <div class="each-brand-solutions jabra">
                                     <div class="content z-9">
                                         <img loading="lazy" src="./assets/logos/partners/jabra.png" alt="Jabra Logo">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus expedita
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus
+                                            expedita
                                             ipsam?</p>
                                         <a href="">Know more</a>
                                     </div>
@@ -295,7 +311,8 @@
                                 <div class="each-brand-solutions cisco">
                                     <div class="content z-9">
                                         <img loading="lazy" src="./assets/logos/partners/logitech-c.webp" alt="">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus expedita
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus
+                                            expedita
                                             ipsam?</p>
                                         <a href="">Know more</a>
                                     </div>
@@ -307,7 +324,8 @@
                                 <div class="each-brand-solutions jabra">
                                     <div class="content z-9">
                                         <img loading="lazy" src="./assets/logos/partners/jabra.png" alt="Jabra Logo">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus expedita
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus
+                                            expedita
                                             ipsam?</p>
                                         <a href="">Know more</a>
                                     </div>
@@ -352,7 +370,7 @@
 
 
     <script>
-        new WOW().init();
+    new WOW().init();
     </script>
 
 
@@ -360,131 +378,131 @@
 
 
     <script>
-        const bannerTimeline = gsap.timeline({
-            scrollTrigger: {
-                trigger: "#main",
-                start: "top top",
-                end: "center center",
-                // pin: '#horizontal-scoll',
-                scrub: true,
-                markers: false,
-                invalidateOnRefresh: true,
-            },
-        });
+    const bannerTimeline = gsap.timeline({
+        scrollTrigger: {
+            trigger: "#main",
+            start: "top top",
+            end: "center center",
+            // pin: '#horizontal-scoll',
+            scrub: true,
+            markers: false,
+            invalidateOnRefresh: true,
+        },
+    });
 
-        if (window.innerWidth > 767) {
-            bannerTimeline.to(
-                ".first-img", {
+    if (window.innerWidth > 767) {
+        bannerTimeline.to(
+            ".first-img", {
                 x: () => -1000,
             },
-                "<"
-            );
-            bannerTimeline.to(
-                ".second-img", {
+            "<"
+        );
+        bannerTimeline.to(
+            ".second-img", {
                 x: () => 1000,
             },
-                "<"
-            );
+            "<"
+        );
 
-        } else {
-            bannerTimeline.to(
-                ".first-img", {
+    } else {
+        bannerTimeline.to(
+            ".first-img", {
                 y: () => -1000,
             },
-                "<"
-            );
-            bannerTimeline.to(
-                ".second-img", {
+            "<"
+        );
+        bannerTimeline.to(
+            ".second-img", {
                 y: () => 1000,
             },
-                "<"
-            );
+            "<"
+        );
+    }
+
+
+    let bannerSection = document.querySelector('.brand-card');
+
+    gsap.to('.brand-card', {
+        x: () => bannerSection.scrollWidth * -1,
+        xPercent: 100,
+        scrollTrigger: {
+            trigger: '.brand-card',
+            start: 'center-=30px center',
+            end: '+=1000px',
+            pin: '#brand-banner',
+            scrub: true,
+            // markers:true,
+            invalidateOnRefresh: true,
         }
+    });
 
 
-        let bannerSection = document.querySelector('.brand-card');
 
-        gsap.to('.brand-card', {
-            x: () => bannerSection.scrollWidth * -1,
-            xPercent: 100,
-            scrollTrigger: {
-                trigger: '.brand-card',
-                start: 'center-=30px center',
-                end: '+=1000px',
-                pin: '#brand-banner',
-                scrub: true,
-                // markers:true,
-                invalidateOnRefresh: true,
-            }
+
+
+
+    // ------------------------------------devices--------------------------------
+    if (window.innerWidth > 768) {
+        gsap.set(".device-photo:not(:first-child)", {
+            x: "0%",
+            opacity: 0
+        });
+
+
+        const deviceAnimation = gsap.to(".device-photo:not(:first-child)", {
+            x: 0,
+            opacity: 1,
+            duration: 1,
+            stagger: 1,
+        });
+
+        ScrollTrigger.create({
+            trigger: ".device-details-wrapper",
+            start: "top top",
+            end: "bottom bottom",
+            pin: ".device-right",
+            animation: deviceAnimation,
+            scrub: true,
+            markers: false,
+            threshold: 1,
         });
 
 
 
+        const images = document.querySelectorAll('.device-details');
 
-
-
-        // ------------------------------------devices--------------------------------
-        if (window.innerWidth > 768) {
-            gsap.set(".device-photo:not(:first-child)", {
+        images.forEach((img, index) => {
+            gsap.set(img, {
                 x: "0%",
-                opacity: 0
+                opacity: 0,
             });
 
-
-            const deviceAnimation = gsap.to(".device-photo:not(:first-child)", {
+            const simulatedAfter = gsap.to(img, {
                 x: 0,
                 opacity: 1,
-                duration: 1,
+                duration: 0.2,
                 stagger: 1,
+                scrollTrigger: {
+                    trigger: img,
+                    start: 'top center',
+                    end: 'bottom center',
+                    //   markers: true,
+                }
             });
 
             ScrollTrigger.create({
-                trigger: ".device-details-wrapper",
-                start: "top top",
-                end: "bottom bottom",
-                pin: ".device-right",
-                animation: deviceAnimation,
-                scrub: true,
-                markers: false,
-                threshold: 1,
+                trigger: img,
+                start: 'top center',
+                end: 'center center',
+                onEnter: () => {
+                    simulatedAfter.play();
+                },
+                onLeaveBack: () => {
+                    simulatedAfter.reverse();
+                },
             });
-
-
-
-            const images = document.querySelectorAll('.device-details');
-
-            images.forEach((img, index) => {
-                gsap.set(img, {
-                    x: "0%",
-                    opacity: 0,
-                });
-
-                const simulatedAfter = gsap.to(img, {
-                    x: 0,
-                    opacity: 1,
-                    duration: 0.2,
-                    stagger: 1,
-                    scrollTrigger: {
-                        trigger: img,
-                        start: 'top center',
-                        end: 'bottom center',
-                        //   markers: true,
-                    }
-                });
-
-                ScrollTrigger.create({
-                    trigger: img,
-                    start: 'top center',
-                    end: 'center center',
-                    onEnter: () => {
-                        simulatedAfter.play();
-                    },
-                    onLeaveBack: () => {
-                        simulatedAfter.reverse();
-                    },
-                });
-            });
-        }
+        });
+    }
     </script>
 
 

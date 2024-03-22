@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>PSNI Global Alliance - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -113,7 +114,8 @@
             <section class="sec-padding pt-0">
                 <div class="container">
                     <div class="psni-benefits">
-                        <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">PSNI Alliance makes AV solutions easier
+                        <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">PSNI Alliance
+                            makes AV solutions easier
                         </h2>
                         <div class="row mt-md-5 justify-content-center">
                             <div class="col-md-4 wow animate__animated animate__fadeInUp">
@@ -123,10 +125,11 @@
                                         <span class="why-card-line"></span>
                                         <h3 class="why-second-head mb-0">partner</h3>
                                     </div>
-                                    <p>As a PSNI Member, Resurgent is acknowledged as a trusted partner in the industry and sets the standard for best practices</p>
+                                    <p>As a PSNI Member, Resurgent is acknowledged as a trusted partner in the industry
+                                        and sets the standard for best practices</p>
                                 </div>
                             </div>
-    
+
                             <div class="col-md-4 wow animate__animated animate__fadeInUp animate__two">
                                 <div class="why-card">
                                     <h3>tap the</h3>
@@ -134,10 +137,11 @@
                                         <span class="why-card-line"></span>
                                         <h3 class="why-second-head mb-0">network</h3>
                                     </div>
-                                    <p>PSNI's network provides direct access to advanced technology, training, and support to all its members</p>
+                                    <p>PSNI's network provides direct access to advanced technology, training, and
+                                        support to all its members</p>
                                 </div>
                             </div>
-    
+
                             <div class="col-md-4 wow animate__animated animate__fadeInUp animate__three">
                                 <div class="why-card">
                                     <h3>easy</h3>
@@ -145,7 +149,8 @@
                                         <span class="why-card-line"></span>
                                         <h3 class="why-second-head mb-0">deployment</h3>
                                     </div>
-                                    <p>All PSNI members, regardless of deployment type, are equipped to meet your requirements anywhere, anytime</p>
+                                    <p>All PSNI members, regardless of deployment type, are equipped to meet your
+                                        requirements anywhere, anytime</p>
                                 </div>
                             </div>
                         </div>

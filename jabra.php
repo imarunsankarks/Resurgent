@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Jabra - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -49,7 +50,10 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="second-card">
                                             <div class="content">
-                                                <p>Our exclusive 180-degree video technology meets our world-leading audio technology, for an intelligent meeting experience that feels a whole lot more human. So everyone feels like they're together in the same room, even when they're spread across the globe.</p>
+                                                <p>Our exclusive 180-degree video technology meets our world-leading
+                                                    audio technology, for an intelligent meeting experience that feels a
+                                                    whole lot more human. So everyone feels like they're together in the
+                                                    same room, even when they're spread across the globe.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -65,14 +69,18 @@
                                             </div>
                                             <div class="second-img">
                                                 <div class="heading">
-                                                    <h1>Transforming <span>Microsoft Teams Rooms</span> with Jabra's AV Enhancement.
+                                                    <h1>Transforming <span>Microsoft Teams Rooms</span> with Jabra's AV
+                                                        Enhancement.
                                                     </h1>
                                                     <svg width="266" height="12" viewBox="0 0 266 12" fill="none"
                                                         xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M0 0L266 12H0V0Z" fill="#FFDC60"></path>
                                                     </svg>
                                                 </div>
-                                                <p>From home offices and personal spaces, to meeting rooms and on the front line, wherever your team wants to work, Jabra has the Microsoft Teams-certified audio and video device to make it a breeze.
+                                                <p>From home offices and personal spaces, to meeting rooms and on the
+                                                    front line, wherever your team wants to work, Jabra has the
+                                                    Microsoft Teams-certified audio and video device to make it a
+                                                    breeze.
                                                 </p>
                                                 <a href="about.html" aria-label="Know about the company">
                                                     <div class="banner-button1 button-hover1">
@@ -110,13 +118,19 @@
                                         <div class="device-num">01</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img loading="lazy" src="./assets/brands/jabra/panacast-50-video-bar.png"
+                                                <img loading="lazy"
+                                                    src="./assets/brands/jabra/panacast-50-video-bar.png"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">PanaCast 50 Video Bar System</h3>
-                                            <p>PanaCast 50 Video Bar ensures inclusive meetings with three 13-megapixel cameras, ensuring everyone stays in frame, maximizing meeting space utilization.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
-                                            <a href="https://www.jabra.in/business/video-conferencing/jabra-panacast-50-video-bar-system">View details &nbsp; <i class="far fa-arrow-right"></i></a>
+                                            <p>PanaCast 50 Video Bar ensures inclusive meetings with three 13-megapixel
+                                                cameras, ensuring everyone stays in frame, maximizing meeting space
+                                                utilization.</p>
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
+                                            <a
+                                                href="https://www.jabra.in/business/video-conferencing/jabra-panacast-50-video-bar-system">View
+                                                details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -128,9 +142,14 @@
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">PanaCast 20</h3>
-                                            <p>Harnessing advanced on-board AI to deliver an intelligent feature set that takes your video experience to the next level, PanaCast 20 is a personal camera that knows exactly what you need, when you need it.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
-                                            <a href="https://www.jabra.in/business/video-conferencing/jabra-panacast-20">View details &nbsp; <i class="far fa-arrow-right"></i></a>
+                                            <p>Harnessing advanced on-board AI to deliver an intelligent feature set
+                                                that takes your video experience to the next level, PanaCast 20 is a
+                                                personal camera that knows exactly what you need, when you need it.</p>
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
+                                            <a
+                                                href="https://www.jabra.in/business/video-conferencing/jabra-panacast-20">View
+                                                details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -142,9 +161,13 @@
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Evolve2 75</h3>
-                                            <p>The new standard for hybrid working. World-class audio engineering for industry-leading call quality.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
-                                            <a href="https://www.jabra.in/business/office-headsets/jabra-evolve/jabra-evolve2-75">View details &nbsp; <i class="far fa-arrow-right"></i></a>
+                                            <p>The new standard for hybrid working. World-class audio engineering for
+                                                industry-leading call quality.</p>
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
+                                            <a
+                                                href="https://www.jabra.in/business/office-headsets/jabra-evolve/jabra-evolve2-75">View
+                                                details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -156,9 +179,14 @@
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Speak 750</h3>
-                                            <p>Hold completely natural conversations via speakerphone as both sides of the conversation are transmitted at the same time, allowing conversations to flow just as they do in person.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
-                                            <a href="https://www.jabra.in/business/speakerphones/jabra-speak-series/jabra-speak-750">View details &nbsp; <i class="far fa-arrow-right"></i></a>
+                                            <p>Hold completely natural conversations via speakerphone as both sides of
+                                                the conversation are transmitted at the same time, allowing
+                                                conversations to flow just as they do in person.</p>
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
+                                            <a
+                                                href="https://www.jabra.in/business/speakerphones/jabra-speak-series/jabra-speak-750">View
+                                                details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -180,8 +208,8 @@
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img loading="lazy" src="./assets/brands/jabra/speak-750.png"
-                                            class="img-fluid" alt="">
+                                        <img loading="lazy" src="./assets/brands/jabra/speak-750.png" class="img-fluid"
+                                            alt="">
                                     </div>
 
 

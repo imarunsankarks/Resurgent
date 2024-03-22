@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Microsoft Team Rooms - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -49,10 +50,11 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="second-card ms-team-rooms">
                                             <div class="content z-9">
-                                                    <video autoplay muted loop class="z-9">
-                                                        <source src="./assets/brands/ms-team-rooms/team-rooms.mp4" type="video/mp4">
-                                                    </video>
-                                                    <div class="video-circle"></div>
+                                                <video autoplay muted loop class="z-9">
+                                                    <source src="./assets/brands/ms-team-rooms/team-rooms.mp4"
+                                                        type="video/mp4">
+                                                </video>
+                                                <div class="video-circle"></div>
                                             </div>
                                             <!-- <div class="ms-circle-1"></div> -->
                                             <!-- <div class="ms-circle-2"></div> -->
@@ -65,7 +67,8 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="first-card">
                                             <div class="first-img">
-                                                <img loading="lazy" src="./assets/brands/ms-team-rooms/banner.png" alt="">
+                                                <img loading="lazy" src="./assets/brands/ms-team-rooms/banner.png"
+                                                    alt="">
                                             </div>
                                             <div class="second-img">
                                                 <div class="collab-logo">
@@ -121,7 +124,8 @@
                                         <div class="device-num">01</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img loading="lazy" src="./assets/brands/ms-team-rooms/inclusive-and-interactive-meetings.avif"
+                                                <img loading="lazy"
+                                                    src="./assets/brands/ms-team-rooms/inclusive-and-interactive-meetings.avif"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Inclusive and interactive meetings</h3>
@@ -155,8 +159,8 @@
                                         <div class="device-num">03</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img loading="lazy" src="./assets/brands/ms-team-rooms/fexible.avif" class="img-fluid"
-                                                    alt="">
+                                                <img loading="lazy" src="./assets/brands/ms-team-rooms/fexible.avif"
+                                                    class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Flexible</h3>
                                             <p>Teams Rooms accommodate diverse meeting types and spaces with a broad
@@ -172,8 +176,8 @@
                                         <div class="device-num">04</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img loading="lazy" src="./assets/brands/ms-team-rooms/secured.avif" class="img-fluid"
-                                                    alt="">
+                                                <img loading="lazy" src="./assets/brands/ms-team-rooms/secured.avif"
+                                                    class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Secured and managed</h3>
                                             <p>Enjoy strong security and efficient operations, guaranteeing that the
@@ -191,18 +195,21 @@
                             <div class="device-right">
                                 <div class="device-photos">
                                     <div class="device-photo">
-                                        <img loading="lazy" src="./assets/brands/ms-team-rooms/inclusive-and-interactive-meetings.avif"
+                                        <img loading="lazy"
+                                            src="./assets/brands/ms-team-rooms/inclusive-and-interactive-meetings.avif"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img loading="lazy" src="./assets/brands/ms-team-rooms/easy-to-use.avif" class="img-fluid"
-                                            alt="easy to use">
+                                        <img loading="lazy" src="./assets/brands/ms-team-rooms/easy-to-use.avif"
+                                            class="img-fluid" alt="easy to use">
                                     </div>
                                     <div class="device-photo">
-                                        <img loading="lazy" src="./assets/brands/ms-team-rooms/fexible.avif" class="img-fluid" alt="">
+                                        <img loading="lazy" src="./assets/brands/ms-team-rooms/fexible.avif"
+                                            class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img loading="lazy" src="./assets/brands/ms-team-rooms/secured.avif" class="img-fluid" alt="">
+                                        <img loading="lazy" src="./assets/brands/ms-team-rooms/secured.avif"
+                                            class="img-fluid" alt="">
                                     </div>
 
 

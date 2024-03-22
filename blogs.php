@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Blog - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -46,7 +47,7 @@
                                 <h1 class="common-banner-title wow animate__animated animate__flipInX animate__one">
                                     blogs</h1>
                                 <h2 class="common-banner-sub wow animate__animated animate__fadeInUp animate__two">
-                                AV communication's impact:<br> Key events and tech<br> for your business.</h2>
+                                    AV communication's impact:<br> Key events and tech<br> for your business.</h2>
                             </div>
 
                         </div>

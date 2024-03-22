@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Corporate - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -41,16 +42,21 @@
                 <div class="container h-100 d-flex align-items-center">
                     <div class="row h-100 align-items-center position-relative g-5">
                         <div class="col-md-6">
-                           <div class="sector-banner-left">
-                            <img loading="lazy" src="./assets/home/corporate.webp" alt="" class="sector-banner-img">
-                            <div class="sector-circle-2 wow animate__animated animate__zoomIn animate__three"></div>
-                           </div>
+                            <div class="sector-banner-left">
+                                <img loading="lazy" src="./assets/home/corporate.webp" alt="" class="sector-banner-img">
+                                <div class="sector-circle-2 wow animate__animated animate__zoomIn animate__three"></div>
+                            </div>
                         </div>
                         <div class="col-md-6">
                             <div class="sector-banner-content">
                                 <span>Integrated AV Solutions for</span>
                                 <h1 class="wow animate__animated animate__flipInX animate__two">Business</h1>
-                                <p class="wow animate__animated animate__fadeInUp animate__two">Our corporate AV solutions help organisations stay ahead and agile, even as they expand globally and work cultures become increasingly hybrid. Audio-video integration no longer applies only to communication capabilities within a single space; instead, our AV solutions are designed to transcend spaces and connect people across multiple locations and devices, empowering teams as they work towards a common goal.</p>
+                                <p class="wow animate__animated animate__fadeInUp animate__two">Our corporate AV
+                                    solutions help organisations stay ahead and agile, even as they expand globally and
+                                    work cultures become increasingly hybrid. Audio-video integration no longer applies
+                                    only to communication capabilities within a single space; instead, our AV solutions
+                                    are designed to transcend spaces and connect people across multiple locations and
+                                    devices, empowering teams as they work towards a common goal.</p>
                             </div>
                         </div>
 
@@ -77,63 +83,64 @@
                                     <div class="card">
                                         <div class="number">01</div>
                                         <div class="p_box wo-sub">
-                                                <div class="row">
-                                                    <h3 class="section-sub-heading">Unified Communication Systems</h3>
-    
-                                                    <div class="col-md-4">
-                                                        <div class="owl-carousel owl-theme owl-sector-img">
-                                                            <div class="item">
-                                                                <picture>
-                                                                    <source
-                                                                        srcset="./assets/solutions/corporate/unified-communication-system.webp"
-                                                                        type="image/webp" alt="" width="100%"
-                                                                        height="100%" loading="lazy">
-                                                                    <source
-                                                                        srcset="./assets/solutions/corporate/unified-communication-system.webp"
-                                                                        type="image/jpg" alt="" width="100%"
-                                                                        height="100%" loading="lazy">
-                                                                    <img loading="lazy" src="./assets/solutions/corporate/unified-communication-system.webp"
-                                                                        alt="" class="img-fluid" loading="lazy"
-                                                                        width="100%" height="100%">
-                                                                </picture>
-                                                            </div>
-    
+                                            <div class="row">
+                                                <h3 class="section-sub-heading">Unified Communication Systems</h3>
+
+                                                <div class="col-md-4">
+                                                    <div class="owl-carousel owl-theme owl-sector-img">
+                                                        <div class="item">
+                                                            <picture>
+                                                                <source
+                                                                    srcset="./assets/solutions/corporate/unified-communication-system.webp"
+                                                                    type="image/webp" alt="" width="100%" height="100%"
+                                                                    loading="lazy">
+                                                                <source
+                                                                    srcset="./assets/solutions/corporate/unified-communication-system.webp"
+                                                                    type="image/jpg" alt="" width="100%" height="100%"
+                                                                    loading="lazy">
+                                                                <img loading="lazy"
+                                                                    src="./assets/solutions/corporate/unified-communication-system.webp"
+                                                                    alt="" class="img-fluid" loading="lazy" width="100%"
+                                                                    height="100%">
+                                                            </picture>
                                                         </div>
-    
+
                                                     </div>
-                                                    <div class="col-md-8">
-                                                        <div class="content">
-                                                            <div class="text-content z-9">Unified Communications integrates
-                                                                diverse
-                                                                communication
-                                                                tools and applications in your business environment,
-                                                                whether it's video conferencing, screen sharing, email
-                                                                or instant messaging. Resurgent enables one-touch
-                                                                collaboration and conferencing by integrating solution
-                                                                providers such as Microsoft Teams, Cisco WebEx, VIDYO,
-                                                                Zoom, Polycom and more in rooms of every size and
-                                                                function.
-                                                                <ul>
-                                                                    <li>Unified Communication solutions can be customised
-                                                                        for huddle rooms, and small, medium and large
-                                                                        meeting rooms.</li>
-                                                                    <li>HDMI and VGA source connections at the table along
-                                                                        with BYOD wireless connections.</li>
-                                                                    <li>A Thin Client PC system with USB microphone and USB
-                                                                        camera.</li>
-                                                                    <li>HDMI connectivity and a seamless cable management
-                                                                        system.</li>
-                                                                    <li>Twisted pair extension for signal transmission
-                                                                        within the room.</li>
-                                                                    <li>Ceiling tile speakers/ table microphone to maintain
-                                                                        consistent sound levels.</li>
-                                                                    <li>Room scheduling panel for efficient room management.
-                                                                    </li>
-                                                                </ul>
-                                                            </div>
+
+                                                </div>
+                                                <div class="col-md-8">
+                                                    <div class="content">
+                                                        <div class="text-content z-9">Unified Communications integrates
+                                                            diverse
+                                                            communication
+                                                            tools and applications in your business environment,
+                                                            whether it's video conferencing, screen sharing, email
+                                                            or instant messaging. Resurgent enables one-touch
+                                                            collaboration and conferencing by integrating solution
+                                                            providers such as Microsoft Teams, Cisco WebEx, VIDYO,
+                                                            Zoom, Polycom and more in rooms of every size and
+                                                            function.
+                                                            <ul>
+                                                                <li>Unified Communication solutions can be customised
+                                                                    for huddle rooms, and small, medium and large
+                                                                    meeting rooms.</li>
+                                                                <li>HDMI and VGA source connections at the table along
+                                                                    with BYOD wireless connections.</li>
+                                                                <li>A Thin Client PC system with USB microphone and USB
+                                                                    camera.</li>
+                                                                <li>HDMI connectivity and a seamless cable management
+                                                                    system.</li>
+                                                                <li>Twisted pair extension for signal transmission
+                                                                    within the room.</li>
+                                                                <li>Ceiling tile speakers/ table microphone to maintain
+                                                                    consistent sound levels.</li>
+                                                                <li>Room scheduling panel for efficient room management.
+                                                                </li>
+                                                            </ul>
                                                         </div>
                                                     </div>
                                                 </div>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="card">
@@ -178,30 +185,32 @@
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/board-room-1.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/board-room-1.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/board-room-1.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/board-room-1.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/board-room-4.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/board-room-4.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/board-room-4.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/board-room-4.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                             </div>
@@ -248,60 +257,64 @@
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/video-conferencing-1.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/video-conferencing-1.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/video-conferencing-1.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/video-conferencing-1.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/video-conferencing-2.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/video-conferencing-2.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/video-conferencing-2.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/video-conferencing-2.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/video-conferencing-3.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/video-conferencing-3.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/video-conferencing-3.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/video-conferencing-3.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/video-conferencing-4.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/video-conferencing-4.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/video-conferencing-4.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/video-conferencing-4.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                             </div>
@@ -345,90 +358,96 @@
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/meeting-rooms-1.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/meeting-rooms-1.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/meeting-rooms-1.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/meeting-rooms-1.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/meeting-rooms-2.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/meeting-rooms-2.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/meeting-rooms-2.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/meeting-rooms-2.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/meeting-rooms-3.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/meeting-rooms-3.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/meeting-rooms-3.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/meeting-rooms-3.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/meeting-rooms-4.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/meeting-rooms-4.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/meeting-rooms-4.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/meeting-rooms-4.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/meeting-rooms-5.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/meeting-rooms-5.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/meeting-rooms-5.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/meeting-rooms-5.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/meeting-rooms-6.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/meeting-rooms-6.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/meeting-rooms-6.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/meeting-rooms-6.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                             </div>
@@ -473,60 +492,64 @@
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/cafe-1.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/cafe-1.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/cafe-1.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/cafe-1.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/cafe-2.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/cafe-2.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/cafe-2.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/cafe-2.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/cafe-3.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/cafe-3.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/cafe-3.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/cafe-3.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/cafe-4.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/cafe-4.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/cafe-4.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/cafe-4.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
 
@@ -598,90 +621,96 @@
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/training-1.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/training-1.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/training-1.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/training-1.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/training-2.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/training-2.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/training-2.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/training-2.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/training-3.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/training-3.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/training-3.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/training-3.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/training-4.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/training-4.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/training-4.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/training-4.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/training-5.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/training-5.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/training-5.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/training-5.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/training-6.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/training-6.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/training-6.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/training-6.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                             </div>
@@ -725,60 +754,64 @@
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/collab-1.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/collab-1.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/collab-1.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/collab-1.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/collab-2.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/collab-2.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/collab-2.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/collab-2.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/collab-3.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/collab-3.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/collab-3.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/collab-3.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                                 <div class="item">
                                                                     <picture>
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/collab-4.webp"
-                                                                            type="image/webp" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
+                                                                            type="image/webp" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
                                                                         <source
                                                                             srcset="./assets/solutions/corporate/collab-4.webp"
-                                                                            type="image/jpg" alt=""
-                                                                            width="100%" height="100%" loading="lazy">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/collab-4.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                            type="image/jpg" alt="" width="100%"
+                                                                            height="100%" loading="lazy">
+                                                                        <img loading="lazy"
+                                                                            src="./assets/solutions/corporate/collab-4.webp"
+                                                                            alt="" class="img-fluid" loading="lazy"
+                                                                            width="100%" height="100%">
                                                                     </picture>
                                                                 </div>
                                                             </div>
@@ -818,14 +851,16 @@
                                                 <div class="col-md-4">
                                                     <div class="owl-carousel owl-theme owl-sector-img">
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/corporate/noc-soc-1.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/corporate/noc-soc-1.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/corporate/noc-soc-2.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/corporate/noc-soc-2.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
 
                                                     </div>
@@ -863,19 +898,22 @@
                                                 <div class="col-md-4">
                                                     <div class="owl-carousel owl-theme owl-sector-img">
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/corporate/digital-signage-1.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/corporate/digital-signage-1.webp"
+                                                                alt="" class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/corporate/digital-signage-2.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/corporate/digital-signage-2.webp"
+                                                                alt="" class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/corporate/digital-signage-3.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/corporate/digital-signage-3.webp"
+                                                                alt="" class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
 
                                                     </div>
@@ -930,7 +968,8 @@
                                                         <div class="col-md-4">
                                                             <div class="owl-carousel owl-theme owl-sector-img">
                                                                 <div class="item">
-                                                                    <img loading="lazy" src="./assets/solutions/corporate/light.webp"
+                                                                    <img loading="lazy"
+                                                                        src="./assets/solutions/corporate/light.webp"
                                                                         alt="" class="img-fluid" loading="lazy"
                                                                         width="100%" height="100%">
                                                                 </div>
@@ -940,13 +979,20 @@
                                                         </div>
                                                         <div class="col-md-8">
                                                             <div class="content">
-                                                                <div class="text-content z-9">The right lighting can set the tone of a meeting and make a presentation more impactful. Using controllers, our commercial lighting control solutions can be adapted to the purpose for which a space is being used; this includes presentation mode, video conferencing mode, dimming and ‘on-off’ modes during boardroom meetings and conferences.
+                                                                <div class="text-content z-9">The right lighting can set
+                                                                    the tone of a meeting and make a presentation more
+                                                                    impactful. Using controllers, our commercial
+                                                                    lighting control solutions can be adapted to the
+                                                                    purpose for which a space is being used; this
+                                                                    includes presentation mode, video conferencing mode,
+                                                                    dimming and ‘on-off’ modes during boardroom meetings
+                                                                    and conferences.
                                                                     <ul>
                                                                         <li>Lighting controllers</li>
                                                                         <li>Sensor-based lighting system</li>
                                                                         <li>Keypads for lighting control</li>
                                                                         <li>Touch panel for lighting control</li>
-                                                                        </ul>
+                                                                    </ul>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -962,21 +1008,26 @@
                                                         <div class="col-md-4">
                                                             <div class="owl-carousel owl-theme owl-sector-img">
                                                                 <div class="item">
-                                                                        <img loading="lazy" src="./assets/solutions/corporate/sound.webp"
-                                                                            alt="" class="img-fluid"
-                                                                            loading="lazy" width="100%" height="100%">
+                                                                    <img loading="lazy"
+                                                                        src="./assets/solutions/corporate/sound.webp"
+                                                                        alt="" class="img-fluid" loading="lazy"
+                                                                        width="100%" height="100%">
                                                                 </div>
                                                             </div>
 
                                                         </div>
                                                         <div class="col-md-8">
                                                             <div class="content">
-                                                                <div class="text-content z-9">Our sound masking solutions can improve the clarity of voice and audio, reduce ambient noise, and increase speech privacy, making presentations and meetings more effective.
+                                                                <div class="text-content z-9">Our sound masking
+                                                                    solutions can improve the clarity of voice and
+                                                                    audio, reduce ambient noise, and increase speech
+                                                                    privacy, making presentations and meetings more
+                                                                    effective.
                                                                     <ul>
                                                                         <li>Sound-masking emitters</li>
                                                                         <li>Zone amplifiers</li>
                                                                         <li>Sound-masking controllers</li>
-                                                                        </ul>
+                                                                    </ul>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -996,19 +1047,22 @@
                                                 <div class="col-md-4">
                                                     <div class="owl-carousel owl-theme owl-sector-img">
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/corporate/experience-center-1.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/corporate/experience-center-1.webp"
+                                                                alt="" class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/corporate/experience-center-2.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/corporate/experience-center-2.webp"
+                                                                alt="" class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/corporate/experience-center-3.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/corporate/experience-center-3.webp"
+                                                                alt="" class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
 
                                                     </div>
@@ -1016,7 +1070,15 @@
                                                 </div>
                                                 <div class="col-md-8">
                                                     <div class="content">
-                                                        <div class="text-content z-9">As companies expand in size and gain a global footprint, it becomes increasingly important to tell their stories and share their vision in as experiential a way as possible. Experience centres enable businesses to do this through interactive virtual environments enhanced with immersive audiovisual technology.  Video walls, touch-screen displays, and state-of-the-art sound systems help create a rich experience for visitors and clients.
+                                                        <div class="text-content z-9">As companies expand in size and
+                                                            gain a global footprint, it becomes increasingly important
+                                                            to tell their stories and share their vision in as
+                                                            experiential a way as possible. Experience centres enable
+                                                            businesses to do this through interactive virtual
+                                                            environments enhanced with immersive audiovisual technology.
+                                                            Video walls, touch-screen displays, and state-of-the-art
+                                                            sound systems help create a rich experience for visitors and
+                                                            clients.
                                                             <ul>
                                                                 <li>Projectors, LCD and Plasma screens</li>
                                                                 <li>AV mixers and editing tools</li>
@@ -1026,7 +1088,7 @@
                                                                 <li>Theatre, stage and effect lighting</li>
                                                                 <li>Induction loop systems</li>
                                                                 <li>Comprehensive training</li>
-                                                                </ul>
+                                                            </ul>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1048,7 +1110,8 @@
             <!-- ---------------------------------------------------features---------------------------------- -->
             <section class="sec-padding">
                 <div class="container">
-                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp animate__delay-3s">Key Features</h2>
+                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp animate__delay-3s">
+                        Key Features</h2>
                     <div class="row mt-5">
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__one">
                             <div class="why-card">
@@ -1116,8 +1179,10 @@
                 <div class="container">
                     <div class="row align-items-center justify-content-center">
                         <div class="col-md-10 text-md-center">
-                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-3s">Related Products</h2>
-                            <p class="wow animate__animated animate__fadeInUp animate__delay-5s">Our corporate AV solutions help organizations stay ahead and agile, even as they expand
+                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-3s">Related
+                                Products</h2>
+                            <p class="wow animate__animated animate__fadeInUp animate__delay-5s">Our corporate AV
+                                solutions help organizations stay ahead and agile, even as they expand
                                 globally and work cultures become increasingly hybrid. Audio-video integration no longer
                                 applies only</p>
                         </div>
@@ -1125,21 +1190,26 @@
                             <div class="row g-5">
                                 <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__one">
                                     <div class="related-product-card">
-                                        <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp" alt="" class="w-100">
+                                        <img loading="lazy"
+                                            src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp" alt=""
+                                            class="w-100">
                                         <p>Microsoft Surface Hub 2S</p>
                                         <a href="microsoft-surface-hub-2s.php"><i class="fas fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__two ">
                                     <div class="related-product-card">
-                                        <img loading="lazy" src="./assets/products/ms-teams/stay-safe-and-work-hard.webp" alt="" class="w-100">
+                                        <img loading="lazy"
+                                            src="./assets/products/ms-teams/stay-safe-and-work-hard.webp" alt=""
+                                            class="w-100">
                                         <p>Microsoft Teams</p>
                                         <a href="microsoft-teams.php"><i class="fas fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__three">
                                     <div class="related-product-card">
-                                        <img loading="lazy" src="./assets/products/crestron/crestron-1.webp" alt="" class="w-100">
+                                        <img loading="lazy" src="./assets/products/crestron/crestron-1.webp" alt=""
+                                            class="w-100">
                                         <p>Crestron Flex</p>
                                         <a href="crestron-flex.php"><i class="fas fa-arrow-right"></i></a>
                                     </div>
@@ -1182,46 +1252,45 @@
 
 
     <script>
-        new WOW().init();
+    new WOW().init();
     </script>
 
 
 
     <script>
-        $('.owl-sector-img').owlCarousel({
-            loop: true,
-            margin: 20,
-            items: 1,
-            nav: false,
-            dots: true,
-            autoplay: true,
-            autoplayTimeout: 3000,
-            autoplayHoverPause: true,
-            smartSpeed: 1000,
-        })
+    $('.owl-sector-img').owlCarousel({
+        loop: true,
+        margin: 20,
+        items: 1,
+        nav: false,
+        dots: true,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+        smartSpeed: 1000,
+    })
     </script>
 
     <script>
-        if (window.innerWidth > 991) {
-            let horizontalSection = document.querySelector('.horizontal');
+    if (window.innerWidth > 991) {
+        let horizontalSection = document.querySelector('.horizontal');
 
-            gsap.to('.horizontal', {
-                x: () => horizontalSection.scrollWidth * -1,
-                xPercent: 100,
-                scrollTrigger: {
-                    trigger: '.horizontal',
-                    start: 'center-=30px center',
-                    end: '+=7000px',
-                    pin: '#horizontal-scoll',
-                    scrub: true,
-                    ease: 'none',
-                    // markers:true,
-                    invalidateOnRefresh: true,
-                }
-            });
+        gsap.to('.horizontal', {
+            x: () => horizontalSection.scrollWidth * -1,
+            xPercent: 100,
+            scrollTrigger: {
+                trigger: '.horizontal',
+                start: 'center-=30px center',
+                end: '+=7000px',
+                pin: '#horizontal-scoll',
+                scrub: true,
+                ease: 'none',
+                // markers:true,
+                invalidateOnRefresh: true,
+            }
+        });
 
-        }
-
+    }
     </script>
 
 </body>

@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Crestron Flex - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -43,15 +44,19 @@
                         <div class="row g-5 align-items-center justify-content-center">
                             <div class="col-lg-7">
                                 <div class="banner-product-img">
-                                    <img loading="lazy" src="./assets/products/crestron-flex/crestron-flex-banner.webp" alt=""
-                                        class="wow animate__animated animate__zoomIn">
+                                    <img loading="lazy" src="./assets/products/crestron-flex/crestron-flex-banner.webp"
+                                        alt="" class="wow animate__animated animate__zoomIn">
                                 </div>
                             </div>
                             <div class="col-lg-5">
                                 <div class="banner-product-content">
-                                    <h1 class="product-banner-title wow animate__animated animate__flipInX">Crestron Flex
+                                    <h1 class="product-banner-title wow animate__animated animate__flipInX">Crestron
+                                        Flex
                                     </h1>
-                                    <p class="wow animate__animated animate__fadeInUp">Crestron Flex ensures superior and consistent audiovisual quality across devices. A Crestron Flex device can be used in any room of any size, where it merges unified communication, room scheduling, wireless presentation and device management. </p>
+                                    <p class="wow animate__animated animate__fadeInUp">Crestron Flex ensures superior
+                                        and consistent audiovisual quality across devices. A Crestron Flex device can be
+                                        used in any room of any size, where it merges unified communication, room
+                                        scheduling, wireless presentation and device management. </p>
                                     <div class="banner-button1 button-hover1 cta-btn">
                                         <div class="circle-large"></div>
                                         <button>learn more</button>
@@ -75,10 +80,12 @@
                                     Crestron Flex</h2>
                             </div>
                             <div class="col-md-6 ps-lg-5">
-                                <p class="m-0 wow animate__animated animate__fadeInUp">Optimise video conferencing, wireless presentations and smart room control with a single device</p>
+                                <p class="m-0 wow animate__animated animate__fadeInUp">Optimise video conferencing,
+                                    wireless presentations and smart room control with a single device</p>
                             </div>
                             <div class="product-feature-img">
-                                <img loading="lazy" src="./assets/products/crestron-flex/crestron-flex-discover.webp" alt="">
+                                <img loading="lazy" src="./assets/products/crestron-flex/crestron-flex-discover.webp"
+                                    alt="">
                                 <div class="feature-marker-1 active" onmouseover="showFeature(1)">
                                     <span>1</span>
                                     <div class="ripple"></div>
@@ -151,7 +158,8 @@
             <!-- ---------------------------------------------------why-us---------------------------------- -->
             <section class="sec-padding pt-0">
                 <div class="container">
-                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">Product features</h2>
+                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">Product features
+                    </h2>
                     <div class="row mt-md-5 justify-content-center">
                         <div class="col-md-4 wow animate__animated animate__fadeInUp">
                             <div class="why-card">
@@ -160,7 +168,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">any space</h3>
                                 </div>
-                                <p>Whether users are meeting from a home office or in a large conference room, Crestron Flex delivers a consistent audiovisual experience across spaces and devices.</p>
+                                <p>Whether users are meeting from a home office or in a large conference room, Crestron
+                                    Flex delivers a consistent audiovisual experience across spaces and devices.</p>
                             </div>
                         </div>
 
@@ -171,7 +180,9 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">any platform</h3>
                                 </div>
-                                <p>Crestron Flex is a single interface for Microsoft Teams and Zoom Rooms. In BYOD conferencing systems, it helps users bridge their devices with the workplace’s native technology.</p>
+                                <p>Crestron Flex is a single interface for Microsoft Teams and Zoom Rooms. In BYOD
+                                    conferencing systems, it helps users bridge their devices with the workplace’s
+                                    native technology.</p>
                             </div>
                         </div>
 
@@ -182,7 +193,9 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">audiovisual quality</h3>
                                 </div>
-                                <p>With its high-fidelity audio feature, high-resolution video display and an intelligent HD camera, Crestron Flex delivers excellent clarity and connectivity.</p>
+                                <p>With its high-fidelity audio feature, high-resolution video display and an
+                                    intelligent HD camera, Crestron Flex delivers excellent clarity and connectivity.
+                                </p>
                             </div>
                         </div>
 
@@ -193,7 +206,9 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">and control</h3>
                                 </div>
-                                <p>Room scheduling systems and XiO cloud workplace analytics help manage and measure how rooms are being used. Crestron Flex can also automate lighting control, making spaces more responsive.</p>
+                                <p>Room scheduling systems and XiO cloud workplace analytics help manage and measure how
+                                    rooms are being used. Crestron Flex can also automate lighting control, making
+                                    spaces more responsive.</p>
                             </div>
                         </div>
 
@@ -204,7 +219,9 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">product solutions</h3>
                                 </div>
-                                <p>The Crestron Flex range includes phones, table-top consoles, soundbars, and room scheduling software. The solutions can be customised as per each room's space and functionality.
+                                <p>The Crestron Flex range includes phones, table-top consoles, soundbars, and room
+                                    scheduling software. The solutions can be customised as per each room's space and
+                                    functionality.
                                 </p>
                             </div>
                         </div>
@@ -252,10 +269,13 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/crestron-flex/crestron-f1.jpg"
-                                                        alt="">
+                                                    <img loading="lazy"
+                                                        src="./assets/products/crestron-flex/crestron-f1.jpg" alt="">
                                                     <div class="content">
-                                                        <p>Crestron Flex Video Conferencing integrates smart building systems into one simple interface. Dim the lights. Lower the shades. Adjust the temperature. All without leaving your seat.</p>
+                                                        <p>Crestron Flex Video Conferencing integrates smart building
+                                                            systems into one simple interface. Dim the lights. Lower the
+                                                            shades. Adjust the temperature. All without leaving your
+                                                            seat.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -265,10 +285,15 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/crestron-flex/crestron-f2.jpg"
-                                                        alt="">
+                                                    <img loading="lazy"
+                                                        src="./assets/products/crestron-flex/crestron-f2.jpg" alt="">
                                                     <div class="content">
-                                                        <p>Walk up to any room, check its availability, and book your meeting. Take your seat and one touch starts your meeting. Lower the shades and change the temperature without ever leaving your chair. Crestron Flex focuses on making technology work so your focus can stay on making your meeting a success.</p>
+                                                        <p>Walk up to any room, check its availability, and book your
+                                                            meeting. Take your seat and one touch starts your meeting.
+                                                            Lower the shades and change the temperature without ever
+                                                            leaving your chair. Crestron Flex focuses on making
+                                                            technology work so your focus can stay on making your
+                                                            meeting a success.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -278,10 +303,13 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/crestron-flex/crestron-f3.webp"
-                                                        alt="">
+                                                    <img loading="lazy"
+                                                        src="./assets/products/crestron-flex/crestron-f3.webp" alt="">
                                                     <div class="content">
-                                                        <p>With Crestron Flex you can walk into any space, confident you'll have high performance audio/video, easy access to video conferencing, wireless conferencing, and smart room control. </p>
+                                                        <p>With Crestron Flex you can walk into any space, confident
+                                                            you'll have high performance audio/video, easy access to
+                                                            video conferencing, wireless conferencing, and smart room
+                                                            control. </p>
                                                     </div>
                                                 </div>
                                             </div>

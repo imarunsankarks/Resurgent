@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Success Stories - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -45,7 +46,7 @@
                                 <h1 class="common-banner-title wow animate__animated animate__flipInX animate__one">
                                     Stories</h1>
                                 <h2 class="common-banner-sub wow animate__animated animate__fadeInUp animate__two">
-                                We aren't just a company,<br> we're a community</h2>
+                                    We aren't just a company,<br> we're a community</h2>
                             </div>
 
                         </div>
@@ -81,7 +82,7 @@
                                 requirements of
                                 different industries.</p>
                         </div>
-                       
+
                     </div>
                     <div class="row align-items-center g-5">
                         <div class="col-6">

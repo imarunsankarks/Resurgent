@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -73,37 +74,50 @@
                             <div class="col-8">
                                 <div class="blog-full-content">
                                     <p>In 2024, it's much easier for companies to seek global opportunities beyond their
-                                        native country. With the focus on remote working, global enterprises can now recruit
+                                        native country. With the focus on remote working, global enterprises can now
+                                        recruit
                                         people across nations, irrespective of their geographical locations. What’s more
                                         interesting is that globally, customers are also demanding the same quality of
                                         products or services from the company.</p>
                                     <p>As a member of the PSNI Global Alliance, Resurgent is now an integral part of a
-                                        global network of AV solution providers and professionals. With this alliance, our
-                                        customers can deploy their AV solutions across international locations with greater
+                                        global network of AV solution providers and professionals. With this alliance,
+                                        our
+                                        customers can deploy their AV solutions across international locations with
+                                        greater
                                         ease and total assurance of quality. Here's why this is important.
                                         Clearly, it's not easy for organizations to deploy AV solutions across multiple
-                                        nations. They face a host of challenges when it comes to integrating meeting rooms
-                                        (across countries) and providing a consistent user experience across touchpoints.
+                                        nations. They face a host of challenges when it comes to integrating meeting
+                                        rooms
+                                        (across countries) and providing a consistent user experience across
+                                        touchpoints.
                                     </p>
-                                    <p>In this blog, let's first discuss 6 major challenges facing global AV deployments,
+                                    <p>In this blog, let's first discuss 6 major challenges facing global AV
+                                        deployments,
                                         and how to overcome them:</p>
                                     <h4>1. Lack of coherence in the AV solution</h4>
                                     <p>The global workplace has moved from the confines of a single office premise to
                                         multiple locations, devices, and time zones. Global enterprises now have to
-                                        reimagine how employees across time zones can collaborate and work with each other
+                                        reimagine how employees across time zones can collaborate and work with each
+                                        other
                                         efficiently.</p>
-                                    <p>With the emergence of many communication tools, an incoherent (or non-integrated) AV
+                                    <p>With the emergence of many communication tools, an incoherent (or non-integrated)
+                                        AV
                                         solution is not able to deliver a unified communication platform and experience,
-                                        which can eliminate organizational silos and enable seamless interaction. There's an
+                                        which can eliminate organizational silos and enable seamless interaction.
+                                        There's an
                                         urgent need for global enterprises to integrate the best of AV solutions into a
                                         single unified collaboration platform.</p>
                                     <h4>2 .Lack of a consistent AV experience</h4>
-                                    <p>To prevent issues related to discrimination among employees across locations, global
+                                    <p>To prevent issues related to discrimination among employees across locations,
+                                        global
                                         organizations need to provide a consistent AV experience for their distributed
-                                        workforce. However, this is easier said than done. Among the many challenges, global
-                                        companies need to work with different AV integrators, instead of finding a single
+                                        workforce. However, this is easier said than done. Among the many challenges,
+                                        global
+                                        companies need to work with different AV integrators, instead of finding a
+                                        single
                                         integrator with AV expertise across locations.</p>
-                                    <p>For example, a “virtual” meeting room must have a standardized UX across regions and
+                                    <p>For example, a “virtual” meeting room must have a standardized UX across regions
+                                        and
                                         time zones. However, in reality, meeting rooms across integrators may provide a
                                         different experience to global users, along with varying customer support and a
                                         general lack of understanding of the organization's communication needs.</p>

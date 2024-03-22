@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Contact - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -46,7 +47,7 @@
                                 <h1 class="common-banner-title wow animate__animated animate__flipInX animate__one">
                                     contact</h1>
                                 <h2 class="common-banner-sub wow animate__animated animate__fadeInUp animate__two">
-                                We integrate audiovisual solutions<br> for clients across the world</h2>
+                                    We integrate audiovisual solutions<br> for clients across the world</h2>
                             </div>
 
                         </div>
@@ -74,8 +75,10 @@
                     <div class="row align-items-center g-5">
                         <div class="col-lg-6">
                             <div class="contact-form-content">
-                                <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Connect with us</h2>
-                                <p class="mb-0 wow animate__animated animate__fadeInUp animate__two">At the heart of our strategy lies a close collaboration with you. We
+                                <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Connect
+                                    with us</h2>
+                                <p class="mb-0 wow animate__animated animate__fadeInUp animate__two">At the heart of our
+                                    strategy lies a close collaboration with you. We
                                     understand your objectives, aspirations, and unique vision to create a customized
                                     design
                                     strategy. This collaborative process is more than just a partnership, it is a
@@ -135,7 +138,8 @@
 
             <section class="sec-padding">
                 <div class="container">
-                    <h2 class="section-title text-center wow animate__animated animate__fadeInUp animate__two">Locations</h2>
+                    <h2 class="section-title text-center wow animate__animated animate__fadeInUp animate__two">Locations
+                    </h2>
                     <div class="all-locations pt-5">
                         <div class="each-location active">
                             <h3>Bengaluru</h3>
@@ -154,7 +158,8 @@
                                 <h3><i class="far fa-envelope"></i></h3>
                                 <a href="mailto:info@resurgent.co.in" class="text-dark">info@resurgent.co.in</a>
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <a class="text-dark" href="https://maps.app.goo.gl/j6ryXMf8gAChE8Ce6" target="blank">View in Map</a>
+                                <a class="text-dark" href="https://maps.app.goo.gl/j6ryXMf8gAChE8Ce6"
+                                    target="blank">View in Map</a>
                             </div>
                         </div>
                         <div class="each-location">
@@ -164,7 +169,8 @@
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <p>3rd Floor, Old No.: 73, New No.: 108, Rajalakshmi Mahal, Sir Theyagaraya Road, Pondy Bazaar, T. Nagar, Chennai - 600017, Tamil Nadu, India</p>
+                                <p>3rd Floor, Old No.: 73, New No.: 108, Rajalakshmi Mahal, Sir Theyagaraya Road, Pondy
+                                    Bazaar, T. Nagar, Chennai - 600017, Tamil Nadu, India</p>
                                 <h3><i class="fas fa-phone"></i></h3>
                                 <a href="tel:04428151828" class="text-dark">044-2815 1828</a>
                                 <h3><i class="fas fa-fax"></i></h3>
@@ -172,7 +178,8 @@
                                 <h3><i class="far fa-envelope"></i></h3>
                                 <a href="mailto:info@resurgent.co.in" class="text-dark">info@resurgent.co.in</a>
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <a class="text-dark" href="https://maps.app.goo.gl/GW8qwfWc8b4NTvvs7" target="blank">View in Map</a>
+                                <a class="text-dark" href="https://maps.app.goo.gl/GW8qwfWc8b4NTvvs7"
+                                    target="blank">View in Map</a>
                             </div>
                         </div>
                         <div class="each-location">
@@ -182,7 +189,8 @@
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <p>Office No. 409, Meadows building, Sahar Plaza, Near Kohinoor Continental Hotel, J. B. Nagar, Andheri-East, Mumbai: 400 059</p>
+                                <p>Office No. 409, Meadows building, Sahar Plaza, Near Kohinoor Continental Hotel, J. B.
+                                    Nagar, Andheri-East, Mumbai: 400 059</p>
                                 <h3><i class="fas fa-phone"></i></h3>
                                 <!-- <p>+91 8025139300</p> -->
                                 <a href="tel:08025139300" class="text-dark">+91 8025139300</a>
@@ -192,7 +200,8 @@
                                 <h3><i class="far fa-envelope"></i></h3>
                                 <a href="mailto:info@resurgent.co.in" class="text-dark">info@resurgent.co.in</a>
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <a class="text-dark" href="https://maps.app.goo.gl/DuBMzvWmKBYViDpN7" target="blank">View in Map</a>
+                                <a class="text-dark" href="https://maps.app.goo.gl/DuBMzvWmKBYViDpN7"
+                                    target="blank">View in Map</a>
                             </div>
                         </div>
                         <div class="each-location">
@@ -212,7 +221,8 @@
                                 <h3><i class="far fa-envelope"></i></h3>
                                 <a href="mailto:info@resurgent.co.in" class="text-dark">info@resurgent.co.in</a>
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <a class="text-dark" href="https://maps.app.goo.gl/7fYDp5HQiJmsmuG4A" target="blank">View in Map</a>
+                                <a class="text-dark" href="https://maps.app.goo.gl/7fYDp5HQiJmsmuG4A"
+                                    target="blank">View in Map</a>
                             </div>
                         </div>
                         <div class="each-location">
@@ -222,7 +232,8 @@
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <p>11-103, GCP Business Centre, Vijay Char Rasta, Memnagar, Ahmedabad - 380014, Gujarat, India</p>
+                                <p>11-103, GCP Business Centre, Vijay Char Rasta, Memnagar, Ahmedabad - 380014, Gujarat,
+                                    India</p>
                                 <h3><i class="fas fa-phone"></i></h3>
                                 <!-- <p>079-6134 4678</p> -->
                                 <a href="tel:07961344678" class="text-dark">079-6134 4678</a>
@@ -232,7 +243,8 @@
                                 <h3><i class="far fa-envelope"></i></h3>
                                 <a href="mailto:info@resurgent.co.in" class="text-dark">info@resurgent.co.in</a>
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <a class="text-dark" href="https://maps.app.goo.gl/YZHBdB6GAontCSkG7" target="blank">View in Map</a>
+                                <a class="text-dark" href="https://maps.app.goo.gl/YZHBdB6GAontCSkG7"
+                                    target="blank">View in Map</a>
                             </div>
                         </div>
                         <div class="each-location">
@@ -246,13 +258,14 @@
                                 <h3><i class="fas fa-phone"></i></h3>
                                 <!-- <p>011-6635 1567</p> -->
                                 <a href="tel:01166351567" class="text-dark">011-6635 1567</a>
-                                
+
                                 <h3><i class="fas fa-fax"></i></h3>
                                 <p>080-2513 9331</p>
                                 <h3><i class="far fa-envelope"></i></h3>
                                 <a href="mailto:info@resurgent.co.in" class="text-dark">info@resurgent.co.in</a>
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <a class="text-dark" href="https://maps.app.goo.gl/kTQuwiGnJsZMaYpW9" target="blank">View in Map</a>
+                                <a class="text-dark" href="https://maps.app.goo.gl/kTQuwiGnJsZMaYpW9"
+                                    target="blank">View in Map</a>
                             </div>
                         </div>
                         <div class="each-location">
@@ -262,7 +275,8 @@
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <p>4th ﬂoor, Gumidelli Commercial Complex, 1-10-39 to 44, Old Airport Road, Begumpet, Hyderabad - 500016, Telangana, India</p>
+                                <p>4th ﬂoor, Gumidelli Commercial Complex, 1-10-39 to 44, Old Airport Road, Begumpet,
+                                    Hyderabad - 500016, Telangana, India</p>
                                 <h3><i class="fas fa-phone"></i></h3>
                                 <!-- <p>91-40-67843907</p> -->
                                 <a href="tel:914067843907" class="text-dark">91-40-67843907</a>
@@ -272,10 +286,11 @@
                                 <h3><i class="far fa-envelope"></i></h3>
                                 <a href="mailto:info@resurgent.co.in" class="text-dark">info@resurgent.co.in</a>
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
-                                <a class="text-dark" href="https://maps.app.goo.gl/1Qp9zaoSkfyxL6nR6" target="blank">View in Map</a>
+                                <a class="text-dark" href="https://maps.app.goo.gl/1Qp9zaoSkfyxL6nR6"
+                                    target="blank">View in Map</a>
                             </div>
                         </div>
-                    
+
 
 
                     </div>

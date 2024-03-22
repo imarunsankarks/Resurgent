@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Public Sector - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -89,14 +90,16 @@
                                                 <div class="col-md-4">
                                                     <div class="owl-carousel owl-theme owl-sector-img">
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/control-1.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/control-1.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/control-2.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/control-2.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
 
                                                     </div>
@@ -134,15 +137,17 @@
                                                 <div class="col-md-4">
                                                     <div class="owl-carousel owl-theme owl-sector-img">
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/board-room-1.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/board-room-1.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
 
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/board-room-4.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/board-room-4.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
 
                                                     </div>
@@ -183,34 +188,40 @@
                                                 <div class="col-md-4">
                                                     <div class="owl-carousel owl-theme owl-sector-img">
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/meeting-rooms-2.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/meeting-rooms-2.webp"
+                                                                alt="" class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/meeting-rooms-2.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/meeting-rooms-2.webp"
+                                                                alt="" class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/meeting-rooms-3.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/meeting-rooms-3.webp"
+                                                                alt="" class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/meeting-rooms-4.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/meeting-rooms-4.webp"
+                                                                alt="" class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/meeting-rooms-5.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/meeting-rooms-5.webp"
+                                                                alt="" class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/meeting-rooms-6.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/meeting-rooms-6.webp"
+                                                                alt="" class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
 
                                                     </div>
@@ -250,29 +261,34 @@
                                                 <div class="col-md-4">
                                                     <div class="owl-carousel owl-theme owl-sector-img">
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/auditorium-2.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/auditorium-2.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/auditorium-3.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/auditorium-3.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/auditorium-4.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/auditorium-4.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/auditorium-5.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/auditorium-5.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/auditorium-6.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/auditorium-6.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
 
                                                     </div>
@@ -315,29 +331,34 @@
                                                 <div class="col-md-4">
                                                     <div class="owl-carousel owl-theme owl-sector-img">
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/training-2.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/training-2.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/training-3.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/training-3.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/training-4.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/training-4.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/training-5.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/training-5.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/training-6.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/training-6.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
 
                                                     </div>
@@ -376,19 +397,22 @@
                                                 <div class="col-md-4">
                                                     <div class="owl-carousel owl-theme owl-sector-img">
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/experience-center-1.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/experience-center-1.webp"
+                                                                alt="" class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/experience-center-2.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/experience-center-2.webp"
+                                                                alt="" class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/public/experience-center-3.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/public/experience-center-3.webp"
+                                                                alt="" class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                     </div>
 
@@ -513,7 +537,8 @@
                             <div class="row g-5">
                                 <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__one">
                                     <div class="related-product-card">
-                                        <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp" alt=""
+                                        <img loading="lazy"
+                                            src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp" alt=""
                                             class="w-100">
                                         <p>Microsoft Surface Hub 2S</p>
                                         <a href="microsoft-surface-hub-2s.php"><i class="fas fa-arrow-right"></i></a>
@@ -521,16 +546,19 @@
                                 </div>
                                 <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__two">
                                     <div class="related-product-card">
-                                        <img loading="lazy" src="./assets/products/zoom-rooms/zoom-room.webp" alt="" class="w-100">
+                                        <img loading="lazy" src="./assets/products/zoom-rooms/zoom-room.webp" alt=""
+                                            class="w-100">
                                         <p>Zoom Rooms</p>
                                         <a href="zoom-rooms.php"><i class="fas fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__three">
                                     <div class="related-product-card">
-                                        <img loading="lazy" src="./assets/products/pads4/pads4.webp" alt="" class="w-100">
+                                        <img loading="lazy" src="./assets/products/pads4/pads4.webp" alt=""
+                                            class="w-100">
                                         <p>PADS4 Digital Signage Solutions</p>
-                                        <a href="pads4-digital-signage-solutions.php"><i class="fas fa-arrow-right"></i></a>
+                                        <a href="pads4-digital-signage-solutions.php"><i
+                                                class="fas fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                             </div>

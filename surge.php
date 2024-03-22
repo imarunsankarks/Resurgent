@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Surge - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -51,7 +52,10 @@
                                 <div class="banner-product-content">
                                     <h1 class="product-banner-title wow animate__animated animate__flipInX">Surge+
                                     </h1>
-                                    <p class="wow animate__animated animate__fadeInUp">Surge+ by Resurgent, a cloud-based video platform, facilitates virtual customer interactions for personalized experiences like visitor management, wayfinding, and customer support, enhancing productivity across multiple locations.</p>
+                                    <p class="wow animate__animated animate__fadeInUp">Surge+ by Resurgent, a
+                                        cloud-based video platform, facilitates virtual customer interactions for
+                                        personalized experiences like visitor management, wayfinding, and customer
+                                        support, enhancing productivity across multiple locations.</p>
                                     <div class="banner-button1 button-hover1 cta-btn">
                                         <div class="circle-large"></div>
                                         <button>learn more</button>
@@ -75,10 +79,12 @@
                                     Surge+</h2>
                             </div>
                             <div class="col-md-6 ps-lg-5">
-                                <p class="m-0 wow animate__animated animate__fadeInUp">Interact with customers personally, no matter where you are</p>
+                                <p class="m-0 wow animate__animated animate__fadeInUp">Interact with customers
+                                    personally, no matter where you are</p>
                             </div>
                             <div class="product-feature-img">
-                                <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp" alt="">
+                                <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp"
+                                    alt="">
                                 <div class="feature-marker-1 active" onmouseover="showFeature(1)">
                                     <span>1</span>
                                     <div class="ripple"></div>
@@ -151,7 +157,8 @@
             <!-- ---------------------------------------------------why-us---------------------------------- -->
             <section class="sec-padding pt-0">
                 <div class="container">
-                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">Product features</h2>
+                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">Product features
+                    </h2>
                     <div class="row mt-md-5 justify-content-center">
                         <div class="col-md-4 wow animate__animated animate__fadeInUp">
                             <div class="why-card">
@@ -160,7 +167,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">application</h3>
                                 </div>
-                                <p>Surge+ can help automate a wide range of customer-facing services, whether it's wayfinding, customer guidance, remote assistance or visitor management.</p>
+                                <p>Surge+ can help automate a wide range of customer-facing services, whether it's
+                                    wayfinding, customer guidance, remote assistance or visitor management.</p>
                             </div>
                         </div>
 
@@ -171,7 +179,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">assistance</h3>
                                 </div>
-                                <p>Using QR codes, NFC or web links for different tasks, each Surge+ device allows customers to access precise information by scanning a code.</p>
+                                <p>Using QR codes, NFC or web links for different tasks, each Surge+ device allows
+                                    customers to access precise information by scanning a code.</p>
                             </div>
                         </div>
 
@@ -182,7 +191,9 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">technology</h3>
                                 </div>
-                                <p>Screens can be placed at key touchpoints, enabling staff to accompany and assist customers throughout their visit to your store, without having to be physically present.</p>
+                                <p>Screens can be placed at key touchpoints, enabling staff to accompany and assist
+                                    customers throughout their visit to your store, without having to be physically
+                                    present.</p>
                             </div>
                         </div>
 
@@ -193,7 +204,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">multiple locations</h3>
                                 </div>
-                                <p>From hotel lobbies and retail spaces to boardrooms and IT centres, Surge+ can be installed at various places to serve unique functions.</p>
+                                <p>From hotel lobbies and retail spaces to boardrooms and IT centres, Surge+ can be
+                                    installed at various places to serve unique functions.</p>
                             </div>
                         </div>
 
@@ -204,7 +216,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">monitoring</h3>
                                 </div>
-                                <p>View important information on a single dashboard, and get access to updates about staff members and functions just by scanning custom codes.
+                                <p>View important information on a single dashboard, and get access to updates about
+                                    staff members and functions just by scanning custom codes.
                                 </p>
                             </div>
                         </div>
@@ -252,12 +265,15 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/samsung-flip/samsung-flip-f-1.jpg"
+                                                    <img loading="lazy"
+                                                        src="./assets/products/samsung-flip/samsung-flip-f-1.jpg"
                                                         alt="">
                                                     <div class="content">
                                                         <!-- <img loading="lazy" src="./assets/logos/ouline.svg" alt=""> -->
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>By simply clicking the note layer button, users can enjoy smooth writing anytime, anywhere on any content displayed, without affecting any work behind the original layer.</p>
+                                                        <p>By simply clicking the note layer button, users can enjoy
+                                                            smooth writing anytime, anywhere on any content displayed,
+                                                            without affecting any work behind the original layer.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -267,7 +283,8 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/samsung-flip/samsung-flip-f-2.jpg"
+                                                    <img loading="lazy"
+                                                        src="./assets/products/samsung-flip/samsung-flip-f-2.jpg"
                                                         alt="">
                                                     <div class="content">
                                                         <!-- <img loading="lazy" src="./assets/logos/ouline.svg" alt="">
@@ -285,7 +302,8 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/samsung-flip/samsung-flip-f-3.avif"
+                                                    <img loading="lazy"
+                                                        src="./assets/products/samsung-flip/samsung-flip-f-3.avif"
                                                         alt="">
                                                     <div class="content">
 

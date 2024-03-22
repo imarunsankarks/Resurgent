@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Culture - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -45,7 +46,7 @@
                                 <h1 class="common-banner-title wow animate__animated animate__flipInX animate__one">
                                     culture</h1>
                                 <h2 class="common-banner-sub wow animate__animated animate__fadeInUp animate__two">
-                                We aren't just a company,<br> we're a community</h2>
+                                    We aren't just a company,<br> we're a community</h2>
                             </div>
 
                         </div>
@@ -72,10 +73,14 @@
                 <div class="container">
                     <div class="row py-4 pt-0 pt-md-4 align-items-center sectors-head g-4 g-md-0">
                         <div class="col-md-6 br-1">
-                            <h2 class="mb-0 section-title wow animate__animated animate__fadeInUp animate__two">Know the five R's of<br> Resurgent </h2>
+                            <h2 class="mb-0 section-title wow animate__animated animate__fadeInUp animate__two">Know the
+                                five R's of<br> Resurgent </h2>
                         </div>
                         <div class="col-md-6">
-                            <p class="ps-md-5 mb-0 wow animate__animated animate__fadeInUp animate__two">The five values form the bedrock of our culture, guiding how we engage with clients, partners and one another. Every member of our team, called a Surger, embodies this ethos as an individual, thereby shaping who we are as a company.</p>
+                            <p class="ps-md-5 mb-0 wow animate__animated animate__fadeInUp animate__two">The five values
+                                form the bedrock of our culture, guiding how we engage with clients, partners and one
+                                another. Every member of our team, called a Surger, embodies this ethos as an
+                                individual, thereby shaping who we are as a company.</p>
                         </div>
                     </div>
                 </div>
@@ -134,8 +139,10 @@
                     <div class="box-content sec-padding pmob-12">
                         <div class="row justify-content-center">
                             <div class="col-md-10 text-md-center">
-                                <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Stay Connected</h2>
-                                <p class="wow animate__animated animate__fadeInUp animate__two">We're a technology company that celebrates the power and potential of human
+                                <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Stay
+                                    Connected</h2>
+                                <p class="wow animate__animated animate__fadeInUp animate__two">We're a technology
+                                    company that celebrates the power and potential of human
                                     connection. That's why we never miss an opportunity to bring Surgers together,
                                     whether through fortnightly ASK (Always Seek Knowledge) sessions, recognition
                                     ceremonies, family get-togethers, birthday parties or cultural events.</p>
@@ -169,7 +176,7 @@
                                             <img loading="lazy" src="./assets/common/culture-2.webp" alt="">
                                         </div>
                                     </div>
-                                  
+
                                 </div>
                             </div>
                         </div>

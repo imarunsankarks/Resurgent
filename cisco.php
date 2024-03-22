@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Cisco - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -65,11 +66,12 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="first-card">
                                             <div class="first-img">
-                                                <img loading="lazy" src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/hero-still.jpg"
+                                                <img loading="lazy"
+                                                    src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/hero-still.jpg"
                                                     alt="">
                                             </div>
                                             <div class="second-img">
-                                            <div class="collab-logo">
+                                                <div class="collab-logo">
                                                     <img loading="lazy" src="./assets/logos/microsoft.png" alt="">
                                                     <span> | </span>
                                                     <img loading="lazy" src="./assets/logos/partners/cisco.webp" alt="">
@@ -124,13 +126,15 @@
                                         <div class="device-num">01</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img loading="lazy" src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-room-bar.jpg"
+                                                <img loading="lazy"
+                                                    src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-room-bar.jpg"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Room Bar</h3>
                                             <p>Flexible, codec-powered video bar appliance for high-quality video
                                                 conferencing and content sharing in small rooms and huddle spaces.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
                                             <a href="">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -139,14 +143,16 @@
                                         <div class="device-num">02</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img loading="lazy" src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-room-bar.jpg"
+                                                <img loading="lazy"
+                                                    src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-room-bar.jpg"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Room Bar Pro</h3>
                                             <p>AI-boosted, all-in-one video bar solution for equitable video meetings,
                                                 advanced interoperability, flexible connectivity and unified admin for
                                                 medium spaces.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
                                             <a href="">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -155,13 +161,15 @@
                                         <div class="device-num">03</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img loading="lazy" src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-room-bar.jpg"
+                                                <img loading="lazy"
+                                                    src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-room-bar.jpg"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Room Kit EQ</h3>
                                             <p>The ultimate, AI-powered collaboration bundle to power equitable video
                                                 meetings and enhanced connectivity for large meeting spaces.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
                                             <a href="">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -170,13 +178,15 @@
                                         <div class="device-num">04</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img loading="lazy" src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-room-bar.jpg"
+                                                <img loading="lazy"
+                                                    src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-room-bar.jpg"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Board Pro 55/75</h3>
                                             <p>All-in-one, hybrid room device for video conferencing and digital
                                                 whiteboarding for small-to-medium-sized spaces.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
                                             <a href="">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -187,19 +197,23 @@
                             <div class="device-right">
                                 <div class="device-photos">
                                     <div class="device-photo">
-                                        <img loading="lazy" src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-room-bar.jpg"
+                                        <img loading="lazy"
+                                            src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-room-bar.jpg"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img loading="lazy" src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-desk-pro.jpg"
+                                        <img loading="lazy"
+                                            src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-desk-pro.jpg"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img loading="lazy" src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/Room-Kit-EQ-MTR-View.jpg"
+                                        <img loading="lazy"
+                                            src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/Room-Kit-EQ-MTR-View.jpg"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img loading="lazy" src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-board-pro.jpg"
+                                        <img loading="lazy"
+                                            src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-board-pro.jpg"
                                             class="img-fluid" alt="">
                                     </div>
 

@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Microsoft Surface Hub 2S - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -51,7 +52,10 @@
                                     <h1
                                         class="product-banner-title  wow animate__animated animate__flipInX animate__two">
                                         Microsoft Surface Hub 2S</h1>
-                                    <p class="wow animate__animated animate__fadeInUp animate__two">A versatile teamwork tool breaking boundaries. It's an interactive whiteboard doubling as a meeting screen, promoting cross-device collaboration with Microsoft 365, and leveraging cutting-edge tech for optimal sound and display.</p>
+                                    <p class="wow animate__animated animate__fadeInUp animate__two">A versatile teamwork
+                                        tool breaking boundaries. It's an interactive whiteboard doubling as a meeting
+                                        screen, promoting cross-device collaboration with Microsoft 365, and leveraging
+                                        cutting-edge tech for optimal sound and display.</p>
                                     <div class="banner-button1 button-hover1 cta-btn">
                                         <div class="circle-large"></div>
                                         <button>learn more</button>
@@ -76,10 +80,12 @@
                                     Microsoft Surface Hub 2s</h2>
                             </div>
                             <div class="col-md-6 ps-lg-5">
-                                <p class="m-0 wow animate__animated animate__fadeInUp animate__two">Meet, ideate and collaborate with Microsoft's interactive whiteboard and meeting platform</p>
+                                <p class="m-0 wow animate__animated animate__fadeInUp animate__two">Meet, ideate and
+                                    collaborate with Microsoft's interactive whiteboard and meeting platform</p>
                             </div>
                             <div class="product-feature-img">
-                                <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp" alt="">
+                                <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp"
+                                    alt="">
                                 <div class="feature-marker-1 active" onmouseover="showFeature(1)">
                                     <span>1</span>
                                     <div class="ripple"></div>
@@ -129,7 +135,8 @@
                             <div class="product-img-container">
                                 <div class="product-imgs">
                                     <div class="product-img">
-                                        <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub-contact.jpg"
+                                        <img loading="lazy"
+                                            src="./assets/products/ms-surface-hub/microsoft-surface-hub-contact.jpg"
                                             alt="product image" class="img-fluid">
                                     </div>
                                 </div>
@@ -152,7 +159,8 @@
             <!-- ---------------------------------------------------why-us---------------------------------- -->
             <section class="sec-padding pt-0">
                 <div class="container">
-                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp animate__two">Product features</h2>
+                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp animate__two">
+                        Product features</h2>
                     <div class="row mt-md-5">
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__one">
                             <div class="why-card">
@@ -161,7 +169,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">Enabled</h3>
                                 </div>
-                                <p>Microsoft Whiteboard, a collaborative digital canvas with a best-in-class pen inking experience, helps teams visualise ideas and collaborate.</p>
+                                <p>Microsoft Whiteboard, a collaborative digital canvas with a best-in-class pen inking
+                                    experience, helps teams visualise ideas and collaborate.</p>
                             </div>
                         </div>
 
@@ -172,7 +181,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">Meetings</h3>
                                 </div>
-                                <p>Purpose-built Microsoft Teams loads automatically, allowing approved participants to sign in without waiting for authentication.</p>
+                                <p>Purpose-built Microsoft Teams loads automatically, allowing approved participants to
+                                    sign in without waiting for authentication.</p>
                             </div>
                         </div>
 
@@ -183,7 +193,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">Microsoft 365</h3>
                                 </div>
-                                <p>Use Microsoft's universally-applied software and tools to enhance creativity and teamwork, and add apps certified for Surface Hub.</p>
+                                <p>Use Microsoft's universally-applied software and tools to enhance creativity and
+                                    teamwork, and add apps certified for Surface Hub.</p>
                             </div>
                         </div>
 
@@ -194,7 +205,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">devices</h3>
                                 </div>
-                                <p>Participants can join meetings using their own devices via Proximity Join. In larger spaces, multiple Surface Hubs can be connected to present diverse content.</p>
+                                <p>Participants can join meetings using their own devices via Proximity Join. In larger
+                                    spaces, multiple Surface Hubs can be connected to present diverse content.</p>
                             </div>
                         </div>
 
@@ -205,7 +217,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">battery-powered</h3>
                                 </div>
-                                <p>The Steelcase Roam wall mount can be easily installed, while the mobile stand and APC Charge mobile battery allow the device to be moved between rooms
+                                <p>The Steelcase Roam wall mount can be easily installed, while the mobile stand and APC
+                                    Charge mobile battery allow the device to be moved between rooms
                                 </p>
                             </div>
                         </div>
@@ -217,7 +230,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">audiovisual clarity</h3>
                                 </div>
-                                <p>Equipped with a modular camera, two-way stereo speakers, pixel sense display and a native 4K resolution with anti-glare.</p>
+                                <p>Equipped with a modular camera, two-way stereo speakers, pixel sense display and a
+                                    native 4K resolution with anti-glare.</p>
                             </div>
                         </div>
 
@@ -259,12 +273,13 @@
                             </div>
                             <div class="right">
                                 <div class="photos">
-                                
+
                                     <div class="each-feature-card">
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp"
+                                                    <img loading="lazy"
+                                                        src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp"
                                                         alt="">
                                                     <div class="content">
                                                         <!-- <img loading="lazy" src="./assets/logos/ouline.svg" alt=""> -->
@@ -280,10 +295,12 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub-4.webp"
+                                                    <img loading="lazy"
+                                                        src="./assets/products/ms-surface-hub/microsoft-surface-hub-4.webp"
                                                         alt="">
                                                     <div class="content">
-                                                        <p>With microsoft surface hub 2s, you will experience excellent sound quality and connectivity.</p>
+                                                        <p>With microsoft surface hub 2s, you will experience excellent
+                                                            sound quality and connectivity.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -293,12 +310,16 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub-3.webp"
+                                                    <img loading="lazy"
+                                                        src="./assets/products/ms-surface-hub/microsoft-surface-hub-3.webp"
                                                         alt="">
                                                     <div class="content">
 
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>The 4k display and the full band 8-element MEMS linear microphone array capture facial expressions, body language and audio definition for a rich hybrid meeting experience.</p>
+                                                        <p>The 4k display and the full band 8-element MEMS linear
+                                                            microphone array capture facial expressions, body language
+                                                            and audio definition for a rich hybrid meeting experience.
+                                                        </p>
                                                     </div>
                                                 </div>
                                             </div>

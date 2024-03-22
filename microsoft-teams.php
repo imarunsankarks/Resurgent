@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Microsoft Teams - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -51,7 +52,10 @@
                                 <div class="banner-product-content">
                                     <h1 class="product-banner-title wow animate__animated animate__flipInX">Microsoft
                                         Teams</h1>
-                                    <p class=" wow animate__animated animate__fadeInUp">Microsoft Teams transcends meetings, streamlining workflows, storing files in the cloud, hosting events for 1,000 people, and leveraging Microsoft 365 for effective presentations. It's indispensable for office and remote collaboration.</p>
+                                    <p class=" wow animate__animated animate__fadeInUp">Microsoft Teams transcends
+                                        meetings, streamlining workflows, storing files in the cloud, hosting events for
+                                        1,000 people, and leveraging Microsoft 365 for effective presentations. It's
+                                        indispensable for office and remote collaboration.</p>
                                     <div class="banner-button1 button-hover1 cta-btn">
                                         <div class="circle-large"></div>
                                         <button>learn more</button>
@@ -129,8 +133,8 @@
                             <div class="product-img-container">
                                 <div class="product-imgs">
                                     <div class="product-img">
-                                        <img loading="lazy" src="./assets/products/ms-teams/ms-teams-contact.avif" alt="product image"
-                                            class="img-fluid">
+                                        <img loading="lazy" src="./assets/products/ms-teams/ms-teams-contact.avif"
+                                            alt="product image" class="img-fluid">
                                     </div>
                                 </div>
                                 <div class="product-det">
@@ -255,9 +259,11 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/ms-teams/ms-teams-phone.avif" alt="">
+                                                    <img loading="lazy"
+                                                        src="./assets/products/ms-teams/ms-teams-phone.avif" alt="">
                                                     <div class="content">
-                                                        <p>With the help of Copilot, add generative AI capabilities to phone calls to get real-time summarization and insights.</p>
+                                                        <p>With the help of Copilot, add generative AI capabilities to
+                                                            phone calls to get real-time summarization and insights.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -266,8 +272,9 @@
                                     <div class="each-feature-card">
                                         <div class="container h-100">
                                             <div class="row h-100">
-                                            <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/ms-teams/ms-teams-call.avif" alt="">
+                                                <div class="other-cards">
+                                                    <img loading="lazy"
+                                                        src="./assets/products/ms-teams/ms-teams-call.avif" alt="">
                                                     <div class="content">
                                                         <p>Connect with your team, customers, and partners with voice
                                                             and video calls from a Teams chat, the Calls app, or the
@@ -281,12 +288,13 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/ms-teams/ms-teams-cc.avif"
-                                                        alt="">
+                                                    <img loading="lazy"
+                                                        src="./assets/products/ms-teams/ms-teams-cc.avif" alt="">
                                                     <div class="content">
 
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>Support customer interaction work streams, using Teams as the hub for internal and external customer connections.</p>
+                                                        <p>Support customer interaction work streams, using Teams as the
+                                                            hub for internal and external customer connections.</p>
                                                     </div>
                                                 </div>
                                             </div>

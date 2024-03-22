@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Logitech - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -49,7 +50,10 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="second-card">
                                             <div class="content">
-                                                <p>Poly's Microsoft Teams certified solutions lead the way in hybrid work setups. We provide professional-grade audio and video products ensuring exceptional Microsoft Teams experiences, regardless of your location.</p>
+                                                <p>Poly's Microsoft Teams certified solutions lead the way in hybrid
+                                                    work setups. We provide professional-grade audio and video products
+                                                    ensuring exceptional Microsoft Teams experiences, regardless of your
+                                                    location.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -65,14 +69,18 @@
                                             </div>
                                             <div class="second-img">
                                                 <div class="heading">
-                                                    <h1>Maximize business potential with <span>Logitech's</span> workspace solutions
+                                                    <h1>Maximize business potential with <span>Logitech's</span>
+                                                        workspace solutions
                                                     </h1>
                                                     <svg width="266" height="12" viewBox="0 0 266 12" fill="none"
                                                         xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M0 0L266 12H0V0Z" fill="#FFDC60"></path>
                                                     </svg>
                                                 </div>
-                                                <p>Empower seamless connection and collaboration anywhere with our business-certified solutions, spanning from video conferencing in meeting rooms to personal webcams and home desk collaboration devices.
+                                                <p>Empower seamless connection and collaboration anywhere with our
+                                                    business-certified solutions, spanning from video conferencing in
+                                                    meeting rooms to personal webcams and home desk collaboration
+                                                    devices.
                                                 </p>
                                                 <a href="about.html" aria-label="Know about the company">
                                                     <div class="banner-button1 button-hover1">
@@ -114,9 +122,14 @@
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Rally Bar</h3>
-                                            <p>Logitech Rally Bar is the premier video bar for medium to large meeting rooms. Discover remarkably simple, all-in-one video conferencing with built-in AI technology, brilliant optics, and powerful audio.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
-                                            <a href="https://www.logitech.com/en-in/products/video-conferencing/room-solutions/rallybar.960-001317.html" target="_blank">View details &nbsp; <i class="far fa-arrow-right"></i></a>
+                                            <p>Logitech Rally Bar is the premier video bar for medium to large meeting
+                                                rooms. Discover remarkably simple, all-in-one video conferencing with
+                                                built-in AI technology, brilliant optics, and powerful audio.</p>
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
+                                            <a href="https://www.logitech.com/en-in/products/video-conferencing/room-solutions/rallybar.960-001317.html"
+                                                target="_blank">View details &nbsp; <i
+                                                    class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -128,9 +141,14 @@
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Logitech Tap IP</h3>
-                                            <p>Transform collaboration spaces with Logitech Tap IP and leading video conferencing room solutions. Deliver one-touch join, easy content-sharing, and a seamless meeting experience across all rooms.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
-                                            <a href="https://www.logitech.com/en-in/products/video-conferencing/room-solutions/tap-ip.952-000085.html" target="_blank">View details &nbsp; <i class="far fa-arrow-right"></i></a>
+                                            <p>Transform collaboration spaces with Logitech Tap IP and leading video
+                                                conferencing room solutions. Deliver one-touch join, easy
+                                                content-sharing, and a seamless meeting experience across all rooms.</p>
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
+                                            <a href="https://www.logitech.com/en-in/products/video-conferencing/room-solutions/tap-ip.952-000085.html"
+                                                target="_blank">View details &nbsp; <i
+                                                    class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -142,9 +160,14 @@
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Logitech Sight</h3>
-                                            <p>Make Microsoft Teams meetings more inclusive for remote participants with Sight, which adds clearer audio and the best front-facing view of in-room participants.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
-                                            <a href="https://www.logitech.com/en-in/products/video-conferencing/room-solutions/sight.960-001510.html" target="_blank">View details &nbsp; <i class="far fa-arrow-right"></i></a>
+                                            <p>Make Microsoft Teams meetings more inclusive for remote participants with
+                                                Sight, which adds clearer audio and the best front-facing view of
+                                                in-room participants.</p>
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
+                                            <a href="https://www.logitech.com/en-in/products/video-conferencing/room-solutions/sight.960-001510.html"
+                                                target="_blank">View details &nbsp; <i
+                                                    class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -163,10 +186,10 @@
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img loading="lazy" src="./assets/brands/logitech/sight.webp"
-                                            class="img-fluid" alt="">
+                                        <img loading="lazy" src="./assets/brands/logitech/sight.webp" class="img-fluid"
+                                            alt="">
                                     </div>
-                                   
+
 
 
 

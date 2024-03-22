@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Yealink - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -49,7 +50,10 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="second-card">
                                             <div class="content">
-                                                <p>Poly's Microsoft Teams certified solutions lead the way in hybrid work setups. We provide professional-grade audio and video products ensuring exceptional Microsoft Teams experiences, regardless of your location.</p>
+                                                <p>Poly's Microsoft Teams certified solutions lead the way in hybrid
+                                                    work setups. We provide professional-grade audio and video products
+                                                    ensuring exceptional Microsoft Teams experiences, regardless of your
+                                                    location.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -65,14 +69,17 @@
                                             </div>
                                             <div class="second-img">
                                                 <div class="heading">
-                                                    <h1>Enhance your <span>Microsoft Teams Rooms</span> with Yealink devices.
+                                                    <h1>Enhance your <span>Microsoft Teams Rooms</span> with Yealink
+                                                        devices.
                                                     </h1>
                                                     <svg width="266" height="12" viewBox="0 0 266 12" fill="none"
                                                         xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M0 0L266 12H0V0Z" fill="#FFDC60"></path>
                                                     </svg>
                                                 </div>
-                                                <p>Yealink Teams room solutions integrate seamlessly with Microsoft Teams, offering intuitive interfaces and high-quality video/audio for enhanced collaboration in diverse meeting spaces.
+                                                <p>Yealink Teams room solutions integrate seamlessly with Microsoft
+                                                    Teams, offering intuitive interfaces and high-quality video/audio
+                                                    for enhanced collaboration in diverse meeting spaces.
                                                 </p>
                                                 <a href="about.html" aria-label="Know about the company">
                                                     <div class="banner-button1 button-hover1">
@@ -114,9 +121,14 @@
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Smart Whiteboard-MeetingBoard65</h3>
-                                            <p>Yealink MeetingBoard features a 4k camera, clear speaker, full-duplex microphones, and a smart collaboration whiteboard, providing immersive meetings and collaboration anywhere.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
-                                            <a href="https://www.yealink.com/en/product-detail/microsoft-teams-rooms-meetingboard65" target="_blank">View details &nbsp; <i class="far fa-arrow-right"></i></a>
+                                            <p>Yealink MeetingBoard features a 4k camera, clear speaker, full-duplex
+                                                microphones, and a smart collaboration whiteboard, providing immersive
+                                                meetings and collaboration anywhere.</p>
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
+                                            <a href="https://www.yealink.com/en/product-detail/microsoft-teams-rooms-meetingboard65"
+                                                target="_blank">View details &nbsp; <i
+                                                    class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -128,9 +140,14 @@
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">DeskVision A24</h3>
-                                            <p>DeskVision A24 offers a minimalist desk with 4K camera, built-in audio, touch screen, wireless charging, and adjustable brackets for focused collaboration.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
-                                            <a href="https://www.yealink.com/en/product-detail/microsoft-teams-rooms-deskvision-a24" target="_blank">View details &nbsp; <i class="far fa-arrow-right"></i></a>
+                                            <p>DeskVision A24 offers a minimalist desk with 4K camera, built-in audio,
+                                                touch screen, wireless charging, and adjustable brackets for focused
+                                                collaboration.</p>
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
+                                            <a href="https://www.yealink.com/en/product-detail/microsoft-teams-rooms-deskvision-a24"
+                                                target="_blank">View details &nbsp; <i
+                                                    class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -142,9 +159,14 @@
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">MeetingBar A10</h3>
-                                            <p>The MeetingBar A10's compact design suits small spaces and home offices, setting up swiftly. Its 4K camera and 120° field of view ensure clear, detailed capture.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
-                                            <a href="https://www.yealink.com/en/product-detail/microsoft-teams-rooms-meetingbar-a10" target="_blank">View details &nbsp; <i class="far fa-arrow-right"></i></a>
+                                            <p>The MeetingBar A10's compact design suits small spaces and home offices,
+                                                setting up swiftly. Its 4K camera and 120° field of view ensure clear,
+                                                detailed capture.</p>
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
+                                            <a href="https://www.yealink.com/en/product-detail/microsoft-teams-rooms-meetingbar-a10"
+                                                target="_blank">View details &nbsp; <i
+                                                    class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -165,7 +187,7 @@
                                         <img loading="lazy" src="./assets/brands/yealink/meeting-bar-a10.png"
                                             class="img-fluid" alt="">
                                     </div>
-                                   
+
 
 
 

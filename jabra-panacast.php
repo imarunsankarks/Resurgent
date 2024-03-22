@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Jabra Panacast - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -43,13 +44,18 @@
                         <div class="row g-5 align-items-center justify-content-center">
                             <div class="col-lg-7">
                                 <div class="banner-product-img">
-                                    <img loading="lazy" src="./assets/products/jabra/jabra-banner.png" alt="" class=" wow animate__animated animate__zoomIn">
+                                    <img loading="lazy" src="./assets/products/jabra/jabra-banner.png" alt=""
+                                        class=" wow animate__animated animate__zoomIn">
                                 </div>
                             </div>
                             <div class="col-lg-5">
                                 <div class="banner-product-content">
-                                    <h1 class="product-banner-title wow animate__animated animate__flipInX">Jabra Panacast</h1>
-                                    <p class=" wow animate__animated animate__fadeInUp">Amidst today's challenges, video conferencing is crucial. PanaCast Series webcams facilitate safe, productive meetings adaptable to any 'new normal,' optimized for leading UC platforms like Microsoft Teams, Zoom, and Google Meet.</p>
+                                    <h1 class="product-banner-title wow animate__animated animate__flipInX">Jabra
+                                        Panacast</h1>
+                                    <p class=" wow animate__animated animate__fadeInUp">Amidst today's challenges, video
+                                        conferencing is crucial. PanaCast Series webcams facilitate safe, productive
+                                        meetings adaptable to any 'new normal,' optimized for leading UC platforms like
+                                        Microsoft Teams, Zoom, and Google Meet.</p>
                                     <div class="banner-button1 button-hover1 cta-btn">
                                         <div class="circle-large"></div>
                                         <button>learn more</button>
@@ -73,7 +79,8 @@
                                     Jabra Panacast</h2>
                             </div>
                             <div class="col-md-6 ps-lg-5">
-                                <p class="m-0 wow animate__animated animate__fadeInUp">Engineered to be the first new-normal-ready intelligent Webcam.</p>
+                                <p class="m-0 wow animate__animated animate__fadeInUp">Engineered to be the first
+                                    new-normal-ready intelligent Webcam.</p>
                             </div>
                             <div class="product-feature-img">
                                 <img loading="lazy" src="./assets/products/jabra/panacast-features.webp" alt="">
@@ -149,7 +156,8 @@
             <!-- ---------------------------------------------------why-us---------------------------------- -->
             <section class="sec-padding pt-0">
                 <div class="container">
-                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">Product features</h2>
+                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">Product features
+                    </h2>
                     <div class="row mt-md-5">
                         <div class="col-md-4 wow animate__animated animate__fadeInUp">
                             <div class="why-card">
@@ -158,7 +166,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">Use</h3>
                                 </div>
-                                <p>Work seamlessly with your team, no matter where they are located, ensuring instant collaboration.</p>
+                                <p>Work seamlessly with your team, no matter where they are located, ensuring instant
+                                    collaboration.</p>
                             </div>
                         </div>
 
@@ -169,7 +178,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">180deg</h3>
                                 </div>
-                                <p>Seamless connectivity for your team, regardless of the equipment they utilize, with the world's first intelligent 180° Panoramic-4K Video Solution.</p>
+                                <p>Seamless connectivity for your team, regardless of the equipment they utilize, with
+                                    the world's first intelligent 180° Panoramic-4K Video Solution.</p>
                             </div>
                         </div>
 
@@ -180,7 +190,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">Meeting Rooms</h3>
                                 </div>
-                                <p>From Individual use to Boardrooms, Jabra Panacast webcam gives you the edge you need visually.</p>
+                                <p>From Individual use to Boardrooms, Jabra Panacast webcam gives you the edge you need
+                                    visually.</p>
                             </div>
                         </div>
 
@@ -191,7 +202,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">video conferencing</h3>
                                 </div>
-                                <p>AI-powered 4K Ultra-HD video Intelligent Zoom Intelligent Lighting Optimization Intuitive Picture-in-Picture mode.</p>
+                                <p>AI-powered 4K Ultra-HD video Intelligent Zoom Intelligent Lighting Optimization
+                                    Intuitive Picture-in-Picture mode.</p>
                             </div>
                         </div>
 
@@ -202,7 +214,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">ways of working</h3>
                                 </div>
-                                <p>On-device processing & integrated privacy cover Optimized for all leading UC platforms.</p>
+                                <p>On-device processing & integrated privacy cover Optimized for all leading UC
+                                    platforms.</p>
                             </div>
                         </div>
 
@@ -213,11 +226,12 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">difference</h3>
                                 </div>
-                                <p>Microsoft Teams and Zoom certify top devices for superior audio and user experience. Jabra exceeds these standards.</p>
+                                <p>Microsoft Teams and Zoom certify top devices for superior audio and user experience.
+                                    Jabra exceeds these standards.</p>
                             </div>
                         </div>
 
-                      
+
 
                     </div>
                 </div>
@@ -262,12 +276,16 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/jabra/jabra-panacast-50-whiteboard.jpg"
+                                                    <img loading="lazy"
+                                                        src="./assets/products/jabra/jabra-panacast-50-whiteboard.jpg"
                                                         alt="">
                                                     <div class="content">
                                                         <!-- <img loading="lazy" src="./assets/logos/ouline.svg" alt=""> -->
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>Precision voice detection and full duplex technology use intelligent algorithms to automatically identify and remove residual echo and static noise so everyone can get in on the action without accidentally talking all over each other.</p>
+                                                        <p>Precision voice detection and full duplex technology use
+                                                            intelligent algorithms to automatically identify and remove
+                                                            residual echo and static noise so everyone can get in on the
+                                                            action without accidentally talking all over each other.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -277,12 +295,13 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/jabra/jabra-panacast-f-2.webp"
-                                                        alt="">
+                                                    <img loading="lazy"
+                                                        src="./assets/products/jabra/jabra-panacast-f-2.webp" alt="">
                                                     <div class="content">
                                                         <!-- <img loading="lazy" src="./assets/logos/ouline.svg" alt="">
                                                         <h3>Instant meetings on Microsoft Teams</h3> -->
-                                                        <p>With PanaCast 50 you don't have to be in the room to be at the heart of the meeting.</p>
+                                                        <p>With PanaCast 50 you don't have to be in the room to be at
+                                                            the heart of the meeting.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -292,12 +311,14 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/jabra/jabra-panacast-f-3.webp"
-                                                        alt="">
+                                                    <img loading="lazy"
+                                                        src="./assets/products/jabra/jabra-panacast-f-3.webp" alt="">
                                                     <div class="content">
 
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>PanaCast 50 adapts to whatever space you're in, using four powerful speakers in a zero-vibration stereo setup to flood the room with premium high-definition sound.</p>
+                                                        <p>PanaCast 50 adapts to whatever space you're in, using four
+                                                            powerful speakers in a zero-vibration stereo setup to flood
+                                                            the room with premium high-definition sound.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -344,181 +365,180 @@
 
 
     <script>
-        new WOW().init();
+    new WOW().init();
     </script>
 
     <script>
-        function showFeature(arg) {
-            const testimonialClass = `.f-${arg}`;
-            const testimonial = document.querySelector(testimonialClass);
-            const featureMarkers = document.querySelectorAll('[class^="feature-marker-"]');
+    function showFeature(arg) {
+        const testimonialClass = `.f-${arg}`;
+        const testimonial = document.querySelector(testimonialClass);
+        const featureMarkers = document.querySelectorAll('[class^="feature-marker-"]');
 
-            featureMarkers.forEach(marker => {
-                marker.classList.remove("active");
-            });
-            const activeMarker = document.querySelector(`.feature-marker-${arg}`);
-            if (activeMarker) {
-                activeMarker.classList.add("active");
-            }
-
-            if (testimonial) {
-                const allTestimonials = document.querySelectorAll('.each-feature-det');
-                allTestimonials.forEach((t) => {
-                    if (t !== testimonial) {
-                        t.style.opacity = 0;
-                    }
-                });
-
-                testimonial.style.opacity = 1;
-            }
+        featureMarkers.forEach(marker => {
+            marker.classList.remove("active");
+        });
+        const activeMarker = document.querySelector(`.feature-marker-${arg}`);
+        if (activeMarker) {
+            activeMarker.classList.add("active");
         }
-    </script>
 
-    <script>
-        // <!-- --------------for banner image and content------------------------------------------- -->
-
-        document.addEventListener("DOMContentLoaded", function () {
-            if (window.innerWidth > 767) {
-                gsap.set(".product-img img", {
-                    x: () => {
-                        const imageWidth = window.innerWidth > 750 ? 700 : window.innerWidth * 0.9;
-                        const viewportWidth = window.innerWidth;
-                        const xValue = (viewportWidth - imageWidth) / 2;
-                        console.log(xValue);
-
-                        return xValue;
-                    },
-                    y: "-=25%",
-                    scale: 1,
-                    width: window.innerWidth > 750 ? 700 : '90vw',
-                    height: window.innerWidth > 750 ? 700 : '50vh',
-                    borderRadius: window.innerWidth > 750 ? '50%' : '25px'
-                });
-                const animation = gsap.to(".product-img img", {
-                    x: 0,
-                    y: "+=10%",
-                    scale: 1.2,
-                    duration: 1,
-                    width: '100%',
-                    height: '80vh',
-                    borderRadius: '0px',
-                    ease: "power1.inOut",
-                    stagger: 1,
-                });
-
-                ScrollTrigger.create({
-                    trigger: ".product-banner-img",
-                    start: "top top",
-                    end: "bottom bottom",
-                    pin: ".product-img-container",
-                    animation: animation,
-                    scrub: true,
-                    markers: false,
-                    threshold: 1,
-                });
-
-
-
-                gsap.set(".product-det", {
-                    opacity: 0,
-                    scale: 1,
-                    x: 0
-                });
-
-
-                const buttonTimeline = gsap.timeline({
-                    scrollTrigger: {
-                        trigger: "#button-trigger",
-                        start: "top 50%",
-                        end: "bottom 40%",
-                        // markers: true,
-                        // scrub: true,
-                        toggleActions: "play reverse play reverse",
-                    },
-                });
-
-                buttonTimeline.to(".product-det", {
-                    opacity: 1,
-                    scale: 1.2,
-                    x: "0%",
-                    duration: .3,
-                    ease: "power1.out"
-                });
-
-
-            }
-        })
-    </script>
-
-    <script>
-        if (window.innerWidth > 767) {
-            gsap.set(".each-feature-card:not(:first-child)", {
-                x: "0%",
-                opacity: 0,
+        if (testimonial) {
+            const allTestimonials = document.querySelectorAll('.each-feature-det');
+            allTestimonials.forEach((t) => {
+                if (t !== testimonial) {
+                    t.style.opacity = 0;
+                }
             });
 
-            const animation = gsap.to(".each-feature-card:not(:first-child)", {
-                x: "0%",
-                opacity: 1,
-                duration: 0.5,
+            testimonial.style.opacity = 1;
+        }
+    }
+    </script>
+
+    <script>
+    // <!-- --------------for banner image and content------------------------------------------- -->
+
+    document.addEventListener("DOMContentLoaded", function() {
+        if (window.innerWidth > 767) {
+            gsap.set(".product-img img", {
+                x: () => {
+                    const imageWidth = window.innerWidth > 750 ? 700 : window.innerWidth * 0.9;
+                    const viewportWidth = window.innerWidth;
+                    const xValue = (viewportWidth - imageWidth) / 2;
+                    console.log(xValue);
+
+                    return xValue;
+                },
+                y: "-=25%",
+                scale: 1,
+                width: window.innerWidth > 750 ? 700 : '90vw',
+                height: window.innerWidth > 750 ? 700 : '50vh',
+                borderRadius: window.innerWidth > 750 ? '50%' : '25px'
+            });
+            const animation = gsap.to(".product-img img", {
+                x: 0,
+                y: "+=10%",
+                scale: 1.2,
+                duration: 1,
+                width: '100%',
+                height: '80vh',
+                borderRadius: '0px',
+                ease: "power1.inOut",
                 stagger: 1,
-                paused: true,
             });
 
             ScrollTrigger.create({
-                trigger: ".features-scroll",
+                trigger: ".product-banner-img",
                 start: "top top",
                 end: "bottom bottom",
-                pin: ".right",
+                pin: ".product-img-container",
                 animation: animation,
                 scrub: true,
-                // markers: true,
-                threshold: 0,
-            });
-        }
-    </script>
-
-    <script>
-        // <!-- ------------------------------for mouse positioning--------------------------------------------- -->
-
-        const parallaxSection = document.querySelector('.product-det');
-        const parallaxImages = document.querySelectorAll('.zoomIn-button');
-
-
-
-        parallaxSection.addEventListener('mousemove', (e) => {
-            const centerX = parallaxSection.offsetWidth / 2;
-            const centerY = parallaxSection.offsetHeight / 2;
-            const mouseX = e.clientX - parallaxSection.getBoundingClientRect().left;
-            const mouseY = e.clientY - parallaxSection.getBoundingClientRect().top;
-
-            parallaxImages.forEach((image, index) => {
-                const x = (mouseX - centerX) * (index + 1) * 0.08;
-                const y = (mouseY - centerY) * (index + 1) * 0.08;
-                image.style.transform = `translate(${x}px, ${y}px)`;
-            });
-        });
-    </script>
-<!-- --------------------------banner-animation------------------------- -->
-    <script>
-        const bannerTimeline = gsap.timeline({
-            scrollTrigger: {
-                trigger: "#banner-trigger",
-                start: "top top",
-                end: "center center",
-                scrub: true,
                 markers: false,
-                invalidateOnRefresh: true,
-            },
+                threshold: 1,
+            });
+
+
+
+            gsap.set(".product-det", {
+                opacity: 0,
+                scale: 1,
+                x: 0
+            });
+
+
+            const buttonTimeline = gsap.timeline({
+                scrollTrigger: {
+                    trigger: "#button-trigger",
+                    start: "top 50%",
+                    end: "bottom 40%",
+                    // markers: true,
+                    // scrub: true,
+                    toggleActions: "play reverse play reverse",
+                },
+            });
+
+            buttonTimeline.to(".product-det", {
+                opacity: 1,
+                scale: 1.2,
+                x: "0%",
+                duration: .3,
+                ease: "power1.out"
+            });
+
+
+        }
+    })
+    </script>
+
+    <script>
+    if (window.innerWidth > 767) {
+        gsap.set(".each-feature-card:not(:first-child)", {
+            x: "0%",
+            opacity: 0,
         });
-        bannerTimeline.to(
-            ".banner-product-img img",
-            {
-                x: () => 200,
-                scale: 1.5,
-            },
-            "<"
-        );
+
+        const animation = gsap.to(".each-feature-card:not(:first-child)", {
+            x: "0%",
+            opacity: 1,
+            duration: 0.5,
+            stagger: 1,
+            paused: true,
+        });
+
+        ScrollTrigger.create({
+            trigger: ".features-scroll",
+            start: "top top",
+            end: "bottom bottom",
+            pin: ".right",
+            animation: animation,
+            scrub: true,
+            // markers: true,
+            threshold: 0,
+        });
+    }
+    </script>
+
+    <script>
+    // <!-- ------------------------------for mouse positioning--------------------------------------------- -->
+
+    const parallaxSection = document.querySelector('.product-det');
+    const parallaxImages = document.querySelectorAll('.zoomIn-button');
+
+
+
+    parallaxSection.addEventListener('mousemove', (e) => {
+        const centerX = parallaxSection.offsetWidth / 2;
+        const centerY = parallaxSection.offsetHeight / 2;
+        const mouseX = e.clientX - parallaxSection.getBoundingClientRect().left;
+        const mouseY = e.clientY - parallaxSection.getBoundingClientRect().top;
+
+        parallaxImages.forEach((image, index) => {
+            const x = (mouseX - centerX) * (index + 1) * 0.08;
+            const y = (mouseY - centerY) * (index + 1) * 0.08;
+            image.style.transform = `translate(${x}px, ${y}px)`;
+        });
+    });
+    </script>
+    <!-- --------------------------banner-animation------------------------- -->
+    <script>
+    const bannerTimeline = gsap.timeline({
+        scrollTrigger: {
+            trigger: "#banner-trigger",
+            start: "top top",
+            end: "center center",
+            scrub: true,
+            markers: false,
+            invalidateOnRefresh: true,
+        },
+    });
+    bannerTimeline.to(
+        ".banner-product-img img", {
+            x: () => 200,
+            scale: 1.5,
+        },
+        "<"
+    );
     </script>
 
 </body>

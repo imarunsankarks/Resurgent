@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Samsung Flip - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -51,7 +52,11 @@
                                 <div class="banner-product-content">
                                     <h1 class="product-banner-title wow animate__animated animate__flipInX">Samsung Flip
                                     </h1>
-                                    <p class="wow animate__animated animate__fadeInUp">Samsung Flip boosts teamwork creativity and collaboration. Writing, drawing, and editing tools facilitate idea expression and engaging presentations. Enhanced security, content sharing, display, and multi-user features ensure inclusive and productive collaboration.</p>
+                                    <p class="wow animate__animated animate__fadeInUp">Samsung Flip boosts teamwork
+                                        creativity and collaboration. Writing, drawing, and editing tools facilitate
+                                        idea expression and engaging presentations. Enhanced security, content sharing,
+                                        display, and multi-user features ensure inclusive and productive collaboration.
+                                    </p>
                                     <div class="banner-button1 button-hover1 cta-btn">
                                         <div class="circle-large"></div>
                                         <button>learn more</button>
@@ -75,10 +80,12 @@
                                     Samsung Flip</h2>
                             </div>
                             <div class="col-md-6 ps-lg-5">
-                                <p class="m-0 wow animate__animated animate__fadeInUp">Bring ideas to life with an interactive display and collaboration tools.</p>
+                                <p class="m-0 wow animate__animated animate__fadeInUp">Bring ideas to life with an
+                                    interactive display and collaboration tools.</p>
                             </div>
                             <div class="product-feature-img">
-                                <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp" alt="">
+                                <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp"
+                                    alt="">
                                 <div class="feature-marker-1 active" onmouseover="showFeature(1)">
                                     <span>1</span>
                                     <div class="ripple"></div>
@@ -128,7 +135,8 @@
                             <div class="product-img-container">
                                 <div class="product-imgs">
                                     <div class="product-img">
-                                        <img loading="lazy" src="./assets/products/samsung-flip/samsung-flip-contact.webp"
+                                        <img loading="lazy"
+                                            src="./assets/products/samsung-flip/samsung-flip-contact.webp"
                                             alt="product image" class="img-fluid">
                                     </div>
                                 </div>
@@ -151,7 +159,8 @@
             <!-- ---------------------------------------------------why-us---------------------------------- -->
             <section class="sec-padding pt-0">
                 <div class="container">
-                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">Product features</h2>
+                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">Product features
+                    </h2>
                     <div class="row mt-md-5">
                         <div class="col-md-4 wow animate__animated animate__fadeInUp">
                             <div class="why-card">
@@ -273,12 +282,15 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/samsung-flip/samsung-flip-f-1.jpg"
+                                                    <img loading="lazy"
+                                                        src="./assets/products/samsung-flip/samsung-flip-f-1.jpg"
                                                         alt="">
                                                     <div class="content">
                                                         <!-- <img loading="lazy" src="./assets/logos/ouline.svg" alt=""> -->
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>By simply clicking the note layer button, users can enjoy smooth writing anytime, anywhere on any content displayed, without affecting any work behind the original layer.</p>
+                                                        <p>By simply clicking the note layer button, users can enjoy
+                                                            smooth writing anytime, anywhere on any content displayed,
+                                                            without affecting any work behind the original layer.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -288,7 +300,8 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/samsung-flip/samsung-flip-f-2.jpg"
+                                                    <img loading="lazy"
+                                                        src="./assets/products/samsung-flip/samsung-flip-f-2.jpg"
                                                         alt="">
                                                     <div class="content">
                                                         <!-- <img loading="lazy" src="./assets/logos/ouline.svg" alt="">
@@ -306,7 +319,8 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/samsung-flip/samsung-flip-f-3.avif"
+                                                    <img loading="lazy"
+                                                        src="./assets/products/samsung-flip/samsung-flip-f-3.avif"
                                                         alt="">
                                                     <div class="content">
 

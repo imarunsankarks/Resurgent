@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Residentail - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -42,7 +43,8 @@
                     <div class="row h-100 align-items-center position-relative g-5">
                         <div class="col-md-6">
                             <div class="sector-banner-left">
-                                <img loading="lazy" src="./assets/home/residential.webp" alt="" class="sector-banner-img">
+                                <img loading="lazy" src="./assets/home/residential.webp" alt=""
+                                    class="sector-banner-img">
                                 <div class="sector-circle-2 wow animate__animated animate__zoomIn animate__three"></div>
                             </div>
                         </div>
@@ -50,7 +52,8 @@
                             <div class="sector-banner-content">
                                 <span>Integrated AV Solutions for</span>
                                 <h1 class="wow animate__animated animate__flipInX animate__two">Residences</h1>
-                                <p class="wow animate__animated animate__fadeInUp animate__two">With homes becoming more multifunctional and AV technology becoming more versatile,
+                                <p class="wow animate__animated animate__fadeInUp animate__two">With homes becoming more
+                                    multifunctional and AV technology becoming more versatile,
                                     you can now customise audiovisual solutions to meet your specific needs. Our
                                     integrated AV solutions range from technology that better reflects your lifestyle to
                                     lighting systems that can be personalised for every member of your family.</p>
@@ -85,9 +88,10 @@
                                                 <div class="col-md-4">
                                                     <div class="owl-carousel owl-theme owl-sector-img">
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/residential/theater.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/residential/theater.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                     </div>
 
@@ -119,9 +123,10 @@
                                                 <div class="col-md-4">
                                                     <div class="owl-carousel owl-theme owl-sector-img">
                                                         <div class="item">
-                                                            <img loading="lazy" src="./assets/solutions/residential/light.webp"
-                                                                alt="" class="img-fluid" loading="lazy"
-                                                                width="100%" height="100%">
+                                                            <img loading="lazy"
+                                                                src="./assets/solutions/residential/light.webp" alt=""
+                                                                class="img-fluid" loading="lazy" width="100%"
+                                                                height="100%">
                                                         </div>
                                                     </div>
 
@@ -158,7 +163,8 @@
             <!-- ---------------------------------------------------features---------------------------------- -->
             <section class="sec-padding">
                 <div class="container">
-                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp animate__two">Key Features</h2>
+                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp animate__two">Key
+                        Features</h2>
                     <div class="row mt-5">
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__one">
                             <div class="why-card">
@@ -226,8 +232,10 @@
                 <div class="container">
                     <div class="row align-items-center justify-content-center">
                         <div class="col-md-10 text-md-center">
-                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Related Products</h2>
-                            <p class="wow animate__animated animate__fadeInUp animate__two">Our corporate AV solutions help organizations stay ahead and agile, even as they expand
+                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Related
+                                Products</h2>
+                            <p class="wow animate__animated animate__fadeInUp animate__two">Our corporate AV solutions
+                                help organizations stay ahead and agile, even as they expand
                                 globally and work cultures become increasingly hybrid. Audio-video integration no longer
                                 applies only</p>
                         </div>
@@ -235,21 +243,24 @@
                             <div class="row g-5">
                                 <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__one">
                                     <div class="related-product-card">
-                                        <img loading="lazy" src="./assets/products/crestron/crestron-1.webp" alt="" class="w-100">
+                                        <img loading="lazy" src="./assets/products/crestron/crestron-1.webp" alt=""
+                                            class="w-100">
                                         <p>Crestron Flex</p>
                                         <a href="crestron-flex.php"><i class="fas fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__two">
                                     <div class="related-product-card">
-                                        <img loading="lazy" src="./assets/products/zoom-rooms/zoom-room.webp" alt="" class="w-100">
+                                        <img loading="lazy" src="./assets/products/zoom-rooms/zoom-room.webp" alt=""
+                                            class="w-100">
                                         <p>Zoom Rooms</p>
                                         <a href="zoom-rooms.php"><i class="fas fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__three">
                                     <div class="related-product-card">
-                                        <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp" alt=""
+                                        <img loading="lazy"
+                                            src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp" alt=""
                                             class="w-100">
                                         <p>Microsoft Surface Hub 2S</p>
                                         <a href="microsoft-surface-hub-2s.php"><i class="fas fa-arrow-right"></i></a>

@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>Careers - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -77,30 +78,30 @@
                             <div class="owl-carousel owl-theme owl-career-img">
                                 <div class="item">
                                     <picture>
-                                        <source srcset="./assets/home/p1.webp" type="image/webp" alt=""
-                                            width="100%" height="100%" loading="lazy">
-                                        <source srcset="./assets/home/p1.webp" type="image/jpg" alt=""
-                                            width="100%" height="100%" loading="lazy">
+                                        <source srcset="./assets/home/p1.webp" type="image/webp" alt="" width="100%"
+                                            height="100%" loading="lazy">
+                                        <source srcset="./assets/home/p1.webp" type="image/jpg" alt="" width="100%"
+                                            height="100%" loading="lazy">
                                         <img loading="lazy" src="./assets/home/p1.webp" alt="" class="img-fluid"
                                             loading="lazy" width="100%" height="100%">
                                     </picture>
                                 </div>
                                 <div class="item">
                                     <picture>
-                                        <source srcset="./assets/home/p2.webp" type="image/webp" alt=""
-                                            width="100%" height="100%" loading="lazy">
-                                        <source srcset="./assets/home/p2.webp" type="image/jpg" alt=""
-                                            width="100%" height="100%" loading="lazy">
+                                        <source srcset="./assets/home/p2.webp" type="image/webp" alt="" width="100%"
+                                            height="100%" loading="lazy">
+                                        <source srcset="./assets/home/p2.webp" type="image/jpg" alt="" width="100%"
+                                            height="100%" loading="lazy">
                                         <img loading="lazy" src="./assets/home/p2.webp" alt="" class="img-fluid"
                                             loading="lazy" width="100%" height="100%">
                                     </picture>
                                 </div>
                                 <div class="item">
                                     <picture>
-                                        <source srcset="./assets/home/p3.webp" type="image/webp" alt=""
-                                            width="100%" height="100%" loading="lazy">
-                                        <source srcset="./assets/home/p3.webp" type="image/jpg" alt=""
-                                            width="100%" height="100%" loading="lazy">
+                                        <source srcset="./assets/home/p3.webp" type="image/webp" alt="" width="100%"
+                                            height="100%" loading="lazy">
+                                        <source srcset="./assets/home/p3.webp" type="image/jpg" alt="" width="100%"
+                                            height="100%" loading="lazy">
                                         <img loading="lazy" src="./assets/home/p3.webp" alt="" class="img-fluid"
                                             loading="lazy" width="100%" height="100%">
                                     </picture>
@@ -108,8 +109,10 @@
                             </div>
                         </div>
                         <div class="col-lg-6 order-1 order-lg-2">
-                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">We are Resurgent</h2>
-                            <p class=" wow animate__animated animate__fadeInUp animate__two">Human centricity isn't just an approach we apply to our products and processes; instead,
+                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">We are
+                                Resurgent</h2>
+                            <p class=" wow animate__animated animate__fadeInUp animate__two">Human centricity isn't just
+                                an approach we apply to our products and processes; instead,
                                 it begins with our people. Resurgent is the sum total of professionals who believe in
                                 the impact of our work and the importance of doing it well.<br>
                             <p class=" wow animate__animated animate__fadeInUp animate__two">
@@ -131,7 +134,8 @@
                         <div class="row g-5">
                             <div class="col-lg-4">
                                 <div class="first-card">
-                                    <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Our Core<br> Values</h2>
+                                    <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Our
+                                        Core<br> Values</h2>
                                 </div>
                             </div>
                             <div class="col-lg-4  wow animate__animated animate__fadeInUp animate__two">
@@ -150,7 +154,8 @@
                                         <img loading="lazy" src="./assets/logos/integrity.svg" alt="">
                                         <h3>Integrity</h3>
                                     </div>
-                                    <p>We are committed to being ethical in our dealings and always being accountable, thereby earning trust and regard.</p>
+                                    <p>We are committed to being ethical in our dealings and always being accountable,
+                                        thereby earning trust and regard.</p>
                                 </div>
                             </div>
                             <div class="col-lg-4  wow animate__animated animate__fadeInUp animate__two">
@@ -159,7 +164,8 @@
                                         <img loading="lazy" src="./assets/logos/excellence.svg" alt="">
                                         <h3>Quest for Excellence</h3>
                                     </div>
-                                    <p>We strive to consistently improve quality and performance standards while creating a work culture that's joyful, fulfilling and productive.</p>
+                                    <p>We strive to consistently improve quality and performance standards while
+                                        creating a work culture that's joyful, fulfilling and productive.</p>
                                 </div>
                             </div>
                             <div class="col-lg-4  wow animate__animated animate__fadeInUp animate__two">
@@ -168,7 +174,8 @@
                                         <img loading="lazy" src="./assets/logos/member.svg" alt="">
                                         <h3>Teamwork</h3>
                                     </div>
-                                    <p>By working together towards a common goal while respecting one another's uniqueness, we believe that everyone is able to achieve more.</p>
+                                    <p>By working together towards a common goal while respecting one another's
+                                        uniqueness, we believe that everyone is able to achieve more.</p>
                                 </div>
                             </div>
                             <div class="col-lg-4  wow animate__animated animate__fadeInUp animate__two">
@@ -177,7 +184,8 @@
                                         <img loading="lazy" src="./assets/logos/customer.svg" alt="">
                                         <h3>Total Customer Satisfaction</h3>
                                     </div>
-                                    <p>Our goal is to always delight our customers and exceed their expectations, with service that is as superior as our products and solutions.</p>
+                                    <p>Our goal is to always delight our customers and exceed their expectations, with
+                                        service that is as superior as our products and solutions.</p>
                                 </div>
                             </div>
                         </div>
@@ -189,8 +197,10 @@
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-md-10 text-md-center">
-                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Join Our Team</h2>
-                            <p class=" wow animate__animated animate__fadeInUp animate__two">Resurgent was founded by a team that's inspired by the possibilities of audiovisual
+                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Join Our Team
+                            </h2>
+                            <p class=" wow animate__animated animate__fadeInUp animate__two">Resurgent was founded by a
+                                team that's inspired by the possibilities of audiovisual
                                 communication, and how these continue to evolve. Each new member has amplified this
                                 passion and curiosity, matching it with a commitment to exceptional service.</p>
                         </div>

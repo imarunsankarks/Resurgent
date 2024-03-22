@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title> Resurgent AV</title>
+    <title>HP(Poly) - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
 
 
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
@@ -49,7 +50,10 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="second-card">
                                             <div class="content">
-                                                <p>Poly's Microsoft Teams certified solutions lead the way in hybrid work setups. We provide professional-grade audio and video products ensuring exceptional Microsoft Teams experiences, regardless of your location.</p>
+                                                <p>Poly's Microsoft Teams certified solutions lead the way in hybrid
+                                                    work setups. We provide professional-grade audio and video products
+                                                    ensuring exceptional Microsoft Teams experiences, regardless of your
+                                                    location.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -60,19 +64,22 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="first-card">
                                             <div class="first-img">
-                                                <img loading="lazy" src="./assets/brands/hp/hp-banner.avif"
-                                                    alt="jabra">
+                                                <img loading="lazy" src="./assets/brands/hp/hp-banner.avif" alt="jabra">
                                             </div>
                                             <div class="second-img">
                                                 <div class="heading">
-                                                    <h1>Drive your conversations with <span>hp</span> and <span> Microsoft Teams</span>
+                                                    <h1>Drive your conversations with <span>hp</span> and <span>
+                                                            Microsoft Teams</span>
                                                     </h1>
                                                     <svg width="266" height="12" viewBox="0 0 266 12" fill="none"
                                                         xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M0 0L266 12H0V0Z" fill="#FFDC60"></path>
                                                     </svg>
                                                 </div>
-                                                <p>Poly's Microsoft Teams certified solutions lead the way in hybrid work setups. We provide professional-grade audio and video products ensuring exceptional Microsoft Teams experiences, regardless of your location.
+                                                <p>Poly's Microsoft Teams certified solutions lead the way in hybrid
+                                                    work setups. We provide professional-grade audio and video products
+                                                    ensuring exceptional Microsoft Teams experiences, regardless of your
+                                                    location.
                                                 </p>
                                                 <a href="about.html" aria-label="Know about the company">
                                                     <div class="banner-button1 button-hover1">
@@ -114,9 +121,14 @@
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Poly G7500</h3>
-                                            <p>Experience seamless video conferencing with Poly's modular system, featuring DirectorAI smart camera for precise framing, NoiseBlockAI, and Acoustic Fence for clear audio. Manage meetings effortlessly with the Poly TC8 Touch controller included.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
-                                            <a href="https://www.hp.com/gb-en/poly/solutions/platform/microsoft.html">View details &nbsp; <i class="far fa-arrow-right"></i></a>
+                                            <p>Experience seamless video conferencing with Poly's modular system,
+                                                featuring DirectorAI smart camera for precise framing, NoiseBlockAI, and
+                                                Acoustic Fence for clear audio. Manage meetings effortlessly with the
+                                                Poly TC8 Touch controller included.</p>
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
+                                            <a href="https://www.hp.com/gb-en/poly/solutions/platform/microsoft.html">View
+                                                details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -128,9 +140,14 @@
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Poly Studio P15</h3>
-                                            <p>Unlock premium video conferencing with the Poly USB video bar. Enjoy 4K Ultra HD clarity, 90° FOV, and exceptional audio through the integrated speaker and multimicrophone array. Benefit from Poly's Acoustic Fence and NoiseBlockAI technologies for distraction-free communication.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
-                                            <a href="https://www.hp.com/gb-en/poly/solutions/platform/microsoft.html">View details &nbsp; <i class="far fa-arrow-right"></i></a>
+                                            <p>Unlock premium video conferencing with the Poly USB video bar. Enjoy 4K
+                                                Ultra HD clarity, 90° FOV, and exceptional audio through the integrated
+                                                speaker and multimicrophone array. Benefit from Poly's Acoustic Fence
+                                                and NoiseBlockAI technologies for distraction-free communication.</p>
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
+                                            <a href="https://www.hp.com/gb-en/poly/solutions/platform/microsoft.html">View
+                                                details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -142,9 +159,13 @@
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Poly Studio P5</h3>
-                                            <p>Upgrade your video calls with this USB-A webcam featuring a 1080p FHD camera, 80° DFOV, built-in directional microphone, easy USB connectivity, and automatic low-light compensation.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
-                                            <a href="https://www.hp.com/gb-en/poly/solutions/platform/microsoft.html">View details &nbsp; <i class="far fa-arrow-right"></i></a>
+                                            <p>Upgrade your video calls with this USB-A webcam featuring a 1080p FHD
+                                                camera, 80° DFOV, built-in directional microphone, easy USB
+                                                connectivity, and automatic low-light compensation.</p>
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
+                                            <a href="https://www.hp.com/gb-en/poly/solutions/platform/microsoft.html">View
+                                                details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -156,9 +177,13 @@
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Poly Studio E70</h3>
-                                            <p>Enhance large meeting rooms with this smart camera featuring dual 20-megapixel 4K sensors, Poly DirectorAI technology, integrated privacy shutter, and Poly Lens management software.</p>
-                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
-                                            <a href="https://www.hp.com/gb-en/poly/solutions/platform/microsoft.html">View details &nbsp; <i class="far fa-arrow-right"></i></a>
+                                            <p>Enhance large meeting rooms with this smart camera featuring dual
+                                                20-megapixel 4K sensors, Poly DirectorAI technology, integrated privacy
+                                                shutter, and Poly Lens management software.</p>
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt=""
+                                                class="img-fluid ms-logo">
+                                            <a href="https://www.hp.com/gb-en/poly/solutions/platform/microsoft.html">View
+                                                details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
 
@@ -168,8 +193,8 @@
                             <div class="device-right">
                                 <div class="device-photos">
                                     <div class="device-photo">
-                                        <img loading="lazy" src="./assets/brands/hp/poly-G7500.avif"
-                                            class="img-fluid" alt="">
+                                        <img loading="lazy" src="./assets/brands/hp/poly-G7500.avif" class="img-fluid"
+                                            alt="">
                                     </div>
                                     <div class="device-photo">
                                         <img loading="lazy" src="./assets/brands/hp/poly-studio-P15.avif"
