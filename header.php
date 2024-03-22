@@ -5,7 +5,7 @@
                     <div class="d-flex navigation">
                         <a href="index.php" class="navigation-brand pull-right">
                             <div class="header-logo">
-                                <img src="./assets/common/resurgent.webp" alt="">
+                                <img loading="lazy" src="./assets/common/resurgent.webp" alt="">
                             </div>
                         </a>
                         <ul class="navigation-list list-unstyled pull-right">

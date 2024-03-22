@@ -52,7 +52,7 @@
                         <div class="col-md-7">
 
                             <div class="banner-shape">
-                                <img src="./assets/common/culture.webp" alt="">
+                                <img loading="lazy" src="./assets/common/culture.webp" alt="">
                                 <div class="circle-1 wow animate__animated animate__zoomIn animate__two"></div>
 
                                 <div class="circle-2 wow animate__animated animate__zoomIn animate__three"></div>
@@ -61,7 +61,7 @@
 
 
                         <div class="scroll">
-                            <img src="./assets/common/banner-arrow.svg" alt="">
+                            <img loading="lazy" src="./assets/common/banner-arrow.svg" alt="">
                             <p>scroll</p>
                         </div>
                     </div>
@@ -146,34 +146,30 @@
 
                                     <div class="item">
                                         <div class="culture-card">
-                                            <img src="./assets/home/banner.jpg" alt="">
+                                            <img loading="lazy" src="./assets/common/movie.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="item">
                                         <div class="culture-card">
-                                            <img src="./assets/home/banner.jpg" alt="">
+                                            <img loading="lazy" src="./assets/common/onam.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="item">
                                         <div class="culture-card">
-                                            <img src="./assets/home/banner.jpg" alt="">
+                                            <img loading="lazy" src="./assets/common/christmas.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="item">
                                         <div class="culture-card">
-                                            <img src="./assets/home/banner.jpg" alt="">
+                                            <img loading="lazy" src="./assets/common/culture-1.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="item">
                                         <div class="culture-card">
-                                            <img src="./assets/home/banner.jpg" alt="">
+                                            <img loading="lazy" src="./assets/common/culture-2.webp" alt="">
                                         </div>
                                     </div>
-                                    <div class="item">
-                                        <div class="culture-card">
-                                            <img src="./assets/home/banner.jpg" alt="">
-                                        </div>
-                                    </div>
+                                  
                                 </div>
                             </div>
                         </div>

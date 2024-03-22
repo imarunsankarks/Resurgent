@@ -65,7 +65,7 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="first-card">
                                             <div class="first-img">
-                                                <img src="./assets/brands/zoom-rooms/zoom-banner.png" alt="">
+                                                <img loading="lazy" src="./assets/brands/zoom-rooms/zoom-banner.png" alt="">
                                             </div>
                                             <div class="second-img">
                                                 <div class="heading">
@@ -86,7 +86,7 @@
                                                     </div>
                                                 </a>
                                             </div>
-                                            <!-- <img src="./assets/home/banner.jpg" alt="" class="second-img"> -->
+                                            <!-- <img loading="lazy" src="./assets/home/banner.jpg" alt="" class="second-img"> -->
 
                                         </div>
                                     </div>
@@ -113,7 +113,7 @@
                                         <div class="device-num">01</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/zoom-rooms/intelligent-detector.png"
+                                                <img loading="lazy" src="./assets/brands/zoom-rooms/intelligent-detector.png"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Intelligent Director</h3>
@@ -128,7 +128,7 @@
                                         <div class="device-num">02</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/zoom-rooms/workspace-reservation.png"
+                                                <img loading="lazy" src="./assets/brands/zoom-rooms/workspace-reservation.png"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Workspace Reservation</h3>
@@ -143,7 +143,7 @@
                                         <div class="device-num">03</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/zoom-rooms/smart-gallery.png" class="img-fluid"
+                                                <img loading="lazy" src="./assets/brands/zoom-rooms/smart-gallery.png" class="img-fluid"
                                                     alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Smart Gallery</h3>
@@ -158,7 +158,7 @@
                                         <div class="device-num">04</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/zoom-rooms/v-r.png" class="img-fluid"
+                                                <img loading="lazy" src="./assets/brands/zoom-rooms/v-r.png" class="img-fluid"
                                                     alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Kiosk Mode Virtual Receptionist</h3>
@@ -175,18 +175,18 @@
                             <div class="device-right">
                                 <div class="device-photos">
                                     <div class="device-photo">
-                                        <img src="./assets/brands/zoom-rooms/intelligent-detector.png"
+                                        <img loading="lazy" src="./assets/brands/zoom-rooms/intelligent-detector.png"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/zoom-rooms/workspace-reservation.png" class="img-fluid"
+                                        <img loading="lazy" src="./assets/brands/zoom-rooms/workspace-reservation.png" class="img-fluid"
                                             alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/zoom-rooms/smart-gallery.png" class="img-fluid" alt="">
+                                        <img loading="lazy" src="./assets/brands/zoom-rooms/smart-gallery.png" class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/zoom-rooms/v-r.png" class="img-fluid" alt="">
+                                        <img loading="lazy" src="./assets/brands/zoom-rooms/v-r.png" class="img-fluid" alt="">
                                     </div>
 
 
@@ -270,7 +270,7 @@
                             <a href="">
                                 <div class="each-brand-solutions cisco">
                                     <div class="content z-9">
-                                        <img src="./assets/logos/partners/cisco.webp" alt="">
+                                        <img loading="lazy" src="./assets/logos/partners/cisco.webp" alt="">
                                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus expedita
                                             ipsam?</p>
                                         <a href="">Know more</a>
@@ -282,7 +282,7 @@
                             <a href="">
                                 <div class="each-brand-solutions jabra">
                                     <div class="content z-9">
-                                        <img src="./assets/logos/partners/jabra.png" alt="Jabra Logo">
+                                        <img loading="lazy" src="./assets/logos/partners/jabra.png" alt="Jabra Logo">
                                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus expedita
                                             ipsam?</p>
                                         <a href="">Know more</a>
@@ -294,7 +294,7 @@
                             <a href="">
                                 <div class="each-brand-solutions cisco">
                                     <div class="content z-9">
-                                        <img src="./assets/logos/partners/logitech-c.webp" alt="">
+                                        <img loading="lazy" src="./assets/logos/partners/logitech-c.webp" alt="">
                                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus expedita
                                             ipsam?</p>
                                         <a href="">Know more</a>
@@ -306,7 +306,7 @@
                             <a href="">
                                 <div class="each-brand-solutions jabra">
                                     <div class="content z-9">
-                                        <img src="./assets/logos/partners/jabra.png" alt="Jabra Logo">
+                                        <img loading="lazy" src="./assets/logos/partners/jabra.png" alt="Jabra Logo">
                                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus expedita
                                             ipsam?</p>
                                         <a href="">Know more</a>

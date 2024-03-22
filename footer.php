@@ -20,10 +20,10 @@
                     <p>Affiliate Partner With</p>
                     <ul>
                         <li>
-                            <img src="./assets/home/avixa.webp" alt="Avixa Logo" class="img-fluid">
+                            <img loading="lazy" src="./assets/home/avixa.webp" alt="Avixa Logo" class="img-fluid">
                         </li>
                         <li>
-                            <img src="./assets/home/psni.webp" alt="Psni Logo" class="img-fluid">
+                            <img loading="lazy" src="./assets/home/psni.webp" alt="Psni Logo" class="img-fluid">
                         </li>
                     </ul>
                 </div>

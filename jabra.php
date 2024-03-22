@@ -60,7 +60,7 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="first-card">
                                             <div class="first-img">
-                                                <img src="./assets/brands/jabra/jabra-banner.webp"
+                                                <img loading="lazy" src="./assets/brands/jabra/jabra-banner.webp"
                                                     alt="jabra">
                                             </div>
                                             <div class="second-img">
@@ -82,7 +82,7 @@
                                                     </div>
                                                 </a>
                                             </div>
-                                            <!-- <img src="./assets/home/banner.jpg" alt="" class="second-img"> -->
+                                            <!-- <img loading="lazy" src="./assets/home/banner.jpg" alt="" class="second-img"> -->
 
                                         </div>
                                     </div>
@@ -110,12 +110,12 @@
                                         <div class="device-num">01</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/jabra/panacast-50-video-bar.png"
+                                                <img loading="lazy" src="./assets/brands/jabra/panacast-50-video-bar.png"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">PanaCast 50 Video Bar System</h3>
                                             <p>PanaCast 50 Video Bar ensures inclusive meetings with three 13-megapixel cameras, ensuring everyone stays in frame, maximizing meeting space utilization.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="https://www.jabra.in/business/video-conferencing/jabra-panacast-50-video-bar-system">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -124,12 +124,12 @@
                                         <div class="device-num">02</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/jabra/panacast-20.png"
+                                                <img loading="lazy" src="./assets/brands/jabra/panacast-20.png"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">PanaCast 20</h3>
                                             <p>Harnessing advanced on-board AI to deliver an intelligent feature set that takes your video experience to the next level, PanaCast 20 is a personal camera that knows exactly what you need, when you need it.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="https://www.jabra.in/business/video-conferencing/jabra-panacast-20">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -138,12 +138,12 @@
                                         <div class="device-num">03</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/jabra/evolve2-75.webp"
+                                                <img loading="lazy" src="./assets/brands/jabra/evolve2-75.webp"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Evolve2 75</h3>
                                             <p>The new standard for hybrid working. World-class audio engineering for industry-leading call quality.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="https://www.jabra.in/business/office-headsets/jabra-evolve/jabra-evolve2-75">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -152,12 +152,12 @@
                                         <div class="device-num">04</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/jabra/speak-750.png"
+                                                <img loading="lazy" src="./assets/brands/jabra/speak-750.png"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Speak 750</h3>
                                             <p>Hold completely natural conversations via speakerphone as both sides of the conversation are transmitted at the same time, allowing conversations to flow just as they do in person.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="https://www.jabra.in/business/speakerphones/jabra-speak-series/jabra-speak-750">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -168,19 +168,19 @@
                             <div class="device-right">
                                 <div class="device-photos">
                                     <div class="device-photo">
-                                        <img src="./assets/brands/jabra/panacast-50-video-bar.png"
+                                        <img loading="lazy" src="./assets/brands/jabra/panacast-50-video-bar.png"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/jabra/panacast-20.png"
+                                        <img loading="lazy" src="./assets/brands/jabra/panacast-20.png"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/jabra/evolve2-75.webp"
+                                        <img loading="lazy" src="./assets/brands/jabra/evolve2-75.webp"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/jabra/speak-750.png"
+                                        <img loading="lazy" src="./assets/brands/jabra/speak-750.png"
                                             class="img-fluid" alt="">
                                     </div>
 

@@ -60,7 +60,7 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="first-card">
                                             <div class="first-img">
-                                                <img src="./assets/brands/yealink/banner.png"
+                                                <img loading="lazy" src="./assets/brands/yealink/banner.png"
                                                     alt="jabra">
                                             </div>
                                             <div class="second-img">
@@ -82,7 +82,7 @@
                                                     </div>
                                                 </a>
                                             </div>
-                                            <!-- <img src="./assets/home/banner.jpg" alt="" class="second-img"> -->
+                                            <!-- <img loading="lazy" src="./assets/home/banner.jpg" alt="" class="second-img"> -->
 
                                         </div>
                                     </div>
@@ -110,12 +110,12 @@
                                         <div class="device-num">01</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/yealink/smart-whiteboard.jpg"
+                                                <img loading="lazy" src="./assets/brands/yealink/smart-whiteboard.jpg"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Smart Whiteboard-MeetingBoard65</h3>
                                             <p>Yealink MeetingBoard features a 4k camera, clear speaker, full-duplex microphones, and a smart collaboration whiteboard, providing immersive meetings and collaboration anywhere.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="https://www.yealink.com/en/product-detail/microsoft-teams-rooms-meetingboard65" target="_blank">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -124,12 +124,12 @@
                                         <div class="device-num">02</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/yealink/deskvision.png"
+                                                <img loading="lazy" src="./assets/brands/yealink/deskvision.png"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">DeskVision A24</h3>
                                             <p>DeskVision A24 offers a minimalist desk with 4K camera, built-in audio, touch screen, wireless charging, and adjustable brackets for focused collaboration.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="https://www.yealink.com/en/product-detail/microsoft-teams-rooms-deskvision-a24" target="_blank">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -138,12 +138,12 @@
                                         <div class="device-num">03</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/yealink/meeting-bar-a10.png"
+                                                <img loading="lazy" src="./assets/brands/yealink/meeting-bar-a10.png"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">MeetingBar A10</h3>
                                             <p>The MeetingBar A10's compact design suits small spaces and home offices, setting up swiftly. Its 4K camera and 120° field of view ensure clear, detailed capture.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="https://www.yealink.com/en/product-detail/microsoft-teams-rooms-meetingbar-a10" target="_blank">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -154,15 +154,15 @@
                             <div class="device-right">
                                 <div class="device-photos">
                                     <div class="device-photo">
-                                        <img src="./assets/brands/yealink/smart-whiteboard.jpg"
+                                        <img loading="lazy" src="./assets/brands/yealink/smart-whiteboard.jpg"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/yealink/deskvision.png"
+                                        <img loading="lazy" src="./assets/brands/yealink/deskvision.png"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/yealink/meeting-bar-a10.png"
+                                        <img loading="lazy" src="./assets/brands/yealink/meeting-bar-a10.png"
                                             class="img-fluid" alt="">
                                     </div>
                                    

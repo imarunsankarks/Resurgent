@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Home - Resurgent AV Integrators PVT Ltd - AV Solutions</title>
+    <title>Resurgent AV Integrators PVT Ltd - Ultimate AV Integrators in India</title>
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
-    <meta property="og:title" content="Home - Resurgent AV Integrators PVT Ltd - AV Solutions" />
+    <meta property="og:title" content="Resurgent AV Integrators PVT Ltd - Ultimate AV Integrators in India" />
 	<meta property="og:description" content="Audiovisual communication isn't just about technology; it's about people. That's why, as your AV integration partner, Resurgent applies a human-centric approach to ensure that technology feels like an enabler, not a barrier, in effective communication." />
 
     <!-- ---------------style cdn-------------------------- -->
@@ -47,7 +47,7 @@
     </div>
 
     <!-- header will be here  -->
-    <!-- <img src="./assets/home/header.png" alt="" class="z-9 w-100"> -->
+    <!-- <img loading="lazy" src="./assets/home/header.png" alt="" class="z-9 w-100"> -->
     <?php include('header.php') ?>
 
 
@@ -97,7 +97,7 @@
                                             </div>
                                             <div class="blue-grad"></div>
                                             <div class="arrow-down z-9 text-center">
-                                                <img src="./assets/home/arrow.svg" alt="">
+                                                <img loading="lazy" src="./assets/home/arrow.svg" alt="">
                                             </div>
                                         </div>
                                     </div>
@@ -113,7 +113,7 @@
                                                                             class="gradient-text">Resurgent</span>
                                                                     </h2>
                                                                     <div id="video-container">
-                                                                        <img src="./assets/home/teams.webp"
+                                                                        <img loading="lazy" src="./assets/home/teams.webp"
                                                                             alt="Video Thumbnail" id="thumbnail"
                                                                             width="300">
                                                                     </div>
@@ -245,7 +245,7 @@
                                 </div>
                                 <div class="arrow-down z-9 text-center arrow-sector">
                                     <p>Scroll Down</p>
-                                    <img src="./assets/home/arrow2.svg" alt="">
+                                    <img loading="lazy" src="./assets/home/arrow2.svg" alt="">
                                 </div>
                             </div>
                             <div class="row pt-4">
@@ -329,7 +329,7 @@
                                                     <source srcset="./assets/home/corporate.webp" width="526"
                                                         height="370" alt="AV solutions in coporate sector "
                                                         class="lazyload" loading="lazy">
-                                                    <img src="./assets/home/corporate.webp" class="lazyload"
+                                                    <img loading="lazy" src="./assets/home/corporate.webp" class="lazyload"
                                                         loading="lazy" width="526" height="370"
                                                         alt="AV solutions in coporate sector "
                                                         class="img-fluid">
@@ -347,7 +347,7 @@
                                                     alt="AV solutions in education sector " class="lazyload" loading="lazy">
                                                 <source srcset="./assets/home/education.webp" width="526" height="370"
                                                     alt="AV solutions in education sector " class="lazyload" loading="lazy">
-                                                <img src="./assets/home/education.webp" class="lazyload" loading="lazy"
+                                                <img loading="lazy" src="./assets/home/education.webp" class="lazyload" loading="lazy"
                                                     width="526" height="370" alt="AV solutions in education sector "
                                                     class="img-fluid">
                                             </picture>
@@ -359,7 +359,7 @@
                                                     alt="AV solutions in healthcare sector " class="lazyload" loading="lazy">
                                                 <source srcset="./assets/home/healthcare.webp" width="526" height="370"
                                                     alt="AV solutions in healthcare sector " class="lazyload" loading="lazy">
-                                                <img src="./assets/home/healthcare.webp" class="lazyload" loading="lazy"
+                                                <img loading="lazy" src="./assets/home/healthcare.webp" class="lazyload" loading="lazy"
                                                     width="526" height="370" alt="AV solutions in healthcare sector "
                                                     class="img-fluid">
                                             </picture>
@@ -373,7 +373,7 @@
                                                 <source srcset="./assets/home/public.webp" width="526" height="370"
                                                     alt="AV solutions in public sector "
                                                     class="lazyload" loading="lazy">
-                                                <img src="./assets/home/public.webp" class="lazyload" loading="lazy"
+                                                <img loading="lazy" src="./assets/home/public.webp" class="lazyload" loading="lazy"
                                                     width="526" height="370"
                                                     alt="AV solutions in public sector "
                                                     class="img-fluid">
@@ -387,7 +387,7 @@
                                                     alt="AV solutions in retail sector " class="lazyload" loading="lazy">
                                                 <source srcset="./assets/home/retail.webp" width="526" height="370"
                                                     alt="AV solutions in retail sector " class="lazyload" loading="lazy">
-                                                <img src="./assets/home/retail.webp" class="lazyload" loading="lazy"
+                                                <img loading="lazy" src="./assets/home/retail.webp" class="lazyload" loading="lazy"
                                                     width="526" height="370" alt="AV solutions in retail sector "
                                                     class="img-fluid">
                                             </picture>
@@ -400,7 +400,7 @@
                                                     alt="AV solutions in residential sector " class="lazyload" loading="lazy">
                                                 <source srcset="./assets/home/residential.webp" width="526" height="370"
                                                     alt="AV solutions in residential sector " class="lazyload" loading="lazy">
-                                                <img src="./assets/home/residential.webp" class="lazyload"
+                                                <img loading="lazy" src="./assets/home/residential.webp" class="lazyload"
                                                     loading="lazy" width="526" height="370" alt="AV solutions in residential sector "
                                                     class="img-fluid">
                                             </picture>
@@ -456,7 +456,7 @@
                                                 <source srcset="./assets/home/Microsoft-Surface-Hub-2S.webp"
                                                     type="image/jpg" alt="portfolio" width="1242px" height="549px"
                                                     class="lazyload" loading="lazy">
-                                                <img src="./assets/home/Microsoft-Surface-Hub-2S.webp" alt="portfolio"
+                                                <img loading="lazy" src="./assets/home/Microsoft-Surface-Hub-2S.webp" alt="portfolio"
                                                     class="img-fluid lazyload" width="1242px" height="549px"
                                                     loading="lazy">
                                                 <h6>Microsoft Surface Hub 2S</h6>
@@ -475,7 +475,7 @@
                                                 <source srcset="./assets/home/samsung.webp" type="image/jpg"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
                                                     loading="lazy">
-                                                <img src="./assets/home/samsung.webp" alt="portfolio"
+                                                <img loading="lazy" src="./assets/home/samsung.webp" alt="portfolio"
                                                     class="img-fluid lazyload" width="1242px" height="549px"
                                                     loading="lazy">
                                                 <h6>Samsung Flip</h6>
@@ -495,7 +495,7 @@
                                                 <source srcset="./assets/home/teams.webp" type="image/jpg"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
                                                     loading="lazy">
-                                                <img src="./assets/home/teams.webp" alt="portfolio"
+                                                <img loading="lazy" src="./assets/home/teams.webp" alt="portfolio"
                                                     class="img-fluid lazyload" width="1242px" height="549px"
                                                     loading="lazy">
                                                 <h6>Microsoft Teams</h6>
@@ -515,7 +515,7 @@
                                                 <source srcset="./assets/home/jabra.webp" type="image/jpg"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
                                                     loading="lazy">
-                                                <img src="./assets/home/jabra.webp" alt="portfolio"
+                                                <img loading="lazy" src="./assets/home/jabra.webp" alt="portfolio"
                                                     class="img-fluid lazyload" width="1242px" height="549px"
                                                     loading="lazy">
                                                 <h6>Jabra Panacast</h6>
@@ -542,7 +542,7 @@
                                                 <source srcset="./assets/home/pads4.webp" type="image/jpg"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
                                                     loading="lazy">
-                                                <img src="./assets/home/pads4.webp" alt="portfolio"
+                                                <img loading="lazy" src="./assets/home/pads4.webp" alt="portfolio"
                                                     class="img-fluid lazyload" width="1242px" height="549px"
                                                     loading="lazy">
                                                 <h6>PADS4 Digital Signage</h6>
@@ -561,7 +561,7 @@
                                                 <source srcset="./assets/home/creston.webp" type="image/jpg"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
                                                     loading="lazy">
-                                                <img src="./assets/home/creston.webp" alt="portfolio"
+                                                <img loading="lazy" src="./assets/home/creston.webp" alt="portfolio"
                                                     class="img-fluid lazyload" width="1242px" height="549px"
                                                     loading="lazy">
                                                 <h6>Crestron Flex</h6>
@@ -581,7 +581,7 @@
                                                 <source srcset="./assets/home/surge.webp" type="image/jpg"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
                                                     loading="lazy">
-                                                <img src="./assets/home/surge.webp" alt="portfolio"
+                                                <img loading="lazy" src="./assets/home/surge.webp" alt="portfolio"
                                                     class="img-fluid lazyload" width="1242px" height="549px"
                                                     loading="lazy">
                                                 <h6>Surge +</h6>
@@ -599,7 +599,7 @@
                                                     loading="lazy">
                                                 <source srcset="./assets/home/air.webp" type="image/jpg" alt="portfolio"
                                                     width="1242px" height="549px" class="lazyload" loading="lazy">
-                                                <img src="./assets/home/air.webp" alt="portfolio"
+                                                <img loading="lazy" src="./assets/home/air.webp" alt="portfolio"
                                                     class="img-fluid lazyload" width="1242px" height="549px"
                                                     loading="lazy">
                                                 <h6>AirServer</h6>
@@ -636,7 +636,7 @@
                                 <div class="owl-carousel owl-theme owl-process">
                                     <div class="item">
                                         <div class="process-card position-relative">
-                                            <img src="./assets/home/p1.webp" alt="">
+                                            <img loading="lazy" src="./assets/home/p1.webp" alt="">
                                             <span class="number">1</span>
                                             <h3 class="card-heading">Consulting & Design</h3>
                                             <p>Our audio-video consultants first determine the requirements of the
@@ -648,7 +648,7 @@
                                     </div>
                                     <div class="item">
                                         <div class="process-card position-relative">
-                                            <img src="./assets/home/p2.webp" alt="">
+                                            <img loading="lazy" src="./assets/home/p2.webp" alt="">
                                             <span class="number">2</span>
                                             <h3 class="card-heading">Procurement & Logistics</h3>
                                             <p>Our long-standing relationships with the world's leading AV equipment
@@ -658,7 +658,7 @@
                                     </div>
                                     <div class="item">
                                         <div class="process-card position-relative">
-                                            <img src="./assets/home/p3.webp" alt="">
+                                            <img loading="lazy" src="./assets/home/p3.webp" alt="">
                                             <span class="number">3</span>
                                             <h3 class="card-heading">Installation & Integration</h3>
                                             <p>Our technicians will install and integrate diverse components and
@@ -669,7 +669,7 @@
                                     </div>
                                     <div class="item">
                                         <div class="process-card position-relative">
-                                            <img src="./assets/home/p4.webp" alt="">
+                                            <img loading="lazy" src="./assets/home/p4.webp" alt="">
                                             <span class="number">4</span>
                                             <h3 class="card-heading">Product Training</h3>
                                             <p>Our engineers guide users on how to make the best use of the installed
@@ -680,7 +680,7 @@
                                     </div>
                                     <div class="item">
                                         <div class="process-card position-relative">
-                                            <img src="./assets/home/p5.webp" alt="">
+                                            <img loading="lazy" src="./assets/home/p5.webp" alt="">
                                             <span class="number">5</span>
                                             <h3 class="card-heading">Support</h3>
                                             <p>Our relationships with customers continue beyond the project handover.
@@ -817,136 +817,136 @@
                         <div class="col-11 mt-4">
                             <div class="owl-carousel owl-theme owl-client">
                                <div class="item">
-                                <img src="./assets/logos/clients/abb.webp" alt="Abb">
+                                <img loading="lazy" src="./assets/logos/clients/abb.webp" alt="Abb">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/accenture.webp" alt="accenture">
+                                <img loading="lazy" src="./assets/logos/clients/accenture.webp" alt="accenture">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/air.png" alt="air products">
+                                <img loading="lazy" src="./assets/logos/clients/air.png" alt="air products">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/amadeus.png" alt="amadeus">
+                                <img loading="lazy" src="./assets/logos/clients/amadeus.png" alt="amadeus">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/amazon.webp" alt="amazon">
+                                <img loading="lazy" src="./assets/logos/clients/amazon.webp" alt="amazon">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/ariba.png" alt="ariba">
+                                <img loading="lazy" src="./assets/logos/clients/ariba.png" alt="ariba">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/aristocrat.png" alt="aristocrat">
+                                <img loading="lazy" src="./assets/logos/clients/aristocrat.png" alt="aristocrat">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/bdo.png" alt="bdo">
+                                <img loading="lazy" src="./assets/logos/clients/bdo.png" alt="bdo">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/bosh.webp" alt="bosh">
+                                <img loading="lazy" src="./assets/logos/clients/bosh.webp" alt="bosh">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/cat.png" alt="caterpiller">
+                                <img loading="lazy" src="./assets/logos/clients/cat.png" alt="caterpiller">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/continuant.png" alt="continuant">
+                                <img loading="lazy" src="./assets/logos/clients/continuant.png" alt="continuant">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/ericsson.png" alt="ericsson">
+                                <img loading="lazy" src="./assets/logos/clients/ericsson.png" alt="ericsson">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/ferring.png" alt="ferring">
+                                <img loading="lazy" src="./assets/logos/clients/ferring.png" alt="ferring">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/ge.webp" alt="ge">
+                                <img loading="lazy" src="./assets/logos/clients/ge.webp" alt="ge">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/getgo.png" alt="getgo">
+                                <img loading="lazy" src="./assets/logos/clients/getgo.png" alt="getgo">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/hcl.png" alt="hcl">
+                                <img loading="lazy" src="./assets/logos/clients/hcl.png" alt="hcl">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/hexagon.png" alt="hexagon">
+                                <img loading="lazy" src="./assets/logos/clients/hexagon.png" alt="hexagon">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/ibm.png" alt="ibm">
+                                <img loading="lazy" src="./assets/logos/clients/ibm.png" alt="ibm">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/indeed.png" alt="indeed">
+                                <img loading="lazy" src="./assets/logos/clients/indeed.png" alt="indeed">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/ing.png" alt="ing">
+                                <img loading="lazy" src="./assets/logos/clients/ing.png" alt="ing">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/intel.webp" alt="intel">
+                                <img loading="lazy" src="./assets/logos/clients/intel.webp" alt="intel">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/intellicon.png" alt="intellicon">
+                                <img loading="lazy" src="./assets/logos/clients/intellicon.png" alt="intellicon">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/kelloggs.png" alt="kelloggs">
+                                <img loading="lazy" src="./assets/logos/clients/kelloggs.png" alt="kelloggs">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/kpmg.png" alt="kpmg">
+                                <img loading="lazy" src="./assets/logos/clients/kpmg.png" alt="kpmg">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/lennox.png" alt="lennox">
+                                <img loading="lazy" src="./assets/logos/clients/lennox.png" alt="lennox">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/lowes.png" alt="lowes">
+                                <img loading="lazy" src="./assets/logos/clients/lowes.png" alt="lowes">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/maersk.png" alt="maersk">
+                                <img loading="lazy" src="./assets/logos/clients/maersk.png" alt="maersk">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/mars-wrigley.png" alt="mars wrigley">
+                                <img loading="lazy" src="./assets/logos/clients/mars-wrigley.png" alt="mars wrigley">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/mast.png" alt="mast">
+                                <img loading="lazy" src="./assets/logos/clients/mast.png" alt="mast">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/merill.png" alt="merill">
+                                <img loading="lazy" src="./assets/logos/clients/merill.png" alt="merill">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/munich.png" alt="munich">
+                                <img loading="lazy" src="./assets/logos/clients/munich.png" alt="munich">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/nomura.png" alt="nomura">
+                                <img loading="lazy" src="./assets/logos/clients/nomura.png" alt="nomura">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/novo.png" alt="novo">
+                                <img loading="lazy" src="./assets/logos/clients/novo.png" alt="novo">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/opentext.png" alt="opentext">
+                                <img loading="lazy" src="./assets/logos/clients/opentext.png" alt="opentext">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/pearson.png" alt="pearson">
+                                <img loading="lazy" src="./assets/logos/clients/pearson.png" alt="pearson">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/q2.svg" alt="q2">
+                                <img loading="lazy" src="./assets/logos/clients/q2.svg" alt="q2">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/rackspace.png" alt="rackspace">
+                                <img loading="lazy" src="./assets/logos/clients/rackspace.png" alt="rackspace">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/samsung.webp" alt="samsung">
+                                <img loading="lazy" src="./assets/logos/clients/samsung.webp" alt="samsung">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/sap.webp" alt="sap">
+                                <img loading="lazy" src="./assets/logos/clients/sap.webp" alt="sap">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/shell.webp" alt="shell">
+                                <img loading="lazy" src="./assets/logos/clients/shell.webp" alt="shell">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/skf.png" alt="skf">
+                                <img loading="lazy" src="./assets/logos/clients/skf.png" alt="skf">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/thomson.png" alt="thomson">
+                                <img loading="lazy" src="./assets/logos/clients/thomson.png" alt="thomson">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/vs.png" alt="victoria's sectret">
+                                <img loading="lazy" src="./assets/logos/clients/vs.png" alt="victoria's sectret">
                                </div>
                                <div class="item">
-                                <img src="./assets/logos/clients/wpp.png" alt="wpp">
+                                <img loading="lazy" src="./assets/logos/clients/wpp.png" alt="wpp">
                                </div>
                             </div>
                         </div>
@@ -982,10 +982,10 @@
                                                     <h4>Resurgent AV</h4>
                                                     <p class="date">02 Feb 2024</p>
                                                 </div>
-                                                <img src="./assets/home/linkedin-color.png" alt=""
+                                                <img loading="lazy" src="./assets/home/linkedin-color.png" alt=""
                                                     class="linkedin-icon">
                                             </div>
-                                            <img src="./assets/home/corporate.jpg" alt="" class="linkedin-img">
+                                            <img loading="lazy" src="./assets/home/corporate.jpg" alt="" class="linkedin-img">
                                             <p class="linkedin-text">Lorem ipsum dolor sit amet consectetur adipisicing
                                                 elit.....</p>
 
@@ -998,10 +998,10 @@
                                                     <h4>Resurgent AV</h4>
                                                     <p class="date">02 Feb 2024</p>
                                                 </div>
-                                                <img src="./assets/home/linkedin-color.png" alt=""
+                                                <img loading="lazy" src="./assets/home/linkedin-color.png" alt=""
                                                     class="linkedin-icon">
                                             </div>
-                                            <img src="./assets/home/samsung.webp" alt="" class="linkedin-img">
+                                            <img loading="lazy" src="./assets/home/samsung.webp" alt="" class="linkedin-img">
                                             <p class="linkedin-text">Lorem ipsum dolor sit amet consectetur adipisicing
                                                 elit.....</p>
 
@@ -1014,10 +1014,10 @@
                                                     <h4>Resurgent AV</h4>
                                                     <p class="date">02 Feb 2024</p>
                                                 </div>
-                                                <img src="./assets/home/linkedin-color.png" alt=""
+                                                <img loading="lazy" src="./assets/home/linkedin-color.png" alt=""
                                                     class="linkedin-icon">
                                             </div>
-                                            <img src="./assets/home/education.jpg" alt="" class="linkedin-img">
+                                            <img loading="lazy" src="./assets/home/education.jpg" alt="" class="linkedin-img">
                                             <p class="linkedin-text">Lorem ipsum dolor sit amet consectetur adipisicing
                                                 elit.....</p>
 
@@ -1030,10 +1030,10 @@
                                                     <h4>Resurgent AV</h4>
                                                     <p class="date">02 Feb 2024</p>
                                                 </div>
-                                                <img src="./assets/home/linkedin-color.png" alt=""
+                                                <img loading="lazy" src="./assets/home/linkedin-color.png" alt=""
                                                     class="linkedin-icon">
                                             </div>
-                                            <img src="./assets/home/teams.webp" alt="" class="linkedin-img">
+                                            <img loading="lazy" src="./assets/home/teams.webp" alt="" class="linkedin-img">
                                             <p class="linkedin-text">Lorem ipsum dolor sit amet consectetur adipisicing
                                                 elit.....</p>
 

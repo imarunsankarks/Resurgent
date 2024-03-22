@@ -60,7 +60,7 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="first-card">
                                             <div class="first-img">
-                                                <img src="./assets/brands/hp/hp-banner.avif"
+                                                <img loading="lazy" src="./assets/brands/hp/hp-banner.avif"
                                                     alt="jabra">
                                             </div>
                                             <div class="second-img">
@@ -82,7 +82,7 @@
                                                     </div>
                                                 </a>
                                             </div>
-                                            <!-- <img src="./assets/home/banner.jpg" alt="" class="second-img"> -->
+                                            <!-- <img loading="lazy" src="./assets/home/banner.jpg" alt="" class="second-img"> -->
 
                                         </div>
                                     </div>
@@ -110,12 +110,12 @@
                                         <div class="device-num">01</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/hp/poly-G7500.avif"
+                                                <img loading="lazy" src="./assets/brands/hp/poly-G7500.avif"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Poly G7500</h3>
                                             <p>Experience seamless video conferencing with Poly's modular system, featuring DirectorAI smart camera for precise framing, NoiseBlockAI, and Acoustic Fence for clear audio. Manage meetings effortlessly with the Poly TC8 Touch controller included.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="https://www.hp.com/gb-en/poly/solutions/platform/microsoft.html">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -124,12 +124,12 @@
                                         <div class="device-num">02</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/hp/poly-studio-P15.avif"
+                                                <img loading="lazy" src="./assets/brands/hp/poly-studio-P15.avif"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Poly Studio P15</h3>
                                             <p>Unlock premium video conferencing with the Poly USB video bar. Enjoy 4K Ultra HD clarity, 90° FOV, and exceptional audio through the integrated speaker and multimicrophone array. Benefit from Poly's Acoustic Fence and NoiseBlockAI technologies for distraction-free communication.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="https://www.hp.com/gb-en/poly/solutions/platform/microsoft.html">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -138,12 +138,12 @@
                                         <div class="device-num">03</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/hp/poly-studio-P5.avif"
+                                                <img loading="lazy" src="./assets/brands/hp/poly-studio-P5.avif"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Poly Studio P5</h3>
                                             <p>Upgrade your video calls with this USB-A webcam featuring a 1080p FHD camera, 80° DFOV, built-in directional microphone, easy USB connectivity, and automatic low-light compensation.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="https://www.hp.com/gb-en/poly/solutions/platform/microsoft.html">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -152,12 +152,12 @@
                                         <div class="device-num">04</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/hp/poly-studio-E70.avif"
+                                                <img loading="lazy" src="./assets/brands/hp/poly-studio-E70.avif"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Poly Studio E70</h3>
                                             <p>Enhance large meeting rooms with this smart camera featuring dual 20-megapixel 4K sensors, Poly DirectorAI technology, integrated privacy shutter, and Poly Lens management software.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="https://www.hp.com/gb-en/poly/solutions/platform/microsoft.html">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -168,19 +168,19 @@
                             <div class="device-right">
                                 <div class="device-photos">
                                     <div class="device-photo">
-                                        <img src="./assets/brands/hp/poly-G7500.avif"
+                                        <img loading="lazy" src="./assets/brands/hp/poly-G7500.avif"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/hp/poly-studio-P15.avif"
+                                        <img loading="lazy" src="./assets/brands/hp/poly-studio-P15.avif"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/hp/poly-studio-P5.avif"
+                                        <img loading="lazy" src="./assets/brands/hp/poly-studio-P5.avif"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/hp/poly-studio-E70.avif"
+                                        <img loading="lazy" src="./assets/brands/hp/poly-studio-E70.avif"
                                             class="img-fluid" alt="">
                                     </div>
 

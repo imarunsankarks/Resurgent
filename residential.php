@@ -42,7 +42,7 @@
                     <div class="row h-100 align-items-center position-relative g-5">
                         <div class="col-md-6">
                             <div class="sector-banner-left">
-                                <img src="./assets/home/residential.webp" alt="" class="sector-banner-img">
+                                <img loading="lazy" src="./assets/home/residential.webp" alt="" class="sector-banner-img">
                                 <div class="sector-circle-2 wow animate__animated animate__zoomIn animate__three"></div>
                             </div>
                         </div>
@@ -72,7 +72,7 @@
                                         <div class="card-intro">
                                             <div class="d-flex align-items-center flex-md-row flex-column-reverse">
                                                 <h3>Solutions for</h3>
-                                                <img src="./assets/common/sector-intro.png" alt="">
+                                                <img loading="lazy" src="./assets/common/sector-intro.png" alt="">
                                             </div>
                                             <h2>Residences</h2>
                                         </div>
@@ -85,8 +85,8 @@
                                                 <div class="col-md-4">
                                                     <div class="owl-carousel owl-theme owl-sector-img">
                                                         <div class="item">
-                                                            <img src="./assets/solutions/residential/theater.webp"
-                                                                alt="Wireframe" class="img-fluid" loading="lazy"
+                                                            <img loading="lazy" src="./assets/solutions/residential/theater.webp"
+                                                                alt="" class="img-fluid" loading="lazy"
                                                                 width="100%" height="100%">
                                                         </div>
                                                     </div>
@@ -119,8 +119,8 @@
                                                 <div class="col-md-4">
                                                     <div class="owl-carousel owl-theme owl-sector-img">
                                                         <div class="item">
-                                                            <img src="./assets/solutions/residential/light.webp"
-                                                                alt="Wireframe" class="img-fluid" loading="lazy"
+                                                            <img loading="lazy" src="./assets/solutions/residential/light.webp"
+                                                                alt="" class="img-fluid" loading="lazy"
                                                                 width="100%" height="100%">
                                                         </div>
                                                     </div>
@@ -235,21 +235,21 @@
                             <div class="row g-5">
                                 <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__one">
                                     <div class="related-product-card">
-                                        <img src="./assets/products/crestron/crestron-1.webp" alt="" class="w-100">
+                                        <img loading="lazy" src="./assets/products/crestron/crestron-1.webp" alt="" class="w-100">
                                         <p>Crestron Flex</p>
-                                        <a href="microsoft-surface-hub-2s.php"><i class="fas fa-arrow-right"></i></a>
+                                        <a href="crestron-flex.php"><i class="fas fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__two">
                                     <div class="related-product-card">
-                                        <img src="./assets/products/zoom-rooms/zoom-room.webp" alt="" class="w-100">
+                                        <img loading="lazy" src="./assets/products/zoom-rooms/zoom-room.webp" alt="" class="w-100">
                                         <p>Zoom Rooms</p>
-                                        <a href="microsoft-surface-hub-2s.php"><i class="fas fa-arrow-right"></i></a>
+                                        <a href="zoom-rooms.php"><i class="fas fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__three">
                                     <div class="related-product-card">
-                                        <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp" alt=""
+                                        <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp" alt=""
                                             class="w-100">
                                         <p>Microsoft Surface Hub 2S</p>
                                         <a href="microsoft-surface-hub-2s.php"><i class="fas fa-arrow-right"></i></a>

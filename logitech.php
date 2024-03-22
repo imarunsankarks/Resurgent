@@ -60,7 +60,7 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="first-card">
                                             <div class="first-img">
-                                                <img src="./assets/brands/logitech/logitech-banner.webp"
+                                                <img loading="lazy" src="./assets/brands/logitech/logitech-banner.webp"
                                                     alt="jabra">
                                             </div>
                                             <div class="second-img">
@@ -82,7 +82,7 @@
                                                     </div>
                                                 </a>
                                             </div>
-                                            <!-- <img src="./assets/home/banner.jpg" alt="" class="second-img"> -->
+                                            <!-- <img loading="lazy" src="./assets/home/banner.jpg" alt="" class="second-img"> -->
 
                                         </div>
                                     </div>
@@ -110,12 +110,12 @@
                                         <div class="device-num">01</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/logitech/rally-bar.webp"
+                                                <img loading="lazy" src="./assets/brands/logitech/rally-bar.webp"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Rally Bar</h3>
                                             <p>Logitech Rally Bar is the premier video bar for medium to large meeting rooms. Discover remarkably simple, all-in-one video conferencing with built-in AI technology, brilliant optics, and powerful audio.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="https://www.logitech.com/en-in/products/video-conferencing/room-solutions/rallybar.960-001317.html" target="_blank">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -124,12 +124,12 @@
                                         <div class="device-num">02</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/logitech/logitech-tap-ip.webp"
+                                                <img loading="lazy" src="./assets/brands/logitech/logitech-tap-ip.webp"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Logitech Tap IP</h3>
                                             <p>Transform collaboration spaces with Logitech Tap IP and leading video conferencing room solutions. Deliver one-touch join, easy content-sharing, and a seamless meeting experience across all rooms.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="https://www.logitech.com/en-in/products/video-conferencing/room-solutions/tap-ip.952-000085.html" target="_blank">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -138,12 +138,12 @@
                                         <div class="device-num">03</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/logitech/sight.webp"
+                                                <img loading="lazy" src="./assets/brands/logitech/sight.webp"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Logitech Sight</h3>
                                             <p>Make Microsoft Teams meetings more inclusive for remote participants with Sight, which adds clearer audio and the best front-facing view of in-room participants.</p>
-                                            <img src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
+                                            <img loading="lazy" src="./assets/logos/team-logo.png" alt="" class="img-fluid ms-logo">
                                             <a href="https://www.logitech.com/en-in/products/video-conferencing/room-solutions/sight.960-001510.html" target="_blank">View details &nbsp; <i class="far fa-arrow-right"></i></a>
                                         </div>
                                     </div>
@@ -155,15 +155,15 @@
                             <div class="device-right">
                                 <div class="device-photos">
                                     <div class="device-photo">
-                                        <img src="./assets/brands/logitech/rally-bar.webp"
+                                        <img loading="lazy" src="./assets/brands/logitech/rally-bar.webp"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/logitech/logitech-tap-ip.webp"
+                                        <img loading="lazy" src="./assets/brands/logitech/logitech-tap-ip.webp"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/logitech/sight.webp"
+                                        <img loading="lazy" src="./assets/brands/logitech/sight.webp"
                                             class="img-fluid" alt="">
                                     </div>
                                    

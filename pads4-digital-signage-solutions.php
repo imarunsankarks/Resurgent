@@ -43,7 +43,7 @@
                         <div class="row g-5 align-items-center justify-content-center">
                             <div class="col-lg-7">
                                 <div class="banner-product-img">
-                                    <img src="./assets/products/pads4/pads4-digital-signage.png" alt="" class=" wow animate__animated animate__zoomIn">
+                                    <img loading="lazy" src="./assets/products/pads4/pads4-digital-signage.png" alt="" class=" wow animate__animated animate__zoomIn">
                                 </div>
                             </div>
                             <div class="col-lg-5">
@@ -56,7 +56,7 @@
                                         <div class="btn-bg-black"></div>
                                     </div>
                                     <div class="scroll">
-                                        <img src="./assets/common/banner-arrow.svg" alt="">
+                                        <img loading="lazy" src="./assets/common/banner-arrow.svg" alt="">
                                         <p>scroll</p>
                                     </div>
                                 </div>
@@ -76,7 +76,7 @@
                                 <p class="m-0 wow animate__animated animate__fadeInUp">Maximise the reach and results of your digital signage network.</p>
                             </div>
                             <div class="product-feature-img">
-                                <img src="./assets/products/jabra/panacast-features.webp" alt="">
+                                <img loading="lazy" src="./assets/products/jabra/panacast-features.webp" alt="">
                                 <div class="feature-marker-1 active" onmouseover="showFeature(1)">
                                     <span>1</span>
                                     <div class="ripple"></div>
@@ -126,7 +126,7 @@
                             <div class="product-img-container">
                                 <div class="product-imgs">
                                     <div class="product-img">
-                                        <img src="./assets/products/pads4/pads4-f3.png"
+                                        <img loading="lazy" src="./assets/products/pads4/pads4-f3.png"
                                             alt="product image" class="img-fluid">
                                     </div>
                                 </div>
@@ -263,7 +263,7 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/pads4/pads4-f1.png"
+                                                    <img loading="lazy" src="./assets/products/pads4/pads4-f1.png"
                                                         alt="">
                                                     <div class="content">
                                                         <p>Easily create, share and update information on all your screens and make use of hundreds of sources from third parties to integrate real-time data such as weather, travel information, social media or infotainment.</p>
@@ -276,7 +276,7 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/pads4/pads4-f2.png"
+                                                    <img loading="lazy" src="./assets/products/pads4/pads4-f2.png"
                                                         alt="">
                                                     <div class="content">
                                                         <p>With PanaCast 50 you don't have to be in the room to be at the heart of the meeting.</p>
@@ -289,7 +289,7 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/pads4/pads4-f4.png"
+                                                    <img loading="lazy" src="./assets/products/pads4/pads4-f4.png"
                                                         alt="">
                                                     <div class="content">
                                                         <p>Easily create, share and update information on all your screens and make use of hundreds of sources from third parties to integrate real-time data such as weather, travel information, social media or infotainment.</p>

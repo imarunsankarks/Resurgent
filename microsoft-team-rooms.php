@@ -49,10 +49,10 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="second-card ms-team-rooms">
                                             <div class="content z-9">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique
-                                                    hic itaque facere fuga dolorem est voluptas consequatur eos odio
-                                                    saepe accusamus sed doloribus eum, delectus tempore quibusdam iusto
-                                                    accusantium minus?</p>
+                                                    <video autoplay muted loop class="z-9">
+                                                        <source src="./assets/brands/ms-team-rooms/team-rooms.mp4" type="video/mp4">
+                                                    </video>
+                                                    <div class="video-circle"></div>
                                             </div>
                                             <!-- <div class="ms-circle-1"></div> -->
                                             <!-- <div class="ms-circle-2"></div> -->
@@ -65,13 +65,13 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="first-card">
                                             <div class="first-img">
-                                                <img src="./assets/brands/ms-team-rooms/banner.png" alt="">
+                                                <img loading="lazy" src="./assets/brands/ms-team-rooms/banner.png" alt="">
                                             </div>
                                             <div class="second-img">
                                                 <div class="collab-logo">
-                                                    <img src="./assets/logos/microsoft.png" alt="">
+                                                    <img loading="lazy" src="./assets/logos/microsoft.png" alt="">
                                                     <span> | </span>
-                                                    <img src="./assets/common/resurgent.webp" alt="">
+                                                    <img loading="lazy" src="./assets/common/resurgent.webp" alt="">
                                                 </div>
                                                 <div class="heading">
                                                     <h1>Upgrade hybrid meetings with <span>Microsoft Teams Rooms</span>
@@ -94,7 +94,7 @@
                                                     </div>
                                                 </a>
                                             </div>
-                                            <!-- <img src="./assets/home/banner.jpg" alt="" class="second-img"> -->
+                                            <!-- <img loading="lazy" src="./assets/home/banner.jpg" alt="" class="second-img"> -->
 
                                         </div>
                                     </div>
@@ -121,7 +121,7 @@
                                         <div class="device-num">01</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/ms-team-rooms/inclusive-and-interactive-meetings.avif"
+                                                <img loading="lazy" src="./assets/brands/ms-team-rooms/inclusive-and-interactive-meetings.avif"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Inclusive and interactive meetings</h3>
@@ -138,7 +138,7 @@
                                         <div class="device-num">02</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/ms-team-rooms/easy-to-use.avif"
+                                                <img loading="lazy" src="./assets/brands/ms-team-rooms/easy-to-use.avif"
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Easy to use for all</h3>
@@ -155,7 +155,7 @@
                                         <div class="device-num">03</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/ms-team-rooms/fexible.avif" class="img-fluid"
+                                                <img loading="lazy" src="./assets/brands/ms-team-rooms/fexible.avif" class="img-fluid"
                                                     alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Flexible</h3>
@@ -172,7 +172,7 @@
                                         <div class="device-num">04</div>
                                         <div class="content z-9">
                                             <div class="device-img-mob d-md-none">
-                                                <img src="./assets/brands/ms-team-rooms/secured.avif" class="img-fluid"
+                                                <img loading="lazy" src="./assets/brands/ms-team-rooms/secured.avif" class="img-fluid"
                                                     alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Secured and managed</h3>
@@ -191,18 +191,18 @@
                             <div class="device-right">
                                 <div class="device-photos">
                                     <div class="device-photo">
-                                        <img src="./assets/brands/ms-team-rooms/inclusive-and-interactive-meetings.avif"
+                                        <img loading="lazy" src="./assets/brands/ms-team-rooms/inclusive-and-interactive-meetings.avif"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/ms-team-rooms/easy-to-use.avif" class="img-fluid"
+                                        <img loading="lazy" src="./assets/brands/ms-team-rooms/easy-to-use.avif" class="img-fluid"
                                             alt="easy to use">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/ms-team-rooms/fexible.avif" class="img-fluid" alt="">
+                                        <img loading="lazy" src="./assets/brands/ms-team-rooms/fexible.avif" class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
-                                        <img src="./assets/brands/ms-team-rooms/secured.avif" class="img-fluid" alt="">
+                                        <img loading="lazy" src="./assets/brands/ms-team-rooms/secured.avif" class="img-fluid" alt="">
                                     </div>
 
 
@@ -289,8 +289,9 @@
                             <a href="">
                                 <div class="each-brand-solutions cisco">
                                     <div class="content z-9">
-                                        <img src="./assets/logos/partners/cisco.webp" alt="">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus expedita
+                                        <img loading="lazy" src="./assets/logos/partners/cisco.webp" alt="">
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus
+                                            expedita
                                             ipsam?</p>
                                         <a href="">Know more</a>
                                     </div>
@@ -301,8 +302,9 @@
                             <a href="">
                                 <div class="each-brand-solutions jabra">
                                     <div class="content z-9">
-                                        <img src="./assets/logos/partners/jabra.png" alt="Jabra Logo">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus expedita
+                                        <img loading="lazy" src="./assets/logos/partners/jabra.png" alt="Jabra Logo">
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus
+                                            expedita
                                             ipsam?</p>
                                         <a href="">Know more</a>
                                     </div>
@@ -313,8 +315,9 @@
                             <a href="">
                                 <div class="each-brand-solutions cisco">
                                     <div class="content z-9">
-                                        <img src="./assets/logos/partners/logitech-c.webp" alt="">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus expedita
+                                        <img loading="lazy" src="./assets/logos/partners/logitech-c.webp" alt="">
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus
+                                            expedita
                                             ipsam?</p>
                                         <a href="">Know more</a>
                                     </div>
@@ -325,8 +328,9 @@
                             <a href="">
                                 <div class="each-brand-solutions jabra">
                                     <div class="content z-9">
-                                        <img src="./assets/logos/partners/jabra.png" alt="Jabra Logo">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus expedita
+                                        <img loading="lazy" src="./assets/logos/partners/jabra.png" alt="Jabra Logo">
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus
+                                            expedita
                                             ipsam?</p>
                                         <a href="">Know more</a>
                                     </div>
@@ -371,7 +375,7 @@
 
 
     <script>
-        new WOW().init();
+    new WOW().init();
     </script>
 
 
@@ -379,131 +383,131 @@
 
 
     <script>
-        const bannerTimeline = gsap.timeline({
-            scrollTrigger: {
-                trigger: "#main",
-                start: "top top",
-                end: "center center",
-                // pin: '#horizontal-scoll',
-                scrub: true,
-                markers: false,
-                invalidateOnRefresh: true,
-            },
-        });
+    const bannerTimeline = gsap.timeline({
+        scrollTrigger: {
+            trigger: "#main",
+            start: "top top",
+            end: "center center",
+            // pin: '#horizontal-scoll',
+            scrub: true,
+            markers: false,
+            invalidateOnRefresh: true,
+        },
+    });
 
-        if (window.innerWidth > 767) {
-            bannerTimeline.to(
-                ".first-img", {
+    if (window.innerWidth > 767) {
+        bannerTimeline.to(
+            ".first-img", {
                 x: () => -1000,
             },
-                "<"
-            );
-            bannerTimeline.to(
-                ".second-img", {
+            "<"
+        );
+        bannerTimeline.to(
+            ".second-img", {
                 x: () => 1000,
             },
-                "<"
-            );
+            "<"
+        );
 
-        } else {
-            bannerTimeline.to(
-                ".first-img", {
+    } else {
+        bannerTimeline.to(
+            ".first-img", {
                 y: () => -1000,
             },
-                "<"
-            );
-            bannerTimeline.to(
-                ".second-img", {
+            "<"
+        );
+        bannerTimeline.to(
+            ".second-img", {
                 y: () => 1000,
             },
-                "<"
-            );
+            "<"
+        );
+    }
+
+
+    let bannerSection = document.querySelector('.brand-card');
+
+    gsap.to('.brand-card', {
+        x: () => bannerSection.scrollWidth * -1,
+        xPercent: 100,
+        scrollTrigger: {
+            trigger: '.brand-card',
+            start: 'center-=30px center',
+            end: '+=1300px',
+            pin: '#brand-banner',
+            scrub: true,
+            // markers:true,
+            invalidateOnRefresh: true,
         }
+    });
 
 
-        let bannerSection = document.querySelector('.brand-card');
 
-        gsap.to('.brand-card', {
-            x: () => bannerSection.scrollWidth * -1,
-            xPercent: 100,
-            scrollTrigger: {
-                trigger: '.brand-card',
-                start: 'center-=30px center',
-                end: '+=1000px',
-                pin: '#brand-banner',
-                scrub: true,
-                // markers:true,
-                invalidateOnRefresh: true,
-            }
+
+
+
+    // ------------------------------------devices--------------------------------
+    if (window.innerWidth > 768) {
+        gsap.set(".device-photo:not(:first-child)", {
+            x: "0%",
+            opacity: 0
+        });
+
+
+        const deviceAnimation = gsap.to(".device-photo:not(:first-child)", {
+            x: 0,
+            opacity: 1,
+            duration: 1,
+            stagger: 1,
+        });
+
+        ScrollTrigger.create({
+            trigger: ".device-details-wrapper",
+            start: "top top",
+            end: "bottom bottom",
+            pin: ".device-right",
+            animation: deviceAnimation,
+            scrub: true,
+            markers: false,
+            threshold: 1,
         });
 
 
 
+        const images = document.querySelectorAll('.device-details');
 
-
-
-        // ------------------------------------devices--------------------------------
-        if (window.innerWidth > 768) {
-            gsap.set(".device-photo:not(:first-child)", {
+        images.forEach((img, index) => {
+            gsap.set(img, {
                 x: "0%",
-                opacity: 0
+                opacity: 0,
             });
 
-
-            const deviceAnimation = gsap.to(".device-photo:not(:first-child)", {
+            const simulatedAfter = gsap.to(img, {
                 x: 0,
                 opacity: 1,
-                duration: 1,
+                duration: 0.2,
                 stagger: 1,
+                scrollTrigger: {
+                    trigger: img,
+                    start: 'top center',
+                    end: 'bottom center',
+                    //   markers: true,
+                }
             });
 
             ScrollTrigger.create({
-                trigger: ".device-details-wrapper",
-                start: "top top",
-                end: "bottom bottom",
-                pin: ".device-right",
-                animation: deviceAnimation,
-                scrub: true,
-                markers: false,
-                threshold: 1,
+                trigger: img,
+                start: 'top center',
+                end: 'center center',
+                onEnter: () => {
+                    simulatedAfter.play();
+                },
+                onLeaveBack: () => {
+                    simulatedAfter.reverse();
+                },
             });
-
-
-
-            const images = document.querySelectorAll('.device-details');
-
-            images.forEach((img, index) => {
-                gsap.set(img, {
-                    x: "0%",
-                    opacity: 0,
-                });
-
-                const simulatedAfter = gsap.to(img, {
-                    x: 0,
-                    opacity: 1,
-                    duration: 0.2,
-                    stagger: 1,
-                    scrollTrigger: {
-                        trigger: img,
-                        start: 'top center',
-                        end: 'bottom center',
-                        //   markers: true,
-                    }
-                });
-
-                ScrollTrigger.create({
-                    trigger: img,
-                    start: 'top center',
-                    end: 'center center',
-                    onEnter: () => {
-                        simulatedAfter.play();
-                    },
-                    onLeaveBack: () => {
-                        simulatedAfter.reverse();
-                    },
-                });
-            });
-        }
+        });
+    }
     </script>
 
 

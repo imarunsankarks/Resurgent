@@ -53,7 +53,7 @@
                         <div class="col-md-7">
 
                             <div class="banner-shape">
-                                <img src="./assets/common/contact.webp" alt="">
+                                <img loading="lazy" src="./assets/common/contact.webp" alt="">
                                 <div class="circle-1 wow animate__animated animate__zoomIn animate__two"></div>
 
                                 <div class="circle-2 wow animate__animated animate__zoomIn animate__three"></div>
@@ -62,7 +62,7 @@
 
 
                         <div class="scroll">
-                            <img src="./assets/common/banner-arrow.svg" alt="">
+                            <img loading="lazy" src="./assets/common/banner-arrow.svg" alt="">
                             <p>scroll</p>
                         </div>
                     </div>
@@ -140,7 +140,7 @@
                         <div class="each-location active">
                             <h3>Bengaluru</h3>
                             <div class="location-icon">
-                                <img src="./assets/logos/bangalore.svg" alt="">
+                                <img loading="lazy" src="./assets/logos/bangalore.svg" alt="">
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
@@ -160,7 +160,7 @@
                         <div class="each-location">
                             <h3>Chennai</h3>
                             <div class="location-icon">
-                                <img src="./assets/logos/chennai.jpeg" alt="">
+                                <img loading="lazy" src="./assets/logos/chennai.jpeg" alt="">
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
@@ -178,7 +178,7 @@
                         <div class="each-location">
                             <h3>Mumbai</h3>
                             <div class="location-icon">
-                                <img src="./assets/logos/mumbai.jpeg" alt="">
+                                <img loading="lazy" src="./assets/logos/mumbai.jpeg" alt="">
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
@@ -198,7 +198,7 @@
                         <div class="each-location">
                             <h3>Pune</h3>
                             <div class="location-icon">
-                                <img src="./assets/logos/pune.jpeg" alt="">
+                                <img loading="lazy" src="./assets/logos/pune.jpeg" alt="">
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
@@ -218,7 +218,7 @@
                         <div class="each-location">
                             <h3>Ahmedabad</h3>
                             <div class="location-icon">
-                                <img src="./assets/logos/ahmedabad.jpeg" alt="">
+                                <img loading="lazy" src="./assets/logos/ahmedabad.jpeg" alt="">
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
@@ -238,7 +238,7 @@
                         <div class="each-location">
                             <h3>Delhi</h3>
                             <div class="location-icon">
-                                <img src="./assets/logos/delhi.jpeg" alt="">
+                                <img loading="lazy" src="./assets/logos/delhi.jpeg" alt="">
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>
@@ -258,7 +258,7 @@
                         <div class="each-location">
                             <h3>Hyderabad</h3>
                             <div class="location-icon">
-                                <img src="./assets/logos/hyderabad.jpeg" alt="">
+                                <img loading="lazy" src="./assets/logos/hyderabad.jpeg" alt="">
                             </div>
                             <div class="complete-details">
                                 <h3><i class="fas fa-map-marker-alt"></i></h3>

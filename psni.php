@@ -66,10 +66,10 @@
                         </div>
                     </div>
                     <div class="circle-left">
-                        <img src="./assets/psni/banner-circle-1.svg" alt="">
+                        <img loading="lazy" src="./assets/psni/banner-circle-1.svg" alt="">
                     </div>
                     <div class="circle-right">
-                        <img src="./assets/psni/banner-circle-2.svg" alt="">
+                        <img loading="lazy" src="./assets/psni/banner-circle-2.svg" alt="">
                     </div>
                 </section>
             </div>
@@ -98,7 +98,7 @@
                                             </video>
                                             <div class="video-circle"></div>
                                         </div>
-                                        <!-- <img src="./assets/products/surge+/surge-contact.webp" alt="product image"
+                                        <!-- <img loading="lazy" src="./assets/products/surge+/surge-contact.webp" alt="product image"
                                             class="img-fluid"> -->
                                     </div>
                                 </div>

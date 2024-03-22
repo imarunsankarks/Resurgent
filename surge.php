@@ -43,7 +43,7 @@
                         <div class="row g-5 align-items-center justify-content-center">
                             <div class="col-lg-7">
                                 <div class="banner-product-img">
-                                    <img src="./assets/products/ms-surface-hub/hub-2s.webp" alt=""
+                                    <img loading="lazy" src="./assets/products/ms-surface-hub/hub-2s.webp" alt=""
                                         class="wow animate__animated animate__zoomIn">
                                 </div>
                             </div>
@@ -58,7 +58,7 @@
                                         <div class="btn-bg-black"></div>
                                     </div>
                                     <div class="scroll">
-                                        <img src="./assets/common/banner-arrow.svg" alt="">
+                                        <img loading="lazy" src="./assets/common/banner-arrow.svg" alt="">
                                         <p>scroll</p>
                                     </div>
                                 </div>
@@ -78,7 +78,7 @@
                                 <p class="m-0 wow animate__animated animate__fadeInUp">Interact with customers personally, no matter where you are</p>
                             </div>
                             <div class="product-feature-img">
-                                <img src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp" alt="">
+                                <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp" alt="">
                                 <div class="feature-marker-1 active" onmouseover="showFeature(1)">
                                     <span>1</span>
                                     <div class="ripple"></div>
@@ -128,7 +128,7 @@
                             <div class="product-img-container">
                                 <div class="product-imgs">
                                     <div class="product-img">
-                                        <img src="./assets/products/surge+/surge-contact.webp"
+                                        <img loading="lazy" src="./assets/products/surge+/surge-contact.webp"
                                             alt="product image" class="img-fluid">
                                     </div>
                                 </div>
@@ -252,10 +252,10 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/samsung-flip/samsung-flip-f-1.jpg"
+                                                    <img loading="lazy" src="./assets/products/samsung-flip/samsung-flip-f-1.jpg"
                                                         alt="">
                                                     <div class="content">
-                                                        <!-- <img src="./assets/logos/ouline.svg" alt=""> -->
+                                                        <!-- <img loading="lazy" src="./assets/logos/ouline.svg" alt=""> -->
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
                                                         <p>By simply clicking the note layer button, users can enjoy smooth writing anytime, anywhere on any content displayed, without affecting any work behind the original layer.</p>
                                                     </div>
@@ -267,10 +267,10 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/samsung-flip/samsung-flip-f-2.jpg"
+                                                    <img loading="lazy" src="./assets/products/samsung-flip/samsung-flip-f-2.jpg"
                                                         alt="">
                                                     <div class="content">
-                                                        <!-- <img src="./assets/logos/ouline.svg" alt="">
+                                                        <!-- <img loading="lazy" src="./assets/logos/ouline.svg" alt="">
                                                         <h3>Instant meetings on Microsoft Teams</h3> -->
                                                         <p>Samsung Flip provides users with a smooth and familiar pen to
                                                             paper writing experience in a variety of available colors,
@@ -285,7 +285,7 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/samsung-flip/samsung-flip-f-3.avif"
+                                                    <img loading="lazy" src="./assets/products/samsung-flip/samsung-flip-f-3.avif"
                                                         alt="">
                                                     <div class="content">
 

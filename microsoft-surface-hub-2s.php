@@ -42,7 +42,7 @@
                         <div class="row g-5 align-items-center justify-content-center">
                             <div class="col-lg-7">
                                 <div class="banner-product-img">
-                                    <img src="./assets/products/ms-surface-hub/hub-2s.webp" alt=""
+                                    <img loading="lazy" src="./assets/products/ms-surface-hub/hub-2s.webp" alt=""
                                         class="wow animate__animated animate__zoomIn">
                                 </div>
                             </div>
@@ -58,7 +58,7 @@
                                         <div class="btn-bg-black"></div>
                                     </div>
                                     <div class="scroll">
-                                        <img src="./assets/common/banner-arrow.svg" alt="">
+                                        <img loading="lazy" src="./assets/common/banner-arrow.svg" alt="">
                                         <p>scroll</p>
                                     </div>
                                 </div>
@@ -79,7 +79,7 @@
                                 <p class="m-0 wow animate__animated animate__fadeInUp animate__two">Meet, ideate and collaborate with Microsoft's interactive whiteboard and meeting platform</p>
                             </div>
                             <div class="product-feature-img">
-                                <img src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp" alt="">
+                                <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp" alt="">
                                 <div class="feature-marker-1 active" onmouseover="showFeature(1)">
                                     <span>1</span>
                                     <div class="ripple"></div>
@@ -129,7 +129,7 @@
                             <div class="product-img-container">
                                 <div class="product-imgs">
                                     <div class="product-img">
-                                        <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-contact.jpg"
+                                        <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub-contact.jpg"
                                             alt="product image" class="img-fluid">
                                     </div>
                                 </div>
@@ -264,10 +264,10 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp"
+                                                    <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp"
                                                         alt="">
                                                     <div class="content">
-                                                        <!-- <img src="./assets/logos/ouline.svg" alt=""> -->
+                                                        <!-- <img loading="lazy" src="./assets/logos/ouline.svg" alt=""> -->
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
                                                         <p>Collaborate anywhere with Steelcase Roam Mobile Stands and
                                                             the APC Charge Mobile Battery3 for Surface Hub 2S 50"</p>
@@ -280,7 +280,7 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-4.webp"
+                                                    <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub-4.webp"
                                                         alt="">
                                                     <div class="content">
                                                         <p>With microsoft surface hub 2s, you will experience excellent sound quality and connectivity.</p>
@@ -293,7 +293,7 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/ms-surface-hub/microsoft-surface-hub-3.webp"
+                                                    <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub-3.webp"
                                                         alt="">
                                                     <div class="content">
 

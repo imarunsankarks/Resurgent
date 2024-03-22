@@ -43,7 +43,7 @@
                         <div class="row g-5 align-items-center justify-content-center">
                             <div class="col-lg-7">
                                 <div class="banner-product-img">
-                                    <img src="./assets/products/crestron-flex/crestron-flex-banner.webp" alt=""
+                                    <img loading="lazy" src="./assets/products/crestron-flex/crestron-flex-banner.webp" alt=""
                                         class="wow animate__animated animate__zoomIn">
                                 </div>
                             </div>
@@ -58,7 +58,7 @@
                                         <div class="btn-bg-black"></div>
                                     </div>
                                     <div class="scroll">
-                                        <img src="./assets/common/banner-arrow.svg" alt="">
+                                        <img loading="lazy" src="./assets/common/banner-arrow.svg" alt="">
                                         <p>scroll</p>
                                     </div>
                                 </div>
@@ -78,7 +78,7 @@
                                 <p class="m-0 wow animate__animated animate__fadeInUp">Optimise video conferencing, wireless presentations and smart room control with a single device</p>
                             </div>
                             <div class="product-feature-img">
-                                <img src="./assets/products/crestron-flex/crestron-flex-discover.webp" alt="">
+                                <img loading="lazy" src="./assets/products/crestron-flex/crestron-flex-discover.webp" alt="">
                                 <div class="feature-marker-1 active" onmouseover="showFeature(1)">
                                     <span>1</span>
                                     <div class="ripple"></div>
@@ -128,7 +128,7 @@
                             <div class="product-img-container">
                                 <div class="product-imgs">
                                     <div class="product-img">
-                                        <img src="./assets/products/crestron-flex/crestron-contact.webp"
+                                        <img loading="lazy" src="./assets/products/crestron-flex/crestron-contact.webp"
                                             alt="product image" class="img-fluid">
                                     </div>
                                 </div>
@@ -252,7 +252,7 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/crestron-flex/crestron-f1.jpg"
+                                                    <img loading="lazy" src="./assets/products/crestron-flex/crestron-f1.jpg"
                                                         alt="">
                                                     <div class="content">
                                                         <p>Crestron Flex Video Conferencing integrates smart building systems into one simple interface. Dim the lights. Lower the shades. Adjust the temperature. All without leaving your seat.</p>
@@ -265,7 +265,7 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/crestron-flex/crestron-f2.jpg"
+                                                    <img loading="lazy" src="./assets/products/crestron-flex/crestron-f2.jpg"
                                                         alt="">
                                                     <div class="content">
                                                         <p>Walk up to any room, check its availability, and book your meeting. Take your seat and one touch starts your meeting. Lower the shades and change the temperature without ever leaving your chair. Crestron Flex focuses on making technology work so your focus can stay on making your meeting a success.</p>
@@ -278,7 +278,7 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/crestron-flex/crestron-f3.webp"
+                                                    <img loading="lazy" src="./assets/products/crestron-flex/crestron-f3.webp"
                                                         alt="">
                                                     <div class="content">
                                                         <p>With Crestron Flex you can walk into any space, confident you'll have high performance audio/video, easy access to video conferencing, wireless conferencing, and smart room control. </p>

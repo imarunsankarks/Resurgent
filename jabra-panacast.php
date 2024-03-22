@@ -43,7 +43,7 @@
                         <div class="row g-5 align-items-center justify-content-center">
                             <div class="col-lg-7">
                                 <div class="banner-product-img">
-                                    <img src="./assets/products/jabra/jabra-banner.png" alt="" class=" wow animate__animated animate__zoomIn">
+                                    <img loading="lazy" src="./assets/products/jabra/jabra-banner.png" alt="" class=" wow animate__animated animate__zoomIn">
                                 </div>
                             </div>
                             <div class="col-lg-5">
@@ -56,7 +56,7 @@
                                         <div class="btn-bg-black"></div>
                                     </div>
                                     <div class="scroll">
-                                        <img src="./assets/common/banner-arrow.svg" alt="">
+                                        <img loading="lazy" src="./assets/common/banner-arrow.svg" alt="">
                                         <p>scroll</p>
                                     </div>
                                 </div>
@@ -76,7 +76,7 @@
                                 <p class="m-0 wow animate__animated animate__fadeInUp">Engineered to be the first new-normal-ready intelligent Webcam.</p>
                             </div>
                             <div class="product-feature-img">
-                                <img src="./assets/products/jabra/panacast-features.webp" alt="">
+                                <img loading="lazy" src="./assets/products/jabra/panacast-features.webp" alt="">
                                 <div class="feature-marker-1 active" onmouseover="showFeature(1)">
                                     <span>1</span>
                                     <div class="ripple"></div>
@@ -126,7 +126,7 @@
                             <div class="product-img-container">
                                 <div class="product-imgs">
                                     <div class="product-img">
-                                        <img src="./assets/products/jabra/jabra-contact.webp"
+                                        <img loading="lazy" src="./assets/products/jabra/jabra-contact.webp"
                                             alt="product image" class="img-fluid">
                                     </div>
                                 </div>
@@ -262,10 +262,10 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/jabra/jabra-panacast-50-whiteboard.jpg"
+                                                    <img loading="lazy" src="./assets/products/jabra/jabra-panacast-50-whiteboard.jpg"
                                                         alt="">
                                                     <div class="content">
-                                                        <!-- <img src="./assets/logos/ouline.svg" alt=""> -->
+                                                        <!-- <img loading="lazy" src="./assets/logos/ouline.svg" alt=""> -->
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
                                                         <p>Precision voice detection and full duplex technology use intelligent algorithms to automatically identify and remove residual echo and static noise so everyone can get in on the action without accidentally talking all over each other.</p>
                                                     </div>
@@ -277,10 +277,10 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/jabra/jabra-panacast-f-2.webp"
+                                                    <img loading="lazy" src="./assets/products/jabra/jabra-panacast-f-2.webp"
                                                         alt="">
                                                     <div class="content">
-                                                        <!-- <img src="./assets/logos/ouline.svg" alt="">
+                                                        <!-- <img loading="lazy" src="./assets/logos/ouline.svg" alt="">
                                                         <h3>Instant meetings on Microsoft Teams</h3> -->
                                                         <p>With PanaCast 50 you don't have to be in the room to be at the heart of the meeting.</p>
                                                     </div>
@@ -292,7 +292,7 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/jabra/jabra-panacast-f-3.webp"
+                                                    <img loading="lazy" src="./assets/products/jabra/jabra-panacast-f-3.webp"
                                                         alt="">
                                                     <div class="content">
 

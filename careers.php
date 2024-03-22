@@ -54,7 +54,7 @@
                         <div class="col-md-7">
 
                             <div class="banner-shape">
-                                <img src="./assets/common/career.webp" alt="">
+                                <img loading="lazy" src="./assets/common/career.webp" alt="">
                                 <div class="circle-1 wow animate__animated animate__zoomIn animate__two"></div>
 
                                 <div class="circle-2 wow animate__animated animate__zoomIn animate__three"></div>
@@ -63,7 +63,7 @@
 
 
                         <div class="scroll">
-                            <img src="./assets/common/banner-arrow.svg" alt="">
+                            <img loading="lazy" src="./assets/common/banner-arrow.svg" alt="">
                             <p>scroll</p>
                         </div>
                     </div>
@@ -77,31 +77,31 @@
                             <div class="owl-carousel owl-theme owl-career-img">
                                 <div class="item">
                                     <picture>
-                                        <source srcset="./assets/home/p1.webp" type="image/webp" alt="Wireframe"
+                                        <source srcset="./assets/home/p1.webp" type="image/webp" alt=""
                                             width="100%" height="100%" loading="lazy">
-                                        <source srcset="./assets/home/p1.webp" type="image/jpg" alt="Wireframe"
+                                        <source srcset="./assets/home/p1.webp" type="image/jpg" alt=""
                                             width="100%" height="100%" loading="lazy">
-                                        <img src="./assets/home/p1.webp" alt="Wireframe" class="img-fluid"
+                                        <img loading="lazy" src="./assets/home/p1.webp" alt="" class="img-fluid"
                                             loading="lazy" width="100%" height="100%">
                                     </picture>
                                 </div>
                                 <div class="item">
                                     <picture>
-                                        <source srcset="./assets/home/p2.webp" type="image/webp" alt="Wireframe"
+                                        <source srcset="./assets/home/p2.webp" type="image/webp" alt=""
                                             width="100%" height="100%" loading="lazy">
-                                        <source srcset="./assets/home/p2.webp" type="image/jpg" alt="Wireframe"
+                                        <source srcset="./assets/home/p2.webp" type="image/jpg" alt=""
                                             width="100%" height="100%" loading="lazy">
-                                        <img src="./assets/home/p2.webp" alt="Wireframe" class="img-fluid"
+                                        <img loading="lazy" src="./assets/home/p2.webp" alt="" class="img-fluid"
                                             loading="lazy" width="100%" height="100%">
                                     </picture>
                                 </div>
                                 <div class="item">
                                     <picture>
-                                        <source srcset="./assets/home/p3.webp" type="image/webp" alt="Wireframe"
+                                        <source srcset="./assets/home/p3.webp" type="image/webp" alt=""
                                             width="100%" height="100%" loading="lazy">
-                                        <source srcset="./assets/home/p3.webp" type="image/jpg" alt="Wireframe"
+                                        <source srcset="./assets/home/p3.webp" type="image/jpg" alt=""
                                             width="100%" height="100%" loading="lazy">
-                                        <img src="./assets/home/p3.webp" alt="Wireframe" class="img-fluid"
+                                        <img loading="lazy" src="./assets/home/p3.webp" alt="" class="img-fluid"
                                             loading="lazy" width="100%" height="100%">
                                     </picture>
                                 </div>
@@ -137,7 +137,7 @@
                             <div class="col-lg-4  wow animate__animated animate__fadeInUp animate__two">
                                 <div class="other-card">
                                     <div class="value-head">
-                                        <img src="./assets/logos/core-value-1.svg" alt="">
+                                        <img loading="lazy" src="./assets/logos/core-value-1.svg" alt="">
                                         <h3>Respect and Fairness</h3>
                                     </div>
                                     <p>We believe that when people are treated with respect and fairness and entrusted
@@ -147,7 +147,7 @@
                             <div class="col-lg-4  wow animate__animated animate__fadeInUp animate__two">
                                 <div class="other-card">
                                     <div class="value-head">
-                                        <img src="./assets/logos/integrity.svg" alt="">
+                                        <img loading="lazy" src="./assets/logos/integrity.svg" alt="">
                                         <h3>Integrity</h3>
                                     </div>
                                     <p>We are committed to being ethical in our dealings and always being accountable, thereby earning trust and regard.</p>
@@ -156,7 +156,7 @@
                             <div class="col-lg-4  wow animate__animated animate__fadeInUp animate__two">
                                 <div class="other-card">
                                     <div class="value-head">
-                                        <img src="./assets/logos/excellence.svg" alt="">
+                                        <img loading="lazy" src="./assets/logos/excellence.svg" alt="">
                                         <h3>Quest for Excellence</h3>
                                     </div>
                                     <p>We strive to consistently improve quality and performance standards while creating a work culture that's joyful, fulfilling and productive.</p>
@@ -165,7 +165,7 @@
                             <div class="col-lg-4  wow animate__animated animate__fadeInUp animate__two">
                                 <div class="other-card">
                                     <div class="value-head">
-                                        <img src="./assets/logos/member.svg" alt="">
+                                        <img loading="lazy" src="./assets/logos/member.svg" alt="">
                                         <h3>Teamwork</h3>
                                     </div>
                                     <p>By working together towards a common goal while respecting one another's uniqueness, we believe that everyone is able to achieve more.</p>
@@ -174,7 +174,7 @@
                             <div class="col-lg-4  wow animate__animated animate__fadeInUp animate__two">
                                 <div class="other-card">
                                     <div class="value-head">
-                                        <img src="./assets/logos/customer.svg" alt="">
+                                        <img loading="lazy" src="./assets/logos/customer.svg" alt="">
                                         <h3>Total Customer Satisfaction</h3>
                                     </div>
                                     <p>Our goal is to always delight our customers and exceed their expectations, with service that is as superior as our products and solutions.</p>

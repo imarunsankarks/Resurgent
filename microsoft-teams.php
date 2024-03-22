@@ -43,7 +43,7 @@
                         <div class="row g-5 align-items-center justify-content-center">
                             <div class="col-lg-7">
                                 <div class="banner-product-img">
-                                    <img src="./assets/products/ms-teams/ms-teams-banner.avif" alt=""
+                                    <img loading="lazy" src="./assets/products/ms-teams/ms-teams-banner.avif" alt=""
                                         class=" wow animate__animated animate__zoomIn">
                                 </div>
                             </div>
@@ -58,7 +58,7 @@
                                         <div class="btn-bg-black"></div>
                                     </div>
                                     <div class="scroll">
-                                        <img src="./assets/common/banner-arrow.svg" alt="">
+                                        <img loading="lazy" src="./assets/common/banner-arrow.svg" alt="">
                                         <p>scroll</p>
                                     </div>
                                 </div>
@@ -79,7 +79,7 @@
                                     meetings and make collaborations seamless.</p>
                             </div>
                             <div class="product-feature-img">
-                                <img src="./assets/products/ms-teams/ms-teams-discover.avif" alt="">
+                                <img loading="lazy" src="./assets/products/ms-teams/ms-teams-discover.avif" alt="">
                                 <div class="feature-marker-1 active" onmouseover="showFeature(1)">
                                     <span>1</span>
                                     <div class="ripple"></div>
@@ -129,7 +129,7 @@
                             <div class="product-img-container">
                                 <div class="product-imgs">
                                     <div class="product-img">
-                                        <img src="./assets/products/ms-teams/ms-teams-contact.avif" alt="product image"
+                                        <img loading="lazy" src="./assets/products/ms-teams/ms-teams-contact.avif" alt="product image"
                                             class="img-fluid">
                                     </div>
                                 </div>
@@ -255,7 +255,7 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/ms-teams/ms-teams-phone.avif" alt="">
+                                                    <img loading="lazy" src="./assets/products/ms-teams/ms-teams-phone.avif" alt="">
                                                     <div class="content">
                                                         <p>With the help of Copilot, add generative AI capabilities to phone calls to get real-time summarization and insights.</p>
                                                     </div>
@@ -267,7 +267,7 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                             <div class="other-cards">
-                                                    <img src="./assets/products/ms-teams/ms-teams-call.avif" alt="">
+                                                    <img loading="lazy" src="./assets/products/ms-teams/ms-teams-call.avif" alt="">
                                                     <div class="content">
                                                         <p>Connect with your team, customers, and partners with voice
                                                             and video calls from a Teams chat, the Calls app, or the
@@ -281,7 +281,7 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img src="./assets/products/ms-teams/ms-teams-cc.avif"
+                                                    <img loading="lazy" src="./assets/products/ms-teams/ms-teams-cc.avif"
                                                         alt="">
                                                     <div class="content">
 

@@ -53,7 +53,7 @@
                         <div class="col-md-7">
 
                             <div class="banner-shape">
-                                <img src="./assets/common/blog.webp" alt="">
+                                <img loading="lazy" src="./assets/common/blog.webp" alt="">
                                 <div class="circle-1 wow animate__animated animate__zoomIn animate__two"></div>
 
                                 <div class="circle-2 wow animate__animated animate__zoomIn animate__three"></div>
@@ -62,7 +62,7 @@
 
 
                         <div class="scroll">
-                            <img src="./assets/common/banner-arrow.svg" alt="">
+                            <img loading="lazy" src="./assets/common/banner-arrow.svg" alt="">
                             <p>scroll</p>
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                     <div class="row pt-4 pb-5 align-items-center sectors-head g-5 g-md-0">
                         <div class="col-md-6">
                             <div class="filter-btn">
-                                <img src="./assets/logos/filter.svg" alt="">
+                                <img loading="lazy" src="./assets/logos/filter.svg" alt="">
                                 <h2 class="mb-0 section-title">Filters</h2>
                             </div>
                         </div>
@@ -90,7 +90,7 @@
                         <div class="col-lg-4 col-md-6">
                             <div class="blogs-card">
                                 <div class="date">January 03, 2024</div>
-                                <img src="./assets/home/corporate.jpg" alt="">
+                                <img loading="lazy" src="./assets/home/corporate.jpg" alt="">
                                 <div class="content">
                                     <h3>5 Budget Item Suggestions for Enterprise CIOs For 2024</h3>
                                     <p>Azim Premji University was a unique AV project for Resurgent. With 67
@@ -102,7 +102,7 @@
                         <div class="col-lg-4 col-md-6">
                             <div class="blogs-card">
                                 <div class="date">January 03, 2024</div>
-                                <img src="./assets/home/corporate.jpg" alt="">
+                                <img loading="lazy" src="./assets/home/corporate.jpg" alt="">
                                 <div class="content">
                                     <h3>5 Budget Item Suggestions for Enterprise CIOs For 2024</h3>
                                     <p>Azim Premji University was a unique AV project for Resurgent. With 67
@@ -114,7 +114,7 @@
                         <div class="col-lg-4 col-md-6">
                             <div class="blogs-card">
                                 <div class="date">January 03, 2024</div>
-                                <img src="./assets/home/corporate.jpg" alt="">
+                                <img loading="lazy" src="./assets/home/corporate.jpg" alt="">
                                 <div class="content">
                                     <h3>5 Budget Item Suggestions for Enterprise CIOs For 2024</h3>
                                     <p>Azim Premji University was a unique AV project for Resurgent. With 67

@@ -30,7 +30,7 @@
 
 .brand-card .second-card {
   /* background: linear-gradient(125deg, var(--theme-blue), var(--theme-sblue)); */
-  background: url(../assets/products/airserver/airserver-f1.jpg) no-repeat center / cover;
+  /* background: url(../assets/products/airserver/airserver-f1.jpg) no-repeat center / cover; */
   /* background: #d1daff; */
   border-radius: var(--border-rad);
   display: flex;
@@ -106,11 +106,11 @@
   align-items: center;
   font-size: 30px;
   color: var(--theme-blue);
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .brand-card .first-card .second-img .collab-logo img{
-  width: 150px;
+  width: 130px;
   object-fit: contain;
 }
 
@@ -153,8 +153,16 @@
 }
 
 .brand-card .second-card .content {
-  width: 50vw;
+  width: 100%;
+  height: 100%;
   text-align: center;
+  border: 2px solid #ffffff;
+}
+
+.brand-card .second-card .content video{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .brand-card .first-card .content h1 {

@@ -52,7 +52,7 @@
                         <div class="col-md-7">
 
                             <div class="banner-shape">
-                                <img src="./assets/common/success-stories.webp" alt="">
+                                <img loading="lazy" src="./assets/common/success-stories.webp" alt="">
                                 <div class="circle-1 wow animate__animated animate__zoomIn animate__two"></div>
 
                                 <div class="circle-2 wow animate__animated animate__zoomIn animate__three"></div>
@@ -61,7 +61,7 @@
 
 
                         <div class="scroll">
-                            <img src="./assets/common/banner-arrow.svg" alt="">
+                            <img loading="lazy" src="./assets/common/banner-arrow.svg" alt="">
                             <p>scroll</p>
                         </div>
                     </div>
@@ -86,7 +86,7 @@
                     <div class="row align-items-center g-5">
                         <div class="col-6">
                             <div class="stories-card">
-                                <img src="./assets/home/banner.jpg" alt="">
+                                <img loading="lazy" src="./assets/home/banner.jpg" alt="">
                                 <div class="content">
                                     <h3>Azim Premji University</h3>
                                     <p>Azim Premji University was a unique AV project for Resurgent. With 67 classrooms,
@@ -97,7 +97,7 @@
                         </div>
                         <div class="col-6">
                             <div class="stories-card">
-                                <img src="./assets/home/banner.jpg" alt="">
+                                <img loading="lazy" src="./assets/home/banner.jpg" alt="">
                                 <div class="content">
                                     <h3>Azim Premji University</h3>
                                     <p>Azim Premji University was a unique AV project for Resurgent. With 67 classrooms,
