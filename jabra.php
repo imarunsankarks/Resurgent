@@ -68,6 +68,13 @@
                                                     alt="jabra">
                                             </div>
                                             <div class="second-img">
+                                                <div class="collab-logo">
+                                                    <img loading="lazy" src="./assets/logos/microsoft.png" alt="">
+                                                    <span> | </span>
+                                                    <img loading="lazy" src="./assets/logos/partners/jabra.png" alt="">
+                                                    <span> | </span>
+                                                    <img loading="lazy" src="./assets/common/resurgent.webp" alt="">
+                                                </div>
                                                 <div class="heading">
                                                     <h1>Transforming <span>Microsoft Teams Rooms</span> with Jabra's AV
                                                         Enhancement.

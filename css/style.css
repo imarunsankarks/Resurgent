@@ -87,7 +87,7 @@ h6 {
   position: relative;
   z-index: 1;
   color: var(--theme-blue);
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 
 .section-sub-heading {
@@ -104,6 +104,10 @@ h6 {
 .z-9 {
   position: relative;
   z-index: 9;
+}
+
+.object-fit-contain {
+  object-fit: contain !important;
 }
 
 .op-0 {
@@ -1368,6 +1372,7 @@ h6 {
   z-index: 9;
 }
 
+/* ------------------------footer---------------------- */
 footer {
   background:linear-gradient(45deg, var(--theme-blue), var(--theme-sblue));
   color: #ffffff;
@@ -1389,15 +1394,6 @@ footer .lets-talk .text {
   display: flex;
 }
 
-footer .lets-talk .text p {
-  font-size: 75px;
-  font-weight: 800;
-  text-transform: uppercase;
-}
-footer .lets-talk .text p:nth-child(6){
-  min-width: 20px;
-}
-
 .footer-enquire {
   color: #ffffff;
   transition: all 0.4s ease;
@@ -1412,29 +1408,6 @@ footer .lets-talk .text p:nth-child(6){
 
 footer a{
   color: #ffffff;
-}
-.end {
-  display: flex;
-}
-
-.lets-talk .text .text-1:nth-last-child(4) {
-  animation: bounceAndShrink 2s cubic-bezier(0.42, 0, 0.58, 1) infinite;
-  animation-delay: 0s;
-}
-
-.lets-talk .text .text-1:nth-last-child(3) {
-  animation: bounceAndShrink 2s cubic-bezier(0.42, 0, 0.58, 1) infinite;
-  animation-delay: 2s;
-}
-
-.lets-talk .text .text-1:nth-last-child(2) {
-  animation: bounceAndShrink 2s cubic-bezier(0.42, 0, 0.58, 1) infinite;
-  animation-delay: 4s;
-}
-
-.lets-talk .text .text-1:last-child {
-  animation: bounceAndShrink 2s cubic-bezier(0.42, 0, 0.58, 1) infinite;
-  animation-delay: 6s;
 }
 
 footer .connect-with-us p,
@@ -1495,6 +1468,12 @@ footer .footer-menu ul li a:hover {
 
 footer .connect-with-us ul li i {
   font-size: 20px;
+}
+
+footer .lets-talk .text p{
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 80px;
 }
 
 .t-c {

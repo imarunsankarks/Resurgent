@@ -103,17 +103,30 @@
                                 <div class="each-feature-det f-1">
                                     <span>01</span>
                                     <div class="content">
-                                        <h3>Surface Hub Smart Camera</h3>
-                                        <p>The AI-enabled camera's aperture and ultra-wide field of view of 136 degrees,
-                                            renders everything in focus, near and far.</p>
+                                        <h3>Palm rejection</h3>
+                                        <p>Technology can distinguish between intentional touch inputs and unintentional inputs, for a natural writing experience.</p>
                                     </div>
                                 </div>
                                 <div class="each-feature-det f-2">
                                     <span>02</span>
                                     <div class="content">
-                                        <h3>Second feature</h3>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, itaque! Harum,
-                                            molestias.</p>
+                                        <h3>Surface Hub Smart Camera</h3>
+                                        <p>The AI-enabled camera's aperture and ultra-wide field of view of 136 degrees,
+                                            renders everything in focus, near and far.</p>
+                                    </div>
+                                </div>
+                                <div class="each-feature-det f-3">
+                                    <span>03</span>
+                                    <div class="content">
+                                        <h3>Digital inking</h3>
+                                        <p>A natural writing and drawing experience helps you maintain focus and allows for multi-user inputs.</p>
+                                    </div>
+                                </div>
+                                <div class="each-feature-det f-4">
+                                    <span>04</span>
+                                    <div class="content">
+                                        <h3>Mobile battery for 50-inch</h3>
+                                        <p>Unplug and take your ideas anywhere using the APC™ Charge Mobile Battery.</p>
                                     </div>
                                 </div>
                             </div>

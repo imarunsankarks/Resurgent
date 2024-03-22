@@ -417,13 +417,13 @@
     if (window.innerWidth > 768) {
         gsap.set(".device-photo:not(:first-child)", {
             x: "0%",
-            height: 0
+            opacity: 0
         });
 
 
         const deviceAnimation = gsap.to(".device-photo:not(:first-child)", {
             x: 0,
-            height: '100%',
+            opacity: 1,
             duration: 1,
             stagger: 1,
         });

@@ -1,5 +1,6 @@
 #psni-banner{
     height: 100vh;
+    max-height: 750px;
     display: flex;
     align-items: center;
     position: relative;
@@ -20,6 +21,8 @@
     position: absolute;
     right: 0;
     bottom: 0;
+    display: flex;
+    justify-content: flex-end;
 }
 
 .psni-title{

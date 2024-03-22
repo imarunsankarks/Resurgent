@@ -83,8 +83,8 @@
                                     meetings and make collaborations seamless.</p>
                             </div>
                             <div class="product-feature-img">
-                                <img loading="lazy" src="./assets/products/ms-teams/ms-teams-discover.avif" alt="">
-                                <div class="feature-marker-1 active" onmouseover="showFeature(1)">
+                                <img loading="lazy" src="./assets/products/ms-teams/ms-teams-discover.avif" alt="" class="object-fit-contain">
+                                <!-- <div class="feature-marker-1 active" onmouseover="showFeature(1)">
                                     <span>1</span>
                                     <div class="ripple"></div>
                                 </div>
@@ -97,7 +97,7 @@
                                 </div>
                                 <div class="feature-marker-4" onmouseover="showFeature(4)"><span>4</span>
                                     <div class="ripple"></div>
-                                </div>
+                                </div> -->
                                 <div class="each-feature-det f-1">
                                     <span>01</span>
                                     <div class="content">
@@ -260,7 +260,7 @@
                                             <div class="row h-100">
                                                 <div class="other-cards">
                                                     <img loading="lazy"
-                                                        src="./assets/products/ms-teams/ms-teams-phone.avif" alt="">
+                                                        src="./assets/products/ms-teams/ms-teams-phone.avif" alt="" class="object-fit-contain">
                                                     <div class="content">
                                                         <p>With the help of Copilot, add generative AI capabilities to
                                                             phone calls to get real-time summarization and insights.</p>
@@ -274,7 +274,7 @@
                                             <div class="row h-100">
                                                 <div class="other-cards">
                                                     <img loading="lazy"
-                                                        src="./assets/products/ms-teams/ms-teams-call.avif" alt="">
+                                                        src="./assets/products/ms-teams/ms-teams-call.avif" alt="" class="object-fit-contain">
                                                     <div class="content">
                                                         <p>Connect with your team, customers, and partners with voice
                                                             and video calls from a Teams chat, the Calls app, or the
@@ -289,7 +289,7 @@
                                             <div class="row h-100">
                                                 <div class="other-cards">
                                                     <img loading="lazy"
-                                                        src="./assets/products/ms-teams/ms-teams-cc.avif" alt="">
+                                                        src="./assets/products/ms-teams/ms-teams-cc.avif" alt="" class="object-fit-contain">
                                                     <div class="content">
 
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->

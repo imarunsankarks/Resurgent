@@ -61,7 +61,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-5">
+                            <div class="col-lg-5 d-none d-lg-block">
 
                             </div>
                         </div>
@@ -70,7 +70,7 @@
                         <img loading="lazy" src="./assets/psni/banner-circle-1.svg" alt="">
                     </div>
                     <div class="circle-right">
-                        <img loading="lazy" src="./assets/psni/banner-circle-2.svg" alt="">
+                        <img loading="lazy" src="./assets/psni/banner-circle-3.png" alt="">
                     </div>
                 </section>
             </div>

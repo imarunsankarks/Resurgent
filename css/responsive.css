@@ -36,6 +36,15 @@
   .sector-banner-content h1 {
     font-size: 55px;
   }
+  .psni-title {
+    font-size: 55px;
+  }
+  .circle-right img {
+    width: 87%;
+  }
+  #psni-banner {
+    max-height: 650px;
+  }
 }
 @media screen and (min-width: 1200px) {
   .contact-form-content {
@@ -131,6 +140,15 @@
   }
   .product-banner-title {
     font-size: 50px;
+  }
+  .circle-right img {
+    width: 80%;
+  }
+  .psni-title {
+    font-size: 47px;
+  }
+  #psni-banner {
+    max-height: 650px;
   }
 }
 
@@ -380,6 +398,7 @@
     background-color: transparent;
     border: 0;
     justify-content: center;
+    z-index: 999;
   }
   #header nav .toggle .bar1 {
     width: 20px;
@@ -468,6 +487,28 @@
   }
   .product-banner-title {
     font-size: 50px;
+  }
+  .circle-right {
+    position: unset;
+  }
+  .psni-banner-innercontent {
+    margin-left: unset;
+  }
+  .circle-right img {
+    width: max(50vw, 170px);
+  }
+  /* .circle-left {
+    display: none;
+  } */
+  #psni-banner {
+    margin-top: 80px;
+    align-items: unset;
+    flex-direction: column;
+    justify-content: flex-end;
+    max-height: 750px;
+  }
+  .psni-title {
+    font-size: 47px;
   }
 }
 
@@ -815,16 +856,11 @@
   .brand-card {
     margin: 0px 0;
   }
-  .brand-card .second-card .content {
-    width: 90vw;
-  }
+  
   .brand-card .second-card .content p {
     font-size: 16px;
   }
-  .brand-card .second-card {
-    background: linear-gradient(125deg, var(--theme-blue), var(--theme-sblue));
-    border-radius: 0;
-  }
+ 
   .device-right {
     display: none;
   }
@@ -905,6 +941,18 @@
     align-items: flex-start;
     margin: 0;
   }
+  .video-circle {
+    display: none;
+}
+.video-psni video {
+  outline: 0px solid #ffffff;
+  width: 100%;
+  height: 100%;
+}
+.video-psni {
+  height: 100%;
+
+}
 }
 
 @media screen and (max-width: 766px) and (min-width: 567px) {
@@ -918,6 +966,12 @@
   }
   .cta {
     padding: 55px 48px;
+  }
+  .circle-right img {
+    width: max(60%, 170px);
+  }
+  .circle-left img {
+    width: 80%;
   }
 }
 @media screen and (min-width: 566px) {
@@ -1097,5 +1151,18 @@
     padding-top: 100px;
     box-shadow: -4px 12px 18px -8px #0000006b;
     overflow: scroll;
+  }
+  .circle-right img {
+    width: max(65%, 170px);
+  }
+  .circle-left img {
+    width: 33%;
+  }
+  .psni-title {
+    font-size: 40px;
+  }
+  #psni-banner {
+    margin-top:100px ;
+    height: auto;
   }
 }

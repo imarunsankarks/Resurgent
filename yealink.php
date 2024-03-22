@@ -68,6 +68,13 @@
                                                     alt="jabra">
                                             </div>
                                             <div class="second-img">
+                                            <div class="collab-logo">
+                                                    <img loading="lazy" src="./assets/logos/microsoft.png" alt="">
+                                                    <span> | </span>
+                                                    <img loading="lazy" src="./assets/logos/partners/yealink.webp" alt="">
+                                                    <span> | </span>
+                                                    <img loading="lazy" src="./assets/common/resurgent.webp" alt="">
+                                                </div>
                                                 <div class="heading">
                                                     <h1>Enhance your <span>Microsoft Teams Rooms</span> with Yealink
                                                         devices.

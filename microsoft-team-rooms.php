@@ -51,7 +51,7 @@
                                         <div class="second-card ms-team-rooms">
                                             <div class="content z-9">
                                                 <video autoplay muted loop class="z-9">
-                                                    <source src="./assets/brands/ms-team-rooms/team-rooms.mp4"
+                                                    <source src="./assets/brands/ms-team-rooms/team-rooms.m4v"
                                                         type="video/mp4">
                                                 </video>
                                                 <div class="video-circle"></div>

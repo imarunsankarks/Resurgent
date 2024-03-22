@@ -44,7 +44,7 @@
                         <div class="row g-5 align-items-center justify-content-center">
                             <div class="col-lg-7">
                                 <div class="banner-product-img">
-                                    <img loading="lazy" src="./assets/products/ms-surface-hub/hub-2s.webp" alt=""
+                                    <img loading="lazy" src="./assets/products/surge+/banner.png" alt=""
                                         class="wow animate__animated animate__zoomIn">
                                 </div>
                             </div>
@@ -83,9 +83,9 @@
                                     personally, no matter where you are</p>
                             </div>
                             <div class="product-feature-img">
-                                <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp"
-                                    alt="">
-                                <div class="feature-marker-1 active" onmouseover="showFeature(1)">
+                                <img loading="lazy" src="./assets/products/surge+/banner-2.png"
+                                    alt="" class="object-fit-contain">
+                                <!-- <div class="feature-marker-1 active" onmouseover="showFeature(1)">
                                     <span>1</span>
                                     <div class="ripple"></div>
                                 </div>
@@ -98,13 +98,12 @@
                                 </div>
                                 <div class="feature-marker-4" onmouseover="showFeature(4)"><span>4</span>
                                     <div class="ripple"></div>
-                                </div>
+                                </div> -->
                                 <div class="each-feature-det f-1">
-                                    <span>01</span>
+                                    <!-- <span>01</span> -->
                                     <div class="content">
-                                        <h3>Surface Hub Smart Camera</h3>
-                                        <p>The AI-enabled camera's aperture and ultra-wide field of view of 136 degrees,
-                                            renders everything in focus, near and far.</p>
+                                        <h3>Patented Jump Screen Technology</h3>
+                                        <p>Move with your customer proactively from screen to screen.</p>
                                     </div>
                                 </div>
                                 <div class="each-feature-det f-2">
@@ -266,14 +265,12 @@
                                             <div class="row h-100">
                                                 <div class="other-cards">
                                                     <img loading="lazy"
-                                                        src="./assets/products/samsung-flip/samsung-flip-f-1.jpg"
-                                                        alt="">
+                                                        src="./assets/products/surge+/surge-f1.png"
+                                                        alt="" class="object-fit-contain">
                                                     <div class="content">
                                                         <!-- <img loading="lazy" src="./assets/logos/ouline.svg" alt=""> -->
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>By simply clicking the note layer button, users can enjoy
-                                                            smooth writing anytime, anywhere on any content displayed,
-                                                            without affecting any work behind the original layer.</p>
+                                                        <p>Efficiently manage calls and upload digital content for seamless operations and enhanced productivity.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -284,15 +281,12 @@
                                             <div class="row h-100">
                                                 <div class="other-cards">
                                                     <img loading="lazy"
-                                                        src="./assets/products/samsung-flip/samsung-flip-f-2.jpg"
-                                                        alt="">
+                                                        src="./assets/products/surge+/surge-f2.png"
+                                                        alt="" class="object-fit-contain">
                                                     <div class="content">
                                                         <!-- <img loading="lazy" src="./assets/logos/ouline.svg" alt="">
                                                         <h3>Instant meetings on Microsoft Teams</h3> -->
-                                                        <p>Samsung Flip provides users with a smooth and familiar pen to
-                                                            paper writing experience in a variety of available colors,
-                                                            styles and widths. Up to 4 people can write simultaneously,
-                                                            using any object as a writing tool.</p>
+                                                        <p>Translate speech to text in over 60 languages for seamless communication and understanding across diverse linguistic backgrounds.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -303,15 +297,12 @@
                                             <div class="row h-100">
                                                 <div class="other-cards">
                                                     <img loading="lazy"
-                                                        src="./assets/products/samsung-flip/samsung-flip-f-3.avif"
-                                                        alt="">
+                                                        src="./assets/products/surge+/surge-f3.png"
+                                                        alt="" class="object-fit-contain">
                                                     <div class="content">
 
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>Samsung Flip can be used for a wide range of business
-                                                            applications, providing embedded versatile templates. You
-                                                            can use the Flip as a calendar, scheduler, note or checklist
-                                                            board.</p>
+                                                        <p>Integrate web-relay for remote access, enabling control over doors and elevator floors from a distance for streamlined operations.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -528,8 +519,8 @@
 
     bannerTimeline.to(
         ".banner-product-img img", {
-            y: () => 300,
-            scale: 2,
+            y: () => -100,
+            scale: 1.1,
         },
         "<"
     );

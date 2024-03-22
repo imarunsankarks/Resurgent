@@ -111,6 +111,7 @@
 
 .brand-card .first-card .second-img .collab-logo img{
   width: 130px;
+  height: 48px;
   object-fit: contain;
 }
 

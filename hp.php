@@ -67,6 +67,13 @@
                                                 <img loading="lazy" src="./assets/brands/hp/hp-banner.avif" alt="jabra">
                                             </div>
                                             <div class="second-img">
+                                            <div class="collab-logo">
+                                                    <img loading="lazy" src="./assets/logos/microsoft.png" alt="">
+                                                    <span> | </span>
+                                                    <img loading="lazy" src="./assets/logos/hp.png" alt="">
+                                                    <span> | </span>
+                                                    <img loading="lazy" src="./assets/common/resurgent.webp" alt="">
+                                                </div>
                                                 <div class="heading">
                                                     <h1>Drive your conversations with <span>hp</span> and <span>
                                                             Microsoft Teams</span>

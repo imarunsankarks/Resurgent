@@ -68,6 +68,13 @@
                                                     alt="jabra">
                                             </div>
                                             <div class="second-img">
+                                                <div class="collab-logo">
+                                                    <img loading="lazy" src="./assets/logos/microsoft.png" alt="">
+                                                    <span> | </span>
+                                                    <img loading="lazy" src="./assets/logos/partners/logitech-c.webp" alt="">
+                                                    <span> | </span>
+                                                    <img loading="lazy" src="./assets/common/resurgent.webp" alt="">
+                                                </div>
                                                 <div class="heading">
                                                     <h1>Maximize business potential with <span>Logitech's</span>
                                                         workspace solutions

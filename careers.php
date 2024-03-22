@@ -77,35 +77,26 @@
                         <div class="col-lg-6 order-2 order-lg-1">
                             <div class="owl-carousel owl-theme owl-career-img">
                                 <div class="item">
-                                    <picture>
-                                        <source srcset="./assets/home/p1.webp" type="image/webp" alt="" width="100%"
-                                            height="100%" loading="lazy">
-                                        <source srcset="./assets/home/p1.webp" type="image/jpg" alt="" width="100%"
-                                            height="100%" loading="lazy">
-                                        <img loading="lazy" src="./assets/home/p1.webp" alt="" class="img-fluid"
-                                            loading="lazy" width="100%" height="100%">
-                                    </picture>
+                                    <img loading="lazy" src="./assets/common/career-1.webp" alt="" class="img-fluid"
+                                        loading="lazy" width="100%" height="100%">
                                 </div>
                                 <div class="item">
-                                    <picture>
-                                        <source srcset="./assets/home/p2.webp" type="image/webp" alt="" width="100%"
-                                            height="100%" loading="lazy">
-                                        <source srcset="./assets/home/p2.webp" type="image/jpg" alt="" width="100%"
-                                            height="100%" loading="lazy">
-                                        <img loading="lazy" src="./assets/home/p2.webp" alt="" class="img-fluid"
-                                            loading="lazy" width="100%" height="100%">
-                                    </picture>
+                                    <img loading="lazy" src="./assets/common/career-3.webp" alt="" class="img-fluid"
+                                        loading="lazy" width="100%" height="100%">
                                 </div>
                                 <div class="item">
-                                    <picture>
-                                        <source srcset="./assets/home/p3.webp" type="image/webp" alt="" width="100%"
-                                            height="100%" loading="lazy">
-                                        <source srcset="./assets/home/p3.webp" type="image/jpg" alt="" width="100%"
-                                            height="100%" loading="lazy">
-                                        <img loading="lazy" src="./assets/home/p3.webp" alt="" class="img-fluid"
-                                            loading="lazy" width="100%" height="100%">
-                                    </picture>
+                                    <img loading="lazy" src="./assets/common/career-4.webp" alt="" class="img-fluid"
+                                        loading="lazy" width="100%" height="100%">
                                 </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/common/career-5.webp" alt="" class="img-fluid"
+                                        loading="lazy" width="100%" height="100%">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/common/career-6.webp" alt="" class="img-fluid"
+                                        loading="lazy" width="100%" height="100%">
+                                </div>
+                            
                             </div>
                         </div>
                         <div class="col-lg-6 order-1 order-lg-2">

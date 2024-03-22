@@ -50,10 +50,7 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="second-card ms-team-rooms">
                                             <div class="content">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique
-                                                    hic itaque facere fuga dolorem est voluptas consequatur eos odio
-                                                    saepe accusamus sed doloribus eum, delectus tempore quibusdam iusto
-                                                    accusantium minus?</p>
+                                            <video class=""  disableremoteplayback="" webkit-playsinline="" playsinline="" src="blob:https://www.zoom.com/2e4f9b61-80e4-4636-87cc-c2a17f475e30"></video>
                                             </div>
                                             <!-- <div class="ms-circle-1"></div> -->
                                             <!-- <div class="ms-circle-2"></div> -->
@@ -70,6 +67,11 @@
                                                     alt="">
                                             </div>
                                             <div class="second-img">
+                                                <div class="collab-logo">
+                                                    <img loading="lazy" src="./assets/logos/zoom.png" alt="">
+                                                    <span> | </span>
+                                                    <img loading="lazy" src="./assets/common/resurgent.webp" alt="">
+                                                </div>
                                                 <div class="heading">
                                                     <h1>Elevate your meetings with enhanced<span> Zoom Rooms</span>
                                                         features

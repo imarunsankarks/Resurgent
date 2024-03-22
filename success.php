@@ -87,7 +87,7 @@
                     <div class="row align-items-center g-5">
                         <div class="col-6">
                             <div class="stories-card">
-                                <img loading="lazy" src="./assets/home/banner.jpg" alt="">
+                                <img loading="lazy" src="./assets/home/banner.webp" alt="">
                                 <div class="content">
                                     <h3>Azim Premji University</h3>
                                     <p>Azim Premji University was a unique AV project for Resurgent. With 67 classrooms,
@@ -98,7 +98,7 @@
                         </div>
                         <div class="col-6">
                             <div class="stories-card">
-                                <img loading="lazy" src="./assets/home/banner.jpg" alt="">
+                                <img loading="lazy" src="./assets/home/banner.webp" alt="">
                                 <div class="content">
                                     <h3>Azim Premji University</h3>
                                     <p>Azim Premji University was a unique AV project for Resurgent. With 67 classrooms,
