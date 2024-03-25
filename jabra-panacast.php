@@ -84,34 +84,50 @@
                             </div>
                             <div class="product-feature-img">
                                 <img loading="lazy" src="./assets/products/jabra/panacast-features.webp" alt="">
-                                <div class="feature-marker-1 active" onmouseover="showFeature(1)">
+                                <div class="feature-marker-1 fmj active" onmouseover="showFeature(1)">
                                     <span>1</span>
                                     <div class="ripple"></div>
                                 </div>
-                                <div class="feature-marker-2" onmouseover="showFeature(2)">
+                                <div class="feature-marker-2 fmj" onmouseover="showFeature(2)">
                                     <span>2</span>
                                     <div class="ripple"></div>
                                 </div>
-                                <div class="feature-marker-3" onmouseover="showFeature(3)"><span>3</span>
+                                <div class="feature-marker-3 fmj" onmouseover="showFeature(3)"><span>3</span>
                                     <div class="ripple"></div>
                                 </div>
-                                <div class="feature-marker-4" onmouseover="showFeature(4)"><span>4</span>
+                                <div class="feature-marker-4 fmj" onmouseover="showFeature(4)"><span>4</span>
                                     <div class="ripple"></div>
                                 </div>
                                 <div class="each-feature-det f-1">
                                     <span>01</span>
                                     <div class="content">
-                                        <h3>Surface Hub Smart Camera</h3>
-                                        <p>The AI-enabled camera's aperture and ultra-wide field of view of 136 degrees,
-                                            renders everything in focus, near and far.</p>
+                                        <h3>Optional Remote Control</h3>
+                                        <p>Control meetings without leaving your seat, with a handy optional Remote
+                                            Control accessory.</p>
                                     </div>
                                 </div>
                                 <div class="each-feature-det f-2">
                                     <span>02</span>
                                     <div class="content">
-                                        <h3>Second feature</h3>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, itaque! Harum,
-                                            molestias.</p>
+                                        <h3>Sleek, minimalist design</h3>
+                                        <p>Designed to fit perfectly in any space, with a welcoming fabric finish that
+                                            enhances both sound and aesthetic.</p>
+                                    </div>
+                                </div>
+                                <div class="each-feature-det f-3">
+                                    <span>03</span>
+                                    <div class="content">
+                                        <h3>Whiteboard streaming</h3>
+                                        <p>Simultaneous live video streams enable seamless content sharing built in,
+                                            with our intuitive whiteboard streaming feature.</p>
+                                    </div>
+                                </div>
+                                <div class="each-feature-det f-4">
+                                    <span>04</span>
+                                    <div class="content">
+                                        <h3>High-precision multi-camera array</h3>
+                                        <p>Three 13-megapixel cameras and our patented real-time video stitching
+                                            technology deliver a full 180° view with no latency.</p>
                                     </div>
                                 </div>
                             </div>
@@ -522,23 +538,25 @@
     </script>
     <!-- --------------------------banner-animation------------------------- -->
     <script>
-    const bannerTimeline = gsap.timeline({
-        scrollTrigger: {
-            trigger: "#banner-trigger",
-            start: "top top",
-            end: "center center",
-            scrub: true,
-            markers: false,
-            invalidateOnRefresh: true,
-        },
-    });
-    bannerTimeline.to(
-        ".banner-product-img img", {
-            x: () => 200,
-            scale: 1.5,
-        },
-        "<"
-    );
+    if (window.innerWidth > 767) {
+        const bannerTimeline = gsap.timeline({
+            scrollTrigger: {
+                trigger: "#banner-trigger",
+                start: "top top",
+                end: "center center",
+                scrub: true,
+                markers: false,
+                invalidateOnRefresh: true,
+            },
+        });
+        bannerTimeline.to(
+            ".banner-product-img img", {
+                x: () => 200,
+                scale: 1.5,
+            },
+            "<"
+        );
+    }
     </script>
 
 </body>

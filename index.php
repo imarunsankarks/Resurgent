@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -8,7 +8,8 @@
     <title>Resurgent AV Integrators PVT Ltd - Ultimate AV Integrators in India</title>
     <link rel="icon" type="image/png" href="./assets/common/resurgent-logo.webp">
     <meta property="og:title" content="Resurgent AV Integrators PVT Ltd - Ultimate AV Integrators in India" />
-	<meta property="og:description" content="Audiovisual communication isn't just about technology; it's about people. That's why, as your AV integration partner, Resurgent applies a human-centric approach to ensure that technology feels like an enabler, not a barrier, in effective communication." />
+    <meta property="og:description"
+        content="Audiovisual communication isn't just about technology; it's about people. That's why, as your AV integration partner, Resurgent applies a human-centric approach to ensure that technology feels like an enabler, not a barrier, in effective communication." />
 
     <!-- ---------------style cdn-------------------------- -->
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
@@ -29,7 +30,7 @@
 
 <body>
 
-    <div class="preloader d-none">
+    <div class="preloader">
         <p class="preloader-counter">0</p>
         <div class="preloader-overlay">
             <div class="bar"></div>
@@ -55,167 +56,154 @@
         <main>
 
             <!-- ------------------------------------------banner----------------------------------- -->
+
+
             <section>
-                <div class="container-fluid p-0">
-                    <div class="row">
-                        <div class="gallery">
-                            <div class="left">
-                                <div class="detailsWrapper">
+                <div class="banner z-9">
+                    <div class="container-fluid p-0">
+                        <div class="row text-center justify-content-center">
+                            <div class="col-lg-12">
+                                <div class="owl-carousel fourth-carousel owl-theme">
+                                    <div class="item bg-1">
+                                        <p class="top-head">Integrated</p>
+                                        <p class="main-title mb-0">Audio Visual Solutions</p>
+                                        <p class="sub-head">for seamless communication</p>
+                                    </div>
+                                    <div class="item bg-2">
+                                        <p class="top-head">Make every</p>
+                                        <p class="main-title mb-0">Customer Interaction</p>
+                                        <p class="sub-head">effective</p>
+                                    </div>
+                                    <div class="item bg-3">
+                                        <p class="top-head">Increase</p>
+                                        <p class="main-title mb-0">Productivity & Efficiency</p>
+                                        <p class="sub-head">in a hybrid workplace</p>
+                                    </div>
                                 </div>
+
+
+
+
                             </div>
-                            <div class="right">
-                                <div class="photos">
-                                    <div class="photo">
-                                        <div class="banner z-9">
-                                            <div class="container-fluid p-0">
-                                                <div class="row text-center justify-content-center">
-                                                    <div class="col-lg-12">
-                                                        <div class="owl-carousel fourth-carousel owl-theme">
-                                                            <div class="item bg-1">
-                                                                <p class="top-head">Integrated</p>
-                                                                <p class="main-title mb-0">Audio Visual Solutions</p>
-                                                                <p class="sub-head">for seamless communication</p>
-                                                            </div>
-                                                            <div class="item bg-2">
-                                                                <p class="top-head">Make every</p>
-                                                                <p class="main-title mb-0">Customer Interaction</p>
-                                                                <p class="sub-head">effective</p>
-                                                            </div>
-                                                            <div class="item bg-3">
-                                                                <p class="top-head">Increase</p>
-                                                                <p class="main-title mb-0">Productivity & Efficiency</p>
-                                                                <p class="sub-head">in a hybrid workplace</p>
-                                                            </div>
-                                                        </div>
+                        </div>
 
+                    </div>
+                    <div class="blue-grad"></div>
+                    <div class="arrow-down z-9 text-center">
+                        <img loading="lazy" src="./assets/home/arrow.svg" alt="">
+                    </div>
+                </div>
+            </section>
 
-
-
-                                                    </div>
+            <section>
+                <div class="banner-text sec-padding">
+                    <div class="container-fluid p-0">
+                        <div class="row align-items-center justify-content-center">
+                            <div class="col-md-12">
+                                <div class="counter-main-box">
+                                    <div class="container-fluid">
+                                        <div class="text-center">
+                                            <div class="video-content">
+                                                <h2 class="counter-t1">We are <span
+                                                        class="gradient-text">Resurgent</span>
+                                                </h2>
+                                                <div id="video-container">
+                                                    <img loading="lazy" src="./assets/home/teams.webp"
+                                                        alt="Video Thumbnail" id="thumbnail" width="300">
                                                 </div>
 
                                             </div>
-                                            <div class="blue-grad"></div>
-                                            <div class="arrow-down z-9 text-center">
-                                                <img loading="lazy" src="./assets/home/arrow.svg" alt="">
-                                            </div>
+
+
+                                            <h2 class="counter-t2">Ultimate AV integrators in
+                                                India.</h2>
+
                                         </div>
-                                    </div>
-                                    <div class="photo banner-text">
-                                        <div class="container-fluid p-0">
-                                            <div class="row align-items-center justify-content-center">
-                                                <div class="col-md-12">
-                                                    <div class="counter-main-box">
-                                                        <div class="container-fluid">
-                                                            <div class="text-center">
-                                                                <div class="video-content">
-                                                                    <h2 class="counter-t1">We are <span
-                                                                            class="gradient-text">Resurgent</span>
-                                                                    </h2>
-                                                                    <div id="video-container">
-                                                                        <img loading="lazy" src="./assets/home/teams.webp"
-                                                                            alt="Video Thumbnail" id="thumbnail"
-                                                                            width="300">
-                                                                    </div>
-
-                                                                </div>
-
-
-                                                                <h2 class="counter-t2">Ultimate AV integrators in
-                                                                    India.</h2>
-
-                                                            </div>
-                                                            <div class="row  justify-content-center align-items-center">
-                                                                <div class="col-md-4 z-9 ">
-                                                                    <div
-                                                                        class="number-box counter-box animate__animated animate__fadeInLeft animate__delay-0.2s  wow">
-                                                                        <div class="d-flex align-items-center">
-                                                                            <div class="counter" data-count="15">0</div>
-                                                                            <h6>+</h6>
-                                                                        </div>
-                                                                        <p>Years of experience</p>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="col-md-4 z-9 ">
-                                                                    <div
-                                                                        class="number-box counter-box animate__animated animate__fadeInLeft animate__delay-0.3s  wow">
-                                                                        <div class="d-flex align-items-center">
-                                                                            <div class="counter numbers"
-                                                                                data-count="120">0
-                                                                            </div>
-                                                                            <h6>+</h6>
-                                                                        </div>
-                                                                        <p>Customers worldwide</p>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="col-md-4 z-9 ">
-                                                                    <div
-                                                                        class="number-box counter-box animate__animated animate__fadeInLeft animate__delay-0.2s  wow">
-                                                                        <div class="d-flex align-items-center">
-                                                                            <div class="counter" data-count="883">0
-                                                                            </div>
-                                                                            <h6>+</h6>
-                                                                        </div>
-                                                                        <p>Projects completed</p>
-                                                                    </div>
-                                                                </div>
-
-                                                            </div>
-
-
-                                                        </div>
-
+                                        <div class="row  justify-content-center align-items-center">
+                                            <div class="col-md-4 z-9 ">
+                                                <div
+                                                    class="number-box counter-box animate__animated animate__fadeInLeft animate__delay-0.2s  wow">
+                                                    <div class="d-flex align-items-center">
+                                                        <div class="counter" data-count="15">0</div>
+                                                        <h6>+</h6>
                                                     </div>
-                                                    <div class="sound-wave">
-                                                        <div class="sw1"></div>
-                                                        <div class="sw2"></div>
-                                                        <div class="sw3"></div>
-                                                        <div class="sw4"></div>
-                                                        <div class="sw5"></div>
-                                                        <div class="sw3"></div>
-                                                        <div class="sw5"></div>
-                                                        <div class="sw4"></div>
-                                                        <div class="sw6"></div>
-                                                        <div class="sw1"></div>
-                                                        <div class="sw2"></div>
-                                                        <div class="sw1"></div>
-                                                        <div class="sw3"></div>
-                                                        <div class="sw7"></div>
-                                                        <div class="sw5"></div>
-                                                        <div class="sw3"></div>
-                                                        <div class="sw1"></div>
-                                                        <div class="sw6"></div>
-                                                        <div class="sw8"></div>
-                                                        <div class="sw7"></div>
-                                                        <div class="sw5"></div>
-                                                        <div class="sw1"></div>
-                                                        <div class="sw2"></div>
-                                                        <div class="sw3"></div>
-                                                        <div class="sw2"></div>
-                                                        <div class="sw3"></div>
-                                                        <div class="sw4"></div>
-                                                        <div class="sw5"></div>
-                                                        <div class="sw3"></div>
-                                                        <div class="sw5"></div>
-                                                        <div class="sw7"></div>
-                                                        <div class="sw8"></div>
-                                                        <div class="sw7"></div>
-                                                        <div class="sw3"></div>
-                                                        <div class="sw1"></div>
-                                                        <div class="sw5"></div>
-                                                        <div class="sw4"></div>
-                                                        <div class="sw3"></div>
-                                                        <div class="sw2"></div>
-                                                        <div class="sw1"></div>
-
-
-                                                    </div>
-
+                                                    <p>Years of experience</p>
                                                 </div>
                                             </div>
+                                            <div class="col-md-4 z-9 ">
+                                                <div
+                                                    class="number-box counter-box animate__animated animate__fadeInLeft animate__delay-0.3s  wow">
+                                                    <div class="d-flex align-items-center">
+                                                        <div class="counter numbers" data-count="120">0
+                                                        </div>
+                                                        <h6>+</h6>
+                                                    </div>
+                                                    <p>Customers worldwide</p>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-4 z-9 ">
+                                                <div
+                                                    class="number-box counter-box animate__animated animate__fadeInLeft animate__delay-0.2s  wow">
+                                                    <div class="d-flex align-items-center">
+                                                        <div class="counter" data-count="883">0
+                                                        </div>
+                                                        <h6>+</h6>
+                                                    </div>
+                                                    <p>Projects completed</p>
+                                                </div>
+                                            </div>
+
                                         </div>
+
+
                                     </div>
+
                                 </div>
+                                <div class="sound-wave">
+                                    <div class="sw1"></div>
+                                    <div class="sw2"></div>
+                                    <div class="sw3"></div>
+                                    <div class="sw4"></div>
+                                    <div class="sw5"></div>
+                                    <div class="sw3"></div>
+                                    <div class="sw5"></div>
+                                    <div class="sw4"></div>
+                                    <div class="sw6"></div>
+                                    <div class="sw1"></div>
+                                    <div class="sw2"></div>
+                                    <div class="sw1"></div>
+                                    <div class="sw3"></div>
+                                    <div class="sw7"></div>
+                                    <div class="sw5"></div>
+                                    <div class="sw3"></div>
+                                    <div class="sw1"></div>
+                                    <div class="sw6"></div>
+                                    <div class="sw8"></div>
+                                    <div class="sw7"></div>
+                                    <div class="sw5"></div>
+                                    <div class="sw1"></div>
+                                    <div class="sw2"></div>
+                                    <div class="sw3"></div>
+                                    <div class="sw2"></div>
+                                    <div class="sw3"></div>
+                                    <div class="sw4"></div>
+                                    <div class="sw5"></div>
+                                    <div class="sw3"></div>
+                                    <div class="sw5"></div>
+                                    <div class="sw7"></div>
+                                    <div class="sw8"></div>
+                                    <div class="sw7"></div>
+                                    <div class="sw3"></div>
+                                    <div class="sw1"></div>
+                                    <div class="sw5"></div>
+                                    <div class="sw4"></div>
+                                    <div class="sw3"></div>
+                                    <div class="sw2"></div>
+                                    <div class="sw1"></div>
+
+
+                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -233,11 +221,14 @@
                         <div class="container">
                             <div class="row py-4 g-lg-0 g-4 align-items-center sectors-head">
                                 <div class="col-lg-6 br-1">
-                                    <h2 class="mb-0 section-title wow animate__animated animate__fadeInUp animate__delay-5s ">Audio Visual
+                                    <h2
+                                        class="mb-0 section-title wow animate__animated animate__fadeInUp animate__delay-5s ">
+                                        Audio Visual
                                         Solutions<br> for diverse sectors </h2>
                                 </div>
                                 <div class="col-lg-6">
-                                    <p class="ps-lg-5 mb-0 wow animate__animated animate__fadeInUp animate__delay-5s">From businesses to schools and retail
+                                    <p class="ps-lg-5 mb-0 wow animate__animated animate__fadeInUp animate__delay-5s">
+                                        From businesses to schools and retail
                                         outlets to hospitals, our
                                         audiovisual solutions can be customised to meet the specific
                                         requirements of
@@ -251,14 +242,16 @@
                             <div class="row pt-4">
                                 <div class="col-lg-6 col-md-12 d-none d-lg-block">
                                     <div class="services_content">
-                                        <h2 class="section-sub-heading wow animate__animated animate__fadeInUp animate__delay-5s">Corporate
+                                        <h2
+                                            class="section-sub-heading wow animate__animated animate__fadeInUp animate__delay-5s">
+                                            Corporate
                                         </h2>
                                         <p class=" wow animate__animated animate__fadeInUp animate__delay-7s">
                                             Our AV solutions for businesses are designed to transcend spaces and
                                             connect people across multiple locations and devices, empowering
                                             teams as they work towards a common goal.
                                         </p>
-                                    
+
                                     </div>
 
                                     <div class="services_content">
@@ -269,7 +262,7 @@
                                             enrich the learning and teaching experience in both traditional and digital
                                             classrooms.
                                         </p>
-                                      
+
                                     </div>
 
                                     <div class="services_content">
@@ -280,7 +273,7 @@
                                             and speed through advanced software and audiovisual equipment with a wide
                                             range of applications.
                                         </p>
-                                    
+
 
                                     </div>
 
@@ -292,7 +285,7 @@
                                             requirements and applications, using the latest technology to aid faster
                                             decision-making.
                                         </p>
-                                      
+
 
                                     </div>
 
@@ -329,12 +322,12 @@
                                                     <source srcset="./assets/home/corporate.webp" width="526"
                                                         height="370" alt="AV solutions in coporate sector "
                                                         class="lazyload" loading="lazy">
-                                                    <img loading="lazy" src="./assets/home/corporate.webp" class="lazyload"
-                                                        loading="lazy" width="526" height="370"
-                                                        alt="AV solutions in coporate sector "
-                                                        class="img-fluid">
+                                                    <img loading="lazy" src="./assets/home/corporate.webp"
+                                                        class="lazyload" loading="lazy" width="526" height="370"
+                                                        alt="AV solutions in coporate sector " class="img-fluid">
                                                 </picture>
-                                                <a href="corporate.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
+                                                <a href="corporate.php" class="page-nav">view &nbsp;<i
+                                                        class="far fa-arrow-right"></i></a>
 
 
 
@@ -344,67 +337,79 @@
                                         <div class="sticky-image two">
                                             <picture>
                                                 <source srcset="./assets/home/education.webp" width="526" height="370"
-                                                    alt="AV solutions in education sector " class="lazyload" loading="lazy">
+                                                    alt="AV solutions in education sector " class="lazyload"
+                                                    loading="lazy">
                                                 <source srcset="./assets/home/education.webp" width="526" height="370"
-                                                    alt="AV solutions in education sector " class="lazyload" loading="lazy">
-                                                <img loading="lazy" src="./assets/home/education.webp" class="lazyload" loading="lazy"
-                                                    width="526" height="370" alt="AV solutions in education sector "
-                                                    class="img-fluid">
+                                                    alt="AV solutions in education sector " class="lazyload"
+                                                    loading="lazy">
+                                                <img loading="lazy" src="./assets/home/education.webp" class="lazyload"
+                                                    loading="lazy" width="526" height="370"
+                                                    alt="AV solutions in education sector " class="img-fluid">
                                             </picture>
-                                            <a href="education.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
+                                            <a href="education.php" class="page-nav">view &nbsp;<i
+                                                    class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="sticky-image three">
                                             <picture>
                                                 <source srcset="./assets/home/healthcare.webp" width="526" height="370"
-                                                    alt="AV solutions in healthcare sector " class="lazyload" loading="lazy">
+                                                    alt="AV solutions in healthcare sector " class="lazyload"
+                                                    loading="lazy">
                                                 <source srcset="./assets/home/healthcare.webp" width="526" height="370"
-                                                    alt="AV solutions in healthcare sector " class="lazyload" loading="lazy">
-                                                <img loading="lazy" src="./assets/home/healthcare.webp" class="lazyload" loading="lazy"
-                                                    width="526" height="370" alt="AV solutions in healthcare sector "
-                                                    class="img-fluid">
+                                                    alt="AV solutions in healthcare sector " class="lazyload"
+                                                    loading="lazy">
+                                                <img loading="lazy" src="./assets/home/healthcare.webp" class="lazyload"
+                                                    loading="lazy" width="526" height="370"
+                                                    alt="AV solutions in healthcare sector " class="img-fluid">
                                             </picture>
-                                            <a href="healthcare.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
+                                            <a href="healthcare.php" class="page-nav">view &nbsp;<i
+                                                    class="far fa-arrow-right"></i></a>
                                         </div>
                                         <div class="sticky-image four">
                                             <picture>
                                                 <source srcset="./assets/home/public.webp" width="526" height="370"
-                                                    alt="AV solutions in public sector "
-                                                    class="lazyload" loading="lazy">
+                                                    alt="AV solutions in public sector " class="lazyload"
+                                                    loading="lazy">
                                                 <source srcset="./assets/home/public.webp" width="526" height="370"
-                                                    alt="AV solutions in public sector "
-                                                    class="lazyload" loading="lazy">
-                                                <img loading="lazy" src="./assets/home/public.webp" class="lazyload" loading="lazy"
-                                                    width="526" height="370"
-                                                    alt="AV solutions in public sector "
-                                                    class="img-fluid">
+                                                    alt="AV solutions in public sector " class="lazyload"
+                                                    loading="lazy">
+                                                <img loading="lazy" src="./assets/home/public.webp" class="lazyload"
+                                                    loading="lazy" width="526" height="370"
+                                                    alt="AV solutions in public sector " class="img-fluid">
                                             </picture>
-                                            <a href="public-sector.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
+                                            <a href="public-sector.php" class="page-nav">view &nbsp;<i
+                                                    class="far fa-arrow-right"></i></a>
 
                                         </div>
                                         <div class="sticky-image five">
                                             <picture>
                                                 <source srcset="./assets/home/retail.webp" width="526" height="370"
-                                                    alt="AV solutions in retail sector " class="lazyload" loading="lazy">
+                                                    alt="AV solutions in retail sector " class="lazyload"
+                                                    loading="lazy">
                                                 <source srcset="./assets/home/retail.webp" width="526" height="370"
-                                                    alt="AV solutions in retail sector " class="lazyload" loading="lazy">
-                                                <img loading="lazy" src="./assets/home/retail.webp" class="lazyload" loading="lazy"
-                                                    width="526" height="370" alt="AV solutions in retail sector "
-                                                    class="img-fluid">
+                                                    alt="AV solutions in retail sector " class="lazyload"
+                                                    loading="lazy">
+                                                <img loading="lazy" src="./assets/home/retail.webp" class="lazyload"
+                                                    loading="lazy" width="526" height="370"
+                                                    alt="AV solutions in retail sector " class="img-fluid">
                                             </picture>
-                                            <a href="retail.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
+                                            <a href="retail.php" class="page-nav">view &nbsp;<i
+                                                    class="far fa-arrow-right"></i></a>
 
                                         </div>
                                         <div class="sticky-image six" style=" transition: .4s all;">
                                             <picture>
                                                 <source srcset="./assets/home/residential.webp" width="526" height="370"
-                                                    alt="AV solutions in residential sector " class="lazyload" loading="lazy">
+                                                    alt="AV solutions in residential sector " class="lazyload"
+                                                    loading="lazy">
                                                 <source srcset="./assets/home/residential.webp" width="526" height="370"
-                                                    alt="AV solutions in residential sector " class="lazyload" loading="lazy">
-                                                <img loading="lazy" src="./assets/home/residential.webp" class="lazyload"
-                                                    loading="lazy" width="526" height="370" alt="AV solutions in residential sector "
-                                                    class="img-fluid">
+                                                    alt="AV solutions in residential sector " class="lazyload"
+                                                    loading="lazy">
+                                                <img loading="lazy" src="./assets/home/residential.webp"
+                                                    class="lazyload" loading="lazy" width="526" height="370"
+                                                    alt="AV solutions in residential sector " class="img-fluid">
                                             </picture>
-                                            <a href="residential.php" class="page-nav">view &nbsp;<i class="far fa-arrow-right"></i></a>
+                                            <a href="residential.php" class="page-nav">view &nbsp;<i
+                                                    class="far fa-arrow-right"></i></a>
 
                                         </div>
 
@@ -456,9 +461,9 @@
                                                 <source srcset="./assets/home/Microsoft-Surface-Hub-2S.webp"
                                                     type="image/jpg" alt="portfolio" width="1242px" height="549px"
                                                     class="lazyload" loading="lazy">
-                                                <img loading="lazy" src="./assets/home/Microsoft-Surface-Hub-2S.webp" alt="portfolio"
-                                                    class="img-fluid lazyload" width="1242px" height="549px"
-                                                    loading="lazy">
+                                                <img loading="lazy" src="./assets/home/Microsoft-Surface-Hub-2S.webp"
+                                                    alt="portfolio" class="img-fluid lazyload" width="1242px"
+                                                    height="549px" loading="lazy">
                                                 <h6>Microsoft Surface Hub 2S</h6>
                                                 <p>Improve workflows and connect team members with Microsoft's suite of
                                                     devices and the Microsoft Teams platform.</p>
@@ -519,14 +524,14 @@
                                                     class="img-fluid lazyload" width="1242px" height="549px"
                                                     loading="lazy">
                                                 <h6>Jabra Panacast</h6>
-                                                <p>The intelligent video bar that gives everyone an equal meeting experience.</p>
+                                                <p>The intelligent video bar that gives everyone an equal meeting
+                                                    experience.</p>
                                             </picture>
                                             <div class="nav-arrow-products"><i class="far fa-arrow-right"></i></div>
 
                                         </a>
 
-                                        <a href="" aria-label="Explore our products"
-                                            class="d-flex align-items-center">
+                                        <a href="" aria-label="Explore our products" class="d-flex align-items-center">
                                             <div class="mx-auto text-center">
                                                 <h2 class="section-title port_sec_title">Explore platforms <br>and
                                                     products
@@ -622,7 +627,8 @@
             <section class="z-9">
                 <div class="process-layer">
                     <div class="container p-lg-0 ">
-                        <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-5s text-center">End-to-end AV Integration Services</h2>
+                        <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-5s text-center">
+                            End-to-end AV Integration Services</h2>
                         <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto
                             perferendis fugit quod amet enim sequi nesciunt odio sapiente dolore labore.</p> -->
                         <div class="row justify-content-center">
@@ -704,7 +710,8 @@
             <!-- ---------------------------------------------------why-us---------------------------------- -->
             <section class="sec-padding">
                 <div class="container">
-                    <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-5s text-md-center">Why Partner With Us</h2>
+                    <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-5s text-md-center">
+                        Why Partner With Us</h2>
                     <div class="row mt-md-5">
                         <div class="col-md-4">
                             <div class="why-card wow animate__animated animate__fadeInUp animate__delay-5s">
@@ -774,7 +781,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">Sanitation</h3>
                                 </div>
-                                <p class="wow animate__animated animate__fadeInUp animate__delay-5s">Our housekeeping team adheres to WHO guidelines for sanitization, follows the Timwood
+                                <p class="wow animate__animated animate__fadeInUp animate__delay-5s">Our housekeeping
+                                    team adheres to WHO guidelines for sanitization, follows the Timwood
                                     Process for waste management, and upholds top-notch safety standards.</p>
                             </div>
                         </div>
@@ -810,144 +818,148 @@
                 <div class="container">
                     <div class="row justify-content-around text-md-center">
                         <div class="col-md-9">
-                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-5s">Our Clients</h2>
-                            <p class=" wow animate__animated animate__fadeInUp animate__delay-5s">Innovation drives our AV integration, enhancing client experiences through seamless technology solutions, custom-tailored to their unique needs and preferences.</p>
+                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-5s">Our
+                                Clients</h2>
+                            <p class=" wow animate__animated animate__fadeInUp animate__delay-5s">Innovation drives our
+                                AV integration, enhancing client experiences through seamless technology solutions,
+                                custom-tailored to their unique needs and preferences.</p>
 
                         </div>
                         <div class="col-11 mt-4">
                             <div class="owl-carousel owl-theme owl-client">
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/abb.webp" alt="Abb">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/accenture.webp" alt="accenture">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/air.png" alt="air products">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/amadeus.png" alt="amadeus">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/amazon.webp" alt="amazon">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/ariba.png" alt="ariba">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/aristocrat.png" alt="aristocrat">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/bdo.png" alt="bdo">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/bosh.webp" alt="bosh">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/cat.png" alt="caterpiller">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/continuant.png" alt="continuant">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/ericsson.png" alt="ericsson">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/ferring.png" alt="ferring">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/ge.webp" alt="ge">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/getgo.png" alt="getgo">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/hcl.png" alt="hcl">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/hexagon.png" alt="hexagon">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/ibm.png" alt="ibm">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/indeed.png" alt="indeed">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/ing.png" alt="ing">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/intel.webp" alt="intel">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/intellicon.png" alt="intellicon">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/kelloggs.png" alt="kelloggs">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/kpmg.png" alt="kpmg">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/lennox.png" alt="lennox">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/lowes.png" alt="lowes">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/maersk.png" alt="maersk">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/mars-wrigley.png" alt="mars wrigley">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/mast.png" alt="mast">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/merill.png" alt="merill">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/munich.png" alt="munich">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/nomura.png" alt="nomura">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/novo.png" alt="novo">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/opentext.png" alt="opentext">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/pearson.png" alt="pearson">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/q2.svg" alt="q2">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/rackspace.png" alt="rackspace">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/samsung.webp" alt="samsung">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/sap.webp" alt="sap">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/shell.webp" alt="shell">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/skf.png" alt="skf">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/thomson.png" alt="thomson">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/vs.png" alt="victoria's sectret">
-                               </div>
-                               <div class="item">
-                                <img loading="lazy" src="./assets/logos/clients/wpp.png" alt="wpp">
-                               </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/abb.webp" alt="Abb">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/accenture.webp" alt="accenture">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/air.png" alt="air products">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/amadeus.png" alt="amadeus">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/amazon.webp" alt="amazon">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/ariba.png" alt="ariba">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/aristocrat.png" alt="aristocrat">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/bdo.png" alt="bdo">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/bosh.webp" alt="bosh">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/cat.png" alt="caterpiller">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/continuant.png" alt="continuant">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/ericsson.png" alt="ericsson">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/ferring.png" alt="ferring">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/ge.webp" alt="ge">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/getgo.png" alt="getgo">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/hcl.png" alt="hcl">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/hexagon.png" alt="hexagon">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/ibm.png" alt="ibm">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/indeed.png" alt="indeed">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/ing.png" alt="ing">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/intel.webp" alt="intel">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/intellicon.png" alt="intellicon">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/kelloggs.png" alt="kelloggs">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/kpmg.png" alt="kpmg">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/lennox.png" alt="lennox">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/lowes.png" alt="lowes">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/maersk.png" alt="maersk">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/mars-wrigley.png"
+                                        alt="mars wrigley">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/mast.png" alt="mast">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/merill.png" alt="merill">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/munich.png" alt="munich">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/nomura.png" alt="nomura">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/novo.png" alt="novo">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/opentext.png" alt="opentext">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/pearson.png" alt="pearson">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/q2.svg" alt="q2">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/rackspace.png" alt="rackspace">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/samsung.webp" alt="samsung">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/sap.webp" alt="sap">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/shell.webp" alt="shell">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/skf.png" alt="skf">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/thomson.png" alt="thomson">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/vs.png" alt="victoria's sectret">
+                                </div>
+                                <div class="item">
+                                    <img loading="lazy" src="./assets/logos/clients/wpp.png" alt="wpp">
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -965,7 +977,8 @@
                                 <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-5s">
                                     See the latest news and feeds
                                 </h2>
-                                <a href="https://www.linkedin.com/company/resurgent-av-integrators-pvt-ltd/" aria-label="Know about the company" class="d-lg-block d-none">
+                                <a href="https://www.linkedin.com/company/resurgent-av-integrators-pvt-ltd/"
+                                    aria-label="Know about the company" class="d-lg-block d-none">
                                     <div class="banner-button1 button-hover1 cta-btn">
                                         <div class="circle-large"></div>
                                         <button>view all posts</button>
@@ -985,7 +998,8 @@
                                                 <img loading="lazy" src="./assets/home/linkedin-color.png" alt=""
                                                     class="linkedin-icon">
                                             </div>
-                                            <img loading="lazy" src="./assets/home/corporate.jpg" alt="" class="linkedin-img">
+                                            <img loading="lazy" src="./assets/home/corporate.jpg" alt=""
+                                                class="linkedin-img">
                                             <p class="linkedin-text">Lorem ipsum dolor sit amet consectetur adipisicing
                                                 elit.....</p>
 
@@ -1001,7 +1015,8 @@
                                                 <img loading="lazy" src="./assets/home/linkedin-color.png" alt=""
                                                     class="linkedin-icon">
                                             </div>
-                                            <img loading="lazy" src="./assets/home/samsung.webp" alt="" class="linkedin-img">
+                                            <img loading="lazy" src="./assets/home/samsung.webp" alt=""
+                                                class="linkedin-img">
                                             <p class="linkedin-text">Lorem ipsum dolor sit amet consectetur adipisicing
                                                 elit.....</p>
 
@@ -1017,7 +1032,8 @@
                                                 <img loading="lazy" src="./assets/home/linkedin-color.png" alt=""
                                                     class="linkedin-icon">
                                             </div>
-                                            <img loading="lazy" src="./assets/home/education.jpg" alt="" class="linkedin-img">
+                                            <img loading="lazy" src="./assets/home/education.jpg" alt=""
+                                                class="linkedin-img">
                                             <p class="linkedin-text">Lorem ipsum dolor sit amet consectetur adipisicing
                                                 elit.....</p>
 
@@ -1033,7 +1049,8 @@
                                                 <img loading="lazy" src="./assets/home/linkedin-color.png" alt=""
                                                     class="linkedin-icon">
                                             </div>
-                                            <img loading="lazy" src="./assets/home/teams.webp" alt="" class="linkedin-img">
+                                            <img loading="lazy" src="./assets/home/teams.webp" alt=""
+                                                class="linkedin-img">
                                             <p class="linkedin-text">Lorem ipsum dolor sit amet consectetur adipisicing
                                                 elit.....</p>
 

@@ -50,7 +50,9 @@
                                     <div class="row h-100 w-mob-100">
                                         <div class="second-card ms-team-rooms">
                                             <div class="content">
-                                            <video class=""  disableremoteplayback="" webkit-playsinline="" playsinline="" src="blob:https://www.zoom.com/2e4f9b61-80e4-4636-87cc-c2a17f475e30"></video>
+                                                <video class="" disableremoteplayback="" webkit-playsinline=""
+                                                    playsinline=""
+                                                    src="blob:https://www.zoom.com/2e4f9b61-80e4-4636-87cc-c2a17f475e30"></video>
                                             </div>
                                             <!-- <div class="ms-circle-1"></div> -->
                                             <!-- <div class="ms-circle-2"></div> -->
@@ -278,66 +280,7 @@
                 <!-- <div class="device-circle-2"></div> -->
             </section>
 
-            <section id="brand-solutions" class="sec-padding">
-                <div class="container">
-                    <h2 class="section-title mb-5 text-center">Solutions that make a difference</h2>
-                    <div class="row justify-content-center g-5">
-                        <div class="col-3">
-                            <a href="">
-                                <div class="each-brand-solutions cisco">
-                                    <div class="content z-9">
-                                        <img loading="lazy" src="./assets/logos/partners/cisco.webp" alt="">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus
-                                            expedita
-                                            ipsam?</p>
-                                        <a href="">Know more</a>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-3">
-                            <a href="">
-                                <div class="each-brand-solutions jabra">
-                                    <div class="content z-9">
-                                        <img loading="lazy" src="./assets/logos/partners/jabra.png" alt="Jabra Logo">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus
-                                            expedita
-                                            ipsam?</p>
-                                        <a href="">Know more</a>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-3">
-                            <a href="">
-                                <div class="each-brand-solutions cisco">
-                                    <div class="content z-9">
-                                        <img loading="lazy" src="./assets/logos/partners/logitech-c.webp" alt="">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus
-                                            expedita
-                                            ipsam?</p>
-                                        <a href="">Know more</a>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="col-3">
-                            <a href="">
-                                <div class="each-brand-solutions jabra">
-                                    <div class="content z-9">
-                                        <img loading="lazy" src="./assets/logos/partners/jabra.png" alt="Jabra Logo">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus
-                                            expedita
-                                            ipsam?</p>
-                                        <a href="">Know more</a>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
 
-            </section>
 
 
             <!-- ---------------------------------------footer------------------------------- -->

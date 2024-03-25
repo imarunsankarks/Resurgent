@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -53,7 +53,11 @@
                                 <div class="banner-product-content">
                                     <h1 class="product-banner-title wow animate__animated animate__flipInX">AirServer
                                     </h1>
-                                    <p class="wow animate__animated animate__fadeInUp">AirServer is a universal screen mirroring receiver, enabling users to display their screens from any device, whether it's a phone, tablet or laptop. With its unmatched audiovisual quality, wide compatibility and ease of use, AirServer is an essential tool for presentation and collaboration.</p>
+                                    <p class="wow animate__animated animate__fadeInUp">AirServer is a universal screen
+                                        mirroring receiver, enabling users to display their screens from any device,
+                                        whether it's a phone, tablet or laptop. With its unmatched audiovisual quality,
+                                        wide compatibility and ease of use, AirServer is an essential tool for
+                                        presentation and collaboration.</p>
                                     <div class="banner-button1 button-hover1 cta-btn">
                                         <div class="circle-large"></div>
                                         <button>learn more</button>
@@ -77,39 +81,40 @@
                                     AirServer</h2>
                             </div>
                             <div class="col-md-6 ps-lg-5">
-                                <p class="m-0 wow animate__animated animate__fadeInUp">Project content wirelessly from multiple screens in 4K ultra-high definition.</p>
+                                <p class="m-0 wow animate__animated animate__fadeInUp">Project content wirelessly from
+                                    multiple screens in 4K ultra-high definition.</p>
                             </div>
-                            <div class="product-feature-img">
-                                <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp" alt="">
-                                <div class="feature-marker-1 active" onmouseover="showFeature(1)">
-                                    <span>1</span>
-                                    <div class="ripple"></div>
-                                </div>
-                                <div class="feature-marker-2" onmouseover="showFeature(2)">
-                                    <span>2</span>
-                                    <div class="ripple"></div>
-                                </div>
-                                <div class="feature-marker-3" onmouseover="showFeature(3)"><span>3</span>
-                                    <div class="ripple"></div>
-                                </div>
-                                <div class="feature-marker-4" onmouseover="showFeature(4)"><span>4</span>
-                                    <div class="ripple"></div>
-                                </div>
-                                <div class="each-feature-det f-1">
-                                    <span>01</span>
-                                    <div class="content">
-                                        <h3>Surface Hub Smart Camera</h3>
-                                        <p>The AI-enabled camera's aperture and ultra-wide field of view of 136 degrees,
-                                            renders everything in focus, near and far.</p>
+                            <div class="sectors-used pt-5">
+                                <div class="row g-5">
+                                    <div class="col-lg-3 col-md-6">
+                                        <div class="each-sector-card">
+                                            <img src="./assets/products/pads4/retail.png" alt="">
+                                            <div class="sector-name">
+                                                Retail Stores
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-6">
+                                        <div class="each-sector-card">
+                                            <img src="./assets/products/pads4/hospitality.png"" alt="">
+                                            <div class=" sector-name">
+                                            Hospitality
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="each-feature-det f-2">
-                                    <span>02</span>
-                                    <div class="content">
-                                        <h3>Second feature</h3>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, itaque! Harum,
-                                            molestias.</p>
+                                <div class="col-lg-3 col-md-6">
+                                    <div class="each-sector-card">
+                                        <img src="./assets/products/pads4/public.png"" alt="">
+                                            <div class=" sector-name">
+                                        Public
                                     </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6">
+                                <div class="each-sector-card">
+                                    <img src="./assets/products/pads4/manufacturing.png"" alt="">
+                                            <div class=" sector-name">
+                                    Manufacturing
                                 </div>
                             </div>
                         </div>
@@ -153,7 +158,8 @@
             <!-- ---------------------------------------------------why-us---------------------------------- -->
             <section class="sec-padding pt-0">
                 <div class="container">
-                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">Product features</h2>
+                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">Product features
+                    </h2>
                     <div class="row mt-md-5 justify-content-center">
                         <div class="col-md-4 wow animate__animated animate__fadeInUp">
                             <div class="why-card">
@@ -162,7 +168,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">compatible</h3>
                                 </div>
-                                <p>AirServer can be synced with AirPlay, Google Cast and Miracast; it also easily connects with a range of software and hardware.</p>
+                                <p>AirServer can be synced with AirPlay, Google Cast and Miracast; it also easily
+                                    connects with a range of software and hardware.</p>
                             </div>
                         </div>
 
@@ -173,7 +180,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">9 screens</h3>
                                 </div>
-                                <p>Several users can simultaneously project content from any personal device onto a single larger screen, allowing for effortless collaboration.</p>
+                                <p>Several users can simultaneously project content from any personal device onto a
+                                    single larger screen, allowing for effortless collaboration.</p>
                             </div>
                         </div>
 
@@ -184,7 +192,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">video & audio</h3>
                                 </div>
-                                <p>With 4K UHD at 60 frames per second (fps), AirServer's display is the best in its class. It also has less lag than other screen mirroring devices.</p>
+                                <p>With 4K UHD at 60 frames per second (fps), AirServer's display is the best in its
+                                    class. It also has less lag than other screen mirroring devices.</p>
                             </div>
                         </div>
 
@@ -195,7 +204,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">live-streaming</h3>
                                 </div>
-                                <p>Lessons or presentations can be recorded with the touch of a button, and AirServer's picture-in-picture webcam feature allows live-streaming for iOS.</p>
+                                <p>Lessons or presentations can be recorded with the touch of a button, and AirServer's
+                                    picture-in-picture webcam feature allows live-streaming for iOS.</p>
                             </div>
                         </div>
 
@@ -206,7 +216,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">easy to use</h3>
                                 </div>
-                                <p>AirServer can be operated without any dongles or cables, is equipped with a wireless guest network, and can be remotely operated.
+                                <p>AirServer can be operated without any dongles or cables, is equipped with a wireless
+                                    guest network, and can be remotely operated.
                                 </p>
                             </div>
                         </div>
@@ -218,7 +229,8 @@
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">processing</h3>
                                 </div>
-                                <p>Users can adjust settings such as brightness, saturation, and contrast and even flip their screens in order to improve the display.
+                                <p>Users can adjust settings such as brightness, saturation, and contrast and even flip
+                                    their screens in order to improve the display.
                                 </p>
                             </div>
                         </div>
@@ -265,10 +277,13 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/airserver/airserver-f1.jpg"
-                                                        alt="">
+                                                    <img loading="lazy"
+                                                        src="./assets/products/airserver/airserver-f1.jpg" alt="">
                                                     <div class="content">
-                                                        <p>AirServer provides a password-protected device management system for IT or assigned users, managing access controls like pin or password for AirPlay, Google Cast, and Miracast.</p>
+                                                        <p>AirServer provides a password-protected device management
+                                                            system for IT or assigned users, managing access controls
+                                                            like pin or password for AirPlay, Google Cast, and Miracast.
+                                                        </p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -278,10 +293,13 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/airserver/airserver-f2.jpg"
-                                                        alt="">
+                                                    <img loading="lazy"
+                                                        src="./assets/products/airserver/airserver-f2.jpg" alt="">
                                                     <div class="content">
-                                                        <p>With AirServer, you can remotely control what you want to show on each individual screen throughout the building and easily share messages directed towards your employees, customers or students.</p>
+                                                        <p>With AirServer, you can remotely control what you want to
+                                                            show on each individual screen throughout the building and
+                                                            easily share messages directed towards your employees,
+                                                            customers or students.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -291,10 +309,12 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/airserver/airserver-f3.png"
-                                                        alt="">
+                                                    <img loading="lazy"
+                                                        src="./assets/products/airserver/airserver-f3.png" alt="">
                                                     <div class="content">
-                                                        <p>AirServer is an easy-to-use solution that enables wireless screen mirroring - typically from a smaller (smartphone, tablet or laptop) screen onto a larger screen</p>
+                                                        <p>AirServer is an easy-to-use solution that enables wireless
+                                                            screen mirroring - typically from a smaller (smartphone,
+                                                            tablet or laptop) screen onto a larger screen</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -498,24 +518,26 @@
     </script>
 
     <script>
-    const bannerTimeline = gsap.timeline({
-        scrollTrigger: {
-            trigger: "#banner-trigger",
-            start: "top top",
-            end: "center center",
-            scrub: true,
-            markers: false,
-            invalidateOnRefresh: true,
-        },
-    });
+    if (window.innerWidth > 767) {
+        const bannerTimeline = gsap.timeline({
+            scrollTrigger: {
+                trigger: "#banner-trigger",
+                start: "top top",
+                end: "center center",
+                scrub: true,
+                markers: false,
+                invalidateOnRefresh: true,
+            },
+        });
 
-    bannerTimeline.to(
-        ".banner-product-img img", {
-            y: () => -100,
-            scale: 1.1,
-        },
-        "<"
-    );
+        bannerTimeline.to(
+            ".banner-product-img img", {
+                y: () => -100,
+                scale: 1.1,
+            },
+            "<"
+        );
+    }
     </script>
 
 </body>

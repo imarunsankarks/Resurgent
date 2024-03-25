@@ -82,258 +82,258 @@
                                 <p class="m-0 wow animate__animated animate__fadeInUp">Maximise the reach and results of
                                     your digital signage network.</p>
                             </div>
-                            <div class="product-feature-img">
-                                <img loading="lazy" src="./assets/products/jabra/panacast-features.webp" alt="">
-                                <div class="feature-marker-1 active" onmouseover="showFeature(1)">
-                                    <span>1</span>
-                                    <div class="ripple"></div>
-                                </div>
-                                <div class="feature-marker-2" onmouseover="showFeature(2)">
-                                    <span>2</span>
-                                    <div class="ripple"></div>
-                                </div>
-                                <div class="feature-marker-3" onmouseover="showFeature(3)"><span>3</span>
-                                    <div class="ripple"></div>
-                                </div>
-                                <div class="feature-marker-4" onmouseover="showFeature(4)"><span>4</span>
-                                    <div class="ripple"></div>
-                                </div>
-                                <div class="each-feature-det f-1">
-                                    <span>01</span>
-                                    <div class="content">
-                                        <h3>Surface Hub Smart Camera</h3>
-                                        <p>The AI-enabled camera's aperture and ultra-wide field of view of 136 degrees,
-                                            renders everything in focus, near and far.</p>
+                            <div class="sectors-used pt-5">
+                                <div class="row g-5">
+                                    <div class="col-lg-3 col-md-6">
+                                        <div class="each-sector-card">
+                                            <img src="./assets/products/pads4/retail.png" alt="">
+                                            <div class="sector-name">
+                                                Retail Stores
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-6">
+                                        <div class="each-sector-card">
+                                            <img src="./assets/products/pads4/hospitality.png"" alt="">
+                                            <div class=" sector-name">
+                                            Hospitality
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="each-feature-det f-2">
-                                    <span>02</span>
-                                    <div class="content">
-                                        <h3>Second feature</h3>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, itaque! Harum,
-                                            molestias.</p>
+                                <div class="col-lg-3 col-md-6">
+                                    <div class="each-sector-card">
+                                        <img src="./assets/products/pads4/public.png"" alt="">
+                                            <div class=" sector-name">
+                                        Public
                                     </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6">
+                                <div class="each-sector-card">
+                                    <img src="./assets/products/pads4/manufacturing.png"" alt="">
+                                            <div class=" sector-name">
+                                    Manufacturing
                                 </div>
                             </div>
                         </div>
                     </div>
-                </section>
+            </div>
+    </div>
+    </div>
+    </section>
+
+    </div>
+
+    <section class="sec-padding bg-white z-9">
+        <div class="d-sm-block z-9">
+            <div class="continer p-0">
+                <div class="product-banner-img position-relative">
+                    <div class="img-scroll-ht">
+                        <div class="initial-ht"></div>
+                        <div id="button-trigger">
+                        </div>
+                    </div>
+                    <div class="product-img-container">
+                        <div class="product-imgs">
+                            <div class="product-img">
+                                <img loading="lazy" src="./assets/products/pads4/pads4-f3.png" alt="product image"
+                                    class="img-fluid">
+                            </div>
+                        </div>
+                        <div class="product-det">
+                            <div class="content">
+                                <h2>To know more</h2>
+                                <div class="zoomIn-button">
+                                    <button>
+                                        Connect with us
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ---------------------------------------------------why-us---------------------------------- -->
+    <section class="sec-padding pt-0">
+        <div class="container">
+            <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">Product features
+            </h2>
+            <div class="row mt-md-5">
+                <div class="col-md-4 wow animate__animated animate__fadeInUp">
+                    <div class="why-card">
+                        <h3>Message</h3>
+                        <div class="d-flex align-items-center mb-2">
+                            <span class="why-card-line"></span>
+                            <h3 class="why-second-head mb-0">customisation</h3>
+                        </div>
+                        <p>The PADS4 Designer offers you the tools to design your message, add web pages, rich
+                            text and PowerPoint presentations, animate the content as well as add video and
+                            audio.</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 wow animate__animated animate__fadeInUp animate__two">
+                    <div class="why-card">
+                        <h3>Targeted audiences & </h3>
+                        <div class="d-flex align-items-center mb-2">
+                            <span class="why-card-line"></span>
+                            <h3 class="why-second-head mb-0">scheduling</h3>
+                        </div>
+                        <p>With the PADS4 Scheduler, you can specify the audience, timing and duration of each
+                            message by simply dragging and dropping your message into the calendar.</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 wow animate__animated animate__fadeInUp animate__three">
+                    <div class="why-card">
+                        <h3>Delivery & performance</h3>
+                        <div class="d-flex align-items-center mb-2">
+                            <span class="why-card-line"></span>
+                            <h3 class="why-second-head mb-0">optimisation</h3>
+                        </div>
+                        <p>PADS4 Agent monitors the delivery and performance of your messages, while also
+                            enabling you to remotely inspect the network, memory usage and more.</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 wow animate__animated animate__fadeInUp animate__four">
+                    <div class="why-card">
+                        <h3>Real-time data</h3>
+                        <div class="d-flex align-items-center mb-2">
+                            <span class="why-card-line"></span>
+                            <h3 class="why-second-head mb-0">and smart tools</h3>
+                        </div>
+                        <p>Whether it's measuring footfall and streamlining customer support in retail spaces
+                            through data or using occupancy sensors to optimise room and desk management in
+                            offices, </p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 wow animate__animated animate__fadeInUp animate__five">
+                    <div class="why-card">
+                        <h3>Wide industry</h3>
+                        <div class="d-flex align-items-center mb-2">
+                            <span class="why-card-line"></span>
+                            <h3 class="why-second-head mb-0">applications</h3>
+                        </div>
+                        <p>From corporate offices, transport hubs and retail outlets to restaurants and public
+                            spaces, manufacturing units and hotels</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 wow animate__animated animate__fadeInUp animate__six">
+                    <div class="why-card">
+                        <h3>Dynamic and</h3>
+                        <div class="d-flex align-items-center mb-2">
+                            <span class="why-card-line"></span>
+                            <h3 class="why-second-head mb-0">versatile</h3>
+                        </div>
+                        <p>
+                            PADS4 software adapts to various functions: internal communication, meeting room
+                            scheduling, hotel and hospital kiosks, transport updates, and mall wayfinding.</p>
+                    </div>
+                </div>
+
+
 
             </div>
+        </div>
+    </section>
 
-            <section class="sec-padding bg-white z-9">
-                <div class="d-sm-block z-9">
-                    <div class="continer p-0">
-                        <div class="product-banner-img position-relative">
-                            <div class="img-scroll-ht">
-                                <div class="initial-ht"></div>
-                                <div id="button-trigger">
-                                </div>
-                            </div>
-                            <div class="product-img-container">
-                                <div class="product-imgs">
-                                    <div class="product-img">
-                                        <img loading="lazy" src="./assets/products/pads4/pads4-f3.png"
-                                            alt="product image" class="img-fluid">
-                                    </div>
-                                </div>
-                                <div class="product-det">
-                                    <div class="content">
-                                        <h2>To know more</h2>
-                                        <div class="zoomIn-button">
-                                            <button>
-                                                Connect with us
-                                            </button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+    <!-- --------------------------------------------------CTA---------------------------------------- -->
+    <section class="cta">
+        <div class="container">
+            <div class="row z-9">
+                <div class="col-12">
+                    <p class="cta-text-1">Changing to a hybrid work culture?</p>
+                    <p class="cta-text-2">Make an effortless transition<br>
+                        with our AV solutions.</p>
+                    <a href="about.html" aria-label="Know about the company">
+                        <div class="banner-button1 button-hover1 cta-btn">
+                            <div class="circle-large"></div>
+                            <button>learn more</button>
+                            <div class="btn-bg-black"></div>
+                        </div>
+                    </a>
+
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- ------------------------------------------features----------------------------------- -->
+    <section id="product-feature-imgs">
+        <div class="container">
+            <div class="row">
+                <h2 class="section-title">Know The Product Capabilities</h2>
+                <div class="gallery">
+                    <div class="left">
+                        <div class="features-scroll">
                         </div>
                     </div>
-                </div>
-            </section>
+                    <div class="right">
+                        <div class="photos">
 
-            <!-- ---------------------------------------------------why-us---------------------------------- -->
-            <section class="sec-padding pt-0">
-                <div class="container">
-                    <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp">Product features
-                    </h2>
-                    <div class="row mt-md-5">
-                        <div class="col-md-4 wow animate__animated animate__fadeInUp">
-                            <div class="why-card">
-                                <h3>Message</h3>
-                                <div class="d-flex align-items-center mb-2">
-                                    <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">customisation</h3>
-                                </div>
-                                <p>The PADS4 Designer offers you the tools to design your message, add web pages, rich
-                                    text and PowerPoint presentations, animate the content as well as add video and
-                                    audio.</p>
-                            </div>
-                        </div>
-
-                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__two">
-                            <div class="why-card">
-                                <h3>Targeted audiences & </h3>
-                                <div class="d-flex align-items-center mb-2">
-                                    <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">scheduling</h3>
-                                </div>
-                                <p>With the PADS4 Scheduler, you can specify the audience, timing and duration of each
-                                    message by simply dragging and dropping your message into the calendar.</p>
-                            </div>
-                        </div>
-
-                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__three">
-                            <div class="why-card">
-                                <h3>Delivery & performance</h3>
-                                <div class="d-flex align-items-center mb-2">
-                                    <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">optimisation</h3>
-                                </div>
-                                <p>PADS4 Agent monitors the delivery and performance of your messages, while also
-                                    enabling you to remotely inspect the network, memory usage and more.</p>
-                            </div>
-                        </div>
-
-                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__four">
-                            <div class="why-card">
-                                <h3>Real-time data</h3>
-                                <div class="d-flex align-items-center mb-2">
-                                    <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">and smart tools</h3>
-                                </div>
-                                <p>Whether it's measuring footfall and streamlining customer support in retail spaces
-                                    through data or using occupancy sensors to optimise room and desk management in
-                                    offices, </p>
-                            </div>
-                        </div>
-
-                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__five">
-                            <div class="why-card">
-                                <h3>Wide industry</h3>
-                                <div class="d-flex align-items-center mb-2">
-                                    <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">applications</h3>
-                                </div>
-                                <p>From corporate offices, transport hubs and retail outlets to restaurants and public
-                                    spaces, manufacturing units and hotels</p>
-                            </div>
-                        </div>
-
-                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__six">
-                            <div class="why-card">
-                                <h3>Dynamic and</h3>
-                                <div class="d-flex align-items-center mb-2">
-                                    <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">versatile</h3>
-                                </div>
-                                <p>
-                                    PADS4 software adapts to various functions: internal communication, meeting room
-                                    scheduling, hotel and hospital kiosks, transport updates, and mall wayfinding.</p>
-                            </div>
-                        </div>
-
-
-
-                    </div>
-                </div>
-            </section>
-
-            <!-- --------------------------------------------------CTA---------------------------------------- -->
-            <section class="cta">
-                <div class="container">
-                    <div class="row z-9">
-                        <div class="col-12">
-                            <p class="cta-text-1">Changing to a hybrid work culture?</p>
-                            <p class="cta-text-2">Make an effortless transition<br>
-                                with our AV solutions.</p>
-                            <a href="about.html" aria-label="Know about the company">
-                                <div class="banner-button1 button-hover1 cta-btn">
-                                    <div class="circle-large"></div>
-                                    <button>learn more</button>
-                                    <div class="btn-bg-black"></div>
-                                </div>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
-
-            </section>
-
-            <!-- ------------------------------------------features----------------------------------- -->
-            <section id="product-feature-imgs">
-                <div class="container">
-                    <div class="row">
-                        <h2 class="section-title">Know The Product Capabilities</h2>
-                        <div class="gallery">
-                            <div class="left">
-                                <div class="features-scroll">
-                                </div>
-                            </div>
-                            <div class="right">
-                                <div class="photos">
-
-                                    <div class="each-feature-card">
-                                        <div class="container h-100">
-                                            <div class="row h-100">
-                                                <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/pads4/pads4-f1.png"
-                                                        alt="">
-                                                    <div class="content">
-                                                        <p>Easily create, share and update information on all your
-                                                            screens and make use of hundreds of sources from third
-                                                            parties to integrate real-time data such as weather, travel
-                                                            information, social media or infotainment.</p>
-                                                    </div>
-                                                </div>
+                            <div class="each-feature-card">
+                                <div class="container h-100">
+                                    <div class="row h-100">
+                                        <div class="other-cards">
+                                            <img loading="lazy" src="./assets/products/pads4/pads4-f1.png" alt="">
+                                            <div class="content">
+                                                <p>Easily create, share and update information on all your
+                                                    screens and make use of hundreds of sources from third
+                                                    parties to integrate real-time data such as weather, travel
+                                                    information, social media or infotainment.</p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="each-feature-card">
-                                        <div class="container h-100">
-                                            <div class="row h-100">
-                                                <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/pads4/pads4-f2.png"
-                                                        alt="">
-                                                    <div class="content">
-                                                        <p>With PanaCast 50 you don't have to be in the room to be at
-                                                            the heart of the meeting.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="each-feature-card">
-                                        <div class="container h-100">
-                                            <div class="row h-100">
-                                                <div class="other-cards">
-                                                    <img loading="lazy" src="./assets/products/pads4/pads4-f4.png"
-                                                        alt="">
-                                                    <div class="content">
-                                                        <p>Easily create, share and update information on all your
-                                                            screens and make use of hundreds of sources from third
-                                                            parties to integrate real-time data such as weather, travel
-                                                            information, social media or infotainment.</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
                                 </div>
                             </div>
+                            <div class="each-feature-card">
+                                <div class="container h-100">
+                                    <div class="row h-100">
+                                        <div class="other-cards">
+                                            <img loading="lazy" src="./assets/products/pads4/pads4-f2.png" alt="">
+                                            <div class="content">
+                                                <p>With PanaCast 50 you don't have to be in the room to be at
+                                                    the heart of the meeting.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="each-feature-card">
+                                <div class="container h-100">
+                                    <div class="row h-100">
+                                        <div class="other-cards">
+                                            <img loading="lazy" src="./assets/products/pads4/pads4-f4.png" alt="">
+                                            <div class="content">
+                                                <p>Easily create, share and update information on all your
+                                                    screens and make use of hundreds of sources from third
+                                                    parties to integrate real-time data such as weather, travel
+                                                    information, social media or infotainment.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
-            </section>
+            </div>
+        </div>
+    </section>
 
 
-            <!-- ---------------------------------------footer------------------------------- -->
-            <?php include 'footer.php' ?>
-            <!-- <div class="pb-5"></div> -->
-        </main>
+    <!-- ---------------------------------------footer------------------------------- -->
+    <?php include 'footer.php' ?>
+    <!-- <div class="pb-5"></div> -->
+    </main>
     </div>
 
 
@@ -519,23 +519,25 @@
     </script>
     <!-- --------------------------banner-animation------------------------- -->
     <script>
-    const bannerTimeline = gsap.timeline({
-        scrollTrigger: {
-            trigger: "#banner-trigger",
-            start: "top top",
-            end: "center center",
-            scrub: true,
-            markers: false,
-            invalidateOnRefresh: true,
-        },
-    });
-    bannerTimeline.to(
-        ".banner-product-img img", {
-            x: () => 1,
-            scale: 1.5,
-        },
-        "<"
-    );
+    if (window.innerWidth > 767) {
+        const bannerTimeline = gsap.timeline({
+            scrollTrigger: {
+                trigger: "#banner-trigger",
+                start: "top top",
+                end: "center center",
+                scrub: true,
+                markers: false,
+                invalidateOnRefresh: true,
+            },
+        });
+        bannerTimeline.to(
+            ".banner-product-img img", {
+                x: () => 1,
+                scale: 1.5,
+            },
+            "<"
+        );
+    }
     </script>
 
 </body>

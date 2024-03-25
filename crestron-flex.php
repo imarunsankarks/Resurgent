@@ -86,34 +86,40 @@
                             <div class="product-feature-img">
                                 <img loading="lazy" src="./assets/products/crestron-flex/crestron-flex-discover.webp"
                                     alt="">
-                                <div class="feature-marker-1 active" onmouseover="showFeature(1)">
+                                <div class="feature-marker-1 fmc active" onmouseover="showFeature(1)">
                                     <span>1</span>
                                     <div class="ripple"></div>
                                 </div>
-                                <div class="feature-marker-2" onmouseover="showFeature(2)">
+                                <div class="feature-marker-2 fmc" onmouseover="showFeature(2)">
                                     <span>2</span>
                                     <div class="ripple"></div>
                                 </div>
-                                <div class="feature-marker-3" onmouseover="showFeature(3)"><span>3</span>
+                                <div class="feature-marker-3 fmc" onmouseover="showFeature(3)"><span>3</span>
                                     <div class="ripple"></div>
                                 </div>
-                                <div class="feature-marker-4" onmouseover="showFeature(4)"><span>4</span>
-                                    <div class="ripple"></div>
-                                </div>
+
                                 <div class="each-feature-det f-1">
                                     <span>01</span>
                                     <div class="content">
-                                        <h3>Surface Hub Smart Camera</h3>
-                                        <p>The AI-enabled camera's aperture and ultra-wide field of view of 136 degrees,
-                                            renders everything in focus, near and far.</p>
+                                        <h3>Crestron Flex Phones with MS Teams</h3>
+                                        <p>Dedicated desktop collaboration devices ideal for private offices,
+                                            hotdesking, hoteling and phonebooths.</p>
                                     </div>
                                 </div>
                                 <div class="each-feature-det f-2">
                                     <span>02</span>
                                     <div class="content">
-                                        <h3>Second feature</h3>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, itaque! Harum,
-                                            molestias.</p>
+                                        <h3>Crestron Flex Soundbars</h3>
+                                        <p>Raise the bar with exceptional audio and video quality in huddle rooms, small
+                                            and medium meeting rooms.</p>
+                                    </div>
+                                </div>
+                                <div class="each-feature-det f-3">
+                                    <span>03</span>
+                                    <div class="content">
+                                        <h3>Crestron Flex Mini Tabletop</h3>
+                                        <p>With options for any tabletop that work from home office to huddle pace,
+                                            small rooms to boardrooms, conference rooms to multi-use spaces.</p>
                                     </div>
                                 </div>
                             </div>
@@ -513,24 +519,26 @@
     </script>
 
     <script>
-    const bannerTimeline = gsap.timeline({
-        scrollTrigger: {
-            trigger: "#banner-trigger",
-            start: "top top",
-            end: "center center",
-            scrub: true,
-            markers: false,
-            invalidateOnRefresh: true,
-        },
-    });
+    if (window.innerWidth > 767) {
+        const bannerTimeline = gsap.timeline({
+            scrollTrigger: {
+                trigger: "#banner-trigger",
+                start: "top top",
+                end: "center center",
+                scrub: true,
+                markers: false,
+                invalidateOnRefresh: true,
+            },
+        });
 
-    bannerTimeline.to(
-        ".banner-product-img img", {
-            y: () => -30,
-            scale: 1.2,
-        },
-        "<"
-    );
+        bannerTimeline.to(
+            ".banner-product-img img", {
+                y: () => -30,
+                scale: 1.2,
+            },
+            "<"
+        );
+    }
     </script>
 
 </body>

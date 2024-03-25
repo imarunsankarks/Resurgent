@@ -27,58 +27,7 @@ owl1.owlCarousel({
 
 // ----------------------------------------banner-animation------------------------------
 
-if (window.innerWidth > 0) {
-  gsap.set(".photo:not(:first-child)", {
-    x: "0%",
-    opacity: 0,
-  });
 
-  // gsap.set(".photo:first-child", {
-  //   x: "0%",
-  //   scale: 1,
-  // });
-
-  const animation = gsap.to(".photo:not(:first-child)", {
-    x: "0%",
-    opacity: 1,
-    duration: 0.1,
-    stagger: 1,
-    paused: false,
-  });
-  const scaleDownAnimation = gsap.to(".photo:nth-child(1)", {
-    scale: 1,
-    x: "0%",
-    duration: 1,
-    paused: false,
-  });
-
-  ScrollTrigger.create({
-    trigger: ".detailsWrapper",
-    start: "top top",
-    end: "bottom bottom",
-    pin: ".right",
-    animation: animation,
-    scrub: true,
-    // markers: true,
-    threshold: 1,
-    onToggle: () => {
-      scaleDownAnimation.play();
-    },
-    onToggleBack: () => {
-      scaleDownAnimation.reverse();
-    },
-  });
-
-  window.addEventListener("scroll", function () {
-    let hideCarousel = document.querySelector(".fourth-carousel");
-    if (window.scrollY > 0) {
-      hideCarousel.classList.add("op-0");
-    }
-    if (window.scrollY < 70) {
-      hideCarousel.classList.remove("op-0");
-    }
-  });
-}
 
 // -----------------------------------solutions-----------------------------------------------
 
@@ -344,6 +293,11 @@ $(window).scroll(function () {
   }
 });
 
+
+// ----------------------------------preloader---------------------------------
+
+let hasRun = false
+
 function startLoader() {
   let counterElement = document.querySelector(".preloader-counter");
   let currentValue = 0;
@@ -389,4 +343,7 @@ function startLoader() {
   }, 3000);
 }
 
-startLoader();
+if (hasRun === false) {
+  startLoader();
+  hasRun = true;
+}

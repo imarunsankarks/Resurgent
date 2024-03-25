@@ -4,7 +4,7 @@ smoothScroll("main");
 
 function smoothScroll(content, viewport, smoothness) {
 	content = gsap.utils.toArray(content)[0];
-	smoothness = smoothness || 5;
+	smoothness = smoothness || 3;
 	// console.log(gsap.utils.toArray(content));
 
 	gsap.set(viewport || content.parentNode,

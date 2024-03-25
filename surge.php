@@ -83,8 +83,8 @@
                                     personally, no matter where you are</p>
                             </div>
                             <div class="product-feature-img">
-                                <img loading="lazy" src="./assets/products/surge+/banner-2.png"
-                                    alt="" class="object-fit-contain">
+                                <img loading="lazy" src="./assets/products/surge+/banner-2.png" alt=""
+                                    class="object-fit-contain">
                                 <!-- <div class="feature-marker-1 active" onmouseover="showFeature(1)">
                                     <span>1</span>
                                     <div class="ripple"></div>
@@ -264,13 +264,13 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy"
-                                                        src="./assets/products/surge+/surge-f1.png"
+                                                    <img loading="lazy" src="./assets/products/surge+/surge-f1.png"
                                                         alt="" class="object-fit-contain">
                                                     <div class="content">
                                                         <!-- <img loading="lazy" src="./assets/logos/ouline.svg" alt=""> -->
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>Efficiently manage calls and upload digital content for seamless operations and enhanced productivity.</p>
+                                                        <p>Efficiently manage calls and upload digital content for
+                                                            seamless operations and enhanced productivity.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -280,13 +280,14 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy"
-                                                        src="./assets/products/surge+/surge-f2.png"
+                                                    <img loading="lazy" src="./assets/products/surge+/surge-f2.png"
                                                         alt="" class="object-fit-contain">
                                                     <div class="content">
                                                         <!-- <img loading="lazy" src="./assets/logos/ouline.svg" alt="">
                                                         <h3>Instant meetings on Microsoft Teams</h3> -->
-                                                        <p>Translate speech to text in over 60 languages for seamless communication and understanding across diverse linguistic backgrounds.</p>
+                                                        <p>Translate speech to text in over 60 languages for seamless
+                                                            communication and understanding across diverse linguistic
+                                                            backgrounds.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -296,13 +297,14 @@
                                         <div class="container h-100">
                                             <div class="row h-100">
                                                 <div class="other-cards">
-                                                    <img loading="lazy"
-                                                        src="./assets/products/surge+/surge-f3.png"
+                                                    <img loading="lazy" src="./assets/products/surge+/surge-f3.png"
                                                         alt="" class="object-fit-contain">
                                                     <div class="content">
 
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
-                                                        <p>Integrate web-relay for remote access, enabling control over doors and elevator floors from a distance for streamlined operations.</p>
+                                                        <p>Integrate web-relay for remote access, enabling control over
+                                                            doors and elevator floors from a distance for streamlined
+                                                            operations.</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -506,24 +508,26 @@
     </script>
 
     <script>
-    const bannerTimeline = gsap.timeline({
-        scrollTrigger: {
-            trigger: "#banner-trigger",
-            start: "top top",
-            end: "center center",
-            scrub: true,
-            markers: false,
-            invalidateOnRefresh: true,
-        },
-    });
+    if (window.innerWidth > 767) {
+        const bannerTimeline = gsap.timeline({
+            scrollTrigger: {
+                trigger: "#banner-trigger",
+                start: "top top",
+                end: "center center",
+                scrub: true,
+                markers: false,
+                invalidateOnRefresh: true,
+            },
+        });
 
-    bannerTimeline.to(
-        ".banner-product-img img", {
-            y: () => -100,
-            scale: 1.1,
-        },
-        "<"
-    );
+        bannerTimeline.to(
+            ".banner-product-img img", {
+                y: () => -100,
+                scale: 1.1,
+            },
+            "<"
+        );
+    }
     </script>
 
 </body>

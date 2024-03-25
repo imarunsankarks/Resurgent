@@ -25,7 +25,7 @@
     <link href="css/success.css" rel="stylesheet">
 
 
-    <!-- <link href="css/service.css" rel="stylesheet"> -->
+    <link href="css/responsive.css" rel="stylesheet">
 
 
 </head>
@@ -72,11 +72,11 @@
             <section class="sec-padding">
                 <div class="container">
                     <div class="row pt-4 pb-5 align-items-center sectors-head">
-                        <div class="col-6 br-1">
+                        <div class="col-md-6 br-1">
                             <h2 class="mb-0 section-title">Explore ours<br> success stories </h2>
                         </div>
-                        <div class="col-6">
-                            <p class="ps-5 mb-0">From businesses to schools and retail
+                        <div class="col-md-6">
+                            <p class="ps-md-5 mb-0">From businesses to schools and retail
                                 outlets to hospitals, our
                                 audiovisual solutions can be customised to meet the specific
                                 requirements of
@@ -85,7 +85,7 @@
 
                     </div>
                     <div class="row align-items-center g-5">
-                        <div class="col-6">
+                        <div class="col-md-6">
                             <div class="stories-card">
                                 <img loading="lazy" src="./assets/home/banner.webp" alt="">
                                 <div class="content">
@@ -96,7 +96,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-6">
+                        <div class="col-md-6">
                             <div class="stories-card">
                                 <img loading="lazy" src="./assets/home/banner.webp" alt="">
                                 <div class="content">

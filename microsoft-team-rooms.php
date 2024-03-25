@@ -77,14 +77,16 @@
                                                     <img loading="lazy" src="./assets/common/resurgent.webp" alt="">
                                                 </div>
                                                 <div class="heading">
-                                                    <h1>Upgrade hybrid meetings with <span>Microsoft Teams Rooms</span>
+                                                    <h1>Upgrade hybrid meetings with <span>Microsoft Teams
+                                                            Rooms</span>
                                                     </h1>
                                                     <svg width="266" height="12" viewBox="0 0 266 12" fill="none"
                                                         xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M0 0L266 12H0V0Z" fill="#FFDC60"></path>
                                                     </svg>
                                                 </div>
-                                                <p>Facilitate seamless collaboration between remote and in-office team
+                                                <p>Facilitate seamless collaboration between remote and in-office
+                                                    team
                                                     members through a comprehensive meeting room solution, ensuring
                                                     visibility, audibility, and full participation regardless of
                                                     location.
@@ -129,8 +131,10 @@
                                                     class="img-fluid" alt="">
                                             </div>
                                             <h3 class="section-sub-heading">Inclusive and interactive meetings</h3>
-                                            <p>Ensure visibility, audibility, and full participation for all, regardless
-                                                of location, ensuring everyone can contribute effectively to meetings
+                                            <p>Ensure visibility, audibility, and full participation for all,
+                                                regardless
+                                                of location, ensuring everyone can contribute effectively to
+                                                meetings
                                                 from anywhere.</p>
                                             <a href="https://www.microsoft.com/en-in/microsoft-teams/microsoft-teams-rooms"
                                                 target="blank">View details &nbsp; <i
@@ -147,7 +151,8 @@
                                             </div>
                                             <h3 class="section-sub-heading">Easy to use for all</h3>
                                             <p>Maximize efficiency with seamless, hassle-free meeting experiences,
-                                                ensuring every interaction is consistent and productive, enabling you to
+                                                ensuring every interaction is consistent and productive, enabling
+                                                you to
                                                 make the most of your time.</p>
                                             <a href="https://www.microsoft.com/en-in/microsoft-teams/microsoft-teams-rooms"
                                                 target="blank">View details &nbsp; <i
@@ -164,7 +169,8 @@
                                             </div>
                                             <h3 class="section-sub-heading">Flexible</h3>
                                             <p>Teams Rooms accommodate diverse meeting types and spaces with a broad
-                                                selection of certified devices, ensuring versatile support for various
+                                                selection of certified devices, ensuring versatile support for
+                                                various
                                                 requirements.</p>
                                             <a href="https://www.microsoft.com/en-in/microsoft-teams/microsoft-teams-rooms"
                                                 target="blank">View details &nbsp; <i
@@ -259,12 +265,14 @@
                         </div>
                         <div class="col-md-4 brand-feature-card">
                             <h3>Easy to use for all</h3>
-                            <p>Deliver consistent Teams experiences designed to make collaboration easy and hassle-free.
+                            <p>Deliver consistent Teams experiences designed to make collaboration easy and
+                                hassle-free.
                             </p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
                             <h3>Flexible</h3>
-                            <p>Turn any shared space into a Teams Room with a wide selection of devices and features to
+                            <p>Turn any shared space into a Teams Room with a wide selection of devices and features
+                                to
                                 fit every need.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
@@ -292,12 +300,13 @@
                 <div class="container">
                     <h2 class="section-title mb-5 text-center">Solutions that make a difference</h2>
                     <div class="row justify-content-center g-5">
-                        <div class="col-3">
+                        <div class="col-lg-3 col-md-6">
                             <a href="">
                                 <div class="each-brand-solutions cisco">
                                     <div class="content z-9">
                                         <img loading="lazy" src="./assets/logos/partners/cisco.webp" alt="">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit
+                                            natus
                                             expedita
                                             ipsam?</p>
                                         <a href="">Know more</a>
@@ -305,12 +314,13 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-3">
+                        <div class="col-lg-3 col-md-6">
                             <a href="">
                                 <div class="each-brand-solutions jabra">
                                     <div class="content z-9">
                                         <img loading="lazy" src="./assets/logos/partners/jabra.png" alt="Jabra Logo">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit
+                                            natus
                                             expedita
                                             ipsam?</p>
                                         <a href="">Know more</a>
@@ -318,12 +328,13 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-3">
+                        <div class="col-lg-3 col-md-6">
                             <a href="">
                                 <div class="each-brand-solutions cisco">
                                     <div class="content z-9">
                                         <img loading="lazy" src="./assets/logos/partners/logitech-c.webp" alt="">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit
+                                            natus
                                             expedita
                                             ipsam?</p>
                                         <a href="">Know more</a>
@@ -331,12 +342,13 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-3">
+                        <div class="col-lg-3 col-md-6">
                             <a href="">
                                 <div class="each-brand-solutions jabra">
                                     <div class="content z-9">
                                         <img loading="lazy" src="./assets/logos/partners/jabra.png" alt="Jabra Logo">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit natus
+                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit
+                                            natus
                                             expedita
                                             ipsam?</p>
                                         <a href="">Know more</a>

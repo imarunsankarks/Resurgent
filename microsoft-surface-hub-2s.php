@@ -104,7 +104,8 @@
                                     <span>01</span>
                                     <div class="content">
                                         <h3>Palm rejection</h3>
-                                        <p>Technology can distinguish between intentional touch inputs and unintentional inputs, for a natural writing experience.</p>
+                                        <p>Technology can distinguish between intentional touch inputs and unintentional
+                                            inputs, for a natural writing experience.</p>
                                     </div>
                                 </div>
                                 <div class="each-feature-det f-2">
@@ -119,7 +120,8 @@
                                     <span>03</span>
                                     <div class="content">
                                         <h3>Digital inking</h3>
-                                        <p>A natural writing and drawing experience helps you maintain focus and allows for multi-user inputs.</p>
+                                        <p>A natural writing and drawing experience helps you maintain focus and allows
+                                            for multi-user inputs.</p>
                                     </div>
                                 </div>
                                 <div class="each-feature-det f-4">
@@ -534,26 +536,28 @@
         });
     });
     </script>
-    <!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script> -->
     <script>
-    const bannerTimeline = gsap.timeline({
-        scrollTrigger: {
-            trigger: "#banner-trigger",
-            start: "top top",
-            end: "center center",
-            scrub: true,
-            markers: false,
-            invalidateOnRefresh: true,
-        },
-    });
+    if (window.innerWidth > 767) {
+        const bannerTimeline = gsap.timeline({
+            scrollTrigger: {
+                trigger: "#banner-trigger",
+                start: "top top",
+                end: "center center",
+                scrub: true,
+                markers: false,
+                invalidateOnRefresh: true,
+            },
+        });
 
-    bannerTimeline.to(
-        ".banner-product-img img", {
-            y: () => 300,
-            scale: 2,
-        },
-        "<"
-    );
+        bannerTimeline.to(
+            ".banner-product-img img", {
+                y: () => 300,
+                scale: 2,
+            },
+            "<"
+        );
+
+    }
     </script>
 
 </body>

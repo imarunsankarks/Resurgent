@@ -44,7 +44,7 @@
                         <div class="row g-5 align-items-center justify-content-center">
                             <div class="col-lg-7">
                                 <div class="banner-product-img">
-                                    <img loading="lazy" src="./assets/products/ms-surface-hub/hub-2s.webp" alt=""
+                                    <img loading="lazy" src="./assets/products/samsung-flip/banner.avif" alt=""
                                         class="wow animate__animated animate__zoomIn">
                                 </div>
                             </div>
@@ -84,38 +84,15 @@
                                     interactive display and collaboration tools.</p>
                             </div>
                             <div class="product-feature-img">
-                                <img loading="lazy" src="./assets/products/ms-surface-hub/microsoft-surface-hub.webp"
-                                    alt="">
-                                <div class="feature-marker-1 active" onmouseover="showFeature(1)">
-                                    <span>1</span>
-                                    <div class="ripple"></div>
-                                </div>
-                                <div class="feature-marker-2" onmouseover="showFeature(2)">
-                                    <span>2</span>
-                                    <div class="ripple"></div>
-                                </div>
-                                <div class="feature-marker-3" onmouseover="showFeature(3)"><span>3</span>
-                                    <div class="ripple"></div>
-                                </div>
-                                <div class="feature-marker-4" onmouseover="showFeature(4)"><span>4</span>
-                                    <div class="ripple"></div>
-                                </div>
+                                <img loading="lazy" src="./assets/products/samsung-flip/protection.avif" alt="">
                                 <div class="each-feature-det f-1">
-                                    <span>01</span>
                                     <div class="content">
-                                        <h3>Surface Hub Smart Camera</h3>
-                                        <p>The AI-enabled camera's aperture and ultra-wide field of view of 136 degrees,
-                                            renders everything in focus, near and far.</p>
+                                        <h3>Connect from anywhere</h3>
+                                        <p>The Samsung Flip enables remote PC connection, eliminating extra devices, and
+                                            supports Bluetooth connection for direct input.</p>
                                     </div>
                                 </div>
-                                <div class="each-feature-det f-2">
-                                    <span>02</span>
-                                    <div class="content">
-                                        <h3>Second feature</h3>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, itaque! Harum,
-                                            molestias.</p>
-                                    </div>
-                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -532,24 +509,26 @@
     </script>
 
     <script>
-    const bannerTimeline = gsap.timeline({
-        scrollTrigger: {
-            trigger: "#banner-trigger",
-            start: "top top",
-            end: "center center",
-            scrub: true,
-            markers: false,
-            invalidateOnRefresh: true,
-        },
-    });
+    if (window.innerWidth > 767) {
+        const bannerTimeline = gsap.timeline({
+            scrollTrigger: {
+                trigger: "#banner-trigger",
+                start: "top top",
+                end: "center center",
+                scrub: true,
+                markers: false,
+                invalidateOnRefresh: true,
+            },
+        });
 
-    bannerTimeline.to(
-        ".banner-product-img img", {
-            y: () => 300,
-            scale: 2,
-        },
-        "<"
-    );
+        bannerTimeline.to(
+            ".banner-product-img img", {
+                y: () => 300,
+                scale: 2,
+            },
+            "<"
+        );
+    }
     </script>
 
 </body>

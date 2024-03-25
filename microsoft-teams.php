@@ -44,7 +44,7 @@
                         <div class="row g-5 align-items-center justify-content-center">
                             <div class="col-lg-7">
                                 <div class="banner-product-img">
-                                    <img loading="lazy" src="./assets/products/ms-teams/ms-teams-banner.avif" alt=""
+                                    <img loading="lazy" src="./assets/products/ms-teams/ms-teams-banner.webp" alt=""
                                         class=" wow animate__animated animate__zoomIn">
                                 </div>
                             </div>
@@ -83,7 +83,8 @@
                                     meetings and make collaborations seamless.</p>
                             </div>
                             <div class="product-feature-img">
-                                <img loading="lazy" src="./assets/products/ms-teams/ms-teams-discover.avif" alt="" class="object-fit-contain">
+                                <img loading="lazy" src="./assets/products/ms-teams/ms-teams-discover.avif" alt=""
+                                    class="object-fit-contain">
                                 <!-- <div class="feature-marker-1 active" onmouseover="showFeature(1)">
                                     <span>1</span>
                                     <div class="ripple"></div>
@@ -99,21 +100,13 @@
                                     <div class="ripple"></div>
                                 </div> -->
                                 <div class="each-feature-det f-1">
-                                    <span>01</span>
                                     <div class="content">
-                                        <h3>Surface Hub Smart Camera</h3>
-                                        <p>The AI-enabled camera's aperture and ultra-wide field of view of 136 degrees,
-                                            renders everything in focus, near and far.</p>
+                                        <h3>Choose a new virtual background for your meeting</h3>
+                                        <p>Create a professional background, express yourself, and avoid interruptions
+                                            so you can keep the focus on the conversation.</p>
                                     </div>
                                 </div>
-                                <div class="each-feature-det f-2">
-                                    <span>02</span>
-                                    <div class="content">
-                                        <h3>Second feature</h3>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, itaque! Harum,
-                                            molestias.</p>
-                                    </div>
-                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -260,7 +253,8 @@
                                             <div class="row h-100">
                                                 <div class="other-cards">
                                                     <img loading="lazy"
-                                                        src="./assets/products/ms-teams/ms-teams-phone.avif" alt="" class="object-fit-contain">
+                                                        src="./assets/products/ms-teams/ms-teams-phone.avif" alt=""
+                                                        class="object-fit-contain">
                                                     <div class="content">
                                                         <p>With the help of Copilot, add generative AI capabilities to
                                                             phone calls to get real-time summarization and insights.</p>
@@ -274,7 +268,8 @@
                                             <div class="row h-100">
                                                 <div class="other-cards">
                                                     <img loading="lazy"
-                                                        src="./assets/products/ms-teams/ms-teams-call.avif" alt="" class="object-fit-contain">
+                                                        src="./assets/products/ms-teams/ms-teams-call.avif" alt=""
+                                                        class="object-fit-contain">
                                                     <div class="content">
                                                         <p>Connect with your team, customers, and partners with voice
                                                             and video calls from a Teams chat, the Calls app, or the
@@ -289,7 +284,8 @@
                                             <div class="row h-100">
                                                 <div class="other-cards">
                                                     <img loading="lazy"
-                                                        src="./assets/products/ms-teams/ms-teams-cc.avif" alt="" class="object-fit-contain">
+                                                        src="./assets/products/ms-teams/ms-teams-cc.avif" alt=""
+                                                        class="object-fit-contain">
                                                     <div class="content">
 
                                                         <!-- <h3>Microsoft Whiteboard-enabled</h3> -->
@@ -498,23 +494,26 @@
     </script>
     <!-- --------------------------banner-animation------------------------- -->
     <script>
-    const bannerTimeline = gsap.timeline({
-        scrollTrigger: {
-            trigger: "#banner-trigger",
-            start: "top top",
-            end: "center center",
-            scrub: true,
-            markers: false,
-            invalidateOnRefresh: true,
-        },
-    });
-    bannerTimeline.to(
-        ".banner-product-img img", {
-            y: () => 20,
-            scale: 1.3,
-        },
-        "<"
-    );
+    if (window.innerWidth > 767) {
+
+        const bannerTimeline = gsap.timeline({
+            scrollTrigger: {
+                trigger: "#banner-trigger",
+                start: "top top",
+                end: "center center",
+                scrub: true,
+                markers: false,
+                invalidateOnRefresh: true,
+            },
+        });
+        bannerTimeline.to(
+            ".banner-product-img img", {
+                y: () => 20,
+                scale: 1.3,
+            },
+            "<"
+        );
+    }
     </script>
 
 </body>
