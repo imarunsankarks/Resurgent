@@ -154,11 +154,13 @@
                                 <div class="product-det">
                                     <div class="content">
                                         <h2>To know more</h2>
-                                        <div class="zoomIn-button">
-                                            <button>
-                                                Connect with us
-                                            </button>
-                                        </div>
+                                        <a href="contact.php" target="_blank">
+                                            <div class="zoomIn-button">
+                                                <button>
+                                                    Connect with us
+                                                </button>
+                                            </div>
+                                        </a>
                                     </div>
                                 </div>
                             </div>

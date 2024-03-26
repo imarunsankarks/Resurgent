@@ -6,7 +6,7 @@
                 <div class="lets-talk">
                     <div class="text">
                     </div>
-                    <a href="contact.php" target="_blank" class="footer-enquire">Enquire Now &nbsp; <i
+                    <a href="contact.php" class="footer-enquire">Enquire Now &nbsp; <i
                             class="fal fa-arrow-right"></i></a>
                 </div>
                 <div class="connect-with-us my-5">
