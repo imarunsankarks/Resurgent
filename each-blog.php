@@ -145,7 +145,7 @@
 
                     </div> -->
                     <div class="row align-items-center gx-5">
-                        <h2 class="section-title">Related Blogs</h2>
+                        <h2 class="section-title">Related blogs</h2>
                         <div class="col-lg-4 col-md-6">
                             <div class="blogs-card">
                                 <div class="date">January 03, 2024</div>

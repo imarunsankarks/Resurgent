@@ -289,8 +289,9 @@
 
 
 .device-details .content a {
+  display: none;
   margin-top: 25px;
-  display: block;
+  /* display: block; */
   width: 100%;
   color: var(--theme-blue);
   font-size: 16px;
@@ -471,12 +472,22 @@
 }
 
 #brand-solutions .each-brand-solutions.cisco{
-  background: url(../assets/brands/ms-team-rooms/banner.png) no-repeat center / cover;
+  background: url(../assets/brands/cisco/banner.avif) no-repeat center / cover;
 }
 
 #brand-solutions .each-brand-solutions.jabra{
-  background: url(../assets/products/airserver/airserver-f1.jpg) no-repeat center / cover;
+  background: url(../assets/brands/jabra/jabra-banner.webp) no-repeat center / cover;
+  background-position: 100%;
 
+}
+
+#brand-solutions .each-brand-solutions.logitech{
+  background: url(../assets/brands/logitech/logitech-banner.webp) no-repeat center / cover;
+  background-position: 0%;
+}
+#brand-solutions .each-brand-solutions.yealink{
+  background: url(../assets/brands/yealink/banner.png) no-repeat center / cover;
+  background-position: 60%;
 }
 
 

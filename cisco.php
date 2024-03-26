@@ -49,13 +49,11 @@
                                 <div class="container h-100">
                                     <div class="row h-100 w-mob-100">
                                         <div class="second-card">
-                                            <div class="content">
-                                                <p>Microsoft Surface Hub 2S is a versatile tool designed for
-                                                    teamwork that transcends boundaries. The interactive
-                                                    whiteboard doubles up as a screen for instant meetings,
-                                                    enables collaboration across devices and creation via
-                                                    Microsoft 365, and applies the latest technology to optimize
-                                                    sound and display.</p>
+                                            <div class="content z-9">
+                                                <video autoplay muted loop class="z-9">
+                                                    <source src="./assets/brands/cisco/cisco-banner.m4v"
+                                                        type="video/mp4">
+                                                </video>
                                             </div>
                                         </div>
                                     </div>
@@ -90,15 +88,9 @@
                                                 <p>Flexible, codec-powered video bar appliance for high-quality video
                                                     conferencing and content sharing in small rooms and huddle spaces.
                                                 </p>
-                                                <a href="about.html" aria-label="Know about the company">
-                                                    <div class="banner-button1 button-hover1">
-                                                        <div class="circle-large"></div>
-                                                        <button>Contact Us</button>
-                                                        <div class="btn-bg-black"></div>
-                                                    </div>
-                                                </a>
+
                                             </div>
-                                            <!-- <img loading="lazy" src="./assets/home/banner.jpg" alt="" class="second-img"> -->
+
 
                                         </div>
                                     </div>
@@ -227,17 +219,17 @@
             </section>
 
             <!-- --------------------------------------------------CTA---------------------------------------- -->
-            <section class="cta">
+            <section class="cta z-9">
                 <div class="container">
                     <div class="row z-9">
                         <div class="col-12">
                             <p class="cta-text-1">Changing to a hybrid work culture?</p>
                             <p class="cta-text-2">Make an effortless transition<br>
                                 with our AV solutions.</p>
-                            <a href="about.html" aria-label="Know about the company">
+                            <a href="contact.php" target="_blank" aria-label="Know about the company">
                                 <div class="banner-button1 button-hover1 cta-btn">
                                     <div class="circle-large"></div>
-                                    <button>learn more</button>
+                                    <button>Connect with us</button>
                                     <div class="btn-bg-black"></div>
                                 </div>
                             </a>
@@ -245,70 +237,53 @@
                         </div>
                     </div>
                 </div>
-
             </section>
 
             <section class="sec-padding" id="brand-features">
                 <div class="container">
                     <div class="row">
-                        <div class="feature-title pb-4">
-                            <h2>Lorem ipsum</h2>
-                            <h2>Lorem ipsum</h2>
-                        </div>
+                        <!-- <div class="feature-title pb-4">
+                            <h2>Maximize Teams Room</h2>
+                            <h2>Efficiency & Engagement</h2>
+                        </div> -->
+                        <h2 class="section-title text-md-center pb-md-4">Maximize teams room efficiency & engagement
+                        </h2>
                         <div class="col-md-4 brand-feature-card">
                             <h3>A familiar Microsoft Teams experience</h3>
                             <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
                                 organization.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>Breath-taking camera views</h3>
+                            <p>Leverage individual framing and optimized camera views to create more equitable,
+                                true-to-life meetings.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>No distractions, just crisp sound</h3>
+                            <p>Block out unwanted noises and enjoy crystal-clear sound to ensure frictionless and
+                                productive collaboration.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>Get the Webex meetings you love</h3>
+                            <p>Join feature-rich Webex meetings and access third-party apps from Microsoft Teams Rooms
+                                mode.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>Enhance workspace management</h3>
+                            <p>Streamline management with a single view of all devices and get rich workspace metrics in
+                                Control Hub.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>A Intuitive controls at your fingertips</h3>
+                            <p>ExJoin your next meeting with a single touch and benefit from built-in room sensors to
+                                track occupancy and workspace conditions.</p>
                         </div>
                     </div>
                 </div>
 
             </section>
 
-            <section class="sec-padding d-none">
-                <div class="container">
-                    <div class="brand-cta">
-                        <div class="row align-items-center">
-                            <div class="col-6">
-                                <div class="brand-btn z-9">
-                                    <button>Connect Us</button>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <h2 class="brand-cta-title z-9">Lorem ipsum</h2>
-                                <p>Pioneering The Future In Integrated Audiovisual Communication</p>
-                            </div>
 
-                        </div>
-                    </div>
-                </div>
-
-            </section>
 
             <!-- ---------------------------------------footer------------------------------- -->
             <?php include 'footer.php' ?>

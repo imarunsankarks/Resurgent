@@ -56,11 +56,7 @@
                                         conferencing is crucial. PanaCast Series webcams facilitate safe, productive
                                         meetings adaptable to any 'new normal,' optimized for leading UC platforms like
                                         Microsoft Teams, Zoom, and Google Meet.</p>
-                                    <div class="banner-button1 button-hover1 cta-btn">
-                                        <div class="circle-large"></div>
-                                        <button>learn more</button>
-                                        <div class="btn-bg-black"></div>
-                                    </div>
+                                   
                                     <div class="scroll">
                                         <img loading="lazy" src="./assets/common/banner-arrow.svg" alt="">
                                         <p>scroll</p>
@@ -156,11 +152,14 @@
                                 <div class="product-det">
                                     <div class="content">
                                         <h2>To know more</h2>
-                                        <div class="zoomIn-button">
-                                            <button>
-                                                Connect with us
-                                            </button>
-                                        </div>
+                                        <a href="contact.php" target="_blank">
+                                            <div class="zoomIn-button">
+                                                <button>
+                                                    Connect with us
+                                                </button>
+                                            </div>
+
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -180,7 +179,7 @@
                                 <h3>Flexible</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Use</h3>
+                                    <h3 class="why-second-head mb-0">use</h3>
                                 </div>
                                 <p>Work seamlessly with your team, no matter where they are located, ensuring instant
                                     collaboration.</p>
@@ -189,7 +188,7 @@
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__two">
                             <div class="why-card">
-                                <h3>intelligent </h3>
+                                <h3>Intelligent </h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">180deg</h3>
@@ -201,10 +200,10 @@
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__three">
                             <div class="why-card">
-                                <h3>For All </h3>
+                                <h3>For all </h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Meeting Rooms</h3>
+                                    <h3 class="why-second-head mb-0">meeting rooms</h3>
                                 </div>
                                 <p>From Individual use to Boardrooms, Jabra Panacast webcam gives you the edge you need
                                     visually.</p>
@@ -213,7 +212,7 @@
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__four">
                             <div class="why-card">
-                                <h3>intelligent AI-enabled</h3>
+                                <h3>Intelligent AI-enabled</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
                                     <h3 class="why-second-head mb-0">video conferencing</h3>
@@ -254,17 +253,17 @@
             </section>
 
             <!-- --------------------------------------------------CTA---------------------------------------- -->
-            <section class="cta">
+            <section class="cta z-9">
                 <div class="container">
                     <div class="row z-9">
                         <div class="col-12">
                             <p class="cta-text-1">Changing to a hybrid work culture?</p>
                             <p class="cta-text-2">Make an effortless transition<br>
                                 with our AV solutions.</p>
-                            <a href="about.html" aria-label="Know about the company">
+                            <a href="contact.php" target="_blank" aria-label="Know about the company">
                                 <div class="banner-button1 button-hover1 cta-btn">
                                     <div class="circle-large"></div>
-                                    <button>learn more</button>
+                                    <button>Connect with us</button>
                                     <div class="btn-bg-black"></div>
                                 </div>
                             </a>
@@ -272,14 +271,13 @@
                         </div>
                     </div>
                 </div>
-
             </section>
 
             <!-- ------------------------------------------features----------------------------------- -->
             <section id="product-feature-imgs">
                 <div class="container">
                     <div class="row">
-                        <h2 class="section-title">Know The Product Capabilities</h2>
+                        <h2 class="section-title">Know the product capabilities</h2>
                         <div class="gallery">
                             <div class="left">
                                 <div class="features-scroll">

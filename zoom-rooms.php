@@ -49,10 +49,10 @@
                                 <div class="container h-100">
                                     <div class="row h-100 w-mob-100">
                                         <div class="second-card ms-team-rooms">
-                                            <div class="content">
-                                                <video class="" disableremoteplayback="" webkit-playsinline=""
-                                                    playsinline=""
-                                                    src="blob:https://www.zoom.com/2e4f9b61-80e4-4636-87cc-c2a17f475e30"></video>
+                                            <div class="content z-9">
+                                                <video autoplay muted loop class="z-9">
+                                                    <source src="./assets/brands/zoom-rooms/zoom.m4v" type="video/mp4">
+                                                </video>
                                             </div>
                                             <!-- <div class="ms-circle-1"></div> -->
                                             <!-- <div class="ms-circle-2"></div> -->
@@ -87,13 +87,7 @@
                                                     seamless interaction between in-person and remote participants.
                                                     Simple meeting initiation and content sharing.
                                                 </p>
-                                                <a href="about.html" aria-label="Know about the company">
-                                                    <div class="banner-button1 button-hover1">
-                                                        <div class="circle-large"></div>
-                                                        <button>Contact Us</button>
-                                                        <div class="btn-bg-black"></div>
-                                                    </div>
-                                                </a>
+                                             
                                             </div>
                                             <!-- <img loading="lazy" src="./assets/home/banner.jpg" alt="" class="second-img"> -->
 
@@ -225,10 +219,10 @@
                             <p class="cta-text-1">Changing to a hybrid work culture?</p>
                             <p class="cta-text-2">Make an effortless transition<br>
                                 with our AV solutions.</p>
-                            <a href="about.html" aria-label="Know about the company">
+                            <a href="contact.php" target="_blank" aria-label="Know about the company">
                                 <div class="banner-button1 button-hover1 cta-btn">
                                     <div class="circle-large"></div>
-                                    <button>learn more</button>
+                                    <button>Connect with us</button>
                                     <div class="btn-bg-black"></div>
                                 </div>
                             </a>
@@ -236,16 +230,12 @@
                         </div>
                     </div>
                 </div>
-
             </section>
 
             <section class="sec-padding" id="brand-features">
                 <div class="container z-9">
                     <div class="row">
-                        <div class="feature-title pb-4">
-                            <!-- <h2>Zoom</h2> -->
-                            <h2>Zoom Core Features</h2>
-                        </div>
+                        <h2 class="section-title text-md-center pb-md-4">Zoom core features</h2>
                         <div class="col-md-4 brand-feature-card">
                             <h3>HD Video and Audio</h3>
                             <p>Flawless, high-definition video across desktop, mobile, and room systems</p>
@@ -265,14 +255,12 @@
                             <p>Support for standards based SIP/H.323 hardware endpoints</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>AI meeting insights</h3>
+                            <p>Zoom Rooms offer AI-driven analytics for valuable meeting performance insights.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>Easy room scheduling</h3>
+                            <p>Manage meeting rooms directly from the Zoom interface for streamlined scheduling.</p>
                         </div>
                     </div>
                 </div>

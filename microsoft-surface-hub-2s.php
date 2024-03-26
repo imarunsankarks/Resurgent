@@ -56,11 +56,7 @@
                                         tool breaking boundaries. It's an interactive whiteboard doubling as a meeting
                                         screen, promoting cross-device collaboration with Microsoft 365, and leveraging
                                         cutting-edge tech for optimal sound and display.</p>
-                                    <div class="banner-button1 button-hover1 cta-btn">
-                                        <div class="circle-large"></div>
-                                        <button>learn more</button>
-                                        <div class="btn-bg-black"></div>
-                                    </div>
+                                    
                                     <div class="scroll">
                                         <img loading="lazy" src="./assets/common/banner-arrow.svg" alt="">
                                         <p>scroll</p>
@@ -179,10 +175,10 @@
                     <div class="row mt-md-5">
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__one">
                             <div class="why-card">
-                                <h3>Microsoft Whiteboard</h3>
+                                <h3>Microsoft whiteboard</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Enabled</h3>
+                                    <h3 class="why-second-head mb-0">enabled</h3>
                                 </div>
                                 <p>Microsoft Whiteboard, a collaborative digital canvas with a best-in-class pen inking
                                     experience, helps teams visualise ideas and collaborate.</p>
@@ -194,7 +190,7 @@
                                 <h3>Instant</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Meetings</h3>
+                                    <h3 class="why-second-head mb-0">meetings</h3>
                                 </div>
                                 <p>Purpose-built Microsoft Teams loads automatically, allowing approved participants to
                                     sign in without waiting for authentication.</p>
@@ -255,17 +251,17 @@
             </section>
 
             <!-- --------------------------------------------------CTA---------------------------------------- -->
-            <section class="cta">
+            <section class="cta z-9">
                 <div class="container">
                     <div class="row z-9">
                         <div class="col-12">
                             <p class="cta-text-1">Changing to a hybrid work culture?</p>
                             <p class="cta-text-2">Make an effortless transition<br>
                                 with our AV solutions.</p>
-                            <a href="about.html" aria-label="Know about the company">
+                            <a href="contact.php" target="_blank" aria-label="Know about the company">
                                 <div class="banner-button1 button-hover1 cta-btn">
                                     <div class="circle-large"></div>
-                                    <button>learn more</button>
+                                    <button>Connect with us</button>
                                     <div class="btn-bg-black"></div>
                                 </div>
                             </a>
@@ -273,14 +269,13 @@
                         </div>
                     </div>
                 </div>
-
             </section>
 
             <!-- ------------------------------------------features----------------------------------- -->
             <section id="product-feature-imgs">
                 <div class="container">
                     <div class="row">
-                        <h2 class="section-title">Know The Product Capabilities</h2>
+                        <h2 class="section-title">Know the product capabilities</h2>
                         <div class="gallery">
                             <div class="left">
                                 <div class="features-scroll">

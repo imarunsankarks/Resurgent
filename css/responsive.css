@@ -49,6 +49,9 @@
     top: 37%;
     right: 23%;
   }
+  footer .lets-talk .text p {
+    font-size: 65px;
+}
 }
 @media screen and (min-width: 1200px) {
   .contact-form-content {
@@ -63,6 +66,9 @@
   .why-details .section-sub-heading::before {
     left: -37px;
   }
+  footer .lets-talk .text p {
+    font-size: 55px;
+}
   .affiliation-card {
     padding: 20px;
   }
@@ -165,6 +171,13 @@
   .product-feature-img .feature-marker-2 {
     top: 15%;
     left: 29%;
+  }
+}
+
+@media screen and (min-width:991px){
+  .footer-link-p-correction{
+    padding: 0;
+    padding-left: 50px;
   }
 }
 
@@ -997,6 +1010,9 @@
   .video-psni {
     height: 100%;
   }
+  #header nav .navigation-list li a {
+    color: var(--theme-blue);
+  }
 }
 
 @media screen and (max-width: 766px) and (min-width: 567px) {
@@ -1209,7 +1225,8 @@
   }
   .sector-banner .sector-circle-1 {
     top: -21%;
-    left: -30%;
+    right: 10%;
+    left: unset;
   }
   .sector-banner-left .sector-circle-2 {
     right: 10%;
@@ -1292,4 +1309,17 @@
     top: 32%;
     left: 31%;
   }
+  #brand-features .brand-feature-card {
+    padding: 40px 12px;
+  }
+  .horizontal .card .card-intro {
+    gap: 8px;
+  }
+  .horizontal .card:first-child h2 {
+    font-weight: 600;
+}
+.horizontal .card:first-child h3 {
+  font-weight: 600;
+
+}
 }

@@ -38,13 +38,8 @@
   font-weight: 600;
 }
 
-.wrapper_1 .circle1,
-.wrapper_1 .circle2,
-.wrapper_1 .circle3,
-.wrapper_1 .circle4,
-.wrapper_1 .circle5,
-.wrapper_1 .circle6 {
-  background: var(--theme-blue);
+.wrapper_1 .circle {
+  background: #ffffff;
 }
 
 .wrapper_1 .circle6 {

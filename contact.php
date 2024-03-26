@@ -77,18 +77,32 @@
                             <div class="contact-form-content">
                                 <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Connect
                                     with us</h2>
-                                <p class="mb-0 wow animate__animated animate__fadeInUp animate__two">At the heart of our
-                                    strategy lies a close collaboration with you. We
-                                    understand your objectives, aspirations, and unique vision to create a customized
-                                    design
-                                    strategy. This collaborative process is more than just a partnership, it is a
-                                    synergy of
-                                    ideas, a fusion of creativity, and a shared journey towards achieving remarkable
-                                    outcomes.</p>
+                                <p class="mb-0 wow animate__animated animate__fadeInUp animate__two">At the core of our
+                                    approach is a deep collaboration with you. We grasp your goals, dreams, and
+                                    individual vision to craft a tailored AV strategy. This process transcends
+                                    partnership; it's a harmonization of ideas, a blend of innovation, and a collective
+                                    voyage towards extraordinary results.</p>
                                 <ul>
-                                    <li><i class="fab fa-linkedin-in"></i></li>
-                                    <li><i class="fab fa-facebook-f"></i></li>
-                                    <li><i class="fab fa-instagram"></i></li>
+                                    <li>
+                                        <a href="https://www.linkedin.com/company/resurgent-av-integrators-pvt-ltd"
+                                            target="_blank">
+                                            <i class="fab fa-linkedin-in"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.facebook.com/resurgent.co.in/" target="_blank">
+                                            <i class="fab fa-facebook-f"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.instagram.com/resurgent_av/" target="_blank">
+                                            <i class="fab fa-instagram"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.youtube.com/channel/UC8gaRQafvGFIn4mVEC6ulGw"
+                                            target="_blank"><i class="fab fa-youtube"></i></a>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
@@ -104,21 +118,24 @@
                                     required class="form-field">
                                 <select id="solutions" name="solutions" required class="form-field form-select">
                                     <option value="" disabled selected>Select a solution</option>
-                                    <option value="solution1">Solution 1</option>
-                                    <option value="solution2">Solution 2</option>
-                                    <option value="solution3">Solution 3</option>
-                                    <option value="solution4">Solution 4</option>
-                                    <option value="solution5">Solution 5</option>
-                                    <option value="solution6">Solution 6</option>
+                                    <option value="Coporate">Coporate</option>
+                                    <option value="Education">Education</option>
+                                    <option value="Healthcare">Healthcare</option>
+                                    <option value="PublicSector">Public Sector</option>
+                                    <option value="Retail">Retail</option>
+                                    <option value="Residential">Residential</option>
                                 </select>
                                 <select id="product" name="product" required class="form-field form-select">
                                     <option value="" disabled selected>Select a product</option>
-                                    <option value="product1">Product 1</option>
-                                    <option value="product2">Product 2</option>
-                                    <option value="product3">Product 3</option>
-                                    <option value="product4">Product 4</option>
-                                    <option value="product5">Product 5</option>
-                                    <option value="product6">Product 6</option>
+                                    <option value="Microsoft Surface Hub 2S">Microsoft Surface Hub 2S</option>
+                                    <option value="Samsung Flip">Samsung Flip</option>
+                                    <option value="Microsoft Teams">Microsoft Teams</option>
+                                    <option value="Jabra Panacast">Jabra Panacast</option>
+                                    <option value="PADS4 Digital Signage">PADS4 Digital Signage</option>
+                                    <option value="Crestron Flex">Crestron Flex</option>
+                                    <option value="Surge+">Surge+</option>
+                                    <option value="AirServer">AirServer</option>
+
                                 </select>
                                 <textarea id="message" name="message" rows="4" placeholder="Message..." required
                                     class="w-100"></textarea>

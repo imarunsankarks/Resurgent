@@ -36,7 +36,7 @@ form textarea {
   margin-top: 25px;
 }
 
-.contact-form-content ul li {
+.contact-form-content ul li a {
   font-size: 25px;
   cursor: pointer;
   color: var(--theme-blue);

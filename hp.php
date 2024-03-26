@@ -49,11 +49,10 @@
                                 <div class="container h-100">
                                     <div class="row h-100 w-mob-100">
                                         <div class="second-card">
-                                            <div class="content">
-                                                <p>Poly's Microsoft Teams certified solutions lead the way in hybrid
-                                                    work setups. We provide professional-grade audio and video products
-                                                    ensuring exceptional Microsoft Teams experiences, regardless of your
-                                                    location.</p>
+                                            <div class="content z-9">
+                                                <video autoplay muted loop class="z-9">
+                                                    <source src="./assets/brands/hp/hp-poly.m4v" type="video/mp4">
+                                                </video>
                                             </div>
                                         </div>
                                     </div>
@@ -67,7 +66,7 @@
                                                 <img loading="lazy" src="./assets/brands/hp/hp-banner.avif" alt="jabra">
                                             </div>
                                             <div class="second-img">
-                                            <div class="collab-logo">
+                                                <div class="collab-logo">
                                                     <img loading="lazy" src="./assets/logos/microsoft.png" alt="">
                                                     <span> | </span>
                                                     <img loading="lazy" src="./assets/logos/hp.png" alt="">
@@ -88,13 +87,7 @@
                                                     ensuring exceptional Microsoft Teams experiences, regardless of your
                                                     location.
                                                 </p>
-                                                <a href="about.html" aria-label="Know about the company">
-                                                    <div class="banner-button1 button-hover1">
-                                                        <div class="circle-large"></div>
-                                                        <button>Contact Us</button>
-                                                        <div class="btn-bg-black"></div>
-                                                    </div>
-                                                </a>
+                                             
                                             </div>
                                             <!-- <img loading="lazy" src="./assets/home/banner.jpg" alt="" class="second-img"> -->
 
@@ -226,17 +219,17 @@
             </section>
 
             <!-- --------------------------------------------------CTA---------------------------------------- -->
-            <section class="cta">
+            <section class="cta z-9">
                 <div class="container">
                     <div class="row z-9">
                         <div class="col-12">
                             <p class="cta-text-1">Changing to a hybrid work culture?</p>
                             <p class="cta-text-2">Make an effortless transition<br>
                                 with our AV solutions.</p>
-                            <a href="about.html" aria-label="Know about the company">
+                            <a href="contact.php" target="_blank" aria-label="Know about the company">
                                 <div class="banner-button1 button-hover1 cta-btn">
                                     <div class="circle-large"></div>
-                                    <button>learn more</button>
+                                    <button>Connect with us</button>
                                     <div class="btn-bg-black"></div>
                                 </div>
                             </a>
@@ -244,70 +237,44 @@
                         </div>
                     </div>
                 </div>
-
             </section>
 
             <section class="sec-padding" id="brand-features">
                 <div class="container">
                     <div class="row">
-                        <div class="feature-title pb-4">
-                            <h2>Lorem ipsum</h2>
-                            <h2>Lorem ipsum</h2>
+                        <h2 class="section-title text-md-center pb-md-4">HP-Teams collaboration essentials</h2>
+                        <div class="col-md-4 brand-feature-card">
+                            <h3>Integrated hardware</h3>
+                            <p>HP offers hardware optimized for Teams, ensuring seamless compatibility and performance.
+                            </p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>Enhanced audio/video</h3>
+                            <p>EHP devices provide high-quality audio and video for clear communication in Teams
+                                meetings.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>Intuitive interface</h3>
+                            <p>HP's user-friendly interface simplifies access to Teams features and controls.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>Advanced security</h3>
+                            <p>HP prioritizes security with advanced features to meet Teams' requirements.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>Customizable configurations</h3>
+                            <p>Tailor HP solutions to meet specific organizational needs and user preferences.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
-                        </div>
-                        <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>Aeamless tool integration</h3>
+                            <p>HP devices seamlessly integrate with Microsoft's productivity tools for comprehensive
+                                collaboration within Teams.</p>
                         </div>
                     </div>
                 </div>
 
             </section>
 
-            <section class="sec-padding d-none">
-                <div class="container">
-                    <div class="brand-cta">
-                        <div class="row align-items-center">
-                            <div class="col-6">
-                                <div class="brand-btn z-9">
-                                    <button>Connect Us</button>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <h2 class="brand-cta-title z-9">Lorem ipsum</h2>
-                                <p>Pioneering The Future In Integrated Audiovisual Communication</p>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-
-            </section>
 
             <!-- ---------------------------------------footer------------------------------- -->
             <?php include 'footer.php' ?>

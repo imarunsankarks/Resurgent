@@ -50,7 +50,7 @@
                                             thanks to the
                                             high level of ongoing education, industry insight, benchmarking, and
                                             certifications that PSNI adds to each expert's capabilities. </p>
-                                        <a href="contact.php" aria-label="Know about the company">
+                                        <a href="contact.php" target="_blank" aria-label="Know about the company">
                                             <div class="banner-button1 button-hover1 cta-btn">
                                                 <div class="circle-large"></div>
                                                 <button>About PSNI</button>
@@ -120,7 +120,7 @@
                         <div class="row mt-md-5 justify-content-center">
                             <div class="col-md-4 wow animate__animated animate__fadeInUp">
                                 <div class="why-card">
-                                    <h3>trusted</h3>
+                                    <h3>Trusted</h3>
                                     <div class="d-flex align-items-center mb-2">
                                         <span class="why-card-line"></span>
                                         <h3 class="why-second-head mb-0">partner</h3>
@@ -132,7 +132,7 @@
 
                             <div class="col-md-4 wow animate__animated animate__fadeInUp animate__two">
                                 <div class="why-card">
-                                    <h3>tap the</h3>
+                                    <h3>Tap the</h3>
                                     <div class="d-flex align-items-center mb-2">
                                         <span class="why-card-line"></span>
                                         <h3 class="why-second-head mb-0">network</h3>
@@ -144,7 +144,7 @@
 
                             <div class="col-md-4 wow animate__animated animate__fadeInUp animate__three">
                                 <div class="why-card">
-                                    <h3>easy</h3>
+                                    <h3>Easy</h3>
                                     <div class="d-flex align-items-center mb-2">
                                         <span class="why-card-line"></span>
                                         <h3 class="why-second-head mb-0">deployment</h3>

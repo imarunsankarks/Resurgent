@@ -54,7 +54,6 @@
                                                     <source src="./assets/brands/ms-team-rooms/team-rooms.m4v"
                                                         type="video/mp4">
                                                 </video>
-                                                <div class="video-circle"></div>
                                             </div>
                                             <!-- <div class="ms-circle-1"></div> -->
                                             <!-- <div class="ms-circle-2"></div> -->
@@ -91,13 +90,7 @@
                                                     visibility, audibility, and full participation regardless of
                                                     location.
                                                 </p>
-                                                <a href="about.html" aria-label="Know about the company">
-                                                    <div class="banner-button1 button-hover1">
-                                                        <div class="circle-large"></div>
-                                                        <button>Contact Us</button>
-                                                        <div class="btn-bg-black"></div>
-                                                    </div>
-                                                </a>
+                                               
                                             </div>
                                             <!-- <img loading="lazy" src="./assets/home/banner.jpg" alt="" class="second-img"> -->
 
@@ -237,10 +230,10 @@
                             <p class="cta-text-1">Changing to a hybrid work culture?</p>
                             <p class="cta-text-2">Make an effortless transition<br>
                                 with our AV solutions.</p>
-                            <a href="about.html" aria-label="Know about the company">
+                            <a href="contact.php" target="_blank" aria-label="Know about the company">
                                 <div class="banner-button1 button-hover1 cta-btn">
                                     <div class="circle-large"></div>
-                                    <button>learn more</button>
+                                    <button>Connect with us</button>
                                     <div class="btn-bg-black"></div>
                                 </div>
                             </a>
@@ -248,16 +241,17 @@
                         </div>
                     </div>
                 </div>
-
             </section>
 
             <section class="sec-padding" id="brand-features">
                 <div class="container z-9">
                     <div class="row">
-                        <div class="feature-title pb-4">
+                        <!-- <div class="feature-title pb-4">
                             <h2>Connect people across</h2>
                             <h2>hybrid workplace</h2>
-                        </div>
+                        </div> -->
+                        <h2 class="section-title text-md-center pb-md-4">Connect people across hybrid workplace</h2>
+
                         <div class="col-md-4 brand-feature-card">
                             <h3>Inclusive</h3>
                             <p>Foster inclusive and interactive team meetings for everyone, regardless of where they
@@ -281,14 +275,12 @@
                                 analytics.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>Intelligent content capture</h3>
+                            <p>Enhance digital sharing of physical objects with content camera and AI for clear, vibrant visuals.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>Interoperability</h3>
+                            <p>Join meetings from other meeting providers from within a Teams Room using direct guest join.</p>
                         </div>
                     </div>
                 </div>
@@ -301,57 +293,45 @@
                     <h2 class="section-title mb-5 text-center">Solutions that make a difference</h2>
                     <div class="row justify-content-center g-5">
                         <div class="col-lg-3 col-md-6">
-                            <a href="">
+                            <a href="cisco.php">
                                 <div class="each-brand-solutions cisco">
                                     <div class="content z-9">
                                         <img loading="lazy" src="./assets/logos/partners/cisco.webp" alt="">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit
-                                            natus
-                                            expedita
-                                            ipsam?</p>
-                                        <a href="">Know more</a>
+                                        <p>Crafting seamless communication solutions for ultimate collaboration.</p>
+                                        <a href="cisco.php">Know more</a>
                                     </div>
                                 </div>
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <a href="">
+                            <a href="jabra.php">
                                 <div class="each-brand-solutions jabra">
                                     <div class="content z-9">
                                         <img loading="lazy" src="./assets/logos/partners/jabra.png" alt="Jabra Logo">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit
-                                            natus
-                                            expedita
-                                            ipsam?</p>
-                                        <a href="">Know more</a>
+                                        <p>Revolutionizing communication with seamless collaboration solutions</p>
+                                        <a href="jabra.php">Know more</a>
                                     </div>
                                 </div>
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <a href="">
-                                <div class="each-brand-solutions cisco">
+                            <a href="logitech.php">
+                                <div class="each-brand-solutions logitech">
                                     <div class="content z-9">
                                         <img loading="lazy" src="./assets/logos/partners/logitech-c.webp" alt="">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit
-                                            natus
-                                            expedita
-                                            ipsam?</p>
-                                        <a href="">Know more</a>
+                                        <p>Experience next-level collaboration which redefines communication solutions.</p>
+                                        <a href="logitech.php">Know more</a>
                                     </div>
                                 </div>
                             </a>
                         </div>
                         <div class="col-lg-3 col-md-6">
-                            <a href="">
-                                <div class="each-brand-solutions jabra">
+                            <a href="yealink.php">
+                                <div class="each-brand-solutions yealink">
                                     <div class="content z-9">
-                                        <img loading="lazy" src="./assets/logos/partners/jabra.png" alt="Jabra Logo">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit
-                                            natus
-                                            expedita
-                                            ipsam?</p>
-                                        <a href="">Know more</a>
+                                        <img loading="lazy" src="./assets/logos/partners/yealink.webp" alt="Yealink Logo">
+                                        <p>Offering seamless communication solutions for enhanced productivity and connectivity.</p>
+                                        <a href="yealink.php">Know more</a>
                                     </div>
                                 </div>
                             </a>

@@ -43,6 +43,8 @@
                     <div class="row position-relative justify-content-center align-items-center">
                         <div class="col-md-5">
                             <div class="common-banner-text p-0">
+                            <h1 class="common-banner-title wow animate__animated animate__flipInX animate__one">
+                                    Success</h1>
                                 <h1 class="common-banner-title wow animate__animated animate__flipInX animate__one">
                                     Stories</h1>
                                 <h2 class="common-banner-sub wow animate__animated animate__fadeInUp animate__two">
@@ -73,7 +75,7 @@
                 <div class="container">
                     <div class="row pt-4 pb-5 align-items-center sectors-head">
                         <div class="col-md-6 br-1">
-                            <h2 class="mb-0 section-title">Explore ours<br> success stories </h2>
+                            <h2 class="mb-0 section-title">Explore our<br> success stories </h2>
                         </div>
                         <div class="col-md-6">
                             <p class="ps-md-5 mb-0">From businesses to schools and retail

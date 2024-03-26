@@ -311,14 +311,14 @@
             <!-- ---------------------------------------------------features---------------------------------- -->
             <section class="sec-padding">
                 <div class="container">
-                    <h2 class="section-title text-md-center">Key Features</h2>
+                    <h2 class="section-title text-md-center">Key features</h2>
                     <div class="row mt-5">
                         <div class="col-md-4 wow animate__animated animate__zfadeInUpanimate__one">
                             <div class="why-card">
                                 <h3>Improve</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Interactions</h3>
+                                    <h3 class="why-second-head mb-0">interactions</h3>
                                 </div>
                                 <p>Audiovisual solutions improve clarity and visibility, making students more involved
                                     and teachers more effective.</p>
@@ -330,7 +330,7 @@
                                 <h3>Bring classrooms</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Online</h3>
+                                    <h3 class="why-second-head mb-0">online</h3>
                                 </div>
                                 <p>Expand learning beyond physical spaces with specialised technology for virtual
                                     classrooms and studio rooms.</p>
@@ -342,7 +342,7 @@
                                 <h3>Augment lessons with</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Technology</h3>
+                                    <h3 class="why-second-head mb-0">technology</h3>
                                 </div>
                                 <p>Digital classrooms, interactive whiteboards and enhanced audiovisual facilities make
                                     learning more experiential and memorable.</p>
@@ -353,17 +353,17 @@
             </section>
 
             <!-- --------------------------------------------------CTA---------------------------------------- -->
-            <section class="cta">
+            <section class="cta z-9">
                 <div class="container">
                     <div class="row z-9">
                         <div class="col-12">
                             <p class="cta-text-1">Changing to a hybrid work culture?</p>
                             <p class="cta-text-2">Make an effortless transition<br>
                                 with our AV solutions.</p>
-                            <a href="about.html" aria-label="Know about the company">
+                            <a href="contact.php" target="_blank" aria-label="Know about the company">
                                 <div class="banner-button1 button-hover1 cta-btn">
                                     <div class="circle-large"></div>
-                                    <button>learn more</button>
+                                    <button>Connect with us</button>
                                     <div class="btn-bg-black"></div>
                                 </div>
                             </a>
@@ -371,7 +371,6 @@
                         </div>
                     </div>
                 </div>
-
             </section>
 
             <!-- ---------------------------------related-products---------------------------- -->
@@ -380,11 +379,8 @@
                     <div class="row align-items-center justify-content-center">
                         <div class="col-md-10 text-md-center">
                             <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Related
-                                Products</h2>
-                            <p class="wow animate__animated animate__fadeInUp animate__two">Our corporate AV solutions
-                                help organizations stay ahead and agile, even as they expand
-                                globally and work cultures become increasingly hybrid. Audio-video integration no longer
-                                applies only</p>
+                                products</h2>
+                            <p class="wow animate__animated animate__fadeInUp animate__two">Explore our curated selection of educational products designed to enhance learning experiences, foster collaboration, and optimize productivity in academic environments. Discover seamless integration and innovative solutions for educators and students alike.</p>
                         </div>
                         <div class="col-12 mt-4">
                             <div class="row g-5">
@@ -446,7 +442,7 @@
 
     <script src="js/main.js"></script>
     <!-- <script src="js/home.js"></script> -->
-    <script src="js/common.js"></script>
+    <!-- <script src="js/common.js"></script> -->
 
 
 

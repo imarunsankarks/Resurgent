@@ -1111,14 +1111,14 @@
             <section class="sec-padding">
                 <div class="container">
                     <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp animate__delay-3s">
-                        Key Features</h2>
+                        Key features</h2>
                     <div class="row mt-5">
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__one">
                             <div class="why-card">
                                 <h3>Connect teams</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Seamlessly</h3>
+                                    <h3 class="why-second-head mb-0">seamlessly</h3>
                                 </div>
                                 <p>Whether the meeting is in a physical space or spread across continents, our
                                     audiovisual solutions enhance collaboration and productivity.</p>
@@ -1130,7 +1130,7 @@
                                 <h3>Increase impact and</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Inclusivity</h3>
+                                    <h3 class="why-second-head mb-0">inclusivity</h3>
                                 </div>
                                 <p>Connect with colleagues on a single platform and make meetings more effective with
                                     the latest AV infrastructure.</p>
@@ -1142,7 +1142,7 @@
                                 <h3>Improve customer</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Interactions</h3>
+                                    <h3 class="why-second-head mb-0">interactions</h3>
                                 </div>
                                 <p>With advanced meeting, video conferencing and digital display solutions, you can
                                     create the right impression at every touchpoint.</p>
@@ -1153,17 +1153,17 @@
             </section>
 
             <!-- --------------------------------------------------CTA---------------------------------------- -->
-            <section class="cta">
+            <<section class="cta z-9">
                 <div class="container">
                     <div class="row z-9">
                         <div class="col-12">
                             <p class="cta-text-1">Changing to a hybrid work culture?</p>
                             <p class="cta-text-2">Make an effortless transition<br>
                                 with our AV solutions.</p>
-                            <a href="about.html" aria-label="Know about the company">
+                            <a href="contact.php" target="_blank" aria-label="Know about the company">
                                 <div class="banner-button1 button-hover1 cta-btn">
                                     <div class="circle-large"></div>
-                                    <button>learn more</button>
+                                    <button>Connect with us</button>
                                     <div class="btn-bg-black"></div>
                                 </div>
                             </a>
@@ -1171,7 +1171,6 @@
                         </div>
                     </div>
                 </div>
-
             </section>
 
             <!-- ---------------------------------related-products---------------------------- -->
@@ -1180,11 +1179,8 @@
                     <div class="row align-items-center justify-content-center">
                         <div class="col-md-10 text-md-center">
                             <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-3s">Related
-                                Products</h2>
-                            <p class="wow animate__animated animate__fadeInUp animate__delay-5s">Our corporate AV
-                                solutions help organizations stay ahead and agile, even as they expand
-                                globally and work cultures become increasingly hybrid. Audio-video integration no longer
-                                applies only</p>
+                                products</h2>
+                            <p class="wow animate__animated animate__fadeInUp animate__delay-5s">Discover our curated selection of related products designed to streamline operations, boost teamwork, and elevate performance across various aspects of corporate functionality. Explore seamless integration and enhanced collaboration today.</p>
                         </div>
                         <div class="col-12 mt-4">
                             <div class="row g-5">
@@ -1247,7 +1243,7 @@
 
     <script src="js/main.js"></script>
     <!-- <script src="js/home.js"></script> -->
-    <script src="js/common.js"></script>
+    <!-- <script src="js/common.js"></script> -->
 
 
 

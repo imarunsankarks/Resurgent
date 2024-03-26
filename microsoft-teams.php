@@ -56,11 +56,7 @@
                                         meetings, streamlining workflows, storing files in the cloud, hosting events for
                                         1,000 people, and leveraging Microsoft 365 for effective presentations. It's
                                         indispensable for office and remote collaboration.</p>
-                                    <div class="banner-button1 button-hover1 cta-btn">
-                                        <div class="circle-large"></div>
-                                        <button>learn more</button>
-                                        <div class="btn-bg-black"></div>
-                                    </div>
+                                    
                                     <div class="scroll">
                                         <img loading="lazy" src="./assets/common/banner-arrow.svg" alt="">
                                         <p>scroll</p>
@@ -133,11 +129,14 @@
                                 <div class="product-det">
                                     <div class="content">
                                         <h2>To know more</h2>
-                                        <div class="zoomIn-button">
-                                            <button>
-                                                Connect with us
-                                            </button>
-                                        </div>
+                                        <a href="contact.php" target="_blank">
+                                            <div class="zoomIn-button">
+                                                <button>
+                                                    Connect with us
+                                                </button>
+                                            </div>
+
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -157,25 +156,20 @@
                                 <h3>Chat</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Seamlessly</h3>
+                                    <h3 class="why-second-head mb-0">seamlessly</h3>
                                 </div>
-                                <p>Users can create multiple chat groups, form channels for specific topics, contact one
-                                    another through direct messaging, audio and video calls, write notes using rich
-                                    text, GIFs and emoticons, and make announcements.</p>
+                                <p>Users create chat groups, form channels, message, call, write notes, use GIFs, emoticons, and make announcements.</p>
                             </div>
                         </div>
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__two">
                             <div class="why-card">
-                                <h3>schedule</h3>
+                                <h3>Schedule</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Meetings</h3>
+                                    <h3 class="why-second-head mb-0">meetings</h3>
                                 </div>
-                                <p>Users can schedule meetings in advance and add participants, choose backgrounds,
-                                    simultaneously view the primary Teams dashboard during presentations, highlight
-                                    important participants, and use the Together mode to bring all the participants into
-                                    the same virtual space.</p>
+                                <p>Users schedule meetings, add participants, select backgrounds, view dashboard, highlight participants, and use Together mode for virtual gatherings.</p>
                             </div>
                         </div>
 
@@ -184,12 +178,9 @@
                                 <h3>Call</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Quality</h3>
+                                    <h3 class="why-second-head mb-0">quality</h3>
                                 </div>
-                                <p>Audio calls deliver excellent clarity using the Background Noise Compression feature.
-                                    Voice calls can be made to internal and external contacts, while Microsoft 365
-                                    enables PSTN calls as well. Users can also route and queue calls with a cloud-based
-                                    phone system.</p>
+                                <p>Audio calls offer clear sound with Background Noise Compression. Make internal, external, and PSTN calls with Microsoft 365. Route calls using cloud-based system.</p>
                             </div>
                         </div>
 
@@ -198,12 +189,31 @@
                                 <h3>Effective</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Collaboration</h3>
+                                    <h3 class="why-second-head mb-0">collaboration</h3>
                                 </div>
-                                <p>Microsoft Teams makes collaboration effortless by offering project management tools.
-                                    Users can share even heavy files over cloud, access meeting transcripts, add
-                                    Microsoft partner services and tools, and edit Microsoft Office files directly on
-                                    the platform.</p>
+                                <p>Microsoft Teams streamlines collaboration with project management tools, file sharing, meeting transcripts, partner services integration, and direct Office file editing.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__five">
+                            <div class="why-card">
+                                <h3>Streamlined</h3>
+                                <div class="d-flex align-items-center mb-2">
+                                    <span class="why-card-line"></span>
+                                    <h3 class="why-second-head mb-0">communication</h3>
+                                </div>
+                                <p>Microsoft Teams offers screen sharing and chat for efficient collaboration, fostering seamless communication and teamwork among users.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 wow animate__animated animate__fadeInUp animate__six">
+                            <div class="why-card">
+                                <h3>Customizable </h3>
+                                <div class="d-flex align-items-center mb-2">
+                                    <span class="why-card-line"></span>
+                                    <h3 class="why-second-head mb-0">workspace</h3>
+                                </div>
+                                <p>Microsoft Teams allows users to customize their workspaces, tailoring the interface to suit their specific needs and preferences.</p>
                             </div>
                         </div>
 
@@ -214,17 +224,17 @@
             </section>
 
             <!-- --------------------------------------------------CTA---------------------------------------- -->
-            <section class="cta">
+            <section class="cta z-9">
                 <div class="container">
                     <div class="row z-9">
                         <div class="col-12">
                             <p class="cta-text-1">Changing to a hybrid work culture?</p>
                             <p class="cta-text-2">Make an effortless transition<br>
                                 with our AV solutions.</p>
-                            <a href="about.html" aria-label="Know about the company">
+                            <a href="contact.php" target="_blank" aria-label="Know about the company">
                                 <div class="banner-button1 button-hover1 cta-btn">
                                     <div class="circle-large"></div>
-                                    <button>learn more</button>
+                                    <button>Connect with us</button>
                                     <div class="btn-bg-black"></div>
                                 </div>
                             </a>
@@ -232,14 +242,13 @@
                         </div>
                     </div>
                 </div>
-
             </section>
 
             <!-- ------------------------------------------features----------------------------------- -->
             <section id="product-feature-imgs">
                 <div class="container">
                     <div class="row">
-                        <h2 class="section-title">Know The Product Capabilities</h2>
+                        <h2 class="section-title">Know the product capabilities</h2>
                         <div class="gallery">
                             <div class="left">
                                 <div class="features-scroll">

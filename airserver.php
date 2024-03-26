@@ -58,11 +58,7 @@
                                         whether it's a phone, tablet or laptop. With its unmatched audiovisual quality,
                                         wide compatibility and ease of use, AirServer is an essential tool for
                                         presentation and collaboration.</p>
-                                    <div class="banner-button1 button-hover1 cta-btn">
-                                        <div class="circle-large"></div>
-                                        <button>learn more</button>
-                                        <div class="btn-bg-black"></div>
-                                    </div>
+                                    
                                     <div class="scroll">
                                         <img loading="lazy" src="./assets/common/banner-arrow.svg" alt="">
                                         <p>scroll</p>
@@ -88,33 +84,33 @@
                                 <div class="row g-5">
                                     <div class="col-lg-3 col-md-6">
                                         <div class="each-sector-card">
-                                            <img src="./assets/products/pads4/retail.png" alt="">
+                                            <img src="./assets/products/airserver/education.jpeg" alt="">
                                             <div class="sector-name">
-                                                Retail Stores
+                                                Education
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-3 col-md-6">
                                         <div class="each-sector-card">
-                                            <img src="./assets/products/pads4/hospitality.png"" alt="">
+                                            <img src="./assets/products/airserver/entertainment.webp" alt="">
                                             <div class=" sector-name">
-                                            Hospitality
+                                            Entertainment
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-lg-3 col-md-6">
                                     <div class="each-sector-card">
-                                        <img src="./assets/products/pads4/public.png"" alt="">
+                                        <img src="./assets/products/airserver/business.jpg"" alt="">
                                             <div class=" sector-name">
-                                        Public
+                                        Business
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6">
                                 <div class="each-sector-card">
-                                    <img src="./assets/products/pads4/manufacturing.png"" alt="">
+                                    <img src="./assets/products/airserver/live.jpg"" alt="">
                                             <div class=" sector-name">
-                                    Manufacturing
+                                    Live streaming
                                 </div>
                             </div>
                         </div>
@@ -142,11 +138,14 @@
                                 <div class="product-det">
                                     <div class="content">
                                         <h2>To know more</h2>
-                                        <div class="zoomIn-button">
-                                            <button>
-                                                Connect with us
-                                            </button>
-                                        </div>
+                                        <a href="contact.php" target="_blank">
+                                            <div class="zoomIn-button">
+                                                <button>
+                                                    Connect with us
+                                                </button>
+                                            </div>
+
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -239,17 +238,17 @@
             </section>
 
             <!-- --------------------------------------------------CTA---------------------------------------- -->
-            <section class="cta">
+            <section class="cta z-9">
                 <div class="container">
                     <div class="row z-9">
                         <div class="col-12">
                             <p class="cta-text-1">Changing to a hybrid work culture?</p>
                             <p class="cta-text-2">Make an effortless transition<br>
                                 with our AV solutions.</p>
-                            <a href="about.html" aria-label="Know about the company">
+                            <a href="contact.php" target="_blank" aria-label="Know about the company">
                                 <div class="banner-button1 button-hover1 cta-btn">
                                     <div class="circle-large"></div>
-                                    <button>learn more</button>
+                                    <button>Connect with us</button>
                                     <div class="btn-bg-black"></div>
                                 </div>
                             </a>
@@ -257,14 +256,13 @@
                         </div>
                     </div>
                 </div>
-
             </section>
 
             <!-- ------------------------------------------features----------------------------------- -->
             <section id="product-feature-imgs">
                 <div class="container">
                     <div class="row">
-                        <h2 class="section-title">Know The Product Capabilities</h2>
+                        <h2 class="section-title">Know the product capabilities</h2>
                         <div class="gallery">
                             <div class="left">
                                 <div class="features-scroll">

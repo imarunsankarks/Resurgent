@@ -126,7 +126,7 @@
                             <div class="col-lg-4">
                                 <div class="first-card">
                                     <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Our
-                                        Core<br> Values</h2>
+                                        core<br> values</h2>
                                 </div>
                             </div>
                             <div class="col-lg-4  wow animate__animated animate__fadeInUp animate__two">
@@ -188,7 +188,7 @@
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-md-10 text-md-center">
-                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Join Our Team
+                            <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Join our team
                             </h2>
                             <p class=" wow animate__animated animate__fadeInUp animate__two">Resurgent was founded by a
                                 team that's inspired by the possibilities of audiovisual

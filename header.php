@@ -293,7 +293,7 @@
 
 
                             <li>
-                                <a href="contact.php" aria-label="Know about the company">
+                                <a href="contact.php" target="_blank" aria-label="Know about the company">
                                     <div class="banner-button button-hover1 m-0">
                                         <button>Contact Us</button>
                                     </div>

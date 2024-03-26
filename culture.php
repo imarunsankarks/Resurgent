@@ -87,37 +87,29 @@
                 <div class="main_wrapper sec_padding" id="spreading">
                     <div class="wrapper_1">
                         <div class="circle circle2">
-                            <div class="cont">
-                                <h3>1</h3>
-                            </div>
+                            <img src="./assets/common/respect.webp" alt="" class="w-100">
                         </div>
                     </div>
                     <div class="wrapper_1">
                         <div class="circle circle1">
-                            <div class="cont">
-                                <h3>2 </h3>
-                            </div>
+                        <img src="./assets/common/responsibility.webp" alt="" class="w-100">
                         </div>
                     </div>
                     <div class="wrapper_1">
                         <div class="circle circle3">
-                            <div class="cont">
-                                <h3>3</h3>
-                            </div>
+                        <img src="./assets/common/reward.webp" alt="" class="w-100">
                         </div>
                     </div>
                     <div class="wrapper_1">
                         <div class="circle circle4">
-                            <div class="cont">
-                                <h3>4</h3>
-                            </div>
+                        <img src="./assets/common/resolve.webp" alt="" class="w-100">
+
                         </div>
                     </div>
                     <div class="wrapper_1">
                         <div class="circle circle5">
-                            <div class="cont">
-                                <h3>5</h3>
-                            </div>
+                        <img src="./assets/common/reliability.webp" alt="" class="w-100">
+
                         </div>
                     </div>
                     <div class="wrapper_1">
@@ -140,7 +132,7 @@
                         <div class="row justify-content-center">
                             <div class="col-md-10 text-md-center">
                                 <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Stay
-                                    Connected</h2>
+                                    connected</h2>
                                 <p class="wow animate__animated animate__fadeInUp animate__two">We're a technology
                                     company that celebrates the power and potential of human
                                     connection. That's why we never miss an opportunity to bring Surgers together,

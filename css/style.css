@@ -1025,7 +1025,7 @@ h6 {
   font-size: 20px;
   color: var(--theme-blue);
   font-weight: 600;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 
 .why-card .why-second-head {

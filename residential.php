@@ -51,7 +51,7 @@
                         <div class="col-md-6">
                             <div class="sector-banner-content">
                                 <span>Integrated AV Solutions for</span>
-                                <h1 class="wow animate__animated animate__flipInX animate__two">Residences</h1>
+                                <h1 class="wow animate__animated animate__flipInX animate__two">Your Homes</h1>
                                 <p class="wow animate__animated animate__fadeInUp animate__two">With homes becoming more
                                     multifunctional and AV technology becoming more versatile,
                                     you can now customise audiovisual solutions to meet your specific needs. Our
@@ -164,14 +164,14 @@
             <section class="sec-padding">
                 <div class="container">
                     <h2 class="section-title text-md-center wow animate__animated animate__fadeInUp animate__two">Key
-                        Features</h2>
+                        features</h2>
                     <div class="row mt-5">
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__one">
                             <div class="why-card">
                                 <h3>Make spaces</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Multifunctional</h3>
+                                    <h3 class="why-second-head mb-0">multifunctional</h3>
                                 </div>
                                 <p>Transform spaces for work or play with automated lighting solutions that can be
                                     adjusted to suit different requirements.</p>
@@ -183,7 +183,7 @@
                                 <h3>Personalise</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Every space</h3>
+                                    <h3 class="why-second-head mb-0">every space</h3>
                                 </div>
                                 <p>Lighting solutions can be customised for every member of the household, depending on
                                     their preferences and the room's purpose.</p>
@@ -195,7 +195,7 @@
                                 <h3>Bring the cinema</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Home</h3>
+                                    <h3 class="why-second-head mb-0">to home</h3>
                                 </div>
                                 <p>With surround sound speakers and advanced projection technology, our audiovisual
                                     systems can recreate a movie theatre in your home.</p>
@@ -206,17 +206,17 @@
             </section>
 
             <!-- --------------------------------------------------CTA---------------------------------------- -->
-            <section class="cta">
+            <section class="cta z-9">
                 <div class="container">
                     <div class="row z-9">
                         <div class="col-12">
                             <p class="cta-text-1">Changing to a hybrid work culture?</p>
                             <p class="cta-text-2">Make an effortless transition<br>
                                 with our AV solutions.</p>
-                            <a href="about.html" aria-label="Know about the company">
+                            <a href="contact.php" target="_blank" aria-label="Know about the company">
                                 <div class="banner-button1 button-hover1 cta-btn">
                                     <div class="circle-large"></div>
-                                    <button>learn more</button>
+                                    <button>Connect with us</button>
                                     <div class="btn-bg-black"></div>
                                 </div>
                             </a>
@@ -224,7 +224,6 @@
                         </div>
                     </div>
                 </div>
-
             </section>
 
             <!-- ---------------------------------related-products---------------------------- -->
@@ -233,11 +232,8 @@
                     <div class="row align-items-center justify-content-center">
                         <div class="col-md-10 text-md-center">
                             <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Related
-                                Products</h2>
-                            <p class="wow animate__animated animate__fadeInUp animate__two">Our corporate AV solutions
-                                help organizations stay ahead and agile, even as they expand
-                                globally and work cultures become increasingly hybrid. Audio-video integration no longer
-                                applies only</p>
+                                products</h2>
+                            <p class="wow animate__animated animate__fadeInUp animate__two">Discover our residential solutions, designed to enhance living spaces, simplify daily routines, and elevate comfort. Explore seamless integration and innovative solutions for modern homes.</p>
                         </div>
                         <div class="col-12 mt-4">
                             <div class="row g-5">
@@ -299,7 +295,7 @@
 
     <script src="js/main.js"></script>
     <!-- <script src="js/home.js"></script> -->
-    <script src="js/common.js"></script>
+    <!-- <script src="js/common.js"></script> -->
 
 
 

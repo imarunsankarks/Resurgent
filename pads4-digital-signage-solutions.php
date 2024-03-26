@@ -56,11 +56,7 @@
                                         software solution with a wide range of applications across industries, from
                                         internal communications in offices and wayfinding in hospitals to interactive
                                         touch screens displaying updates in malls and restaurants. </p>
-                                    <div class="banner-button1 button-hover1 cta-btn">
-                                        <div class="circle-large"></div>
-                                        <button>learn more</button>
-                                        <div class="btn-bg-black"></div>
-                                    </div>
+                                    
                                     <div class="scroll">
                                         <img loading="lazy" src="./assets/common/banner-arrow.svg" alt="">
                                         <p>scroll</p>
@@ -143,11 +139,13 @@
                         <div class="product-det">
                             <div class="content">
                                 <h2>To know more</h2>
-                                <div class="zoomIn-button">
-                                    <button>
-                                        Connect with us
-                                    </button>
-                                </div>
+                                <a href="contact.php" target="_blank">
+                                    <div class="zoomIn-button">
+                                        <button>
+                                            Connect with us
+                                        </button>
+                                    </div>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -244,17 +242,17 @@
     </section>
 
     <!-- --------------------------------------------------CTA---------------------------------------- -->
-    <section class="cta">
+    <section class="cta z-9">
         <div class="container">
             <div class="row z-9">
                 <div class="col-12">
                     <p class="cta-text-1">Changing to a hybrid work culture?</p>
                     <p class="cta-text-2">Make an effortless transition<br>
                         with our AV solutions.</p>
-                    <a href="about.html" aria-label="Know about the company">
+                    <a href="contact.php" target="_blank" aria-label="Know about the company">
                         <div class="banner-button1 button-hover1 cta-btn">
                             <div class="circle-large"></div>
-                            <button>learn more</button>
+                            <button>Connect with us</button>
                             <div class="btn-bg-black"></div>
                         </div>
                     </a>
@@ -262,14 +260,13 @@
                 </div>
             </div>
         </div>
-
     </section>
 
     <!-- ------------------------------------------features----------------------------------- -->
     <section id="product-feature-imgs">
         <div class="container">
             <div class="row">
-                <h2 class="section-title">Know The Product Capabilities</h2>
+                <h2 class="section-title">Know the product capabilities</h2>
                 <div class="gallery">
                     <div class="left">
                         <div class="features-scroll">

@@ -223,8 +223,8 @@
                                 <div class="col-lg-6 br-1">
                                     <h2
                                         class="mb-0 section-title wow animate__animated animate__fadeInUp animate__delay-5s ">
-                                        Audio Visual
-                                        Solutions<br> for diverse sectors </h2>
+                                        Audio-Visual
+                                        solutions<br> for diverse sectors </h2>
                                 </div>
                                 <div class="col-lg-6">
                                     <p class="ps-lg-5 mb-0 wow animate__animated animate__fadeInUp animate__delay-5s">
@@ -492,7 +492,7 @@
 
                                         </a>
 
-                                        <a href="microsoft-tems.php" aria-label="Explore our products">
+                                        <a href="microsoft-teams.php" aria-label="Explore our products">
                                             <picture class="">
                                                 <source srcset="./assets/home/teams.webp" type="image/webp"
                                                     alt="portfolio" width="1242px" height="549px" class="lazyload"
@@ -628,7 +628,7 @@
                 <div class="process-layer">
                     <div class="container p-lg-0 ">
                         <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-5s text-center">
-                            End-to-end AV Integration Services</h2>
+                            End-to-end AV integration services</h2>
                         <!-- <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto
                             perferendis fugit quod amet enim sequi nesciunt odio sapiente dolore labore.</p> -->
                         <div class="row justify-content-center">
@@ -711,14 +711,14 @@
             <section class="sec-padding">
                 <div class="container">
                     <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-5s text-md-center">
-                        Why Partner With Us</h2>
+                        Why partner with us</h2>
                     <div class="row mt-md-5">
                         <div class="col-md-4">
                             <div class="why-card wow animate__animated animate__fadeInUp animate__delay-5s">
                                 <h3>Technical</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Expertise</h3>
+                                    <h3 class="why-second-head mb-0">expertise</h3>
                                 </div>
                                 <p>Our engineers and technical teams bring you the latest know-how, thanks to regular
                                     training, upskilling, and certification courses.</p>
@@ -730,7 +730,7 @@
                                 <h3>Exceptional</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Service</h3>
+                                    <h3 class="why-second-head mb-0">service</h3>
                                 </div>
                                 <p>With holistic solutions, customisation, dedicated project teams and continuous
                                     support even post completion of the project, our service is as valued as our
@@ -743,7 +743,7 @@
                                 <h3>Human-centric</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Solutions</h3>
+                                    <h3 class="why-second-head mb-0">solutions</h3>
                                 </div>
                                 <p>Our integrated audiovisual solutions are designed around the end user, offering ease,
                                     efficiency and intuitive interfaces.</p>
@@ -755,7 +755,7 @@
                                 <h3>Prestigious</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Global affiliations</h3>
+                                    <h3 class="why-second-head mb-0">global affiliations</h3>
                                 </div>
                                 <p>Our PSNI global alliance membership and AVIXA association ensure superior quality, a
                                     worldwide network, and expertise in cutting-edge audiovisual technology.</p>
@@ -779,7 +779,7 @@
                                 <h3>Safety & </h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">Sanitation</h3>
+                                    <h3 class="why-second-head mb-0">sanitation</h3>
                                 </div>
                                 <p class="wow animate__animated animate__fadeInUp animate__delay-5s">Our housekeeping
                                     team adheres to WHO guidelines for sanitization, follows the Timwood
@@ -799,7 +799,7 @@
                             <p class="cta-text-1">Changing to a hybrid work culture?</p>
                             <p class="cta-text-2">Make an effortless transition<br>
                                 with our AV solutions.</p>
-                            <a href="contact.php" aria-label="Know about the company">
+                            <a href="contact.php" target="_blank" aria-label="Know about the company">
                                 <div class="banner-button1 button-hover1 cta-btn">
                                     <div class="circle-large"></div>
                                     <button>Connect with us</button>
@@ -819,7 +819,7 @@
                     <div class="row justify-content-around text-md-center">
                         <div class="col-md-9">
                             <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-5s">Our
-                                Clients</h2>
+                                clients</h2>
                             <p class=" wow animate__animated animate__fadeInUp animate__delay-5s">Innovation drives our
                                 AV integration, enhancing client experiences through seamless technology solutions,
                                 custom-tailored to their unique needs and preferences.</p>

@@ -49,11 +49,10 @@
                                 <div class="container h-100">
                                     <div class="row h-100 w-mob-100">
                                         <div class="second-card">
-                                            <div class="content">
-                                                <p>Poly's Microsoft Teams certified solutions lead the way in hybrid
-                                                    work setups. We provide professional-grade audio and video products
-                                                    ensuring exceptional Microsoft Teams experiences, regardless of your
-                                                    location.</p>
+                                            <div class="content z-9">
+                                                <video autoplay muted loop class="z-9">
+                                                    <source src="./assets/brands/yealink/yealink.m4v" type="video/mp4">
+                                                </video>
                                             </div>
                                         </div>
                                     </div>
@@ -68,10 +67,11 @@
                                                     alt="jabra">
                                             </div>
                                             <div class="second-img">
-                                            <div class="collab-logo">
+                                                <div class="collab-logo">
                                                     <img loading="lazy" src="./assets/logos/microsoft.png" alt="">
                                                     <span> | </span>
-                                                    <img loading="lazy" src="./assets/logos/partners/yealink.webp" alt="">
+                                                    <img loading="lazy" src="./assets/logos/partners/yealink.webp"
+                                                        alt="">
                                                     <span> | </span>
                                                     <img loading="lazy" src="./assets/common/resurgent.webp" alt="">
                                                 </div>
@@ -88,13 +88,7 @@
                                                     Teams, offering intuitive interfaces and high-quality video/audio
                                                     for enhanced collaboration in diverse meeting spaces.
                                                 </p>
-                                                <a href="about.html" aria-label="Know about the company">
-                                                    <div class="banner-button1 button-hover1">
-                                                        <div class="circle-large"></div>
-                                                        <button>Contact Us</button>
-                                                        <div class="btn-bg-black"></div>
-                                                    </div>
-                                                </a>
+                                             
                                             </div>
                                             <!-- <img loading="lazy" src="./assets/home/banner.jpg" alt="" class="second-img"> -->
 
@@ -206,17 +200,17 @@
             </section>
 
             <!-- --------------------------------------------------CTA---------------------------------------- -->
-            <section class="cta">
+            <section class="cta z-9">
                 <div class="container">
                     <div class="row z-9">
                         <div class="col-12">
                             <p class="cta-text-1">Changing to a hybrid work culture?</p>
                             <p class="cta-text-2">Make an effortless transition<br>
                                 with our AV solutions.</p>
-                            <a href="about.html" aria-label="Know about the company">
+                            <a href="contact.php" target="_blank" aria-label="Know about the company">
                                 <div class="banner-button1 button-hover1 cta-btn">
                                     <div class="circle-large"></div>
-                                    <button>learn more</button>
+                                    <button>Connect with us</button>
                                     <div class="btn-bg-black"></div>
                                 </div>
                             </a>
@@ -224,65 +218,36 @@
                         </div>
                     </div>
                 </div>
-
             </section>
 
             <section class="sec-padding" id="brand-features">
                 <div class="container">
                     <div class="row">
-                        <div class="feature-title pb-4">
-                            <h2>Lorem ipsum</h2>
-                            <h2>Lorem ipsum</h2>
+                        <h2 class="section-title text-md-center pb-md-4">Yealink-Teams collaboration solutions</h2>
+                        <div class="col-md-4 brand-feature-card">
+                            <h3>Certified devices</h3>
+                            <p>Yealink offers certified devices for seamless Microsoft Teams collaboration.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>High-quality audio/video</h3>
+                            <p>Yealink ensures clear communication with superior audio and video experiences.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>Intuitive interface</h3>
+                            <p>Yealink provides easy access to Teams features for simplified meetings.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>Advanced security</h3>
+                            <p>Yealink prioritizes security for safe collaboration in Teams.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>Flexible deployment</h3>
+                            <p>Yealink offers versatile deployment options to suit various organizational needs.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
-                        </div>
-                        <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
-                        </div>
-                    </div>
-                </div>
-
-            </section>
-
-            <section class="sec-padding d-none">
-                <div class="container">
-                    <div class="brand-cta">
-                        <div class="row align-items-center">
-                            <div class="col-6">
-                                <div class="brand-btn z-9">
-                                    <button>Connect Us</button>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <h2 class="brand-cta-title z-9">Lorem ipsum</h2>
-                                <p>Pioneering The Future In Integrated Audiovisual Communication</p>
-                            </div>
-
+                            <h3>Tool integration</h3>
+                            <p>Yealink seamlessly integrates with Microsoft's productivity tools for comprehensive
+                                collaboration within Teams.</p>
                         </div>
                     </div>
                 </div>

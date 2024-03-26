@@ -49,11 +49,10 @@
                                 <div class="container h-100">
                                     <div class="row h-100 w-mob-100">
                                         <div class="second-card">
-                                            <div class="content">
-                                                <p>Our exclusive 180-degree video technology meets our world-leading
-                                                    audio technology, for an intelligent meeting experience that feels a
-                                                    whole lot more human. So everyone feels like they're together in the
-                                                    same room, even when they're spread across the globe.</p>
+                                            <div class="content z-9">
+                                                <video autoplay muted loop class="z-9">
+                                                    <source src="./assets/brands/jabra/jabra.m4v" type="video/mp4">
+                                                </video>
                                             </div>
                                         </div>
                                     </div>
@@ -89,13 +88,7 @@
                                                     Microsoft Teams-certified audio and video device to make it a
                                                     breeze.
                                                 </p>
-                                                <a href="about.html" aria-label="Know about the company">
-                                                    <div class="banner-button1 button-hover1">
-                                                        <div class="circle-large"></div>
-                                                        <button>Contact Us</button>
-                                                        <div class="btn-bg-black"></div>
-                                                    </div>
-                                                </a>
+                                          
                                             </div>
                                             <!-- <img loading="lazy" src="./assets/home/banner.jpg" alt="" class="second-img"> -->
 
@@ -229,17 +222,17 @@
             </section>
 
             <!-- --------------------------------------------------CTA---------------------------------------- -->
-            <section class="cta">
+            <section class="cta z-9">
                 <div class="container">
                     <div class="row z-9">
                         <div class="col-12">
                             <p class="cta-text-1">Changing to a hybrid work culture?</p>
                             <p class="cta-text-2">Make an effortless transition<br>
                                 with our AV solutions.</p>
-                            <a href="about.html" aria-label="Know about the company">
+                            <a href="contact.php" target="_blank" aria-label="Know about the company">
                                 <div class="banner-button1 button-hover1 cta-btn">
                                     <div class="circle-large"></div>
-                                    <button>learn more</button>
+                                    <button>Connect with us</button>
                                     <div class="btn-bg-black"></div>
                                 </div>
                             </a>
@@ -247,45 +240,45 @@
                         </div>
                     </div>
                 </div>
-
             </section>
 
             <section class="sec-padding" id="brand-features">
                 <div class="container">
                     <div class="row">
-                        <div class="feature-title pb-4">
-                            <h2>Lorem ipsum</h2>
-                            <h2>Lorem ipsum</h2>
+                        <!-- <div class="feature-title pb-4">
+                            <h2>Empowering MS Teams</h2>
+                            <h2>Collaboration</h2>
+                        </div> -->
+                        <h2 class="section-title text-md-center pb-md-4">Empowering MS teams collaboration</h2>
+                        <div class="col-md-4 brand-feature-card">
+                            <h3>Certified compatibility</h3>
+                            <p>Jabra devices are certified for use with Microsoft Teams, ensuring seamless compatibility
+                                and integration with the platform.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>High-quality audio</h3>
+                            <p>Jabra headsets and speakerphones deliver superior audio quality, enabling clear voice
+                                communication during Teams meetings.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>Optimized video</h3>
+                            <p>Jabra video conferencing cameras provide high-definition video quality, enhancing visual
+                                collaboration in Teams meetings.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>One-touch meeting join</h3>
+                            <p>Integration with Microsoft Teams allows for convenient one-touch meeting join
+                                functionality, simplifying the meeting experience for users.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>In-line controls</h3>
+                            <p>Jabra devices feature in-line controls for mute/unmute, volume adjustment, and call
+                                handling, providing convenient access to Teams features directly from the device.</p>
                         </div>
                         <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
-                        </div>
-                        <div class="col-md-4 brand-feature-card">
-                            <h3>A familiar Microsoft Teams experience</h3>
-                            <p>Experience Microsoft Teams on certified Cisco devices for any workspace across your
-                                organization.</p>
+                            <h3>Noise cancellation</h3>
+                            <p>Advanced noise-canceling technology in Jabra headsets helps eliminate background noise,
+                                ensuring crystal-clear audio even in noisy environments during Teams calls.</p>
                         </div>
                     </div>
                 </div>

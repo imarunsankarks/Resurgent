@@ -91,7 +91,7 @@
                             <div class="why-left">
                                 <div class="why-detailsWrapper">
                                     <div class="why-details why-details1">
-                                        <h2 class="section-title">The adventures of RESURGENT</h2>
+                                        <h2 class="section-title">The adventures of Resurgent</h2>
 
                                     </div>
 
@@ -235,7 +235,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-md-10 text-md-center">
                                     <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-3s">
-                                        The Resurgent Team</h2>
+                                        Resurgent team</h2>
                                     <p class=" wow animate__animated animate__fadeInUp animate__delay-5s">Resurgent was
                                         founded with the belief that better audiovisual solutions create
                                         better human connections and business outcomes. As our team and technological
@@ -247,7 +247,7 @@
                                     <div class="owl-carousel owl-theme owl-team">
                                         <div class="item">
                                             <div class="team-card">
-                                                <a href=""><i class="fab fa-linkedin"></i></a>
+                                                <a href="https://www.linkedin.com/in/pulla-reddy-7256b543/" target="_blank"><i class="fab fa-linkedin"></i></a>
                                                 <img loading="lazy" src="./assets/common/pulla.webp" alt="">
                                                 <h3>Pulla Reddy</h3>
                                                 <span>Lead - Financial Analyst</span>
@@ -255,7 +255,7 @@
                                         </div>
                                         <div class="item">
                                             <div class="team-card">
-                                                <a href=""><i class="fab fa-linkedin"></i></a>
+                                                <a href="https://in.linkedin.com/in/surendar-kannan-cts-55358865/" target="_blank"><i class="fab fa-linkedin"></i></a>
                                                 <img loading="lazy" src="./assets/common/surendar.webp" alt="">
                                                 <h3>Surendar Kannan</h3>
                                                 <span>Alchemist - Creator & Design</span>
@@ -263,7 +263,7 @@
                                         </div>
                                         <div class="item">
                                             <div class="team-card">
-                                                <a href=""><i class="fab fa-linkedin"></i></a>
+                                                <a href="https://www.linkedin.com/in/sanjeevsrinivasan/" target="_blank"><i class="fab fa-linkedin"></i></a>
                                                 <img loading="lazy" src="./assets/common/sanjeev.webp" alt="">
                                                 <h3>Sanjeev S</h3>
                                                 <span>Co-founder & Chairman</span>
@@ -271,7 +271,7 @@
                                         </div>
                                         <div class="item">
                                             <div class="team-card">
-                                                <a href=""><i class="fab fa-linkedin"></i></a>
+                                                <a href="https://www.linkedin.com/in/rahul-bopanna-2b994b37/" target="_blank"><i class="fab fa-linkedin"></i></a>
                                                 <img loading="lazy" src="./assets/common/bopanna.webp" alt="">
                                                 <h3>Bopanna P. N</h3>
                                                 <span>Co-founder & President</span>
@@ -279,7 +279,6 @@
                                         </div>
                                         <div class="item">
                                             <div class="team-card">
-                                                <a href=""><i class="fab fa-linkedin"></i></a>
                                                 <img loading="lazy" src="./assets/common/natesan.webp" alt="">
                                                 <h3>Natesan S</h3>
                                                 <span>VP - Finance & Operations</span>
@@ -287,7 +286,7 @@
                                         </div>
                                         <div class="item">
                                             <div class="team-card">
-                                                <a href=""><i class="fab fa-linkedin"></i></a>
+                                                <a href="https://www.linkedin.com/in/asjj25280208/" target="_blank"><i class="fab fa-linkedin"></i></a>
                                                 <img loading="lazy" src="./assets/common/anil-george.webp" alt="">
                                                 <h3>Anil George Punnoose</h3>
                                                 <span>Director-Sales</span>
@@ -295,7 +294,7 @@
                                         </div>
                                         <div class="item">
                                             <div class="team-card">
-                                                <a href=""><i class="fab fa-linkedin"></i></a>
+                                                <a href="https://www.linkedin.com/in/madhusudhan-vc-586672122/" target="_blank"><i class="fab fa-linkedin"></i></a>
                                                 <img loading="lazy" src="./assets/common/vcm.webp" alt="">
                                                 <h3>Madhusudhan V. C</h3>
                                                 <span>AVP - Customer Achievement</span>
@@ -303,7 +302,7 @@
                                         </div>
                                         <div class="item">
                                             <div class="team-card">
-                                                <a href=""><i class="fab fa-linkedin"></i></a>
+                                                <a href="https://www.linkedin.com/in/santosh-n-ba6291212/" target="_blank"><i class="fab fa-linkedin"></i></a>
                                                 <img loading="lazy" src="./assets/common/santhosh.webp" alt="">
                                                 <h3> Santosh N</h3>
                                                 <span>AVP - Project Controller</span>
@@ -312,7 +311,7 @@
 
                                         <div class="item">
                                             <div class="team-card">
-                                                <a href=""><i class="fab fa-linkedin"></i></a>
+                                                <a href="https://www.linkedin.com/in/pandian-retech-parasuraman-a5433463/" target="_blank"><i class="fab fa-linkedin"></i></a>
                                                 <img loading="lazy" src="./assets/common/pandian.webp" alt="">
                                                 <h3>Pandian P</h3>
                                                 <span>Support Controller-Projects</span>
@@ -320,7 +319,7 @@
                                         </div>
                                         <div class="item">
                                             <div class="team-card">
-                                                <a href=""><i class="fab fa-linkedin"></i></a>
+                                                <a href="https://www.linkedin.com/in/sachin-aathreya-1209aa73/" target="_blank"><i class="fab fa-linkedin"></i></a>
                                                 <img loading="lazy" src="./assets/common/sachin.webp" alt="">
                                                 <h3>Sachin Aathreya</h3>
                                                 <span>Lead- Online Community</span>
@@ -348,7 +347,7 @@
                     <div class="row justify-content-center mb-3">
                         <div class="col-md-10 text-md-center">
                             <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-3s">Our
-                                Affiliations</h2>
+                                affiliations</h2>
                             <p class=" wow animate__animated animate__fadeInUp animate__delay-5s">Memberships in the
                                 world's leading alliances and trade associations aren't just a
                                 recognition of the commitment and expertise that we bring to every project; they also
@@ -358,7 +357,7 @@
                     </div>
                     <div class="row justify-content-center g-5">
                         <div class="col-md-6">
-                            <a href="https://psni.org/">
+                            <a href="https://psni.org/" target="_blank">
                                 <div class="affiliation-card wow animate__animated animate__fadeInUp animate__delay-3s">
                                     <img loading="lazy" src="./assets/logos/psni.webp" alt="">
                                     <p>PSNI is the first and foremost worldwide alliance of audiovisual and UCC experts.
@@ -370,7 +369,7 @@
                             </a>
                         </div>
                         <div class="col-md-6">
-                            <a href="https://www.avixa.org/">
+                            <a href="https://www.avixa.org/" target="_blank">
                                 <div
                                     class="affiliation-card avixa wow animate__animated animate__fadeInUp animate__delay-5s">
                                     <img loading="lazy" src="./assets/logos/avixa.webp" alt="">
@@ -394,7 +393,7 @@
                     <div class="row justify-content-around text-md-center">
                         <div class="col-md-10">
                             <h2 class="section-title wow animate__animated animate__fadeInUp animate__delay-3s">Our
-                                Partners</h2>
+                                partners</h2>
                             <p class=" wow animate__animated animate__fadeInUp animate__delay-5s">Our long-standing
                                 partnerships with the world's leading original equipment manufacturers
                                 (OEMs) enable us to integrate the latest technology into our offerings and consistently
