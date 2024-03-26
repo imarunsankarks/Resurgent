@@ -296,9 +296,8 @@ $(window).scroll(function () {
 
 // ----------------------------------preloader---------------------------------
 
-let hasRun = false
-
 function startLoader() {
+
   let counterElement = document.querySelector(".preloader-counter");
   let currentValue = 0;
 
@@ -343,7 +342,26 @@ function startLoader() {
   }, 3000);
 }
 
-if (hasRun === false) {
+
+
+if (!sessionStorage.getItem('homepageFunctionExecuted')) {
+  document.querySelector(".preloader").classList.remove("d-none");
+
+  // Create the elements
+  const preloaderCounter = document.createElement('p');
+  preloaderCounter.classList.add('preloader-counter');
+  preloaderCounter.textContent = '0';
+
+
+  // Append elements to the preloader container
+  const preloaderContainer = document.querySelector('.preloader');
+  if (preloaderContainer) {
+    preloaderContainer.appendChild(preloaderCounter);
+  } else {
+    console.error("Element with class 'preloader' not found.");
+  }
+
+
   startLoader();
-  hasRun = true;
-}
+  sessionStorage.setItem('homepageFunctionExecuted', true);
+} 

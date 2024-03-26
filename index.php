@@ -30,7 +30,7 @@
 
 <body>
 
-    <div class="preloader">
+    <!-- <div class="preloader">
         <p class="preloader-counter">0</p>
         <div class="preloader-overlay">
             <div class="bar"></div>
@@ -43,7 +43,20 @@
             <div class="bar"></div>
             <div class="bar"></div>
             <div class="bar"></div>
-
+        </div>
+    </div> -->
+    <div class="preloader d-none">
+        <div class="preloader-overlay">
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
         </div>
     </div>
 
