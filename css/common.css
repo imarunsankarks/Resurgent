@@ -66,7 +66,8 @@
   position: absolute;
   width: 450px;
   height: 450px;
-  background: #2f4d6f;
+  /* background: #2f4d6f; */
+  background: var(--theme-blue);
   background-size: cover;
   border-radius: 50%;
   left: -15%;
@@ -83,7 +84,8 @@
   position: absolute;
   width: 550px;
   height: 550px;
-  background: #7399C2;
+  /* background: #7399C2; */
+  background: var(--theme-sblue);
   background-size: cover;
   -webkit-animation: move 10s ease infinite alternate;
   animation: move 10s ease infinite alternate;

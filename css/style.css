@@ -93,7 +93,7 @@ h6 {
   font-size: 28px;
   font-weight: 600;
   color: var(--theme-blue);
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 
 .sec-padding {
@@ -445,7 +445,7 @@ h6 {
   position: relative;
 }
 
-.fourth-carousel .owl-stage-outer .owl-item .item.bg-1::before {
+.fourth-carousel .owl-stage-outer .owl-item .item.bg-0::before {
   content: "";
   position: absolute;
   top: 0;
@@ -454,6 +454,21 @@ h6 {
   bottom: 0;
   background: url(../assets/home/resurgent-banner-3.webp);
   background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: brightness(0.8);
+  z-index: -1;
+}
+
+.fourth-carousel .owl-stage-outer .owl-item .item.bg-1::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url(../assets/home/resurgent-banner.webp);
+  background-position: 20%;
   background-repeat: no-repeat;
   background-size: cover;
   filter: brightness(0.8);
@@ -1479,6 +1494,11 @@ footer .lets-talk .text p {
   text-transform: uppercase;
   font-weight: 800;
   font-size: 80px;
+}
+
+footer .lets-talk .text p:nth-child(6){
+  /* color: red; */
+  opacity: 0;
 }
 
 .t-c {

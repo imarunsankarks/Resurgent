@@ -102,14 +102,7 @@
                                         <p>Move with your customer proactively from screen to screen.</p>
                                     </div>
                                 </div>
-                                <div class="each-feature-det f-2">
-                                    <span>02</span>
-                                    <div class="content">
-                                        <h3>Second feature</h3>
-                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, itaque! Harum,
-                                            molestias.</p>
-                                    </div>
-                                </div>
+                               
                             </div>
                         </div>
                     </div>
@@ -221,12 +214,12 @@
 
                         <div class="col-md-4 wow animate__animated animate__fadeInUp animate__six">
                             <div class="why-card">
-                                <h3>Advanced</h3>
+                                <h3>Help</h3>
                                 <div class="d-flex align-items-center mb-2">
                                     <span class="why-card-line"></span>
-                                    <h3 class="why-second-head mb-0">protection</h3>
+                                    <h3 class="why-second-head mb-0">as a service</h3>
                                 </div>
-                                <p>Surge+ shields devices from power surges, spikes, and electrical fluctuations, ensuring reliable performance and longevity.
+                                <p>Customers simply need to scan a QR code on their device, and they can choose from a range of options to help them solve their issues.
                                 </p>
                             </div>
                         </div>

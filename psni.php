@@ -50,7 +50,7 @@
                                             thanks to the
                                             high level of ongoing education, industry insight, benchmarking, and
                                             certifications that PSNI adds to each expert's capabilities. </p>
-                                        <a href="contact.php" target="_blank" aria-label="Know about the company">
+                                        <a href="https://psni.org/" target="_blank" aria-label="Know about the company">
                                             <div class="banner-button1 button-hover1 cta-btn">
                                                 <div class="circle-large"></div>
                                                 <button>About PSNI</button>
@@ -95,7 +95,7 @@
                                     <div class="product-img">
                                         <div class="video-psni">
                                             <video autoplay muted loop class="z-9">
-                                                <source src="./assets/psni/Corporate-1.m4v" type="video/mp4">
+                                                <source src="./assets/psni/psni.m4v" type="video/mp4">
                                             </video>
                                             <div class="video-circle"></div>
                                         </div>

@@ -65,7 +65,7 @@
                                         <div class="first-card">
                                             <div class="first-img">
                                                 <img loading="lazy"
-                                                    src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/hero-still.jpg"
+                                                    src="./assets/brands/cisco/banner.avif"
                                                     alt="">
                                             </div>
                                             <div class="second-img">
@@ -190,22 +190,22 @@
                                 <div class="device-photos">
                                     <div class="device-photo">
                                         <img loading="lazy"
-                                            src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-room-bar.jpg"
+                                            src="./assets/brands/cisco/cisco-room-bar.avif"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
                                         <img loading="lazy"
-                                            src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-desk-pro.jpg"
+                                            src="./assets/brands/cisco/cisco-room-bar-pro.avif"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
                                         <img loading="lazy"
-                                            src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/Room-Kit-EQ-MTR-View.jpg"
+                                            src="./assets/brands/cisco/Room-Kit-EQ-MTR-View.avif"
                                             class="img-fluid" alt="">
                                     </div>
                                     <div class="device-photo">
                                         <img loading="lazy"
-                                            src="https://www.webex.com/content/dam/wbx/us/images/rebrand/microsoft-teams/cisco-board-pro.jpg"
+                                            src="./assets/brands/cisco/cisco-board-pro.avif"
                                             class="img-fluid" alt="">
                                     </div>
 

@@ -77,6 +77,9 @@
                         <div class="row text-center justify-content-center">
                             <div class="col-lg-12">
                                 <div class="owl-carousel fourth-carousel owl-theme">
+                                    <div class="item bg-0">
+                                        
+                                    </div>
                                     <div class="item bg-1">
                                         <p class="top-head">Integrated</p>
                                         <p class="main-title mb-0">Audio Visual Solutions</p>
@@ -147,7 +150,7 @@
                                                 <div
                                                     class="number-box counter-box animate__animated animate__fadeInLeft animate__delay-0.3s  wow">
                                                     <div class="d-flex align-items-center">
-                                                        <div class="counter numbers" data-count="120">0
+                                                        <div class="counter numbers" data-count="500">0
                                                         </div>
                                                         <h6>+</h6>
                                                     </div>
@@ -158,7 +161,7 @@
                                                 <div
                                                     class="number-box counter-box animate__animated animate__fadeInLeft animate__delay-0.2s  wow">
                                                     <div class="d-flex align-items-center">
-                                                        <div class="counter" data-count="883">0
+                                                        <div class="counter" data-count="900">0
                                                         </div>
                                                         <h6>+</h6>
                                                     </div>
@@ -235,12 +238,12 @@
                             <div class="row py-4 g-lg-0 g-4 align-items-center sectors-head">
                                 <div class="col-lg-6 br-1">
                                     <h2
-                                        class="mb-0 section-title wow animate__animated animate__fadeInUp animate__delay-5s ">
+                                        class="mb-0 section-title ">
                                         Audio-Visual
                                         solutions<br> for diverse sectors </h2>
                                 </div>
                                 <div class="col-lg-6">
-                                    <p class="ps-lg-5 mb-0 wow animate__animated animate__fadeInUp animate__delay-5s">
+                                    <p class="ps-lg-5 mb-0">
                                         From businesses to schools and retail
                                         outlets to hospitals, our
                                         audiovisual solutions can be customised to meet the specific

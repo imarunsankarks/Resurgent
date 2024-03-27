@@ -53,7 +53,7 @@
                         <div class="col-md-7">
 
                             <div class="banner-shape">
-                                <img loading="lazy" src="./assets/home/micro.webp" alt="">
+                                <img loading="lazy" src="./assets/common/about.webp" alt="">
                                 <div class="circle-1 wow animate__animated animate__zoomIn animate__two"></div>
 
                                 <div class="circle-2 wow animate__animated animate__zoomIn animate__three"></div>
@@ -97,7 +97,7 @@
 
                                     <div class="why-details wow animate__animated animate__fadeInUp animate__delay-3s">
                                         <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
-                                            Established in 2008</h3>
+                                            Established in <span>2008</span></h3>
                                         <p class=" animate__animated animate__fadeInUp wow">
                                             B. Mahadevan and S. Sanjeev
                                             decide it's time to make
@@ -110,7 +110,7 @@
 
                                     <div class="why-details wow animate__animated animate__fadeInUp animate__delay-3s">
                                         <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
-                                            2009: Expansion to New Heights</h3>
+                                            <span>2009: </span>Expansion to new heights</h3>
                                         <p class=" animate__animated animate__fadeInUp wow">
                                             Resurgent reaches the sky and
                                             starts aiming for something
@@ -122,7 +122,7 @@
 
                                     <div class="why-details wow animate__animated animate__fadeInUp animate__delay-3s">
                                         <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
-                                            2010: <i>'Vanakkam'</i> Chennai</h3>
+                                        <span>2010: </span><i>'Vanakkam'</i> Chennai</h3>
                                         <p class=" animate__animated animate__fadeInUp wow">
                                             The team begins to aim
                                             for the sky and open a
@@ -133,7 +133,7 @@
 
                                     <div class="why-details wow animate__animated animate__fadeInUp animate__delay-3s">
                                         <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
-                                            2011: <i>'Swagat'</i> Mumbai</h3>
+                                        <span>2011: </span><i>'Swagat'</i> Mumbai</h3>
                                         <p class=" animate__animated animate__fadeInUp wow">
                                             The dream becomes
                                             bigger and continues to
@@ -145,7 +145,7 @@
 
                                     <div class="why-details wow animate__animated animate__fadeInUp animate__delay-3s">
                                         <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
-                                            2017: Millennial glory</h3>
+                                        <span>2017: </span>Millennial glory</h3>
                                         <p class=" animate__animated animate__fadeInUp wow">
                                             Celebrations begin as
                                             the company's 1000 th
@@ -156,7 +156,7 @@
 
                                     <div class="why-details wow animate__animated animate__fadeInUp animate__delay-3s">
                                         <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
-                                            2017: Century Mark Achievement</h3>
+                                        <span>2017: </span>Century mark achievement</h3>
                                         <p class=" animate__animated animate__fadeInUp wow">
                                             The celebrations don't
                                             stop. Resurgent's 100
@@ -167,7 +167,7 @@
 
                                     <div class="why-details wow animate__animated animate__fadeInUp animate__delay-3s">
                                         <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
-                                            2018: Rebranding and Expansion</h3>
+                                        <span>2018: </span>Rebranding and expansion</h3>
                                         <p class=" animate__animated animate__fadeInUp wow">
                                             Resurgent undergoes a rebranding
                                             to stay abreast with the young
@@ -175,6 +175,30 @@
                                             transformation in the industry.
                                             Expands to new, upcoming cities
                                             like Pune, Ahmedabad, and Kolkata
+                                        </p>
+                                    </div>
+
+                                    <div class="why-details wow animate__animated animate__fadeInUp animate__delay-3s">
+                                        <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
+                                        <span>2019: </span>India's first PSNI member</h3>
+                                        <p class=" animate__animated animate__fadeInUp wow">
+                                            Resurgent gets added to an elite group of AV integrator where we can deploy AV solutions without borders.
+                                        </p>
+                                    </div>
+
+                                    <div class="why-details wow animate__animated animate__fadeInUp animate__delay-3s">
+                                        <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
+                                        <span>2021: </span>Resurgent's space got bigger</h3>
+                                        <p class=" animate__animated animate__fadeInUp wow">
+                                            Resurgent moves into a brand new HO at Bengaluru to accomodate its growing potential. 
+                                        </p>
+                                    </div>
+
+                                    <div class="why-details wow animate__animated animate__fadeInUp animate__delay-3s">
+                                        <h3 class="section-sub-heading animate__animated animate__fadeInUp wow">
+                                        <span>2023: </span>Awards and recognitions</h3>
+                                        <p class=" animate__animated animate__fadeInUp wow">
+                                            Resurgent received accolades from its clients and partners for our commitment to execute projects with technical expertise and reliability
                                         </p>
                                     </div>
 
@@ -327,7 +351,7 @@
                                         </div>
                                         <div class="item">
                                             <div class="team-card">
-                                                <a href=""><i class="fab fa-linkedin"></i></a>
+                                                <!-- <a href=""><i class="fab fa-linkedin"></i></a> -->
                                                 <img loading="lazy" src="./assets/common/sandhya.webp" alt="">
                                                 <h3>Sandhya G</h3>
                                                 <span>Specialist- Vendor Partner Development</span>

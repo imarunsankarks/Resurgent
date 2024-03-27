@@ -296,8 +296,7 @@
                                         <div class="other-cards">
                                             <img loading="lazy" src="./assets/products/pads4/pads4-f2.png" alt="">
                                             <div class="content">
-                                                <p>With PanaCast 50 you don't have to be in the room to be at
-                                                    the heart of the meeting.</p>
+                                                <p>Display the list of seminars with the company logo, the name of the room, or any other information and an automatic arrow system to guide participants.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -309,10 +308,7 @@
                                         <div class="other-cards">
                                             <img loading="lazy" src="./assets/products/pads4/pads4-f4.png" alt="">
                                             <div class="content">
-                                                <p>Easily create, share and update information on all your
-                                                    screens and make use of hundreds of sources from third
-                                                    parties to integrate real-time data such as weather, travel
-                                                    information, social media or infotainment.</p>
+                                                <p>Show actual flight information when entering the terminal and direct passengers to their check-in destination with advertising or safety messages.</p>
                                             </div>
                                         </div>
                                     </div>

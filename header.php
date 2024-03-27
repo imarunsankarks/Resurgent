@@ -157,7 +157,7 @@
                                         <li class="work_sub_item sub_item">
                                             <div class="content">
                                                 <a href="microsoft-team-rooms.php" aria-label="Cisco">
-                                                    Microsoft Team Rooms
+                                                    Microsoft Teams Rooms
                                                 </a>
                                             </div>
                                         </li>

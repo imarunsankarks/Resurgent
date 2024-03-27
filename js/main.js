@@ -124,7 +124,7 @@ for (let i = 0; i <= myWord.length; i++) {
 
 	charSpan.textContent = myWord[i];
 	if (i === 5) {
-		charSpan.textContent = ' ';
+		charSpan.textContent = '.';
 	} else {
 		charSpan.textContent = myWord[i];
 	}

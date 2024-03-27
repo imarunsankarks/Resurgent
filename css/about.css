@@ -63,6 +63,12 @@
   position: relative;
 }
 
+.why-details .section-sub-heading span{
+  font-weight: 600;
+  color: var(--theme-sblue);
+  font-family: "Sora", sans-serif;
+}
+
 .why-details .section-sub-heading::before {
   content: "";
   position: absolute;

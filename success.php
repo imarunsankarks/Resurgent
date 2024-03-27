@@ -34,6 +34,33 @@
 
     <!-- header will be here  -->
     <?php include('header.php') ?>
+    <div class="modal fade modal-form" id="exampleModalCenter" tabindex="-1" role="dialog"
+        aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="section-sub-heading" id="exampleModalLongTitle">Complete the form for case study</h5>
+
+                </div>
+                <div class="modal-body">
+                    <form id="pdfForm" onsubmit="return false;">
+                        <input type="text" id="name" name="name" placeholder="Your Name"><br><br>
+                        <input type="email" id="email" name="email" placeholder="Mail id"><br><br>
+                        <input type="number" id="phone" name="phone" placeholder="Mobile number"><br><br>
+                        <label for="caseStudy">Choose case study:</label>
+                        <select id="caseStudy" name="caseStudy">
+                            <option value="caseStudy1">Azim Premji University</option>
+                            <option value="caseStudy2">WPP</option>
+                        </select><br><br>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn button-close" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn download-button" onclick="downloadPDF()">Download PDF</button>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="viewport">
         <main id="main">
@@ -43,12 +70,12 @@
                     <div class="row position-relative justify-content-center align-items-center">
                         <div class="col-md-5">
                             <div class="common-banner-text p-0">
-                            <h1 class="common-banner-title wow animate__animated animate__flipInX animate__one">
+                                <h1 class="common-banner-title wow animate__animated animate__flipInX animate__one">
                                     Success</h1>
                                 <h1 class="common-banner-title wow animate__animated animate__flipInX animate__one">
                                     Stories</h1>
-                                <h2 class="common-banner-sub wow animate__animated animate__fadeInUp animate__two">
-                                    We aren't just a company,<br> we're a community</h2>
+                                <!-- <h2 class="common-banner-sub wow animate__animated animate__fadeInUp animate__two">
+                                    We aren't just a company,<br> we're a community</h2> -->
                             </div>
 
                         </div>
@@ -78,34 +105,39 @@
                             <h2 class="mb-0 section-title">Explore our<br> success stories </h2>
                         </div>
                         <div class="col-md-6">
-                            <p class="ps-md-5 mb-0">From businesses to schools and retail
-                                outlets to hospitals, our
-                                audiovisual solutions can be customised to meet the specific
-                                requirements of
-                                different industries.</p>
+                            <p class="ps-md-5 mb-0">Explore our success stories, featuring a range of AV integration projects and the impactful outcomes they've achieved, providing insights into our expertise and capabilities.</p>
                         </div>
 
                     </div>
                     <div class="row align-items-center g-5">
                         <div class="col-md-6">
                             <div class="stories-card">
-                                <img loading="lazy" src="./assets/home/banner.webp" alt="">
+                                <img loading="lazy" src="./assets/success/azim.webp" alt="">
                                 <div class="content">
                                     <h3>Azim Premji University</h3>
                                     <p>Azim Premji University was a unique AV project for Resurgent. With 67 classrooms,
                                         2 Seminar Halls with 250-seater capacity......</p>
-                                    <a href="">Read more &nbsp; <i class="fas fa-arrow-right"></i></a>
+                                    <button type="button" class="btn btn-primary form-btn" data-toggle="modal"
+                                        data-target="#exampleModalCenter">
+                                        Get full article &nbsp; <i class="fas fa-arrow-right"></i>
+                                    </button>
+
+
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="stories-card">
-                                <img loading="lazy" src="./assets/home/banner.webp" alt="">
+                                <img loading="lazy" src="./assets/success/wpp.webp" alt="">
                                 <div class="content">
-                                    <h3>Azim Premji University</h3>
-                                    <p>Azim Premji University was a unique AV project for Resurgent. With 67 classrooms,
-                                        2 Seminar Halls with 250-seater capacity......</p>
-                                    <a href="">Read more &nbsp; <i class="fas fa-arrow-right"></i></a>
+                                    <h3>WPP</h3>
+                                    <p>For Resurgent, WPP Mumbai was a unique and high visibility project implemented
+                                        which catered to
+                                        ......</p>
+                                    <button type="button" class="btn btn-primary form-btn" data-toggle="modal"
+                                        data-target="#exampleModalCenter">
+                                        Get full article &nbsp; <i class="fas fa-arrow-right"></i>
+                                    </button>
                                 </div>
                             </div>
                         </div>
@@ -147,6 +179,69 @@
 
     <script>
     new WOW().init();
+    </script>
+
+    <script>
+    const formButtons = document.querySelectorAll('.form-btn');
+    const formModal = document.querySelector('.modal-form');
+    const formClose = document.querySelector('.button-close');
+
+
+    formButtons.forEach(function(button) {
+        button.addEventListener('click', function() {
+            formModal.classList.add('show', 'd-block');
+        });
+    });
+    formClose.addEventListener('click', function() {
+        formModal.classList.remove('show', 'd-block');
+    });
+    </script>
+    <script>
+    function isValidEmail(email) {
+        var emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        return emailRegex.test(email);
+    }
+
+    function isValidPhoneNumber(phoneNumber) {
+        var phoneRegex = /^\d{10}$/;
+        return phoneRegex.test(phoneNumber);
+    }
+
+    function downloadPDF() {
+        var caseStudy = document.getElementById('caseStudy').value;
+
+        var name = document.getElementById('name').value;
+        var email = document.getElementById('email').value;
+        var phone = document.getElementById('phone').value;
+
+
+        if (name.trim() === '' || email.trim() === '' || phone.trim() === '') {
+            alert('Please fill in all fields.');
+            return false;
+        }
+        if (!isValidEmail(email)) {
+            alert('Please enter a valid email address.');
+            return false;
+        }
+
+        if (!isValidPhoneNumber(phone)) {
+            alert('Please enter a valid phone number (10 digits only).');
+            return false;
+        }
+
+        var pdfUrls = {
+            'caseStudy1': './assets/success/APU-case-study.pdf',
+            'caseStudy2': './assets/success/WPP-case-study.pdf'
+        };
+
+        var pdfUrl = pdfUrls[caseStudy];
+        if (pdfUrl) {
+            window.open(pdfUrl, '_blank');
+        } else {
+            alert('Invalid case study selection.');
+        }
+
+    }
     </script>
 
 

@@ -285,25 +285,6 @@
 
             </section>
 
-            <section class="sec-padding d-none">
-                <div class="container">
-                    <div class="brand-cta">
-                        <div class="row align-items-center">
-                            <div class="col-6">
-                                <div class="brand-btn z-9">
-                                    <button>Connect Us</button>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <h2 class="brand-cta-title z-9">Lorem ipsum</h2>
-                                <p>Pioneering The Future In Integrated Audiovisual Communication</p>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-
-            </section>
 
             <!-- ---------------------------------------footer------------------------------- -->
             <?php include 'footer.php' ?>

@@ -54,24 +54,8 @@
                             </div>
                         </div>
                         <!-- ---------------------blog-content------------------- -->
-                        <div class="row gx-5">
-                            <div class="col-4">
-                                <div class="blog-attributes">
-                                    <h4>Tags</h4>
-                                    <ul class="tags">
-                                        <li>AI</li>
-                                        <li>Cybersecurity</li>
-                                        <li>Data Protection</li>
-                                        <li>VR & AR</li>
-                                        <li>IoT Security</li>
-                                        <li>Cloud Security</li>
-                                        <li>DevOps</li>
-                                        <li>IT Consulting Services</li>
-                                        <li>Security Architecture</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-8">
+                        <div class="row gx-5 justify-content-center">
+                            <div class="col-md-8">
                                 <div class="blog-full-content">
                                     <p>In 2024, it's much easier for companies to seek global opportunities beyond their
                                         native country. With the focus on remote working, global enterprises can now
@@ -121,6 +105,24 @@
                                         time zones. However, in reality, meeting rooms across integrators may provide a
                                         different experience to global users, along with varying customer support and a
                                         general lack of understanding of the organization's communication needs.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                        <div class="col-4">
+                                <div class="blog-attributes">
+                                    <h4>Tags</h4>
+                                    <ul class="tags">
+                                        <li>AI</li>
+                                        <li>Cybersecurity</li>
+                                        <li>Data Protection</li>
+                                        <li>VR & AR</li>
+                                        <li>IoT Security</li>
+                                        <li>Cloud Security</li>
+                                        <li>DevOps</li>
+                                        <li>IT Consulting Services</li>
+                                        <li>Security Architecture</li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
