@@ -380,16 +380,20 @@
                         <div class="col-md-10 text-md-center">
                             <h2 class="section-title wow animate__animated animate__fadeInUp animate__two">Related
                                 products</h2>
-                            <p class="wow animate__animated animate__fadeInUp animate__two">Explore our curated selection of educational products designed to enhance learning experiences, foster collaboration, and optimize productivity in academic environments. Discover seamless integration and innovative solutions for educators and students alike.</p>
+                            <p class="wow animate__animated animate__fadeInUp animate__two">Explore our curated
+                                selection of educational products designed to enhance learning experiences, foster
+                                collaboration, and optimize productivity in academic environments. Discover seamless
+                                integration and innovative solutions for educators and students alike.</p>
                         </div>
                         <div class="col-12 mt-4">
                             <div class="row g-5">
                                 <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__one">
                                     <div class="related-product-card">
-                                        <img loading="lazy" src="./assets/products/zoom-rooms/zoom-room.webp" alt=""
+                                        <img loading="lazy"
+                                            src="./assets/products/ms-surface-hub/microsoft-surface-hub-1.webp" alt=""
                                             class="w-100">
-                                        <p>Zoom Rooms</p>
-                                        <a href="zoom-rooms.php"><i class="fas fa-arrow-right"></i></a>
+                                        <p>Microsoft Surface Hub 2S</p>
+                                        <a href="microsoft-surface-hub-2s.php"><i class="fas fa-arrow-right"></i></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-4 col-md-6 wow animate__animated animate__fadeInUp animate__two">

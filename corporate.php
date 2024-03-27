@@ -985,7 +985,7 @@
                                                                     lighting control solutions can be adapted to the
                                                                     purpose for which a space is being used; this
                                                                     includes presentation mode, video conferencing mode,
-                                                                    dimming and ‘on-off’ modes during boardroom meetings
+                                                                    dimming and 'on-off' modes during boardroom meetings
                                                                     and conferences.
                                                                     <ul>
                                                                         <li>Lighting controllers</li>

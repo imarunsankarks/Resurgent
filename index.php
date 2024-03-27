@@ -78,7 +78,7 @@
                             <div class="col-lg-12">
                                 <div class="owl-carousel fourth-carousel owl-theme">
                                     <div class="item bg-0">
-                                        
+
                                     </div>
                                     <div class="item bg-1">
                                         <p class="top-head">Integrated</p>
@@ -237,8 +237,7 @@
                         <div class="container">
                             <div class="row py-4 g-lg-0 g-4 align-items-center sectors-head">
                                 <div class="col-lg-6 br-1">
-                                    <h2
-                                        class="mb-0 section-title ">
+                                    <h2 class="mb-0 section-title ">
                                         Audio-Visual
                                         solutions<br> for diverse sectors </h2>
                                 </div>
@@ -344,6 +343,7 @@
                                                 </picture>
                                                 <a href="corporate.php" class="page-nav">view &nbsp;<i
                                                         class="far fa-arrow-right"></i></a>
+                                                <h3 class="section-sub-heading sector-mob-head">Corporate</h3>
 
 
 
@@ -364,6 +364,8 @@
                                             </picture>
                                             <a href="education.php" class="page-nav">view &nbsp;<i
                                                     class="far fa-arrow-right"></i></a>
+                                            <h3 class="section-sub-heading sector-mob-head">Education</h3>
+
                                         </div>
                                         <div class="sticky-image three">
                                             <picture>
@@ -379,6 +381,8 @@
                                             </picture>
                                             <a href="healthcare.php" class="page-nav">view &nbsp;<i
                                                     class="far fa-arrow-right"></i></a>
+                                            <h3 class="section-sub-heading sector-mob-head">Healthcare</h3>
+
                                         </div>
                                         <div class="sticky-image four">
                                             <picture>
@@ -394,6 +398,8 @@
                                             </picture>
                                             <a href="public-sector.php" class="page-nav">view &nbsp;<i
                                                     class="far fa-arrow-right"></i></a>
+                                            <h3 class="section-sub-heading sector-mob-head">Public Sector</h3>
+
 
                                         </div>
                                         <div class="sticky-image five">
@@ -410,6 +416,8 @@
                                             </picture>
                                             <a href="retail.php" class="page-nav">view &nbsp;<i
                                                     class="far fa-arrow-right"></i></a>
+                                            <h3 class="section-sub-heading sector-mob-head">Retail</h3>
+
 
                                         </div>
                                         <div class="sticky-image six" style=" transition: .4s all;">
@@ -426,6 +434,8 @@
                                             </picture>
                                             <a href="residential.php" class="page-nav">view &nbsp;<i
                                                     class="far fa-arrow-right"></i></a>
+                                            <h3 class="section-sub-heading sector-mob-head">Residential</h3>
+
 
                                         </div>
 
