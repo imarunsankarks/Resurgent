@@ -109,7 +109,7 @@
                             </div>
                         </div>
                         <div class="row">
-                        <div class="col-4">
+                        <div class="col-md-4">
                                 <div class="blog-attributes">
                                     <h4>Tags</h4>
                                     <ul class="tags">
@@ -146,9 +146,9 @@
                         </div>
 
                     </div> -->
-                    <div class="row align-items-center gx-5">
+                    <div class="row align-items-center gx-5 gy-4 gy-lg-0">
                         <h2 class="section-title">Related blogs</h2>
-                        <div class="col-lg-4 col-md-6">
+                        <div class="col-lg-4 col-md-6 ">
                             <div class="blogs-card">
                                 <div class="date">January 03, 2024</div>
                                 <img loading="lazy" src="./assets/home/corporate.jpg" alt="">

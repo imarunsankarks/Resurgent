@@ -1322,4 +1322,20 @@
   font-weight: 600;
 
 }
+#blog-details .blog-main-img img {
+  border-radius: 0px;
+  object-position: 10% 20%;
+}
+#blog-details .blog-main-img::before {
+  border-radius: 0px;
+}
+#blog-details .blog-main-img .blogs-title {
+  position: absolute;
+  bottom: 30px;
+  left: 30px;
+  margin-bottom: 0;
+  color: #ffffff;
+  font-weight: 800;
+  width: unset;
+}
 }
